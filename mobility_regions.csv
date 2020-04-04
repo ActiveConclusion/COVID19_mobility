@@ -1,0 +1,962 @@
+Date,Country,Region,Retail & recreation,Grocery & pharmacy,Parks,Transit stations,Workplaces,Residential
+2020-03-29,United Arab Emirates,Total,-55.0,-26.0,-53.0,-69.0,-45.0,26.0
+2020-03-29,Afghanistan,Total,-38.0,-21.0,-13.0,-34.0,-33.0,10.0
+2020-03-29,Antigua and Barbuda,Total,-46.0,-21.0,-30.0,-67.0,-48.0,
+2020-03-29,Angola,Total,-61.0,-40.0,-39.0,-57.0,-11.0,22.0
+2020-03-29,Argentina,Total,-86.0,-61.0,-89.0,-80.0,-57.0,27.0
+2020-03-29,Argentina,Buenos Aires,-90.0,-48.0,-91.0,-82.0,-69.0,31.0
+2020-03-29,Argentina,Buenos Aires Province,-88.0,-60.0,-91.0,-79.0,-60.0,26.0
+2020-03-29,Argentina,Catamarca Province,-71.0,-46.0,-78.0,-81.0,-35.0,29.0
+2020-03-29,Argentina,Chaco Province,-79.0,-63.0,-83.0,-92.0,-48.0,24.0
+2020-03-29,Argentina,Chubut Province,-92.0,-91.0,-94.0,-93.0,-62.0,28.0
+2020-03-29,Argentina,Cordoba,-88.0,-66.0,-90.0,-91.0,-57.0,30.0
+2020-03-29,Argentina,Corrientes,-80.0,-63.0,-88.0,-89.0,-47.0,25.0
+2020-03-29,Argentina,Entre Rios,-87.0,-65.0,-93.0,-90.0,-54.0,29.0
+2020-03-29,Argentina,Formosa Province,-76.0,-53.0,-82.0,-71.0,-37.0,21.0
+2020-03-29,Argentina,Jujuy,-80.0,-55.0,-83.0,-92.0,-44.0,27.0
+2020-03-29,Argentina,La Pampa,-88.0,-72.0,-88.0,-87.0,-56.0,28.0
+2020-03-29,Argentina,La Rioja Province,-70.0,-46.0,-84.0,-86.0,-40.0,26.0
+2020-03-29,Argentina,Mendoza Province,-81.0,-56.0,-84.0,-72.0,-49.0,29.0
+2020-03-29,Argentina,Misiones Province,-83.0,-66.0,-85.0,-92.0,-51.0,27.0
+2020-03-29,Argentina,Neuquen,-96.0,-95.0,-95.0,-92.0,-72.0,33.0
+2020-03-29,Argentina,Río Negro,-90.0,-72.0,-92.0,-96.0,-55.0,29.0
+2020-03-29,Argentina,Salta Province,-82.0,-55.0,-84.0,-76.0,-47.0,26.0
+2020-03-29,Argentina,San Juan Province,-76.0,-50.0,-80.0,-87.0,-46.0,28.0
+2020-03-29,Argentina,San Luis Province,-85.0,-60.0,-89.0,-91.0,-56.0,29.0
+2020-03-29,Argentina,Santa Cruz Province,-83.0,-62.0,-88.0,-91.0,-56.0,24.0
+2020-03-29,Argentina,Santa Fe Province,-87.0,-63.0,-89.0,-77.0,-57.0,29.0
+2020-03-29,Argentina,Santiago del Estero Province,-75.0,-49.0,-75.0,-90.0,-46.0,25.0
+2020-03-29,Argentina,Tierra del Fuego Province,-87.0,-63.0,-89.0,-92.0,-59.0,24.0
+2020-03-29,Argentina,Tucumán,-81.0,-53.0,-78.0,-90.0,-51.0,28.0
+2020-03-29,Austria,Total,-87.0,-64.0,-43.0,-71.0,-51.0,14.0
+2020-03-29,Austria,Burgenland,-83.0,-36.0,19.0,-43.0,-49.0,16.0
+2020-03-29,Austria,Carinthia,-85.0,-62.0,-45.0,-59.0,-48.0,13.0
+2020-03-29,Austria,Lower Austria,-82.0,-36.0,8.0,-74.0,-45.0,13.0
+2020-03-29,Austria,Salzburg,-93.0,-86.0,-73.0,-81.0,-59.0,15.0
+2020-03-29,Austria,Styria,-86.0,-61.0,-42.0,-71.0,-47.0,13.0
+2020-03-29,Austria,Tyrol,-95.0,-86.0,-82.0,-85.0,-65.0,16.0
+2020-03-29,Austria,Upper Austria,-86.0,-44.0,-19.0,-67.0,-47.0,13.0
+2020-03-29,Austria,Vienna,-85.0,-52.0,-44.0,-71.0,-52.0,15.0
+2020-03-29,Austria,Vorarlberg,-90.0,-70.0,-68.0,-79.0,-54.0,14.0
+2020-03-29,Australia,Total,-45.0,-19.0,-35.0,-58.0,-33.0,13.0
+2020-03-29,Australia,Australian Capital Territory,-40.0,-3.0,38.0,-52.0,-31.0,11.0
+2020-03-29,Australia,New South Wales,-44.0,-13.0,-27.0,-57.0,-35.0,14.0
+2020-03-29,Australia,Northern Territory,-35.0,-13.0,-20.0,-55.0,-23.0,12.0
+2020-03-29,Australia,Queensland,-40.0,-19.0,-33.0,-57.0,-30.0,12.0
+2020-03-29,Australia,South Australia,-43.0,-15.0,-33.0,-55.0,-28.0,12.0
+2020-03-29,Australia,Tasmania,-50.0,-30.0,-70.0,-62.0,-28.0,13.0
+2020-03-29,Australia,Victoria,-51.0,-26.0,-55.0,-68.0,-37.0,16.0
+2020-03-29,Australia,Western Australia,-40.0,-16.0,-37.0,-55.0,-26.0,13.0
+2020-03-29,Aruba,Total,-88.0,-66.0,-80.0,-88.0,-72.0,20.0
+2020-03-29,Bosnia and Herzegovina,Total,-76.0,-50.0,-22.0,-59.0,-50.0,13.0
+2020-03-29,Barbados,Total,-70.0,-47.0,-60.0,-77.0,-52.0,15.0
+2020-03-29,Barbados,Christ Church,-81.0,-57.0,,-83.0,-51.0,17.0
+2020-03-29,Barbados,Saint George,-35.0,,-53.0,,-29.0,
+2020-03-29,Barbados,Saint James,-76.0,-50.0,,,-56.0,
+2020-03-29,Barbados,Saint John,,,,,-36.0,
+2020-03-29,Barbados,Saint Michael,-70.0,-48.0,-70.0,-73.0,-55.0,14.0
+2020-03-29,Barbados,Saint Peter,-74.0,-18.0,,,-31.0,
+2020-03-29,Barbados,Saint Philip,-72.0,-49.0,,,-49.0,
+2020-03-29,Barbados,Saint Thomas,-13.0,,,,-29.0,
+2020-03-29,Bangladesh,Total,-68.0,-46.0,-26.0,-66.0,-60.0,24.0
+2020-03-29,Belgium,Total,-84.0,-53.0,-66.0,-76.0,-52.0,17.0
+2020-03-29,Belgium,Brussels,-89.0,-65.0,-64.0,-82.0,-62.0,19.0
+2020-03-29,Belgium,Flanders,-82.0,-46.0,-65.0,-74.0,-50.0,17.0
+2020-03-29,Belgium,Wallonia,-84.0,-62.0,-72.0,-77.0,-52.0,16.0
+2020-03-29,Burkina Faso,Total,-34.0,-25.0,-22.0,-53.0,-3.0,15.0
+2020-03-29,Bulgaria,Total,-66.0,-36.0,-32.0,-58.0,-29.0,11.0
+2020-03-29,Bulgaria,Blagoevgrad Province,-74.0,-47.0,-32.0,-55.0,-43.0,10.0
+2020-03-29,Bulgaria,Burgas,-65.0,-38.0,-40.0,-51.0,-35.0,11.0
+2020-03-29,Bulgaria,Dobrich Province,-61.0,-33.0,-38.0,,-19.0,18.0
+2020-03-29,Bulgaria,Gabrovo,-61.0,-34.0,-16.0,,-17.0,17.0
+2020-03-29,Bulgaria,Haskovo Province,-66.0,-43.0,-14.0,-67.0,-27.0,13.0
+2020-03-29,Bulgaria,Jambol,-58.0,-44.0,-42.0,,-20.0,14.0
+2020-03-29,Bulgaria,Kardzhali Province,-71.0,-48.0,-27.0,-76.0,-39.0,12.0
+2020-03-29,Bulgaria,Kyustendil Province,-57.0,-39.0,-35.0,-46.0,-24.0,19.0
+2020-03-29,Bulgaria,Lovec,-64.0,-32.0,-16.0,,-21.0,18.0
+2020-03-29,Bulgaria,Montana Province,-41.0,-37.0,-18.0,-58.0,-13.0,11.0
+2020-03-29,Bulgaria,Pazardzhik,-68.0,-38.0,-29.0,-69.0,-32.0,13.0
+2020-03-29,Bulgaria,Pernik,-58.0,-31.0,-37.0,,-21.0,21.0
+2020-03-29,Bulgaria,Pleven Province,-64.0,-37.0,-16.0,,-22.0,14.0
+2020-03-29,Bulgaria,Plovdiv Province,-68.0,-38.0,-33.0,-54.0,-29.0,12.0
+2020-03-29,Bulgaria,Razgrad,-48.0,-66.0,,,-10.0,11.0
+2020-03-29,Bulgaria,Ruse,-58.0,-36.0,-14.0,-43.0,-25.0,11.0
+2020-03-29,Bulgaria,Shumen Province,-63.0,-29.0,-26.0,-70.0,-20.0,20.0
+2020-03-29,Bulgaria,Silistra,-37.0,-23.0,,,-12.0,-3.0
+2020-03-29,Bulgaria,Sliven Province,-61.0,-36.0,-40.0,-51.0,-25.0,19.0
+2020-03-29,Bulgaria,Smoljan,-66.0,-59.0,-42.0,,-41.0,2.0
+2020-03-29,Bulgaria,Sofia City Province,-70.0,-35.0,-42.0,-62.0,-34.0,15.0
+2020-03-29,Bulgaria,Sofia Province,-60.0,-35.0,-28.0,,-31.0,14.0
+2020-03-29,Bulgaria,Stara Zagora,-63.0,-38.0,-27.0,-10.0,-29.0,10.0
+2020-03-29,Bulgaria,Targovishte Province,-63.0,-31.0,,,-19.0,2.0
+2020-03-29,Bulgaria,Varna,-72.0,-36.0,-54.0,-76.0,-34.0,12.0
+2020-03-29,Bulgaria,Veliko Tarnovo Province,-68.0,-37.0,-24.0,-56.0,-28.0,13.0
+2020-03-29,Bulgaria,Vidin,-59.0,-29.0,,,-25.0,
+2020-03-29,Bulgaria,Vraca,-53.0,-31.0,-3.0,-49.0,-18.0,21.0
+2020-03-29,Bahrain,Total,-45.0,-22.0,-40.0,-38.0,-25.0,16.0
+2020-03-29,Benin,Total,-16.0,0.0,10.0,-14.0,2.0,5.0
+2020-03-29,Bolivia,Total,-93.0,-94.0,-89.0,-92.0,-72.0,35.0
+2020-03-29,Brazil,Total,-71.0,-35.0,-70.0,-62.0,-34.0,17.0
+2020-03-29,Brazil,Federal District,-68.0,-28.0,-63.0,-56.0,-36.0,20.0
+2020-03-29,Brazil,State of Acre,-68.0,-20.0,-56.0,-75.0,-22.0,11.0
+2020-03-29,Brazil,State of Alagoas,-77.0,-43.0,-79.0,-76.0,-35.0,17.0
+2020-03-29,Brazil,State of Amapá,-71.0,-27.0,-51.0,-73.0,-28.0,11.0
+2020-03-29,Brazil,State of Amazonas,-64.0,-28.0,-62.0,-46.0,-26.0,13.0
+2020-03-29,Brazil,State of Bahia,-73.0,-42.0,-71.0,-73.0,-33.0,17.0
+2020-03-29,Brazil,State of Ceará,-76.0,-34.0,-71.0,-68.0,-33.0,16.0
+2020-03-29,Brazil,State of Espírito Santo,-68.0,-35.0,-69.0,-69.0,-31.0,16.0
+2020-03-29,Brazil,State of Goiás,-67.0,-27.0,-44.0,-50.0,-28.0,15.0
+2020-03-29,Brazil,State of Maranhão,-63.0,-27.0,-48.0,-66.0,-20.0,11.0
+2020-03-29,Brazil,State of Mato Grosso,-63.0,-30.0,-44.0,-59.0,-22.0,11.0
+2020-03-29,Brazil,State of Mato Grosso do Sul,-68.0,-33.0,-56.0,-68.0,-26.0,14.0
+2020-03-29,Brazil,State of Minas Gerais,-66.0,-29.0,-46.0,-57.0,-30.0,15.0
+2020-03-29,Brazil,State of Paraná,-75.0,-42.0,-70.0,-64.0,-34.0,17.0
+2020-03-29,Brazil,State of Paraíba,-76.0,-36.0,-73.0,-64.0,-33.0,17.0
+2020-03-29,Brazil,State of Pará,-61.0,-25.0,-53.0,-64.0,-19.0,12.0
+2020-03-29,Brazil,State of Pernambuco,-74.0,-35.0,-72.0,-59.0,-35.0,17.0
+2020-03-29,Brazil,State of Piauí,-71.0,-39.0,-49.0,-76.0,-27.0,18.0
+2020-03-29,Brazil,State of Rio Grande do Norte,-74.0,-36.0,-74.0,-66.0,-33.0,19.0
+2020-03-29,Brazil,State of Rio Grande do Sul,-75.0,-39.0,-73.0,-67.0,-36.0,20.0
+2020-03-29,Brazil,State of Rio de Janeiro,-72.0,-32.0,-74.0,-61.0,-37.0,17.0
+2020-03-29,Brazil,State of Rondônia,-63.0,-27.0,-42.0,-71.0,-23.0,12.0
+2020-03-29,Brazil,State of Roraima,-68.0,-25.0,-51.0,-72.0,-24.0,12.0
+2020-03-29,Brazil,State of Santa Catarina,-80.0,-49.0,-84.0,-76.0,-40.0,20.0
+2020-03-29,Brazil,State of Sergipe,-78.0,-46.0,-77.0,-83.0,-36.0,18.0
+2020-03-29,Brazil,State of São Paulo,-72.0,-36.0,-71.0,-62.0,-37.0,17.0
+2020-03-29,Brazil,State of Tocantins,-61.0,-31.0,-35.0,-71.0,-19.0,11.0
+2020-03-29,Bahamas,Total,-67.0,-34.0,-48.0,-87.0,-52.0,19.0
+2020-03-29,Botswana,Total,-12.0,-2.0,7.0,-20.0,-3.0,13.0
+2020-03-29,Belarus,Total,-14.0,5.0,41.0,-7.0,3.0,-2.0
+2020-03-29,Belize,Total,-63.0,-49.0,-38.0,-68.0,-42.0,13.0
+2020-03-29,Canada,Total,-59.0,-35.0,-16.0,-66.0,-44.0,14.0
+2020-03-29,Canada,Alberta,-55.0,-29.0,-23.0,-63.0,-41.0,13.0
+2020-03-29,Canada,British Columbia,-54.0,-28.0,27.0,-59.0,-47.0,13.0
+2020-03-29,Canada,Manitoba,-49.0,-21.0,-9.0,-56.0,-36.0,11.0
+2020-03-29,Canada,New Brunswick,-42.0,-20.0,101.0,-47.0,-35.0,8.0
+2020-03-29,Canada,Newfoundland and Labrador,-54.0,-38.0,-18.0,-60.0,-35.0,9.0
+2020-03-29,Canada,Northwest Territories,-59.0,-44.0,,-59.0,-32.0,
+2020-03-29,Canada,Nova Scotia,-33.0,-7.0,95.0,-45.0,-32.0,5.0
+2020-03-29,Canada,Nunavut,-47.0,,,,-32.0,
+2020-03-29,Canada,Ontario,-59.0,-33.0,-14.0,-66.0,-46.0,14.0
+2020-03-29,Canada,Prince Edward Island,-43.0,-19.0,-51.0,,-34.0,25.0
+2020-03-29,Canada,Quebec,-70.0,-44.0,-68.0,-75.0,-45.0,15.0
+2020-03-29,Canada,Saskatchewan,-53.0,-24.0,45.0,-52.0,-37.0,11.0
+2020-03-29,Canada,Yukon,-43.0,-28.0,,,-31.0,
+2020-03-29,Switzerland,Total,-81.0,-51.0,-41.0,-68.0,-46.0,15.0
+2020-03-29,Switzerland,Aargau,-75.0,-35.0,-14.0,-56.0,-41.0,13.0
+2020-03-29,Switzerland,Appenzell Ausserrhoden,-77.0,3.0,,-60.0,-29.0,
+2020-03-29,Switzerland,Appenzell Innerrhoden,-57.0,,,,-29.0,
+2020-03-29,Switzerland,Basel City,-89.0,-41.0,-65.0,-76.0,-48.0,25.0
+2020-03-29,Switzerland,Basel-Landschaft,-77.0,-21.0,-25.0,-61.0,-40.0,23.0
+2020-03-29,Switzerland,Canton of Bern,-80.0,-53.0,-36.0,-68.0,-43.0,14.0
+2020-03-29,Switzerland,Canton of Zug,-75.0,-2.0,,-67.0,-45.0,27.0
+2020-03-29,Switzerland,Fribourg,-82.0,-44.0,-41.0,-62.0,-42.0,20.0
+2020-03-29,Switzerland,Geneva,-82.0,-60.0,-40.0,-84.0,-54.0,21.0
+2020-03-29,Switzerland,Glarus,-92.0,-19.0,,-48.0,-33.0,
+2020-03-29,Switzerland,Grisons,-89.0,-78.0,-59.0,-78.0,-57.0,20.0
+2020-03-29,Switzerland,Jura,-91.0,-32.0,,-64.0,-43.0,14.0
+2020-03-29,Switzerland,Lucerne,-82.0,-38.0,-50.0,-66.0,-40.0,16.0
+2020-03-29,Switzerland,Neuchâtel,-78.0,-48.0,-18.0,-58.0,-46.0,28.0
+2020-03-29,Switzerland,Nidwalden,-74.0,-2.0,-73.0,-78.0,-46.0,
+2020-03-29,Switzerland,Obwalden,-63.0,-16.0,-49.0,-79.0,-40.0,
+2020-03-29,Switzerland,Schaffhausen,-90.0,-50.0,,-61.0,-41.0,2.0
+2020-03-29,Switzerland,Schwyz,-72.0,-55.0,-45.0,-66.0,-44.0,23.0
+2020-03-29,Switzerland,Solothurn,-77.0,-35.0,-13.0,-63.0,-38.0,15.0
+2020-03-29,Switzerland,St. Gallen,-80.0,-44.0,-29.0,-58.0,-42.0,14.0
+2020-03-29,Switzerland,Thurgau,-79.0,-30.0,-44.0,-61.0,-40.0,15.0
+2020-03-29,Switzerland,Ticino,-85.0,-69.0,-51.0,-64.0,-49.0,21.0
+2020-03-29,Switzerland,Uri,-89.0,-13.0,,-78.0,-44.0,
+2020-03-29,Switzerland,Valais,-87.0,-67.0,-61.0,-75.0,-57.0,17.0
+2020-03-29,Switzerland,Vaud,-79.0,-49.0,-42.0,-68.0,-50.0,17.0
+2020-03-29,Switzerland,Zurich,-82.0,-44.0,-53.0,-73.0,-47.0,16.0
+2020-03-29,Cote d'Ivoire,Total,-35.0,-21.0,-21.0,-33.0,-9.0,14.0
+2020-03-29,Chile,Total,-73.0,-55.0,-72.0,-64.0,-42.0,24.0
+2020-03-29,Cameroon,Total,-26.0,-20.0,-19.0,-23.0,-3.0,9.0
+2020-03-29,Colombia,Total,-86.0,-68.0,-80.0,-82.0,-58.0,26.0
+2020-03-29,Costa Rica,Total,-68.0,-41.0,-71.0,-68.0,-39.0,21.0
+2020-03-29,Cabo Verde,Total,-60.0,-48.0,-57.0,-88.0,-40.0,19.0
+2020-03-29,Czechia,Total,-73.0,-26.0,-24.0,-61.0,-31.0,11.0
+2020-03-29,Czechia,Central Bohemian Region,-67.0,-20.0,9.0,-37.0,-29.0,11.0
+2020-03-29,Czechia,Hradec Králové Region,-78.0,-30.0,-33.0,-69.0,-32.0,11.0
+2020-03-29,Czechia,Karlovy Vary Region,-75.0,-38.0,-53.0,-70.0,-36.0,10.0
+2020-03-29,Czechia,Liberec Region,-75.0,-24.0,-45.0,-66.0,-36.0,10.0
+2020-03-29,Czechia,Moravian-Silesian Region,-72.0,-21.0,-14.0,-63.0,-27.0,10.0
+2020-03-29,Czechia,Olomouc Region,-72.0,-27.0,-15.0,-74.0,-27.0,10.0
+2020-03-29,Czechia,Pardubice Region,-74.0,-27.0,-1.0,-73.0,-28.0,10.0
+2020-03-29,Czechia,Plzeň Region,-74.0,-29.0,-8.0,-55.0,-30.0,10.0
+2020-03-29,Czechia,Prague,-77.0,-30.0,-58.0,-71.0,-38.0,15.0
+2020-03-29,Czechia,South Bohemian Region,-72.0,-27.0,-17.0,-60.0,-29.0,9.0
+2020-03-29,Czechia,South Moravian Region,-70.0,-24.0,5.0,-50.0,-28.0,11.0
+2020-03-29,Czechia,Vysocina Region,-74.0,-21.0,27.0,-55.0,-28.0,10.0
+2020-03-29,Czechia,Zlin Region,-71.0,-25.0,1.0,-65.0,-29.0,9.0
+2020-03-29,Czechia,Ústí nad Labem Region,-71.0,-25.0,-28.0,-56.0,-26.0,9.0
+2020-03-29,Germany,Total,-77.0,-51.0,-49.0,-68.0,-39.0,11.0
+2020-03-29,Germany,Baden-Württemberg,-79.0,-49.0,-55.0,-71.0,-43.0,12.0
+2020-03-29,Germany,Bavaria,-80.0,-49.0,-50.0,-73.0,-43.0,12.0
+2020-03-29,Germany,Berlin,-83.0,-55.0,-63.0,-70.0,-44.0,12.0
+2020-03-29,Germany,Brandenburg,-75.0,-52.0,-53.0,-63.0,-31.0,9.0
+2020-03-29,Germany,Bremen,-79.0,-54.0,-22.0,-74.0,-40.0,10.0
+2020-03-29,Germany,Hamburg,-80.0,-50.0,-34.0,-72.0,-42.0,12.0
+2020-03-29,Germany,Hesse,-74.0,-40.0,-26.0,-72.0,-41.0,10.0
+2020-03-29,Germany,Lower Saxony,-76.0,-52.0,-42.0,-64.0,-36.0,10.0
+2020-03-29,Germany,Mecklenburg-Vorpommern,-74.0,-48.0,-50.0,-64.0,-32.0,8.0
+2020-03-29,Germany,North Rhine-Westphalia,-77.0,-51.0,-50.0,-70.0,-38.0,11.0
+2020-03-29,Germany,Rhineland-Palatinate,-74.0,-40.0,-38.0,-71.0,-39.0,10.0
+2020-03-29,Germany,Saarland,-77.0,-56.0,-29.0,-71.0,-39.0,10.0
+2020-03-29,Germany,Saxony,-78.0,-51.0,-50.0,-66.0,-34.0,10.0
+2020-03-29,Germany,Saxony-Anhalt,-74.0,-48.0,-56.0,-65.0,-27.0,8.0
+2020-03-29,Germany,Schleswig-Holstein,-70.0,-53.0,-27.0,-58.0,-36.0,10.0
+2020-03-29,Germany,Thuringia,-75.0,-44.0,-50.0,-63.0,-32.0,8.0
+2020-03-29,Denmark,Total,-37.0,-22.0,35.0,-60.0,-28.0,9.0
+2020-03-29,Denmark,Capital Region of Denmark,-48.0,-24.0,13.0,-67.0,-33.0,10.0
+2020-03-29,Denmark,Central Denmark Region,-34.0,-23.0,71.0,-55.0,-26.0,9.0
+2020-03-29,Denmark,North Denmark Region,-34.0,-16.0,32.0,-54.0,-26.0,8.0
+2020-03-29,Denmark,Region Zealand,-28.0,-17.0,54.0,-55.0,-25.0,8.0
+2020-03-29,Denmark,Region of Southern Denmark,-30.0,-22.0,23.0,-59.0,-28.0,9.0
+2020-03-29,Dominican Republic,Total,-80.0,-63.0,-73.0,-84.0,-56.0,23.0
+2020-03-29,Ecuador,Total,-84.0,-66.0,-80.0,-80.0,-61.0,26.0
+2020-03-29,Estonia,Total,-60.0,-28.0,4.0,-51.0,-32.0,10.0
+2020-03-29,Estonia,Harju County,-61.0,-29.0,2.0,-57.0,-34.0,11.0
+2020-03-29,Estonia,Hiiu County,,,,,-68.0,
+2020-03-29,Estonia,Ida-Viru County,-50.0,-22.0,-23.0,-35.0,-28.0,12.0
+2020-03-29,Estonia,Järva County,-41.0,-23.0,,,-39.0,
+2020-03-29,Estonia,Jõgeva County,-45.0,-24.0,,,-42.0,
+2020-03-29,Estonia,Lääne County,-53.0,-32.0,,,-47.0,
+2020-03-29,Estonia,Lääne-Viru County,-55.0,-20.0,,-41.0,-20.0,5.0
+2020-03-29,Estonia,Pärnu County,-67.0,-31.0,-17.0,-53.0,-36.0,20.0
+2020-03-29,Estonia,Põlva County,-77.0,-24.0,,,-48.0,
+2020-03-29,Estonia,Rapla County,-72.0,-23.0,,,-47.0,
+2020-03-29,Estonia,Saare County,-80.0,-40.0,,-80.0,-57.0,
+2020-03-29,Estonia,Tartu County,-65.0,-30.0,-13.0,-54.0,-35.0,23.0
+2020-03-29,Estonia,Valga County,-58.0,-30.0,,,-40.0,
+2020-03-29,Estonia,Viljandi County,-58.0,-26.0,,-42.0,-13.0,
+2020-03-29,Estonia,Võru County,-82.0,-20.0,,,-46.0,
+2020-03-29,Egypt,Total,-50.0,-24.0,-40.0,-52.0,-35.0,15.0
+2020-03-29,Spain,Total,-94.0,-76.0,-89.0,-88.0,-64.0,22.0
+2020-03-29,Spain,Andalusia,-94.0,-81.0,-88.0,-90.0,-65.0,21.0
+2020-03-29,Spain,Aragon,-92.0,-75.0,-87.0,-90.0,-64.0,20.0
+2020-03-29,Spain,Asturias,-94.0,-78.0,-88.0,-80.0,-63.0,23.0
+2020-03-29,Spain,Balearic Islands,-92.0,-68.0,-90.0,-88.0,-61.0,22.0
+2020-03-29,Spain,Basque Country,-94.0,-77.0,-93.0,-88.0,-63.0,22.0
+2020-03-29,Spain,Canary Islands,-94.0,-75.0,-92.0,-87.0,-66.0,20.0
+2020-03-29,Spain,Cantabria,-94.0,-76.0,-92.0,-89.0,-61.0,23.0
+2020-03-29,Spain,Castile and León,-94.0,-78.0,-84.0,-89.0,-62.0,22.0
+2020-03-29,Spain,Castile-La Mancha,-93.0,-77.0,-84.0,-89.0,-63.0,21.0
+2020-03-29,Spain,Catalonia,-94.0,-75.0,-90.0,-88.0,-64.0,21.0
+2020-03-29,Spain,Ceuta,-89.0,-78.0,-91.0,,-64.0,4.0
+2020-03-29,Spain,Community of Madrid,-94.0,-72.0,-92.0,-89.0,-65.0,22.0
+2020-03-29,Spain,Extremadura,-93.0,-75.0,-79.0,-87.0,-60.0,22.0
+2020-03-29,Spain,Galicia,-92.0,-77.0,-84.0,-88.0,-59.0,24.0
+2020-03-29,Spain,La Rioja,-94.0,-75.0,-90.0,-90.0,-65.0,23.0
+2020-03-29,Spain,Melilla,-92.0,-86.0,-90.0,-87.0,-59.0,-2.0
+2020-03-29,Spain,Navarre,-93.0,-77.0,-88.0,-90.0,-61.0,23.0
+2020-03-29,Spain,Region of Murcia,-94.0,-85.0,-90.0,-86.0,-63.0,24.0
+2020-03-29,Spain,Valencian Community,-95.0,-84.0,-92.0,-90.0,-66.0,22.0
+2020-03-29,Finland,Total,-52.0,-21.0,48.0,-59.0,-25.0,9.0
+2020-03-29,Finland,Central Finland,-48.0,-22.0,60.0,-70.0,-23.0,8.0
+2020-03-29,Finland,Central Ostrobothnia,-44.0,-13.0,,-63.0,-21.0,15.0
+2020-03-29,Finland,Kainuu,-54.0,-24.0,44.0,-64.0,-21.0,13.0
+2020-03-29,Finland,Kymenlaakso,-52.0,-21.0,65.0,-64.0,-17.0,8.0
+2020-03-29,Finland,Lapland,-62.0,-30.0,40.0,-71.0,-31.0,7.0
+2020-03-29,Finland,North Karelia,-54.0,-20.0,61.0,-54.0,-24.0,14.0
+2020-03-29,Finland,Northern Ostrobothnia,-51.0,-24.0,73.0,-55.0,-24.0,8.0
+2020-03-29,Finland,Northern Savonia,-56.0,-20.0,47.0,-53.0,-22.0,7.0
+2020-03-29,Finland,Ostrobothnia,-44.0,-16.0,70.0,-50.0,-21.0,8.0
+2020-03-29,Finland,Pirkanmaa,-53.0,-21.0,42.0,-53.0,-26.0,9.0
+2020-03-29,Finland,Päijänne Tavastia,-56.0,-22.0,84.0,-54.0,-25.0,8.0
+2020-03-29,Finland,Satakunta,-49.0,-22.0,34.0,-48.0,-19.0,8.0
+2020-03-29,Finland,South Karelia,-55.0,-26.0,46.0,-64.0,-25.0,15.0
+2020-03-29,Finland,Southern Ostrobothnia,-49.0,-20.0,50.0,-51.0,-20.0,9.0
+2020-03-29,Finland,Southern Savonia,-55.0,-18.0,59.0,-66.0,-23.0,14.0
+2020-03-29,Finland,Southwest Finland,-54.0,-22.0,15.0,-51.0,-25.0,9.0
+2020-03-29,Finland,Tavastia Proper,-53.0,-24.0,43.0,-62.0,-22.0,9.0
+2020-03-29,Finland,Uusimaa,-50.0,-20.0,39.0,-64.0,-28.0,10.0
+2020-03-29,Fiji,Total,-39.0,-25.0,-13.0,-59.0,-6.0,12.0
+2020-03-29,France,Total,-88.0,-72.0,-82.0,-87.0,-56.0,18.0
+2020-03-29,France,Auvergne-Rhône-Alpes,-87.0,-74.0,-80.0,-89.0,-56.0,19.0
+2020-03-29,France,Bourgogne-Franche-Comté,-87.0,-77.0,-77.0,-88.0,-54.0,18.0
+2020-03-29,France,Brittany,-87.0,-76.0,-83.0,-88.0,-53.0,18.0
+2020-03-29,France,Centre-Val de Loire,-86.0,-75.0,-79.0,-88.0,-53.0,17.0
+2020-03-29,France,Corsica,-84.0,-67.0,-74.0,-83.0,-54.0,21.0
+2020-03-29,France,Grand Est,-89.0,-77.0,-81.0,-89.0,-59.0,17.0
+2020-03-29,France,Hauts-de-France,-88.0,-72.0,-84.0,-87.0,-56.0,17.0
+2020-03-29,France,Normandy,-86.0,-73.0,-78.0,-88.0,-53.0,17.0
+2020-03-29,France,Nouvelle-Aquitaine,-86.0,-76.0,-80.0,-86.0,-53.0,18.0
+2020-03-29,France,Occitanie,-86.0,-72.0,-73.0,-86.0,-53.0,18.0
+2020-03-29,France,Pays de la Loire,-88.0,-78.0,-80.0,-90.0,-54.0,18.0
+2020-03-29,France,Provence-Alpes-Côte d'Azur,-87.0,-68.0,-83.0,-85.0,-55.0,18.0
+2020-03-29,France,Île-de-France,-91.0,-69.0,-89.0,-87.0,-63.0,20.0
+2020-03-29,Gabon,Total,-39.0,-24.0,-25.0,-47.0,-15.0,15.0
+2020-03-29,United Kingdom,Total,-85.0,-46.0,-52.0,-75.0,-55.0,15.0
+2020-03-29,United Kingdom,Aberdeen City,-86.0,-41.0,-46.0,-73.0,-58.0,30.0
+2020-03-29,United Kingdom,Aberdeenshire,-80.0,-46.0,-45.0,-58.0,-52.0,27.0
+2020-03-29,United Kingdom,Angus council,-80.0,-44.0,-28.0,-51.0,-48.0,20.0
+2020-03-29,United Kingdom,Antrim And Newtownabbey,-81.0,-46.0,-61.0,-89.0,-52.0,29.0
+2020-03-29,United Kingdom,Ards And North Down,-78.0,-39.0,-57.0,-57.0,-56.0,28.0
+2020-03-29,United Kingdom,Argyll and Bute Council,-88.0,-45.0,-34.0,-57.0,-52.0,8.0
+2020-03-29,United Kingdom,Armagh City and Banbridge And Craigavon,-82.0,-45.0,-66.0,-65.0,-47.0,27.0
+2020-03-29,United Kingdom,Bath and North East Somerset,-91.0,-48.0,-54.0,-75.0,-66.0,30.0
+2020-03-29,United Kingdom,Bedford,-86.0,-47.0,-51.0,-72.0,-49.0,28.0
+2020-03-29,United Kingdom,Belfast,-85.0,-42.0,-47.0,-76.0,-59.0,17.0
+2020-03-29,United Kingdom,Blackburn with Darwen,-85.0,-42.0,,-71.0,-50.0,25.0
+2020-03-29,United Kingdom,Blackpool,-88.0,-43.0,-64.0,-65.0,-54.0,22.0
+2020-03-29,United Kingdom,Blaenau Gwent,-75.0,-46.0,,-57.0,-46.0,12.0
+2020-03-29,United Kingdom,Borough of Halton,-78.0,-43.0,-46.0,-60.0,-48.0,25.0
+2020-03-29,United Kingdom,Bracknell Forest,-83.0,-41.0,-56.0,-69.0,-58.0,31.0
+2020-03-29,United Kingdom,Bridgend County Borough,-85.0,-43.0,-48.0,-59.0,-50.0,25.0
+2020-03-29,United Kingdom,Brighton and Hove,-89.0,-48.0,-59.0,-77.0,-64.0,30.0
+2020-03-29,United Kingdom,Buckinghamshire,-85.0,-45.0,-43.0,-74.0,-57.0,16.0
+2020-03-29,United Kingdom,Caerphilly County Borough,-78.0,-41.0,-52.0,-54.0,-47.0,25.0
+2020-03-29,United Kingdom,Cambridgeshire,-87.0,-48.0,-51.0,-79.0,-54.0,16.0
+2020-03-29,United Kingdom,Cardiff,-86.0,-45.0,-48.0,-79.0,-59.0,17.0
+2020-03-29,United Kingdom,Carmarthenshire,-81.0,-46.0,-57.0,-60.0,-49.0,24.0
+2020-03-29,United Kingdom,Causeway Coast and Glens,-87.0,-41.0,-66.0,-64.0,-55.0,26.0
+2020-03-29,United Kingdom,Central Bedfordshire,-82.0,-45.0,-41.0,-74.0,-54.0,20.0
+2020-03-29,United Kingdom,Ceredigion,-84.0,-54.0,-60.0,-69.0,-57.0,6.0
+2020-03-29,United Kingdom,Cheshire East,-84.0,-47.0,-63.0,-75.0,-53.0,15.0
+2020-03-29,United Kingdom,Cheshire West and Chester,-88.0,-47.0,-58.0,-77.0,-55.0,15.0
+2020-03-29,United Kingdom,City of Bristol,-87.0,-47.0,-25.0,-81.0,-57.0,18.0
+2020-03-29,United Kingdom,Clackmannanshire,-89.0,-39.0,,-53.0,-49.0,6.0
+2020-03-29,United Kingdom,Conwy Principal Area,-86.0,-48.0,-70.0,-63.0,-58.0,22.0
+2020-03-29,United Kingdom,Cornwall,-85.0,-53.0,-54.0,-66.0,-56.0,14.0
+2020-03-29,United Kingdom,County Durham,-83.0,-42.0,-56.0,-68.0,-55.0,14.0
+2020-03-29,United Kingdom,Cumbria,-84.0,-50.0,-54.0,-73.0,-58.0,15.0
+2020-03-29,United Kingdom,Darlington,-86.0,-47.0,-57.0,-75.0,-51.0,26.0
+2020-03-29,United Kingdom,Denbighshire,-84.0,-43.0,-59.0,-70.0,-52.0,14.0
+2020-03-29,United Kingdom,Derby,-85.0,-46.0,-55.0,-81.0,-55.0,19.0
+2020-03-29,United Kingdom,Derbyshire,-86.0,-43.0,-55.0,-66.0,-55.0,15.0
+2020-03-29,United Kingdom,Derry And Strabane,-80.0,-39.0,-63.0,-60.0,-54.0,25.0
+2020-03-29,United Kingdom,Devon,-87.0,-51.0,-54.0,-73.0,-54.0,15.0
+2020-03-29,United Kingdom,Dorset,-87.0,-47.0,-57.0,-70.0,-57.0,15.0
+2020-03-29,United Kingdom,Dumfries and Galloway,-80.0,-42.0,-48.0,-75.0,-49.0,22.0
+2020-03-29,United Kingdom,Dundee City Council,-83.0,-52.0,-10.0,-71.0,-56.0,26.0
+2020-03-29,United Kingdom,East Ayrshire Council,-83.0,-39.0,,-55.0,-51.0,26.0
+2020-03-29,United Kingdom,East Dunbartonshire Council,-75.0,-35.0,,-54.0,-56.0,19.0
+2020-03-29,United Kingdom,East Lothian Council,-81.0,-37.0,-34.0,-57.0,-56.0,17.0
+2020-03-29,United Kingdom,East Renfrewshire Council,-63.0,-29.0,-54.0,-51.0,-56.0,19.0
+2020-03-29,United Kingdom,East Riding of Yorkshire,-85.0,-45.0,-61.0,-51.0,-52.0,14.0
+2020-03-29,United Kingdom,East Sussex,-87.0,-46.0,-60.0,-68.0,-57.0,14.0
+2020-03-29,United Kingdom,Edinburgh,-86.0,-44.0,-42.0,-83.0,-67.0,18.0
+2020-03-29,United Kingdom,Essex,-84.0,-49.0,-58.0,-85.0,-56.0,16.0
+2020-03-29,United Kingdom,Falkirk,-78.0,-38.0,-26.0,-56.0,-47.0,27.0
+2020-03-29,United Kingdom,Fermanagh And Omagh,-86.0,-47.0,-55.0,-54.0,-52.0,27.0
+2020-03-29,United Kingdom,Fife,-79.0,-38.0,-32.0,-56.0,-51.0,14.0
+2020-03-29,United Kingdom,Flintshire,-80.0,-44.0,-48.0,-60.0,-54.0,26.0
+2020-03-29,United Kingdom,Glasgow City,-84.0,-44.0,-37.0,-81.0,-60.0,16.0
+2020-03-29,United Kingdom,Gloucestershire,-86.0,-48.0,-49.0,-73.0,-55.0,15.0
+2020-03-29,United Kingdom,Greater London,-87.0,-48.0,-59.0,-80.0,-62.0,19.0
+2020-03-29,United Kingdom,Greater Manchester,-84.0,-46.0,-44.0,-80.0,-54.0,16.0
+2020-03-29,United Kingdom,Gwynedd,-87.0,-55.0,-62.0,-65.0,-56.0,18.0
+2020-03-29,United Kingdom,Hampshire,-85.0,-45.0,-48.0,-74.0,-54.0,15.0
+2020-03-29,United Kingdom,Hartlepool,-86.0,-44.0,-64.0,-70.0,-51.0,19.0
+2020-03-29,United Kingdom,Herefordshire,-86.0,-50.0,-42.0,-64.0,-46.0,24.0
+2020-03-29,United Kingdom,Hertfordshire,-85.0,-47.0,-46.0,-73.0,-56.0,16.0
+2020-03-29,United Kingdom,Highland Council,-83.0,-47.0,-48.0,-70.0,-53.0,24.0
+2020-03-29,United Kingdom,Inverclyde,-83.0,-37.0,,-58.0,-52.0,15.0
+2020-03-29,United Kingdom,Isle of Anglesey,-84.0,-48.0,-65.0,-63.0,-46.0,7.0
+2020-03-29,United Kingdom,Isle of Wight,-88.0,-47.0,-57.0,-76.0,-54.0,22.0
+2020-03-29,United Kingdom,Kent,-86.0,-49.0,-62.0,-68.0,-53.0,15.0
+2020-03-29,United Kingdom,Kingston upon Hull,-82.0,-45.0,-49.0,-71.0,-51.0,14.0
+2020-03-29,United Kingdom,Lancashire,-84.0,-44.0,-39.0,-71.0,-52.0,14.0
+2020-03-29,United Kingdom,Leicester,-84.0,-47.0,-45.0,-80.0,-51.0,15.0
+2020-03-29,United Kingdom,Leicestershire,-83.0,-45.0,-54.0,-72.0,-55.0,15.0
+2020-03-29,United Kingdom,Lincolnshire,-84.0,-45.0,-63.0,-67.0,-47.0,13.0
+2020-03-29,United Kingdom,Lisburn and Castlereagh,-87.0,-45.0,-79.0,-61.0,-56.0,30.0
+2020-03-29,United Kingdom,Luton,-79.0,-39.0,-41.0,-90.0,-49.0,19.0
+2020-03-29,United Kingdom,Medway,-85.0,-40.0,-67.0,-71.0,-51.0,15.0
+2020-03-29,United Kingdom,Merseyside,-83.0,-42.0,-53.0,-74.0,-54.0,15.0
+2020-03-29,United Kingdom,Merthyr Tydfil County Borough,-89.0,-50.0,,-54.0,-52.0,8.0
+2020-03-29,United Kingdom,Mid And East Antrim,-81.0,-37.0,-52.0,-56.0,-56.0,27.0
+2020-03-29,United Kingdom,Mid Ulster,-81.0,-43.0,,-51.0,-42.0,28.0
+2020-03-29,United Kingdom,Middlesbrough,-84.0,-43.0,-63.0,-73.0,-51.0,24.0
+2020-03-29,United Kingdom,Midlothian,-90.0,-43.0,-20.0,-50.0,-53.0,25.0
+2020-03-29,United Kingdom,Milton Keynes,-85.0,-49.0,-53.0,-79.0,-55.0,19.0
+2020-03-29,United Kingdom,Monmouthshire,-85.0,-56.0,-61.0,-58.0,-47.0,16.0
+2020-03-29,United Kingdom,Moray,-88.0,-45.0,-42.0,-63.0,-54.0,12.0
+2020-03-29,United Kingdom,Na h-Eileanan an Iar,-77.0,-31.0,,-54.0,-51.0,
+2020-03-29,United Kingdom,Neath Port Talbot Principle Area,-74.0,-38.0,-46.0,-60.0,-46.0,23.0
+2020-03-29,United Kingdom,Newport,-83.0,-47.0,-49.0,-66.0,-52.0,26.0
+2020-03-29,United Kingdom,Newry and Mourne And Down,-87.0,-45.0,-65.0,-55.0,-52.0,29.0
+2020-03-29,United Kingdom,Norfolk,-87.0,-52.0,-69.0,-68.0,-53.0,14.0
+2020-03-29,United Kingdom,North Ayrshire Council,-79.0,-37.0,-12.0,-59.0,-51.0,25.0
+2020-03-29,United Kingdom,North East Lincolnshire,-85.0,-46.0,-72.0,-68.0,-46.0,22.0
+2020-03-29,United Kingdom,North Lanarkshire,-78.0,-37.0,,-56.0,-50.0,13.0
+2020-03-29,United Kingdom,North Lincolnshire,-79.0,-41.0,-56.0,-58.0,-46.0,23.0
+2020-03-29,United Kingdom,North Somerset,-84.0,-50.0,-52.0,-88.0,-54.0,27.0
+2020-03-29,United Kingdom,North Yorkshire,-88.0,-48.0,-65.0,-74.0,-55.0,15.0
+2020-03-29,United Kingdom,Northamptonshire,-84.0,-42.0,-59.0,-71.0,-47.0,14.0
+2020-03-29,United Kingdom,Northumberland,-84.0,-42.0,-66.0,-61.0,-54.0,14.0
+2020-03-29,United Kingdom,Nottinghamshire,-90.0,-45.0,-58.0,-80.0,-56.0,15.0
+2020-03-29,United Kingdom,Orkney,-85.0,-40.0,,,-61.0,
+2020-03-29,United Kingdom,Oxfordshire,-87.0,-45.0,-48.0,-79.0,-58.0,17.0
+2020-03-29,United Kingdom,Pembrokeshire,-87.0,-49.0,-62.0,-61.0,-47.0,18.0
+2020-03-29,United Kingdom,Perth and Kinross,-86.0,-46.0,-39.0,-65.0,-54.0,27.0
+2020-03-29,United Kingdom,Peterborough,-80.0,-45.0,-36.0,-77.0,-43.0,17.0
+2020-03-29,United Kingdom,Plymouth,-87.0,-50.0,-43.0,-70.0,-54.0,18.0
+2020-03-29,United Kingdom,Portsmouth,-88.0,-43.0,-46.0,-71.0,-54.0,19.0
+2020-03-29,United Kingdom,Powys,-88.0,-50.0,-56.0,-63.0,-51.0,23.0
+2020-03-29,United Kingdom,Reading,-89.0,-50.0,-41.0,-84.0,-55.0,32.0
+2020-03-29,United Kingdom,Redcar and Cleveland,-88.0,-44.0,-63.0,-62.0,-50.0,23.0
+2020-03-29,United Kingdom,Renfrewshire,-86.0,-39.0,14.0,-84.0,-58.0,29.0
+2020-03-29,United Kingdom,Rhondda Cynon Taff,-80.0,-41.0,-47.0,-52.0,-50.0,19.0
+2020-03-29,United Kingdom,Rutland,-100.0,-37.0,-70.0,,-57.0,
+2020-03-29,United Kingdom,Scottish Borders,-88.0,-46.0,-39.0,-44.0,-51.0,20.0
+2020-03-29,United Kingdom,Shetland Islands,-85.0,-49.0,,-54.0,-60.0,
+2020-03-29,United Kingdom,Shropshire,-85.0,-49.0,-56.0,-70.0,-50.0,14.0
+2020-03-29,United Kingdom,Slough,-80.0,-45.0,-45.0,-78.0,-54.0,29.0
+2020-03-29,United Kingdom,Somerset,-86.0,-48.0,-56.0,-73.0,-49.0,14.0
+2020-03-29,United Kingdom,South Ayrshire Council,-88.0,-42.0,-35.0,-62.0,-56.0,20.0
+2020-03-29,United Kingdom,South Gloucestershire,-81.0,-45.0,-30.0,-64.0,-52.0,20.0
+2020-03-29,United Kingdom,South Lanarkshire,-78.0,-38.0,-6.0,-57.0,-54.0,14.0
+2020-03-29,United Kingdom,South Yorkshire,-86.0,-43.0,-47.0,-71.0,-53.0,15.0
+2020-03-29,United Kingdom,Southampton,-87.0,-41.0,-57.0,-71.0,-54.0,19.0
+2020-03-29,United Kingdom,Southend-on-Sea,-89.0,-39.0,-63.0,-79.0,-57.0,28.0
+2020-03-29,United Kingdom,Staffordshire,-85.0,-44.0,-54.0,-73.0,-54.0,14.0
+2020-03-29,United Kingdom,Stirling,-85.0,-49.0,-49.0,-76.0,-62.0,11.0
+2020-03-29,United Kingdom,Stockton-on-Tees,-84.0,-47.0,-60.0,-69.0,-52.0,25.0
+2020-03-29,United Kingdom,Stoke-on-Trent,-84.0,-44.0,-41.0,-70.0,-49.0,14.0
+2020-03-29,United Kingdom,Suffolk,-87.0,-51.0,-67.0,-69.0,-54.0,15.0
+2020-03-29,United Kingdom,Surrey,-85.0,-44.0,-57.0,-74.0,-59.0,17.0
+2020-03-29,United Kingdom,Swansea,-84.0,-50.0,-51.0,-67.0,-54.0,19.0
+2020-03-29,United Kingdom,Swindon,-83.0,-44.0,-30.0,-69.0,-52.0,28.0
+2020-03-29,United Kingdom,Thurrock,-88.0,-53.0,-51.0,-59.0,-50.0,29.0
+2020-03-29,United Kingdom,Torbay,-86.0,-44.0,-58.0,-68.0,-55.0,24.0
+2020-03-29,United Kingdom,Torfaen Principal Area,-82.0,-37.0,,-54.0,-53.0,24.0
+2020-03-29,United Kingdom,Tyne and Wear,-85.0,-47.0,-58.0,-74.0,-57.0,15.0
+2020-03-29,United Kingdom,Vale of Glamorgan,-84.0,-49.0,-59.0,-70.0,-54.0,27.0
+2020-03-29,United Kingdom,Warrington,-86.0,-42.0,-29.0,-68.0,-52.0,27.0
+2020-03-29,United Kingdom,Warwickshire,-86.0,-44.0,-56.0,-72.0,-54.0,15.0
+2020-03-29,United Kingdom,West Berkshire,-88.0,-49.0,-41.0,-82.0,-58.0,29.0
+2020-03-29,United Kingdom,West Dunbartonshire Council,-75.0,-43.0,,-54.0,-51.0,23.0
+2020-03-29,United Kingdom,West Lothian,-74.0,-29.0,-29.0,-52.0,-50.0,27.0
+2020-03-29,United Kingdom,West Midlands,-84.0,-45.0,-45.0,-78.0,-57.0,15.0
+2020-03-29,United Kingdom,West Sussex,-85.0,-46.0,-53.0,-85.0,-56.0,15.0
+2020-03-29,United Kingdom,West Yorkshire,-84.0,-44.0,-49.0,-74.0,-55.0,15.0
+2020-03-29,United Kingdom,Wiltshire,-84.0,-45.0,-56.0,-70.0,-54.0,15.0
+2020-03-29,United Kingdom,Windsor and Maidenhead,-88.0,-42.0,-74.0,-79.0,-63.0,31.0
+2020-03-29,United Kingdom,Wokingham,-81.0,-52.0,-26.0,-66.0,-61.0,32.0
+2020-03-29,United Kingdom,Worcestershire,-86.0,-47.0,-44.0,-71.0,-55.0,14.0
+2020-03-29,United Kingdom,Wrexham Principal Area,-83.0,-43.0,-45.0,-64.0,-48.0,24.0
+2020-03-29,United Kingdom,York,-90.0,-50.0,-64.0,-84.0,-65.0,29.0
+2020-03-29,Georgia,Total,-67.0,-36.0,-24.0,-53.0,-38.0,12.0
+2020-03-29,Ghana,Total,-15.0,8.0,-15.0,-15.0,3.0,9.0
+2020-03-29,Greece,Total,-80.0,-41.0,-55.0,-76.0,-53.0,20.0
+2020-03-29,Guatemala,Total,-67.0,-39.0,-53.0,-69.0,-39.0,19.0
+2020-03-29,Guinea-Bissau,Total,-50.0,,,,-27.0,
+2020-03-29,Hong Kong,Total,-35.0,-7.0,-43.0,-45.0,-24.0,16.0
+2020-03-29,Honduras,Total,-81.0,-64.0,-59.0,-74.0,-46.0,20.0
+2020-03-29,Croatia,Total,-82.0,-57.0,-45.0,-74.0,-50.0,15.0
+2020-03-29,Croatia,Bjelovar-Bilogora County,-85.0,-58.0,-23.0,-70.0,-46.0,20.0
+2020-03-29,Croatia,Brod-Posavina County,-81.0,-59.0,,-83.0,-51.0,23.0
+2020-03-29,Croatia,City of Zagreb,-85.0,-61.0,-51.0,-76.0,-51.0,16.0
+2020-03-29,Croatia,Dubrovnik-Neretva County,-78.0,-54.0,-29.0,-66.0,-52.0,22.0
+2020-03-29,Croatia,Istria County,-74.0,-55.0,-35.0,-76.0,-45.0,15.0
+2020-03-29,Croatia,Karlovac County,-83.0,-56.0,-16.0,-66.0,-48.0,30.0
+2020-03-29,Croatia,Koprivnica-Križevci County,-81.0,-58.0,,,-44.0,25.0
+2020-03-29,Croatia,Krapina-Zagorje County,-87.0,-63.0,,-72.0,-48.0,34.0
+2020-03-29,Croatia,Lika-Senj County,-73.0,-44.0,-58.0,-83.0,-46.0,
+2020-03-29,Croatia,Međimurje County,-86.0,-64.0,,-84.0,-54.0,27.0
+2020-03-29,Croatia,Osijek-Baranja County,-83.0,-54.0,-14.0,-73.0,-47.0,17.0
+2020-03-29,Croatia,Požega-Slavonia County,-83.0,-58.0,,-75.0,-49.0,0.0
+2020-03-29,Croatia,Primorje-Gorski Kotar County,-82.0,-58.0,-47.0,-81.0,-48.0,15.0
+2020-03-29,Croatia,Sisak-Moslavina County,-76.0,-61.0,-51.0,-71.0,-43.0,27.0
+2020-03-29,Croatia,Split-Dalmatia County,-83.0,-52.0,-33.0,-76.0,-55.0,17.0
+2020-03-29,Croatia,Varaždin County,-86.0,-61.0,-62.0,-83.0,-50.0,30.0
+2020-03-29,Croatia,Virovitica-Podravina County,-80.0,-53.0,,-79.0,-46.0,1.0
+2020-03-29,Croatia,Vukovar-Srijem County,-81.0,-52.0,,-70.0,-48.0,24.0
+2020-03-29,Croatia,Zadar County,-77.0,-51.0,-19.0,-75.0,-47.0,25.0
+2020-03-29,Croatia,Zagreb County,-85.0,-59.0,-64.0,-72.0,-53.0,15.0
+2020-03-29,Croatia,Šibenik-Knin County,-78.0,-47.0,-12.0,-67.0,-48.0,15.0
+2020-03-29,Haiti,Total,-34.0,-31.0,-19.0,-48.0,-14.0,7.0
+2020-03-29,Hungary,Total,-66.0,-43.0,-7.0,-53.0,-32.0,10.0
+2020-03-29,Hungary,Baranya,-70.0,-45.0,27.0,-45.0,-30.0,9.0
+2020-03-29,Hungary,Borsod-Abaúj-Zemplén,-59.0,-47.0,19.0,-38.0,-28.0,8.0
+2020-03-29,Hungary,Budapest,-74.0,-40.0,-38.0,-67.0,-39.0,12.0
+2020-03-29,Hungary,Bács-Kiskun,-62.0,-42.0,10.0,-47.0,-27.0,9.0
+2020-03-29,Hungary,Békés County,-54.0,-39.0,15.0,-43.0,-23.0,7.0
+2020-03-29,Hungary,Csongrád,-66.0,-40.0,-12.0,-39.0,-28.0,10.0
+2020-03-29,Hungary,Fejér,-58.0,-43.0,24.0,-48.0,-30.0,9.0
+2020-03-29,Hungary,Gyor-Moson-Sopron,-71.0,-48.0,-6.0,-51.0,-42.0,11.0
+2020-03-29,Hungary,Hajdú-Bihar,-63.0,-46.0,34.0,-52.0,-28.0,9.0
+2020-03-29,Hungary,Heves County,-62.0,-48.0,-35.0,-48.0,-34.0,12.0
+2020-03-29,Hungary,Jász-Nagykun-Szolnok,-52.0,-38.0,32.0,-49.0,-25.0,8.0
+2020-03-29,Hungary,Komárom-Esztergom,-57.0,-40.0,51.0,-46.0,-28.0,9.0
+2020-03-29,Hungary,Nógrád County,-51.0,-40.0,-29.0,-30.0,-24.0,15.0
+2020-03-29,Hungary,Pest County,-56.0,-42.0,57.0,-34.0,-31.0,10.0
+2020-03-29,Hungary,Somogy County,-58.0,-44.0,1.0,-44.0,-30.0,10.0
+2020-03-29,Hungary,Szabolcs-Szatmár-Bereg,-57.0,-52.0,4.0,-43.0,-25.0,7.0
+2020-03-29,Hungary,Tolna County,-50.0,-44.0,,-44.0,-28.0,18.0
+2020-03-29,Hungary,Vas County,-68.0,-50.0,19.0,-55.0,-38.0,13.0
+2020-03-29,Hungary,Veszprém,-57.0,-44.0,5.0,-43.0,-33.0,9.0
+2020-03-29,Hungary,Zala County,-66.0,-52.0,-25.0,-48.0,-35.0,11.0
+2020-03-29,Indonesia,Total,-47.0,-27.0,-52.0,-54.0,-15.0,15.0
+2020-03-29,Ireland,Total,-83.0,-37.0,-59.0,-78.0,-52.0,19.0
+2020-03-29,Ireland,County Carlow,-83.0,-35.0,-52.0,-64.0,-48.0,9.0
+2020-03-29,Ireland,County Cavan,-81.0,-39.0,-41.0,-57.0,-45.0,21.0
+2020-03-29,Ireland,County Clare,-78.0,-30.0,-54.0,-74.0,-49.0,25.0
+2020-03-29,Ireland,County Cork,-81.0,-40.0,-54.0,-73.0,-51.0,19.0
+2020-03-29,Ireland,County Donegal,-81.0,-39.0,-49.0,-56.0,-47.0,21.0
+2020-03-29,Ireland,County Dublin,-85.0,-35.0,-64.0,-82.0,-58.0,21.0
+2020-03-29,Ireland,County Galway,-82.0,-36.0,-60.0,-68.0,-51.0,21.0
+2020-03-29,Ireland,County Kerry,-83.0,-44.0,-54.0,-76.0,-53.0,22.0
+2020-03-29,Ireland,County Kildare,-84.0,-36.0,-66.0,-71.0,-51.0,21.0
+2020-03-29,Ireland,County Kilkenny,-82.0,-37.0,-65.0,-77.0,-47.0,23.0
+2020-03-29,Ireland,County Laois,-79.0,-40.0,,-77.0,-48.0,22.0
+2020-03-29,Ireland,County Leitrim,-93.0,-41.0,,,-50.0,
+2020-03-29,Ireland,County Limerick,-82.0,-35.0,-57.0,-74.0,-46.0,21.0
+2020-03-29,Ireland,County Longford,-77.0,-40.0,,,-45.0,
+2020-03-29,Ireland,County Louth,-84.0,-39.0,-67.0,-84.0,-49.0,24.0
+2020-03-29,Ireland,County Mayo,-85.0,-44.0,-31.0,-78.0,-47.0,22.0
+2020-03-29,Ireland,County Meath,-80.0,-33.0,-54.0,-59.0,-49.0,21.0
+2020-03-29,Ireland,County Monaghan,-80.0,-43.0,,-58.0,-49.0,18.0
+2020-03-29,Ireland,County Offaly,-79.0,-38.0,-40.0,-65.0,-47.0,22.0
+2020-03-29,Ireland,County Roscommon,-86.0,-38.0,,,-43.0,18.0
+2020-03-29,Ireland,County Sligo,-89.0,-44.0,-48.0,-69.0,-44.0,9.0
+2020-03-29,Ireland,County Tipperary,-80.0,-36.0,-61.0,-73.0,-46.0,21.0
+2020-03-29,Ireland,County Waterford,-87.0,-45.0,-75.0,-77.0,-46.0,20.0
+2020-03-29,Ireland,County Westmeath,-85.0,-48.0,-45.0,-75.0,-52.0,24.0
+2020-03-29,Ireland,County Wexford,-83.0,-42.0,-70.0,-71.0,-52.0,22.0
+2020-03-29,Ireland,County Wicklow,-89.0,-40.0,-79.0,-76.0,-53.0,27.0
+2020-03-29,Israel,Total,-67.0,-13.0,-56.0,-61.0,-59.0,30.0
+2020-03-29,India,Total,-77.0,-65.0,-57.0,-71.0,-47.0,22.0
+2020-03-29,Iraq,Total,-64.0,-42.0,-48.0,-61.0,-55.0,21.0
+2020-03-29,Italy,Total,-94.0,-85.0,-90.0,-87.0,-63.0,24.0
+2020-03-29,Italy,Abruzzo,-94.0,-84.0,-89.0,-90.0,-63.0,24.0
+2020-03-29,Italy,Aosta,-95.0,-88.0,-91.0,-86.0,-67.0,36.0
+2020-03-29,Italy,Apulia,-94.0,-85.0,-88.0,-88.0,-64.0,25.0
+2020-03-29,Italy,Basilicata,-91.0,-84.0,-77.0,-86.0,-58.0,22.0
+2020-03-29,Italy,Calabria,-94.0,-92.0,-85.0,-90.0,-63.0,22.0
+2020-03-29,Italy,Campania,-94.0,-78.0,-91.0,-89.0,-67.0,23.0
+2020-03-29,Italy,Emilia-Romagna,-96.0,-94.0,-88.0,-88.0,-65.0,24.0
+2020-03-29,Italy,Friuli-Venezia Giulia,-95.0,-94.0,-90.0,-83.0,-59.0,24.0
+2020-03-29,Italy,Lazio,-94.0,-76.0,-90.0,-88.0,-62.0,24.0
+2020-03-29,Italy,Liguria,-94.0,-80.0,-91.0,-85.0,-60.0,23.0
+2020-03-29,Italy,Lombardy,-95.0,-81.0,-91.0,-89.0,-65.0,24.0
+2020-03-29,Italy,Marche,-95.0,-88.0,-91.0,-86.0,-64.0,26.0
+2020-03-29,Italy,Molise,-91.0,-82.0,-84.0,-80.0,-60.0,29.0
+2020-03-29,Italy,Piedmont,-94.0,-82.0,-89.0,-85.0,-59.0,23.0
+2020-03-29,Italy,Sardinia,-94.0,-92.0,-87.0,-81.0,-56.0,22.0
+2020-03-29,Italy,Sicily,-95.0,-93.0,-91.0,-89.0,-68.0,25.0
+2020-03-29,Italy,Trentino-South Tyrol,-96.0,-94.0,-93.0,-86.0,-65.0,25.0
+2020-03-29,Italy,Tuscany,-94.0,-84.0,-91.0,-85.0,-62.0,25.0
+2020-03-29,Italy,Umbria,-95.0,-89.0,-86.0,-81.0,-61.0,25.0
+2020-03-29,Italy,Veneto,-96.0,-95.0,-91.0,-89.0,-62.0,25.0
+2020-03-29,Jamaica,Total,-53.0,-36.0,-50.0,-50.0,-29.0,12.0
+2020-03-29,Jordan,Total,-74.0,-52.0,-59.0,-89.0,-73.0,27.0
+2020-03-29,Japan,Total,-26.0,-7.0,-25.0,-41.0,-9.0,7.0
+2020-03-29,Japan,Aichi,-14.0,1.0,-11.0,-35.0,-5.0,6.0
+2020-03-29,Japan,Akita,-1.0,5.0,19.0,-20.0,0.0,3.0
+2020-03-29,Japan,Aomori,-11.0,1.0,11.0,-20.0,0.0,3.0
+2020-03-29,Japan,Chiba,-43.0,-21.0,-61.0,-53.0,-15.0,11.0
+2020-03-29,Japan,Ehime,-5.0,5.0,29.0,-12.0,0.0,3.0
+2020-03-29,Japan,Fukui,-13.0,5.0,-18.0,-19.0,-2.0,6.0
+2020-03-29,Japan,Fukuoka,-13.0,6.0,34.0,-34.0,-3.0,4.0
+2020-03-29,Japan,Fukushima,-21.0,-7.0,-51.0,-35.0,-4.0,7.0
+2020-03-29,Japan,Gifu,-14.0,3.0,-25.0,-32.0,-4.0,6.0
+2020-03-29,Japan,Gunma,-33.0,-15.0,-55.0,-49.0,-8.0,9.0
+2020-03-29,Japan,Hiroshima,-7.0,7.0,15.0,-24.0,-1.0,3.0
+2020-03-29,Japan,Hokkaido,-7.0,3.0,-2.0,-27.0,-5.0,3.0
+2020-03-29,Japan,Hyogo,-12.0,5.0,-10.0,-31.0,-4.0,5.0
+2020-03-29,Japan,Ibaraki,-31.0,-16.0,-60.0,-51.0,-10.0,10.0
+2020-03-29,Japan,Ishikawa,-8.0,8.0,-23.0,-30.0,-1.0,4.0
+2020-03-29,Japan,Iwate,-5.0,5.0,6.0,-19.0,1.0,3.0
+2020-03-29,Japan,Kagawa,-7.0,4.0,19.0,-22.0,-1.0,3.0
+2020-03-29,Japan,Kagoshima,-5.0,4.0,16.0,-15.0,4.0,2.0
+2020-03-29,Japan,Kanagawa,-55.0,-31.0,-66.0,-55.0,-23.0,13.0
+2020-03-29,Japan,Kochi,-3.0,3.0,23.0,-7.0,0.0,2.0
+2020-03-29,Japan,Kumamoto,-13.0,4.0,36.0,-14.0,-1.0,4.0
+2020-03-29,Japan,Kyoto,-10.0,7.0,12.0,-32.0,-3.0,4.0
+2020-03-29,Japan,Mie,-9.0,4.0,-20.0,-33.0,-1.0,5.0
+2020-03-29,Japan,Miyagi,-14.0,0.0,-37.0,-35.0,-2.0,5.0
+2020-03-29,Japan,Miyazaki,-7.0,7.0,4.0,-15.0,2.0,3.0
+2020-03-29,Japan,Nagano,-31.0,-11.0,-56.0,-44.0,-4.0,8.0
+2020-03-29,Japan,Nagasaki,-3.0,8.0,30.0,-12.0,3.0,2.0
+2020-03-29,Japan,Nara,-7.0,11.0,10.0,-27.0,-5.0,4.0
+2020-03-29,Japan,Niigata,-11.0,3.0,-22.0,-35.0,-3.0,5.0
+2020-03-29,Japan,Oita,-8.0,5.0,22.0,-17.0,-1.0,3.0
+2020-03-29,Japan,Okayama,-7.0,7.0,17.0,-18.0,0.0,3.0
+2020-03-29,Japan,Okinawa,-9.0,0.0,-14.0,-27.0,1.0,3.0
+2020-03-29,Japan,Osaka,-21.0,3.0,-8.0,-39.0,-7.0,6.0
+2020-03-29,Japan,Saga,-4.0,6.0,48.0,-19.0,0.0,3.0
+2020-03-29,Japan,Saitama,-51.0,-28.0,-61.0,-53.0,-20.0,12.0
+2020-03-29,Japan,Shiga,-6.0,7.0,-8.0,-25.0,-2.0,4.0
+2020-03-29,Japan,Shimane,1.0,6.0,45.0,4.0,5.0,1.0
+2020-03-29,Japan,Shizuoka,-17.0,-4.0,-47.0,-38.0,-6.0,7.0
+2020-03-29,Japan,Tochigi,-33.0,-16.0,-61.0,-46.0,-9.0,10.0
+2020-03-29,Japan,Tokushima,-4.0,3.0,27.0,-13.0,0.0,3.0
+2020-03-29,Japan,Tokyo,-63.0,-32.0,-66.0,-59.0,-27.0,14.0
+2020-03-29,Japan,Tottori,1.0,9.0,15.0,-13.0,2.0,2.0
+2020-03-29,Japan,Toyama,-6.0,7.0,-19.0,-26.0,0.0,4.0
+2020-03-29,Japan,Wakayama,-6.0,8.0,16.0,-21.0,-2.0,4.0
+2020-03-29,Japan,Yamagata,-3.0,6.0,-12.0,-27.0,-1.0,3.0
+2020-03-29,Japan,Yamaguchi,-4.0,9.0,49.0,-6.0,1.0,3.0
+2020-03-29,Japan,Yamanashi,-29.0,-13.0,-56.0,-51.0,-9.0,8.0
+2020-03-29,Kenya,Total,-45.0,-33.0,-20.0,-39.0,-22.0,17.0
+2020-03-29,Kyrgyzstan,Total,-74.0,-64.0,-32.0,-70.0,-43.0,15.0
+2020-03-29,Cambodia,Total,-43.0,-29.0,-31.0,-57.0,-15.0,12.0
+2020-03-29,South Korea,Total,-19.0,11.0,51.0,-17.0,-12.0,6.0
+2020-03-29,Kuwait,Total,-56.0,-30.0,-48.0,-49.0,-42.0,23.0
+2020-03-29,Kuwait,Al Ahmadi Governorate,-52.0,-28.0,-40.0,-37.0,-34.0,20.0
+2020-03-29,Kuwait,Al Asimah Governate,-65.0,-34.0,-56.0,-53.0,-50.0,21.0
+2020-03-29,Kuwait,Al Farwaniyah Governorate,-50.0,-31.0,-47.0,-55.0,-37.0,24.0
+2020-03-29,Kuwait,Al Jahra Governorate,-46.0,-30.0,-38.0,-18.0,-32.0,19.0
+2020-03-29,Kuwait,Hawalli Governorate,-61.0,-28.0,-53.0,-40.0,-52.0,26.0
+2020-03-29,Kuwait,Mubarak Al-Kabeer Governorate,-56.0,-34.0,-51.0,-42.0,-52.0,21.0
+2020-03-29,Kazakhstan,Total,-45.0,-24.0,-20.0,-32.0,-17.0,9.0
+2020-03-29,Laos,Total,-45.0,-23.0,-18.0,-47.0,-9.0,11.0
+2020-03-29,Lebanon,Total,-73.0,-48.0,-59.0,-84.0,-41.0,15.0
+2020-03-29,Liechtenstein,Total,-90.0,-22.0,,,,
+2020-03-29,Sri Lanka,Total,-86.0,-87.0,-57.0,-78.0,-50.0,32.0
+2020-03-29,Lithuania,Total,-72.0,-38.0,-28.0,-63.0,-33.0,11.0
+2020-03-29,Lithuania,Alytus County,-71.0,-36.0,0.0,-70.0,-32.0,17.0
+2020-03-29,Lithuania,Kaunas County,-74.0,-40.0,-48.0,-68.0,-33.0,11.0
+2020-03-29,Lithuania,Klaipėda County,-73.0,-31.0,-43.0,-59.0,-36.0,11.0
+2020-03-29,Lithuania,Marijampolė County,-64.0,-39.0,-35.0,-41.0,-27.0,18.0
+2020-03-29,Lithuania,Panevėžys County,-70.0,-36.0,-32.0,-63.0,-26.0,7.0
+2020-03-29,Lithuania,Tauragė County,-60.0,-31.0,,-46.0,-23.0,15.0
+2020-03-29,Lithuania,Telšiai County,-67.0,-40.0,-18.0,-44.0,-24.0,17.0
+2020-03-29,Lithuania,Utena County,-63.0,-22.0,1.0,-35.0,-23.0,16.0
+2020-03-29,Lithuania,Vilnius County,-74.0,-41.0,-22.0,-67.0,-40.0,12.0
+2020-03-29,Lithuania,Šiauliai County,-73.0,-39.0,-41.0,-38.0,-30.0,7.0
+2020-03-29,Luxembourg,Total,-90.0,-70.0,-66.0,-78.0,-60.0,23.0
+2020-03-29,Latvia,Total,-50.0,-22.0,-18.0,-48.0,-25.0,7.0
+2020-03-29,Libya,Total,-49.0,-28.0,-32.0,-52.0,-36.0,21.0
+2020-03-29,Moldova,Total,-67.0,-44.0,-43.0,-68.0,-37.0,12.0
+2020-03-29,North Macedonia,Total,-74.0,-41.0,-44.0,-69.0,-51.0,18.0
+2020-03-29,Mali,Total,-25.0,-18.0,-12.0,-36.0,0.0,9.0
+2020-03-29,Myanmar,Total,-46.0,-29.0,-19.0,-35.0,-10.0,12.0
+2020-03-29,Mongolia,Total,-16.0,5.0,5.0,-16.0,-2.0,2.0
+2020-03-29,Malta,Total,-76.0,-38.0,-45.0,-57.0,-49.0,19.0
+2020-03-29,Mauritius,Total,-89.0,-86.0,-88.0,-89.0,-69.0,24.0
+2020-03-29,Mauritius,Flacq District,-92.0,-89.0,-88.0,,-72.0,8.0
+2020-03-29,Mauritius,Grand Port District,-94.0,-90.0,-90.0,-94.0,-70.0,8.0
+2020-03-29,Mauritius,Moka District,-97.0,-76.0,,-74.0,-65.0,8.0
+2020-03-29,Mauritius,Pamplemousses District,-81.0,-82.0,-91.0,-81.0,-67.0,7.0
+2020-03-29,Mauritius,Plaines Wilhems District,-91.0,-88.0,,-92.0,-71.0,37.0
+2020-03-29,Mauritius,Port Louis District,-88.0,-89.0,-85.0,-87.0,-65.0,6.0
+2020-03-29,Mauritius,Rivière Noire District,-92.0,-88.0,-91.0,-82.0,-73.0,8.0
+2020-03-29,Mauritius,Rivière du Rempart District,-93.0,-93.0,-100.0,,-67.0,8.0
+2020-03-29,Mauritius,Rodrigues District,,,-55.0,,-62.0,
+2020-03-29,Mauritius,Savanne District,-91.0,-83.0,-28.0,,-69.0,
+2020-03-29,Mexico,Total,-45.0,-19.0,-46.0,-47.0,-20.0,11.0
+2020-03-29,Malaysia,Total,-81.0,-58.0,-68.0,-83.0,-52.0,31.0
+2020-03-29,Mozambique,Total,-26.0,-13.0,-22.0,-29.0,1.0,10.0
+2020-03-29,Namibia,Total,-56.0,-42.0,-39.0,-74.0,-28.0,16.0
+2020-03-29,Niger,Total,-23.0,-15.0,-19.0,-25.0,-1.0,9.0
+2020-03-29,Nigeria,Total,-39.0,-25.0,-24.0,-34.0,-11.0,15.0
+2020-03-29,Nicaragua,Total,-45.0,-25.0,-31.0,-38.0,-17.0,11.0
+2020-03-29,Netherlands,Total,-65.0,-29.0,-30.0,-68.0,-35.0,11.0
+2020-03-29,Netherlands,Drenthe,-61.0,-30.0,-27.0,-58.0,-29.0,9.0
+2020-03-29,Netherlands,Flevoland,-56.0,-25.0,-5.0,-63.0,-34.0,10.0
+2020-03-29,Netherlands,Friesland,-57.0,-28.0,-11.0,-51.0,-28.0,9.0
+2020-03-29,Netherlands,Gelderland,-66.0,-28.0,-29.0,-62.0,-33.0,10.0
+2020-03-29,Netherlands,Groningen,-65.0,-31.0,2.0,-63.0,-33.0,10.0
+2020-03-29,Netherlands,Limburg,-76.0,-34.0,-59.0,-65.0,-38.0,12.0
+2020-03-29,Netherlands,North Brabant,-68.0,-28.0,-33.0,-71.0,-34.0,12.0
+2020-03-29,Netherlands,North Holland,-66.0,-31.0,-35.0,-78.0,-40.0,12.0
+2020-03-29,Netherlands,Overijssel,-67.0,-29.0,-25.0,-66.0,-34.0,11.0
+2020-03-29,Netherlands,South Holland,-60.0,-26.0,-22.0,-64.0,-35.0,11.0
+2020-03-29,Netherlands,Utrecht,-60.0,-32.0,-17.0,-70.0,-36.0,11.0
+2020-03-29,Netherlands,Zeeland,-69.0,-40.0,-46.0,-57.0,-31.0,10.0
+2020-03-29,Norway,Total,-65.0,-32.0,-5.0,-57.0,-34.0,11.0
+2020-03-29,Norway,Agder,-59.0,-21.0,-1.0,-39.0,-31.0,9.0
+2020-03-29,Norway,Innlandet,-66.0,-37.0,-8.0,-54.0,-32.0,10.0
+2020-03-29,Norway,Møre og Romsdal,-73.0,-38.0,-40.0,-67.0,-29.0,10.0
+2020-03-29,Norway,Nordland,-61.0,-18.0,24.0,-71.0,-24.0,8.0
+2020-03-29,Norway,Oslo,-68.0,-26.0,-7.0,-64.0,-45.0,14.0
+2020-03-29,Norway,Rogaland,-61.0,-38.0,4.0,-58.0,-35.0,11.0
+2020-03-29,Norway,Troms Og Finnmark,-74.0,-46.0,-24.0,-71.0,-32.0,10.0
+2020-03-29,Norway,Trondelag,-74.0,-41.0,-15.0,-68.0,-37.0,13.0
+2020-03-29,Norway,Vestfold Og Telemark,-59.0,-23.0,13.0,-52.0,-30.0,10.0
+2020-03-29,Norway,Vestland,-71.0,-47.0,-31.0,-66.0,-36.0,12.0
+2020-03-29,Norway,Viken,-56.0,-21.0,24.0,-59.0,-33.0,11.0
+2020-03-29,Nepal,Total,-78.0,-69.0,-55.0,-74.0,-72.0,28.0
+2020-03-29,New Zealand,Total,-91.0,-54.0,-78.0,-84.0,-59.0,22.0
+2020-03-29,New Zealand,Auckland,-89.0,-55.0,-70.0,-83.0,-64.0,25.0
+2020-03-29,New Zealand,Bay Of Plenty,-92.0,-51.0,-86.0,-83.0,-52.0,22.0
+2020-03-29,New Zealand,Canterbury,-90.0,-56.0,-83.0,-90.0,-60.0,22.0
+2020-03-29,New Zealand,Gisborne,-100.0,-48.0,-88.0,,-47.0,
+2020-03-29,New Zealand,Hawke's Bay,-94.0,-53.0,-78.0,-84.0,-51.0,31.0
+2020-03-29,New Zealand,Manawatu-Wanganui,-93.0,-50.0,-76.0,-84.0,-54.0,33.0
+2020-03-29,New Zealand,Marlborough,-92.0,-60.0,-83.0,-91.0,-25.0,0.0
+2020-03-29,New Zealand,Nelson,-100.0,-60.0,-81.0,,-61.0,4.0
+2020-03-29,New Zealand,Northland,-93.0,-55.0,-86.0,-86.0,-52.0,32.0
+2020-03-29,New Zealand,Otago,-95.0,-62.0,-82.0,-91.0,-64.0,39.0
+2020-03-29,New Zealand,Southland,-96.0,-53.0,-83.0,,-48.0,17.0
+2020-03-29,New Zealand,Taranaki,-95.0,-52.0,-86.0,,-51.0,17.0
+2020-03-29,New Zealand,Tasman,-90.0,-67.0,-89.0,,-54.0,
+2020-03-29,New Zealand,Waikato,-94.0,-55.0,-84.0,-82.0,-57.0,23.0
+2020-03-29,New Zealand,Wellington,-93.0,-54.0,-63.0,-84.0,-62.0,20.0
+2020-03-29,New Zealand,West Coast,-100.0,-61.0,-87.0,,-54.0,
+2020-03-29,Oman,Total,-52.0,-35.0,-41.0,-64.0,-34.0,17.0
+2020-03-29,Panama,Total,-84.0,-61.0,-78.0,-77.0,-59.0,31.0
+2020-03-29,Peru,Total,-82.0,-57.0,-76.0,-83.0,-55.0,29.0
+2020-03-29,Papua New Guinea,Total,-20.0,-9.0,-12.0,-46.0,11.0,
+2020-03-29,Philippines,Total,-81.0,-59.0,-59.0,-82.0,-54.0,26.0
+2020-03-29,Pakistan,Total,-70.0,-55.0,-45.0,-62.0,-41.0,18.0
+2020-03-29,Poland,Total,-78.0,-59.0,-59.0,-71.0,-36.0,13.0
+2020-03-29,Poland,Greater Poland Voivodeship,-80.0,-61.0,-62.0,-73.0,-37.0,13.0
+2020-03-29,Poland,Kuyavian-Pomeranian Voivodeship,-79.0,-63.0,-73.0,-78.0,-33.0,12.0
+2020-03-29,Poland,Lesser Poland Voivodeship,-84.0,-65.0,-69.0,-78.0,-41.0,14.0
+2020-03-29,Poland,Lower Silesian Voivodeship,-82.0,-65.0,-71.0,-77.0,-38.0,13.0
+2020-03-29,Poland,Lublin Voivodeship,-71.0,-44.0,-25.0,-71.0,-32.0,12.0
+2020-03-29,Poland,Lubusz Voivodeship,-77.0,-65.0,-55.0,-72.0,-37.0,12.0
+2020-03-29,Poland,Masovian Voivodeship,-77.0,-54.0,-60.0,-70.0,-35.0,13.0
+2020-03-29,Poland,Opole Voivodeship,-79.0,-62.0,-55.0,-72.0,-37.0,12.0
+2020-03-29,Poland,Podkarpackie Voivodeship,-71.0,-46.0,-11.0,-71.0,-36.0,13.0
+2020-03-29,Poland,Podlaskie Voivodeship,-75.0,-47.0,-17.0,-60.0,-32.0,11.0
+2020-03-29,Poland,Pomeranian Voivodeship,-82.0,-64.0,-78.0,-78.0,-38.0,14.0
+2020-03-29,Poland,Silesian Voivodeship,-77.0,-58.0,-50.0,-65.0,-35.0,13.0
+2020-03-29,Poland,Swietokrzyskie,-74.0,-44.0,-26.0,-67.0,-34.0,12.0
+2020-03-29,Poland,Warmian-Masurian Voivodeship,-77.0,-60.0,-63.0,-73.0,-35.0,11.0
+2020-03-29,Poland,West Pomeranian Voivodeship,-80.0,-66.0,-76.0,-69.0,-39.0,12.0
+2020-03-29,Poland,Łódź Voivodeship,-74.0,-55.0,-49.0,-66.0,-29.0,13.0
+2020-03-29,Puerto Rico,Total,-77.0,-51.0,-75.0,-79.0,-48.0,21.0
+2020-03-29,Portugal,Total,-83.0,-59.0,-80.0,-78.0,-53.0,22.0
+2020-03-29,Portugal,Aveiro District,-83.0,-61.0,-84.0,-83.0,-53.0,24.0
+2020-03-29,Portugal,Azores,-83.0,-56.0,-66.0,-87.0,-47.0,18.0
+2020-03-29,Portugal,Beja District,-83.0,-59.0,-60.0,,-40.0,24.0
+2020-03-29,Portugal,Braga,-83.0,-60.0,-82.0,-76.0,-52.0,24.0
+2020-03-29,Portugal,Bragança District,-85.0,-66.0,-57.0,-78.0,-52.0,18.0
+2020-03-29,Portugal,Castelo Branco District,-81.0,-61.0,-65.0,-76.0,-48.0,31.0
+2020-03-29,Portugal,Coimbra District,-83.0,-61.0,-80.0,-77.0,-48.0,23.0
+2020-03-29,Portugal,Faro District,-83.0,-60.0,-78.0,-82.0,-54.0,21.0
+2020-03-29,Portugal,Guarda District,-86.0,-64.0,-75.0,-68.0,-46.0,28.0
+2020-03-29,Portugal,Leiria District,-85.0,-62.0,-85.0,-81.0,-50.0,23.0
+2020-03-29,Portugal,Lisbon,-84.0,-58.0,-82.0,-79.0,-56.0,22.0
+2020-03-29,Portugal,Madeira,-89.0,-63.0,-86.0,-77.0,-60.0,27.0
+2020-03-29,Portugal,Portalegre District,-85.0,-63.0,-70.0,,-42.0,24.0
+2020-03-29,Portugal,Porto District,-84.0,-59.0,-82.0,-79.0,-54.0,23.0
+2020-03-29,Portugal,Santarém District,-83.0,-59.0,-77.0,-81.0,-46.0,20.0
+2020-03-29,Portugal,Setubal,-82.0,-56.0,-78.0,-74.0,-54.0,20.0
+2020-03-29,Portugal,Viana do Castelo District,-85.0,-68.0,-76.0,-76.0,-51.0,26.0
+2020-03-29,Portugal,Vila Real District,-86.0,-64.0,-71.0,-72.0,-52.0,33.0
+2020-03-29,Portugal,Viseu District,-82.0,-60.0,-65.0,-61.0,-48.0,22.0
+2020-03-29,Portugal,Évora District,-83.0,-59.0,-78.0,-77.0,-48.0,29.0
+2020-03-29,Paraguay,Total,-68.0,-52.0,-71.0,-76.0,-30.0,23.0
+2020-03-29,Qatar,Total,-51.0,-25.0,-34.0,-52.0,-31.0,22.0
+2020-03-29,Reunion,Total,-96.0,-88.0,-92.0,-82.0,,
+2020-03-29,Romania,Total,-81.0,-53.0,-60.0,-72.0,-39.0,15.0
+2020-03-29,Romania,Alba County,-83.0,-58.0,-49.0,-62.0,-45.0,12.0
+2020-03-29,Romania,Arad County,-81.0,-55.0,-45.0,-69.0,-38.0,15.0
+2020-03-29,Romania,Argeș County,-79.0,-54.0,-45.0,-73.0,-36.0,15.0
+2020-03-29,Romania,Bacău County,-80.0,-55.0,-47.0,-77.0,-38.0,15.0
+2020-03-29,Romania,Bihor County,-80.0,-59.0,-39.0,-64.0,-38.0,14.0
+2020-03-29,Romania,Bistrița-Năsăud County,-82.0,-64.0,-64.0,-64.0,-43.0,17.0
+2020-03-29,Romania,Botoșani County,-77.0,-51.0,-6.0,-67.0,-38.0,14.0
+2020-03-29,Romania,Brașov County,-85.0,-61.0,-79.0,-79.0,-43.0,17.0
+2020-03-29,Romania,Brăila County,-78.0,-47.0,-71.0,-70.0,-31.0,15.0
+2020-03-29,Romania,Bucharest,-85.0,-50.0,-86.0,-74.0,-45.0,18.0
+2020-03-29,Romania,Buzău County,-76.0,-56.0,-50.0,-59.0,-29.0,15.0
+2020-03-29,Romania,Caraș-Severin County,-77.0,-56.0,-53.0,-69.0,-41.0,19.0
+2020-03-29,Romania,Cluj County,-85.0,-62.0,-66.0,-77.0,-45.0,17.0
+2020-03-29,Romania,Constanța County,-80.0,-49.0,-72.0,-69.0,-37.0,16.0
+2020-03-29,Romania,Covasna County,-85.0,-61.0,-60.0,-61.0,-36.0,20.0
+2020-03-29,Romania,Călărași County,-65.0,-50.0,-53.0,-60.0,-24.0,14.0
+2020-03-29,Romania,Dolj County,-78.0,-53.0,-58.0,-67.0,-32.0,14.0
+2020-03-29,Romania,Dâmbovița County,-76.0,-52.0,-50.0,-61.0,-32.0,14.0
+2020-03-29,Romania,Galați,-80.0,-51.0,-66.0,-71.0,-38.0,16.0
+2020-03-29,Romania,Giurgiu County,-63.0,-38.0,-37.0,-45.0,-19.0,14.0
+2020-03-29,Romania,Gorj County,-73.0,-48.0,-50.0,-67.0,-36.0,15.0
+2020-03-29,Romania,Harghita County,-79.0,-65.0,-60.0,-60.0,-40.0,18.0
+2020-03-29,Romania,Hunedoara County,-82.0,-53.0,-66.0,-67.0,-44.0,14.0
+2020-03-29,Romania,Ialomița County,-62.0,-49.0,-47.0,-63.0,-28.0,17.0
+2020-03-29,Romania,Iași County,-82.0,-53.0,-57.0,-73.0,-39.0,17.0
+2020-03-29,Romania,Ilfov County,-78.0,-47.0,-61.0,-78.0,-39.0,16.0
+2020-03-29,Romania,Maramureș County,-81.0,-58.0,-44.0,-67.0,-44.0,13.0
+2020-03-29,Romania,Mehedinți County,-78.0,-48.0,-51.0,-64.0,-33.0,20.0
+2020-03-29,Romania,Mureș County,-81.0,-58.0,-61.0,-68.0,-37.0,14.0
+2020-03-29,Romania,Neamț County,-80.0,-55.0,-62.0,-79.0,-39.0,16.0
+2020-03-29,Romania,Olt County,-70.0,-46.0,-53.0,-66.0,-35.0,13.0
+2020-03-29,Romania,Prahova,-81.0,-56.0,-72.0,-73.0,-36.0,14.0
+2020-03-29,Romania,Satu Mare County,-82.0,-58.0,-39.0,-72.0,-40.0,13.0
+2020-03-29,Romania,Sibiu,-83.0,-63.0,-70.0,-73.0,-42.0,15.0
+2020-03-29,Romania,Suceava County,-85.0,-65.0,-49.0,-78.0,-48.0,17.0
+2020-03-29,Romania,Sălaj,-82.0,-50.0,-55.0,-64.0,-36.0,16.0
+2020-03-29,Romania,Teleorman County,-56.0,-47.0,-21.0,-55.0,-24.0,13.0
+2020-03-29,Romania,Timiș County,-83.0,-54.0,-71.0,-74.0,-42.0,16.0
+2020-03-29,Romania,Tulcea County,-79.0,-53.0,-60.0,-71.0,-33.0,16.0
+2020-03-29,Romania,Vaslui County,-76.0,-53.0,-28.0,-68.0,-37.0,13.0
+2020-03-29,Romania,Vrancea County,-81.0,-56.0,-36.0,-74.0,-37.0,17.0
+2020-03-29,Romania,Vâlcea County,-78.0,-52.0,-50.0,-66.0,-36.0,14.0
+2020-03-29,Rwanda,Total,-56.0,-57.0,-18.0,-75.0,-31.0,22.0
+2020-03-29,Saudi Arabia,Total,-54.0,-24.0,-49.0,-75.0,-45.0,23.0
+2020-03-29,Sweden,Total,-24.0,-10.0,43.0,-36.0,-18.0,5.0
+2020-03-29,Sweden,Blekinge County,-6.0,-5.0,26.0,-23.0,-18.0,9.0
+2020-03-29,Sweden,Dalarna County,-34.0,-15.0,1.0,-30.0,-17.0,5.0
+2020-03-29,Sweden,Gavleborg County,-27.0,-10.0,10.0,-27.0,-14.0,5.0
+2020-03-29,Sweden,Gotland County,-12.0,-6.0,,-45.0,-10.0,7.0
+2020-03-29,Sweden,Halland County,-13.0,-7.0,74.0,-25.0,-14.0,5.0
+2020-03-29,Sweden,Jamtland County,-41.0,-25.0,3.0,-46.0,-16.0,8.0
+2020-03-29,Sweden,Jonkoping County,-24.0,-7.0,30.0,-29.0,-23.0,6.0
+2020-03-29,Sweden,Kalmar County,-11.0,-5.0,21.0,-27.0,-13.0,5.0
+2020-03-29,Sweden,Kronoberg County,-19.0,-6.0,-51.0,-35.0,-17.0,8.0
+2020-03-29,Sweden,Norrbotten County,-30.0,-14.0,60.0,-38.0,-15.0,2.0
+2020-03-29,Sweden,Skåne County,-23.0,-8.0,23.0,-43.0,-16.0,6.0
+2020-03-29,Sweden,Stockholm County,-31.0,-14.0,24.0,-45.0,-21.0,7.0
+2020-03-29,Sweden,Södermanland County,-18.0,-7.0,46.0,-41.0,-19.0,5.0
+2020-03-29,Sweden,Uppsala County,-27.0,-9.0,35.0,-36.0,-18.0,7.0
+2020-03-29,Sweden,Varmland County,-28.0,-11.0,0.0,-25.0,-13.0,5.0
+2020-03-29,Sweden,Västerbotten County,-27.0,-10.0,34.0,-32.0,-18.0,3.0
+2020-03-29,Sweden,Västernorrland County,-26.0,-9.0,-14.0,-26.0,-17.0,4.0
+2020-03-29,Sweden,Västmanland County,-18.0,-7.0,-25.0,-32.0,-17.0,5.0
+2020-03-29,Sweden,Västra Götaland County,-24.0,-9.0,38.0,-34.0,-18.0,6.0
+2020-03-29,Sweden,Örebro County,-18.0,-7.0,59.0,-28.0,-18.0,5.0
+2020-03-29,Sweden,Östergötland County,-18.0,-12.0,60.0,-33.0,-17.0,5.0
+2020-03-29,Singapore,Total,-28.0,-6.0,-12.0,-40.0,-15.0,15.0
+2020-03-29,Slovenia,Total,-88.0,-92.0,-43.0,-54.0,-45.0,13.0
+2020-03-29,Slovenia,Administrative unit Maribor,-90.0,-95.0,-53.0,-69.0,-45.0,27.0
+2020-03-29,Slovenia,Ajdovščina,-86.0,-41.0,,-65.0,-56.0,
+2020-03-29,Slovenia,Brežice,-91.0,-55.0,,,-57.0,
+2020-03-29,Slovenia,Celje,-88.0,-94.0,-58.0,-52.0,-39.0,11.0
+2020-03-29,Slovenia,Cerknica,-83.0,,,,-53.0,
+2020-03-29,Slovenia,Domžale,-89.0,-89.0,,-55.0,-39.0,22.0
+2020-03-29,Slovenia,Dravograd,-70.0,,,,-45.0,
+2020-03-29,Slovenia,Gornja Radgona,-88.0,-33.0,,,-48.0,
+2020-03-29,Slovenia,Grosuplje,-90.0,-43.0,,,-38.0,2.0
+2020-03-29,Slovenia,Idrija,-66.0,-45.0,,,-55.0,
+2020-03-29,Slovenia,Ilirska Bistrica,-80.0,,,,-55.0,
+2020-03-29,Slovenia,Izola,-84.0,-33.0,,,-63.0,
+2020-03-29,Slovenia,Jesenice,-90.0,-53.0,-67.0,-61.0,-53.0,
+2020-03-29,Slovenia,Kamnik,-95.0,-47.0,,,-39.0,2.0
+2020-03-29,Slovenia,Koper,-92.0,-85.0,-63.0,-73.0,-47.0,13.0
+2020-03-29,Slovenia,Kočevje,-73.0,-51.0,,,-52.0,
+2020-03-29,Slovenia,Kranj,-90.0,-91.0,,-75.0,-52.0,30.0
+2020-03-29,Slovenia,Krško,-71.0,-54.0,,,-36.0,
+2020-03-29,Slovenia,Laško,-80.0,-51.0,,,-53.0,
+2020-03-29,Slovenia,Lenart,-89.0,-41.0,,,-51.0,
+2020-03-29,Slovenia,Lendava,-78.0,-55.0,,,-48.0,
+2020-03-29,Slovenia,Litija,-77.0,-35.0,,,-53.0,
+2020-03-29,Slovenia,Ljubljana,-87.0,-91.0,-51.0,-58.0,-44.0,15.0
+2020-03-29,Slovenia,Ljutomer,-88.0,-48.0,,,-52.0,
+2020-03-29,Slovenia,Logatec,-88.0,-47.0,,-81.0,-53.0,
+2020-03-29,Slovenia,Metlika,,,,,-58.0,
+2020-03-29,Slovenia,Mozirje,-80.0,-45.0,,,-53.0,
+2020-03-29,Slovenia,Municipality of Hrastnik,,,,,-53.0,
+2020-03-29,Slovenia,Murska Sobota,-90.0,-39.0,,-44.0,-50.0,1.0
+2020-03-29,Slovenia,Nova Gorica,-89.0,-49.0,,-60.0,-52.0,2.0
+2020-03-29,Slovenia,Novo Mesto,-90.0,-45.0,,,-37.0,19.0
+2020-03-29,Slovenia,Ormož,-61.0,-50.0,,,-59.0,
+2020-03-29,Slovenia,Pesnica,-83.0,,,,-55.0,
+2020-03-29,Slovenia,Piran,-90.0,-81.0,-53.0,,-61.0,
+2020-03-29,Slovenia,Postojna,-73.0,-46.0,,-51.0,-51.0,
+2020-03-29,Slovenia,Ptuj,-95.0,-92.0,,-61.0,-37.0,18.0
+2020-03-29,Slovenia,Radlje ob Dravi,-81.0,-45.0,,,-49.0,
+2020-03-29,Slovenia,Radovljica,-94.0,-50.0,-62.0,-61.0,-61.0,
+2020-03-29,Slovenia,Ravne na Koroškem,-76.0,-41.0,,,-30.0,
+2020-03-29,Slovenia,Ribnica,,,,,-52.0,
+2020-03-29,Slovenia,Ruše,-78.0,,,,-52.0,
+2020-03-29,Slovenia,Sevnica,-85.0,-40.0,,,-51.0,
+2020-03-29,Slovenia,Sežana,-95.0,-57.0,,,-44.0,
+2020-03-29,Slovenia,Slovenj Gradec,-86.0,-57.0,,,-58.0,
+2020-03-29,Slovenia,Slovenska Bistrica,-100.0,-49.0,,,-36.0,
+2020-03-29,Slovenia,Slovenske Konjice,-91.0,-36.0,,,-48.0,
+2020-03-29,Slovenia,Tolmin,-68.0,-49.0,,,-54.0,
+2020-03-29,Slovenia,Trbovlje,-86.0,-41.0,,,-50.0,
+2020-03-29,Slovenia,Trebnje,-92.0,-49.0,,,-57.0,
+2020-03-29,Slovenia,Tržič,-84.0,-44.0,,,-54.0,
+2020-03-29,Slovenia,Velenje,-93.0,-58.0,,-59.0,-47.0,0.0
+2020-03-29,Slovenia,Vrhnika,-88.0,-42.0,,,-50.0,
+2020-03-29,Slovenia,Zagorje ob Savi,-76.0,-45.0,,,-59.0,
+2020-03-29,Slovenia,Črnomelj,-70.0,-47.0,,,-47.0,
+2020-03-29,Slovenia,Šentjur,-74.0,-44.0,,,-54.0,
+2020-03-29,Slovenia,Škofja Loka,-90.0,-43.0,,-63.0,-64.0,1.0
+2020-03-29,Slovenia,Šmarje pri Jelšah,-82.0,-60.0,2.0,,-58.0,
+2020-03-29,Slovenia,Žalec,-100.0,-42.0,,,-41.0,0.0
+2020-03-29,Slovakia,Total,-82.0,-89.0,-9.0,-61.0,-38.0,10.0
+2020-03-29,Slovakia,Banská Bystrica Region,-81.0,-88.0,5.0,-59.0,-36.0,9.0
+2020-03-29,Slovakia,Bratislava Region,-83.0,-91.0,-3.0,-64.0,-40.0,12.0
+2020-03-29,Slovakia,Košice Region,-81.0,-90.0,67.0,-60.0,-34.0,9.0
+2020-03-29,Slovakia,Nitra Region,-81.0,-90.0,29.0,-58.0,-36.0,9.0
+2020-03-29,Slovakia,Prešov Region,-82.0,-90.0,-55.0,-71.0,-41.0,10.0
+2020-03-29,Slovakia,Trenčín Region,-78.0,-88.0,3.0,-57.0,-40.0,9.0
+2020-03-29,Slovakia,Trnava Region,-81.0,-89.0,45.0,-62.0,-38.0,10.0
+2020-03-29,Slovakia,Žilina Region,-83.0,-88.0,-25.0,-68.0,-41.0,10.0
+2020-03-29,Senegal,Total,-44.0,-31.0,-28.0,-50.0,-10.0,12.0
+2020-03-29,El Salvador,Total,-81.0,-62.0,-72.0,-73.0,-50.0,23.0
+2020-03-29,Togo,Total,-37.0,-25.0,-21.0,-41.0,-9.0,16.0
+2020-03-29,Thailand,Total,-55.0,-27.0,-54.0,-61.0,-21.0,16.0
+2020-03-29,Tajikistan,Total,-8.0,-8.0,4.0,-17.0,10.0,-3.0
+2020-03-29,Turkey,Total,-75.0,-39.0,-58.0,-71.0,-45.0,17.0
+2020-03-29,Trinidad and Tobago,Total,-29.0,10.0,-40.0,-70.0,-17.0,9.0
+2020-03-29,Taiwan,Total,-9.0,3.0,17.0,-24.0,-1.0,4.0
+2020-03-29,Tanzania,Total,-16.0,-8.0,-7.0,-11.0,-9.0,3.0
+2020-03-29,Uganda,Total,-50.0,-36.0,-16.0,-59.0,-23.0,19.0
+2020-03-29,United States of America,Total,-47.0,-22.0,-19.0,-51.0,-38.0,12.0
+2020-03-29,United States of America,Alabama,-41.0,-13.0,19.0,-30.0,-32.0,9.0
+2020-03-29,United States of America,Alaska,-48.0,-27.0,18.0,-55.0,-33.0,10.0
+2020-03-29,United States of America,Arizona,-40.0,-17.0,-7.0,-41.0,-33.0,10.0
+2020-03-29,United States of America,Arkansas,-29.0,-7.0,81.0,-22.0,-27.0,7.0
+2020-03-29,United States of America,California,-50.0,-24.0,-38.0,-54.0,-39.0,15.0
+2020-03-29,United States of America,Colorado,-51.0,-27.0,-12.0,-60.0,-40.0,13.0
+2020-03-29,United States of America,Connecticut,-56.0,-32.0,-52.0,-64.0,-38.0,15.0
+2020-03-29,United States of America,Delaware,-47.0,-28.0,-6.0,-57.0,-37.0,12.0
+2020-03-29,United States of America,District of Columbia,-64.0,-30.0,-41.0,-68.0,-47.0,14.0
+2020-03-29,United States of America,Florida,-50.0,-26.0,-48.0,-63.0,-41.0,13.0
+2020-03-29,United States of America,Georgia,-42.0,-17.0,-2.0,-52.0,-37.0,11.0
+2020-03-29,United States of America,Hawaii,-56.0,-36.0,-65.0,-72.0,-45.0,16.0
+2020-03-29,United States of America,Idaho,-42.0,-18.0,25.0,-34.0,-38.0,10.0
+2020-03-29,United States of America,Illinois,-53.0,-24.0,-29.0,-55.0,-39.0,13.0
+2020-03-29,United States of America,Indiana,-48.0,-25.0,24.0,-34.0,-36.0,11.0
+2020-03-29,United States of America,Iowa,-43.0,-10.0,41.0,-28.0,-29.0,10.0
+2020-03-29,United States of America,Kansas,-36.0,-14.0,72.0,-20.0,-30.0,9.0
+2020-03-29,United States of America,Kentucky,-37.0,-11.0,68.0,-34.0,-34.0,9.0
+2020-03-29,United States of America,Louisiana,-45.0,-16.0,-18.0,-49.0,-35.0,11.0
+2020-03-29,United States of America,Maine,-50.0,-22.0,-24.0,-56.0,-31.0,10.0
+2020-03-29,United States of America,Maryland,-45.0,-25.0,29.0,-51.0,-39.0,13.0
+2020-03-29,United States of America,Massachusetts,-59.0,-36.0,-56.0,-73.0,-42.0,16.0
+2020-03-29,United States of America,Michigan,-58.0,-28.0,15.0,-55.0,-43.0,12.0
+2020-03-29,United States of America,Minnesota,-58.0,-35.0,-16.0,-64.0,-38.0,14.0
+2020-03-29,United States of America,Mississippi,-32.0,-7.0,27.0,-29.0,-30.0,9.0
+2020-03-29,United States of America,Missouri,-38.0,-12.0,73.0,-34.0,-32.0,9.0
+2020-03-29,United States of America,Montana,-51.0,-25.0,28.0,-37.0,-37.0,10.0
+2020-03-29,United States of America,Nebraska,-34.0,-9.0,109.0,-18.0,-24.0,8.0
+2020-03-29,United States of America,Nevada,-47.0,-23.0,-38.0,-62.0,-52.0,14.0
+2020-03-29,United States of America,New Hampshire,-58.0,-35.0,-63.0,-63.0,-38.0,13.0
+2020-03-29,United States of America,New Jersey,-59.0,-33.0,-36.0,-70.0,-44.0,16.0
+2020-03-29,United States of America,New Mexico,-44.0,-18.0,-12.0,-31.0,-34.0,11.0
+2020-03-29,United States of America,New York,-62.0,-32.0,-47.0,-68.0,-46.0,16.0
+2020-03-29,United States of America,North Carolina,-40.0,-15.0,13.0,-51.0,-35.0,10.0
+2020-03-29,United States of America,North Dakota,-44.0,-13.0,73.0,-36.0,-24.0,9.0
+2020-03-29,United States of America,Ohio,-43.0,-19.0,117.0,-33.0,-35.0,10.0
+2020-03-29,United States of America,Oklahoma,-36.0,-12.0,29.0,-23.0,-32.0,9.0
+2020-03-29,United States of America,Oregon,-51.0,-25.0,-22.0,-47.0,-38.0,12.0
+2020-03-29,United States of America,Pennsylvania,-50.0,-27.0,7.0,-52.0,-38.0,12.0
+2020-03-29,United States of America,Rhode Island,-55.0,-30.0,-50.0,-67.0,-37.0,14.0
+2020-03-29,United States of America,South Carolina,-38.0,-11.0,-4.0,-34.0,-34.0,9.0
+2020-03-29,United States of America,South Dakota,-35.0,-3.0,126.0,-31.0,-25.0,8.0
+2020-03-29,United States of America,Tennessee,-35.0,-9.0,35.0,-35.0,-34.0,8.0
+2020-03-29,United States of America,Texas,-45.0,-23.0,-27.0,-47.0,-36.0,13.0
+2020-03-29,United States of America,Utah,-41.0,-14.0,26.0,-44.0,-40.0,10.0
+2020-03-29,United States of America,Vermont,-62.0,-42.0,-55.0,-71.0,-43.0,13.0
+2020-03-29,United States of America,Virginia,-39.0,-16.0,46.0,-50.0,-36.0,11.0
+2020-03-29,United States of America,Washington,-48.0,-26.0,-11.0,-56.0,-41.0,13.0
+2020-03-29,United States of America,West Virginia,-38.0,-16.0,52.0,-31.0,-33.0,8.0
+2020-03-29,United States of America,Wisconsin,-55.0,-30.0,-12.0,-50.0,-34.0,13.0
+2020-03-29,United States of America,Wyoming,-37.0,-13.0,29.0,-14.0,-29.0,8.0
+2020-03-29,Uruguay,Total,-75.0,-45.0,-79.0,-71.0,-35.0,22.0
+2020-03-29,Uruguay,Artigas Department,-60.0,-45.0,-71.0,-77.0,-24.0,-3.0
+2020-03-29,Uruguay,Canelones Department,-74.0,-49.0,-77.0,-75.0,-31.0,20.0
+2020-03-29,Uruguay,Cerro Largo Department,-74.0,-43.0,-76.0,-73.0,-28.0,13.0
+2020-03-29,Uruguay,Colonia Department,-78.0,-51.0,-84.0,-90.0,-38.0,21.0
+2020-03-29,Uruguay,Durazno Department,-68.0,-39.0,-68.0,-79.0,-21.0,-2.0
+2020-03-29,Uruguay,Flores Department,-83.0,-38.0,-72.0,,-20.0,
+2020-03-29,Uruguay,Florida Department,-63.0,-37.0,-78.0,-70.0,-23.0,13.0
+2020-03-29,Uruguay,Lavalleja Department,-53.0,-35.0,-76.0,-69.0,-22.0,-2.0
+2020-03-29,Uruguay,Maldonado Department,-87.0,-65.0,-88.0,-86.0,-56.0,24.0
+2020-03-29,Uruguay,Montevideo Department,-73.0,-37.0,-72.0,-58.0,-37.0,23.0
+2020-03-29,Uruguay,Paysandú Department,-68.0,-22.0,-75.0,-78.0,-23.0,18.0
+2020-03-29,Uruguay,Rivera Department,-71.0,-33.0,-76.0,-67.0,-33.0,12.0
+2020-03-29,Uruguay,Rocha Department,-89.0,-75.0,-89.0,-90.0,-41.0,9.0
+2020-03-29,Uruguay,Río Negro Department,-72.0,-49.0,-82.0,-64.0,-27.0,-3.0
+2020-03-29,Uruguay,Salto Department,-71.0,-49.0,-74.0,-68.0,-30.0,17.0
+2020-03-29,Uruguay,San José Department,-60.0,-40.0,-78.0,-61.0,-23.0,19.0
+2020-03-29,Uruguay,Soriano Department,-67.0,-52.0,-78.0,,-28.0,13.0
+2020-03-29,Uruguay,Tacuarembó Department,-67.0,-43.0,-77.0,-76.0,-25.0,15.0
+2020-03-29,Uruguay,Treinta y Tres Department,-60.0,-24.0,-75.0,-55.0,-20.0,
+2020-03-29,Venezuela,Total,-62.0,-44.0,-57.0,-62.0,-25.0,16.0
+2020-03-29,Viet Nam,Total,-52.0,-29.0,-33.0,-49.0,-20.0,16.0
+2020-03-29,Yemen,Total,-8.0,-1.0,-9.0,-9.0,-5.0,5.0
+2020-03-29,South Africa,Total,-79.0,-60.0,-55.0,-80.0,-49.0,24.0
+2020-03-29,Zambia,Total,-21.0,-8.0,-6.0,-24.0,0.0,10.0
+2020-03-29,Zimbabwe,Total,-2.0,24.0,-4.0,-6.0,14.0,13.0
