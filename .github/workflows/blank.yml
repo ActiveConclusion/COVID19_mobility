@@ -2,7 +2,7 @@ name: Python package
 
 on: 
   schedule:
-    - cron: '*/5 * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   build:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: 3.6
+        python-version: [3.6]
 
     steps:
     - uses: actions/checkout@v2
