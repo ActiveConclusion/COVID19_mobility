@@ -1,26 +1,45 @@
 # Scraper of Google COVID-19 Community Mobility Reports
 This is a repository with a data scraper of Community Mobility Reports and reports in different formats.
 
-## Requirements
+## How to run script
+```bash
+pip install requirements
+python source.py
 ```
-python >=3.5
-pdfminer
-urllib
-requests
-BeautifulSoup
-pandas
-```
-## Available reports
-```
-mobility_regions_multiple.xlsx - the detailed report by regions in Excel with multiple tabs 
-mobility_regions_single.xlsx - the detailed report by regions in Excel with single tab
-mobility_US_states_multiple.xlsx - the detailed report for the US in Excel with multiple tabs 
-mobility_US_states_single.xlsx - the detailed report for the US in Excel with single tab
-mobility_regions.csv - the detailed report by regions in CSV format
-mobility_US_states.csv - the detailed report for the US in CSV format
-```
-## TO DO
-1. Cleanup current shitcode
-2. Optimize parse flow
-3. Make feature for automatic data scraping
+## Repository structure
+------------
 
+    ├── README.md          <- The top-level README for developers using this project.
+    ├── data
+    │   ├── PDF files               <- PDF files which scraped from Google site of Community Mobility Reports
+    │
+    ├── jupyter notebook
+    │   ├── Scraper of Google COVID-19 Community Mobility Reports.ipynb      <- Jupyter notebook with a scraper 
+    │   ├── codes.csv               <- table with 2-letter codes of countries
+    │   ├── mobility_*.xlsx/.csv    <- scraped reports in different formats
+    │
+    ├── codes.csv                   <- table with 2-letter codes of countries
+    │
+    ├── mobility_report_US.csv      <- detailed scraped report for the US in CSV format
+    │
+    ├── mobility_report_regions.csv <- detailed scraped report of regions in CSV format
+    │
+    ├── report_source.txt           <- files on which current scraped reports were created
+    │
+    ├── requirements.txt            <- the requirements file for reproducing the code
+    │
+    └── source.py                   <- Source code for use in this project.
+
+--------
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## TODO
+1. Optimize parse flow
+2. Add feature of scraping time-series data from graphs
+
+## Dashboards based on these data
+1. [Dashboard for the US -1](https://public.tableau.com/profile/karl3594#!/vizhome/State-by-StateCOVID-19MobilityChanges/ChangesbyState)
+2. [Dashboard for the US -2](https://public.tableau.com/profile/sky.quintin#!/vizhome/Mobilitydata/CommunityMobility)
+3. [Here can be your great dashboard/visualization]
