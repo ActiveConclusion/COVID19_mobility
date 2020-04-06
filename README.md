@@ -40,6 +40,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 2. Add feature of scraping time-series data from graphs
 
 ## Dashboards based on these data
-1. [Dashboard for the US -1](https://public.tableau.com/profile/karl3594#!/vizhome/State-by-StateCOVID-19MobilityChanges/ChangesbyState)
-2. [Dashboard for the US -2](https://public.tableau.com/profile/sky.quintin#!/vizhome/Mobilitydata/CommunityMobility)
-3. [Here can be your great dashboard/visualization]
+1. [Dashboard for the US-1](https://public.tableau.com/profile/karl3594#!/vizhome/State-by-StateCOVID-19MobilityChanges/ChangesbyState)
+2. [Dashboard for the US-2](https://public.tableau.com/profile/sky.quintin#!/vizhome/Mobilitydata/CommunityMobility)
+3. [Dashboard for the world](https://public.tableau.com/profile/ryansoares#!/vizhome/COVID-19CommunityMobility/Dashboard1)
+4. [Here can be your great dashboard/visualization]
