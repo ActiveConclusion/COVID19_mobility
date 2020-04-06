@@ -3,13 +3,13 @@ This is a repository with a data scraper of Community Mobility Reports and repor
 
 ## How to run script
 ```bash
-pip install requirements
+pip install requirements.txt
 python source.py
 ```
 ## Repository structure
 ------------
 
-    ├── README.md          <- The top-level README for developers using this project.
+    ├── README.md                   <- The top-level README for developers using this project.
     ├── data
     │   ├── PDF files               <- PDF files which scraped from Google site of Community Mobility Reports
     │
