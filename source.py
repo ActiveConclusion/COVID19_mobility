@@ -229,7 +229,6 @@ def build_covid_report_detailed(directory='data', destination='mobility_report.c
 def run():
     """Run parse flow"""
     new_files_status = download_covid_pdfs()
-    new_files_status = True
     if new_files_status:
         build_covid_report_detailed(directory='data', destination='mobility_report_regions.csv',
                                     report_type='regions')
