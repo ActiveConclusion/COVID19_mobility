@@ -3,7 +3,7 @@ This is a repository with a data scraper of Community Mobility Reports and repor
 
 ## How to run script
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 python source.py
 ```
 ## Repository structure
