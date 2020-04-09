@@ -6,7 +6,7 @@ future==0.18.2
 idna==2.9
 numpy==1.18.2
 pandas==1.0.3
-pdfminer==20191125
+PyMuPDF==1.16.16
 pefile==2019.4.18
 pycryptodome==3.9.7
 PyInstaller==3.6

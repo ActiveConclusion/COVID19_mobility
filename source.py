@@ -8,10 +8,7 @@ import urllib.request
 import time
 from bs4 import BeautifulSoup
 
-from pdfminer.converter import TextConverter
-from pdfminer.pdfinterp import PDFPageInterpreter
-from pdfminer.pdfinterp import PDFResourceManager
-from pdfminer.pdfpage import PDFPage
+import fitz
 
 import pandas as pd
 
@@ -45,24 +42,14 @@ def download_covid_pdfs():
 
 def extract_text_from_pdf(pdf_path):
     """Extract raw text from PDF file"""
-    resource_manager = PDFResourceManager()
-    fake_file_handle = io.StringIO()
-    converter = TextConverter(resource_manager, fake_file_handle)
-    page_interpreter = PDFPageInterpreter(resource_manager, converter)
-
-    with open(pdf_path, 'rb') as fh:
-        for page in PDFPage.get_pages(fh,
-                                      caching=True,
-                                      check_extractable=True):
-            page_interpreter.process_page(page)
-
-        text = fake_file_handle.getvalue()
-    # close open handles
-    converter.close()
-    fake_file_handle.close()
-
-    if text:
-        return text
+    doc = fitz.open(pdf_path)
+    page_count = doc.pageCount
+    text = ''
+    for page in range(page_count):
+        p = doc.loadPage(page)
+        text = text + p.getText()
+    text = text.replace("\n","")
+    return text
 
 
 def parse_covid_report(text, regions=False):
@@ -105,18 +92,26 @@ def parse_covid_report(text, regions=False):
                 m = text[last_index + 1:].find(attributes[0])
                 region = text[last_index + 1 + m - reg_ind:last_index + 1 + m]
 
+                perc = region.find('80%')
+                residence = region.find('residence.')
+                dat = region.find('date')
                 xoc = region.find('\x0c')
                 baseline = region.find('baseline')
-                dat = region.find('date')
 
+                if perc >= 0:
+                    region = region[3:]
+                    break
+                if residence >= 0:
+                    region = region[10:]
+                    break
+                if dat >= 0:
+                    region = region[4:]
+                    break
                 if xoc >= 0:
                     region = region[xoc + 1:]
                     break
                 if baseline >= 0:
                     region = region[8:]
-                    break
-                if dat >= 0:
-                    region = region[4:]
                     break
 
                 reg_ind += 1
