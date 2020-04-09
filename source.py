@@ -1,4 +1,3 @@
-import pdfminer
 import io
 import os
 from collections import OrderedDict
