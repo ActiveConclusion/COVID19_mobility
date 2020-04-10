@@ -11,10 +11,7 @@ jobs:
       - name: Set up Python 3.x
         uses: actions/setup-python@v1
         with:
-          python-version: '3.6'
-      - uses: actions/checkout@master
-        with:
-          fetch-depth: 1  
+          python-version: '3.6' 
       - name: Install requirements
         run: pip install -r requirements.txt 
       - name: Download and parse new reports 
