@@ -1,0 +1,31 @@
+name: Parse Reports
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.6'
+      - uses: actions/checkout@master
+        with:
+          fetch-depth: 1  
+      - name: Install requirements
+        run: pip install -r requirements.txt 
+      - name: Download and parse new reports 
+        run: python source.py
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update data" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
