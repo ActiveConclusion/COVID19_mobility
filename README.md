@@ -3,6 +3,7 @@ This is a repository with a data scraper of Community Mobility Reports and repor
 
 ## About Google COVID-19 Community Mobility Reports
 In early April 2020, Google started publishing an early release of our COVID-19 Community Mobility Reports to provide insights into what has changed in response to work from home, shelter in place, and other policies aimed at flattening the curve of this pandemic. These reports have been developed to be helpful while adhering to our stringent privacy protocols and policies. 
+
 These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential.
 
 ## How to run script
