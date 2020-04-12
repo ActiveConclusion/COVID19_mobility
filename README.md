@@ -54,3 +54,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 3. [Dashboard for the world](https://public.tableau.com/profile/ryansoares#!/vizhome/COVID-19CommunityMobility/Dashboard1)
 4. [Balefire COVID-19 USA Data Explorer](http://balefire.info/)
 5. [Here can be your great dashboard/visualization]
+
+## Articles
+1. [Is Your Community Doing Enough To Fight COVID-19?](https://towardsdatascience.com/is-your-community-doing-enough-to-fight-covid-19-aa745b424eb1) by [Molly Liebeskind](https://towardsdatascience.com/@molly.liebeskind)
+2. [Here can be your great article/research publication]
