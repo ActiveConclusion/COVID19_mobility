@@ -1,5 +1,6 @@
 import io
 import os
+import datetime
 from collections import OrderedDict
 
 import requests
@@ -12,8 +13,8 @@ import fitz
 import pandas as pd
 
 
-def download_covid_pdfs():
-    """Download all new (which not present in "data" directory) PDFs files 
+def download_covid_pdfs(directory="pdf_reports"):
+    """Download all new (which not present in directory) PDFs files 
     from Google Community Mobility Reports to the "data" directory
     """
     url = 'https://www.google.com/covid19/mobility/'
@@ -22,20 +23,20 @@ def download_covid_pdfs():
     soup = BeautifulSoup(response.text, "html.parser")
     new_files = False
 
-    if not os.path.exists('data'):
-        os.makedirs('data')
+    if not os.path.exists(directory):
+        os.makedirs(directory)
 
     for one_a_tag in soup.findAll('a', {"class": "download-link"}):
         link = one_a_tag['href']
         file_name = link[link.find('mobility') + len('mobility') + 1:]
-        path = 'data/' + file_name
+        path = os.path.join(directory, file_name)
         if not os.path.isfile(path):
             new_files = True
             urllib.request.urlretrieve(link, path)
             print(file_name)
             time.sleep(1)
     if not new_files:
-        print('No updates')
+        print('Google: No updates')
     return new_files
 
 
@@ -143,10 +144,10 @@ def parse_covid_report(text, regions=False):
     return data
 
 
-def build_covid_report_detailed(directory='data', destination='mobility_report.csv', report_type='regions'):
+def build_covid_report_detailed(directory='pdf_reports', destination='mobility_report.csv', report_type='regions'):
     """
     Build report in CSV format
-    data - path of downloaded pdfs
+    directory - path of downloaded pdfs
     destination - destination file of report
     report_type: 'regions', 'US'
     """
@@ -220,15 +221,49 @@ def build_covid_report_detailed(directory='data', destination='mobility_report.c
         df.to_csv(destination, index=False, mode='a', header=False)
 
 
+def download_apple_report(directory="apple_reports"):
+    """Download new Apple mobility report"""
+    last_file = [filename for filename in os.listdir(directory) if filename.endswith(".csv")][0]
+    last_date = datetime.datetime.strptime("-".join(last_file.split("-")[1:])[:-4] , '%Y-%m-%d')
+    next_date = last_date+datetime.timedelta(days=1)
+    next_date_str = str(next_date).split(" ")[0]
+    file_name = "applemobilitytrends-" + next_date_str + ".csv"
+    next_url="https://covid19-static.cdn-apple.com/covid19-mobility-data/2005HotfixDev13/v1/en-us/" + file_name
+    request = requests.get(next_url)
+    if request.status_code == 200:
+        for f in [f for f in os.listdir(directory)] :
+            os.remove(os.path.join(directory, f))
+        urllib.request.urlretrieve(next_url, os.path.join(directory,file_name))
+        print(file_name)
+        return (True, file_name[:-4])
+    else:
+        print("Apple: No updates")
+        return (False, file_name[:-4])
+
+
+def csv_to_excel(csv_path, excel_path):
+    """Helper function which create Excel file from CSV"""
+    df = pd.read_csv(csv_path)
+    df.to_excel(excel_path, index=False, sheet_name='Data')
+
+
 def run():
     """Run parse flow"""
-    new_files_status = download_covid_pdfs()
-    if new_files_status:
-        build_covid_report_detailed(directory='data', destination='mobility_report_regions.csv',
+    # parse Google reports
+    new_files_status_google = download_covid_pdfs()
+    if new_files_status_google:
+        build_covid_report_detailed(directory='pdf_reports', destination=os.path.join('google_reports','mobility_report_regions.csv'),
                                     report_type='regions')
-        build_covid_report_detailed(directory='data', destination='mobility_report_US.csv',
+        build_covid_report_detailed(directory='pdf_reports', destination=os.path.join('google_reports','mobility_report_US.csv'),
                                     report_type='US')
-
+        # create xlsx files
+        csv_to_excel(os.path.join('google_reports','mobility_report_regions.csv'), os.path.join('google_reports','mobility_report_regions.xlsx'))
+        csv_to_excel(os.path.join('google_reports','mobility_report_US.csv'), os.path.join('google_reports','mobility_report_US.xlsx'))
+    
+    # download apple report
+    new_files_status_apple, file_name_apple = download_apple_report()
+    if new_files_status_apple:
+        csv_to_excel(os.path.join('apple_reports',file_name_apple+".csv"), os.path.join('apple_reports',file_name_apple+".xlsx"))
 
 if __name__ == '__main__':
     run()
