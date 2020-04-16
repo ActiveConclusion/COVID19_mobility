@@ -5727,3 +5727,2878 @@ Date,State,Region,Retail & recreation,Grocery & pharmacy,Parks,Transit stations,
 2020-04-05,Wyoming,Uinta County,-31.0,-11.0,,-8.0,-27.0,
 2020-04-05,Wyoming,Washakie County,-28.0,-23.0,,,-28.0,
 2020-04-05,Wyoming,Weston County,-57.0,-19.0,,,-36.0,
+2020-04-11,New Hampshire,Total,-42.0,-7.0,4.0,-51.0,-37.0,13.0
+2020-04-11,New Hampshire,Belknap County,-33.0,0.0,-53.0,,-35.0,23.0
+2020-04-11,New Hampshire,Carroll County,-54.0,-18.0,-15.0,,-42.0,22.0
+2020-04-11,New Hampshire,Cheshire County,-33.0,-6.0,-22.0,,-33.0,23.0
+2020-04-11,New Hampshire,Coos County,-43.0,9.0,-56.0,,-37.0,10.0
+2020-04-11,New Hampshire,Grafton County,-49.0,-18.0,-63.0,-33.0,-43.0,25.0
+2020-04-11,New Hampshire,Hillsborough County,-48.0,-9.0,97.0,-40.0,-38.0,14.0
+2020-04-11,New Hampshire,Merrimack County,-39.0,-6.0,-4.0,-57.0,-34.0,13.0
+2020-04-11,New Hampshire,Rockingham County,-41.0,-4.0,63.0,-57.0,-37.0,14.0
+2020-04-11,New Hampshire,Strafford County,-35.0,-6.0,-20.0,-59.0,-36.0,13.0
+2020-04-11,New Hampshire,Sullivan County,-25.0,-9.0,,,-30.0,23.0
+2020-04-11,Tennessee,Total,-40.0,2.0,11.0,-36.0,-33.0,10.0
+2020-04-11,Tennessee,Anderson County,-35.0,8.0,12.0,,-28.0,9.0
+2020-04-11,Tennessee,Bedford County,-24.0,7.0,,,-34.0,19.0
+2020-04-11,Tennessee,Benton County,-66.0,83.0,,-35.0,-32.0,
+2020-04-11,Tennessee,Bledsoe County,-7.0,18.0,,,-48.0,
+2020-04-11,Tennessee,Blount County,-33.0,8.0,65.0,-78.0,-37.0,9.0
+2020-04-11,Tennessee,Bradley County,-37.0,6.0,,-30.0,-34.0,9.0
+2020-04-11,Tennessee,Campbell County,-14.0,0.0,4.0,-37.0,-22.0,12.0
+2020-04-11,Tennessee,Cannon County,0.0,12.0,,,-34.0,
+2020-04-11,Tennessee,Carroll County,-37.0,4.0,,,-25.0,4.0
+2020-04-11,Tennessee,Carter County,-21.0,14.0,16.0,,-27.0,18.0
+2020-04-11,Tennessee,Cheatham County,-43.0,66.0,,-34.0,-32.0,18.0
+2020-04-11,Tennessee,Chester County,-19.0,-4.0,,,-21.0,
+2020-04-11,Tennessee,Claiborne County,-32.0,46.0,,,-27.0,-2.0
+2020-04-11,Tennessee,Clay County,,,,,-44.0,
+2020-04-11,Tennessee,Cocke County,-20.0,21.0,2.0,-20.0,-42.0,12.0
+2020-04-11,Tennessee,Coffee County,-32.0,3.0,,-59.0,-32.0,19.0
+2020-04-11,Tennessee,Crockett County,-34.0,4.0,,,-31.0,
+2020-04-11,Tennessee,Cumberland County,-29.0,-7.0,,-31.0,-31.0,16.0
+2020-04-11,Tennessee,Davidson County,-51.0,-10.0,-44.0,-62.0,-41.0,13.0
+2020-04-11,Tennessee,DeKalb County,-12.0,18.0,,,-34.0,
+2020-04-11,Tennessee,Decatur County,-20.0,22.0,,,-44.0,
+2020-04-11,Tennessee,Dickson County,-36.0,0.0,,-32.0,-30.0,20.0
+2020-04-11,Tennessee,Dyer County,-30.0,-4.0,,-23.0,-23.0,10.0
+2020-04-11,Tennessee,Fayette County,-17.0,52.0,,-42.0,-26.0,9.0
+2020-04-11,Tennessee,Fentress County,-26.0,1.0,,,-9.0,
+2020-04-11,Tennessee,Franklin County,-16.0,14.0,,,-36.0,15.0
+2020-04-11,Tennessee,Gibson County,-19.0,20.0,,,-30.0,19.0
+2020-04-11,Tennessee,Giles County,-21.0,13.0,,-52.0,-27.0,8.0
+2020-04-11,Tennessee,Grainger County,-39.0,4.0,,,-26.0,
+2020-04-11,Tennessee,Greene County,-29.0,0.0,,-17.0,-26.0,7.0
+2020-04-11,Tennessee,Grundy County,-66.0,-12.0,,,-44.0,
+2020-04-11,Tennessee,Hamblen County,-36.0,4.0,,,-33.0,18.0
+2020-04-11,Tennessee,Hamilton County,-48.0,-2.0,-25.0,-32.0,-36.0,12.0
+2020-04-11,Tennessee,Hancock County,,,,,-55.0,
+2020-04-11,Tennessee,Hardeman County,-36.0,-2.0,,,-37.0,
+2020-04-11,Tennessee,Hardin County,-29.0,9.0,,,-23.0,
+2020-04-11,Tennessee,Hawkins County,-18.0,17.0,,,-19.0,18.0
+2020-04-11,Tennessee,Haywood County,-25.0,4.0,,,-26.0,
+2020-04-11,Tennessee,Henderson County,-26.0,11.0,,,-33.0,-1.0
+2020-04-11,Tennessee,Henry County,-34.0,9.0,,,-26.0,13.0
+2020-04-11,Tennessee,Hickman County,-32.0,5.0,,,-27.0,-3.0
+2020-04-11,Tennessee,Houston County,-70.0,-6.0,,,-53.0,
+2020-04-11,Tennessee,Humphreys County,-29.0,-5.0,,,-31.0,
+2020-04-11,Tennessee,Jackson County,,2.0,,,-53.0,
+2020-04-11,Tennessee,Jefferson County,-22.0,13.0,,-35.0,-36.0,18.0
+2020-04-11,Tennessee,Johnson County,-22.0,0.0,,,-20.0,
+2020-04-11,Tennessee,Knox County,-44.0,-2.0,11.0,-32.0,-36.0,10.0
+2020-04-11,Tennessee,Lauderdale County,-20.0,19.0,,,-27.0,
+2020-04-11,Tennessee,Lawrence County,-34.0,4.0,,,-26.0,13.0
+2020-04-11,Tennessee,Lewis County,-20.0,17.0,,,-50.0,
+2020-04-11,Tennessee,Lincoln County,-24.0,10.0,,,-20.0,7.0
+2020-04-11,Tennessee,Loudon County,-24.0,10.0,,-31.0,-28.0,17.0
+2020-04-11,Tennessee,Macon County,-32.0,-4.0,,,-23.0,
+2020-04-11,Tennessee,Madison County,-48.0,-13.0,-51.0,-44.0,-37.0,11.0
+2020-04-11,Tennessee,Marion County,-31.0,-14.0,10.0,-28.0,-32.0,0.0
+2020-04-11,Tennessee,Marshall County,-16.0,6.0,,-47.0,-32.0,17.0
+2020-04-11,Tennessee,Maury County,-40.0,-2.0,-33.0,-34.0,-36.0,10.0
+2020-04-11,Tennessee,McMinn County,-33.0,9.0,,-53.0,-32.0,18.0
+2020-04-11,Tennessee,McNairy County,-23.0,5.0,,-26.0,-20.0,
+2020-04-11,Tennessee,Meigs County,-25.0,32.0,,,-37.0,
+2020-04-11,Tennessee,Monroe County,-24.0,40.0,,,-30.0,15.0
+2020-04-11,Tennessee,Montgomery County,-38.0,3.0,58.0,-24.0,-33.0,10.0
+2020-04-11,Tennessee,Moore County,,,,,-52.0,
+2020-04-11,Tennessee,Morgan County,7.0,3.0,,,-21.0,
+2020-04-11,Tennessee,Obion County,-33.0,13.0,,,-28.0,6.0
+2020-04-11,Tennessee,Overton County,-23.0,0.0,,,-25.0,
+2020-04-11,Tennessee,Perry County,-59.0,,,,-50.0,
+2020-04-11,Tennessee,Polk County,-41.0,2.0,,,-31.0,
+2020-04-11,Tennessee,Putnam County,-44.0,-10.0,,-29.0,-28.0,7.0
+2020-04-11,Tennessee,Rhea County,-19.0,8.0,,,-28.0,11.0
+2020-04-11,Tennessee,Roane County,-25.0,10.0,-24.0,,-27.0,17.0
+2020-04-11,Tennessee,Robertson County,-22.0,16.0,,-27.0,-34.0,21.0
+2020-04-11,Tennessee,Rutherford County,-40.0,-2.0,72.0,-21.0,-34.0,11.0
+2020-04-11,Tennessee,Scott County,-28.0,9.0,,,-19.0,
+2020-04-11,Tennessee,Sequatchie County,-35.0,7.0,,,-25.0,
+2020-04-11,Tennessee,Sevier County,-72.0,-27.0,-70.0,,-57.0,13.0
+2020-04-11,Tennessee,Shelby County,-38.0,4.0,-45.0,-20.0,-29.0,11.0
+2020-04-11,Tennessee,Smith County,-30.0,22.0,,-26.0,-18.0,
+2020-04-11,Tennessee,Stewart County,-23.0,15.0,,,-49.0,
+2020-04-11,Tennessee,Sullivan County,-37.0,2.0,41.0,-41.0,-28.0,8.0
+2020-04-11,Tennessee,Sumner County,-40.0,1.0,91.0,,-35.0,11.0
+2020-04-11,Tennessee,Tipton County,-23.0,22.0,,,-21.0,20.0
+2020-04-11,Tennessee,Trousdale County,-37.0,11.0,,,-52.0,
+2020-04-11,Tennessee,Unicoi County,-25.0,16.0,,,-28.0,
+2020-04-11,Tennessee,Union County,9.0,0.0,,,-25.0,
+2020-04-11,Tennessee,Van Buren County,,,,,-58.0,
+2020-04-11,Tennessee,Warren County,-18.0,21.0,,,-24.0,14.0
+2020-04-11,Tennessee,Washington County,-50.0,-5.0,38.0,-23.0,-33.0,9.0
+2020-04-11,Tennessee,Wayne County,-29.0,16.0,,,-50.0,
+2020-04-11,Tennessee,Weakley County,-40.0,2.0,,,-28.0,7.0
+2020-04-11,Tennessee,White County,-33.0,19.0,,,-19.0,-1.0
+2020-04-11,Tennessee,Williamson County,-51.0,-8.0,47.0,-39.0,-37.0,13.0
+2020-04-11,Tennessee,Wilson County,-42.0,2.0,22.0,-28.0,-37.0,10.0
+2020-04-11,Virginia,Total,-40.0,-9.0,17.0,-49.0,-36.0,13.0
+2020-04-11,Virginia,Accomack County,-24.0,-4.0,,,-19.0,14.0
+2020-04-11,Virginia,Albemarle County,-48.0,-18.0,-2.0,-61.0,-39.0,25.0
+2020-04-11,Virginia,Alexandria,-58.0,-16.0,9.0,-62.0,-46.0,18.0
+2020-04-11,Virginia,Alleghany County,-17.0,,,-22.0,-25.0,
+2020-04-11,Virginia,Amelia County,-60.0,-21.0,,,-43.0,
+2020-04-11,Virginia,Amherst County,-2.0,-2.0,,,-23.0,8.0
+2020-04-11,Virginia,Appomattox County,-21.0,12.0,,,-20.0,
+2020-04-11,Virginia,Arlington County,-67.0,-23.0,-21.0,-81.0,-51.0,19.0
+2020-04-11,Virginia,Augusta County,-38.0,-6.0,-22.0,13.0,-27.0,20.0
+2020-04-11,Virginia,Bath County,,,-73.0,,,
+2020-04-11,Virginia,Bedford County,-28.0,3.0,,,-26.0,20.0
+2020-04-11,Virginia,Bland County,,,,-32.0,-49.0,
+2020-04-11,Virginia,Botetourt County,-58.0,-18.0,,-31.0,-34.0,14.0
+2020-04-11,Virginia,Bristol,-30.0,-12.0,,,-30.0,
+2020-04-11,Virginia,Brunswick County,-42.0,,,-57.0,-20.0,
+2020-04-11,Virginia,Buchanan County,-26.0,0.0,,,-43.0,
+2020-04-11,Virginia,Buckingham County,-16.0,-12.0,,,-42.0,
+2020-04-11,Virginia,Buena Vista,-40.0,-14.0,,,-53.0,
+2020-04-11,Virginia,Campbell County,-26.0,3.0,,,-32.0,18.0
+2020-04-11,Virginia,Caroline County,-47.0,-21.0,-68.0,-36.0,-23.0,18.0
+2020-04-11,Virginia,Carroll County,-19.0,7.0,,-29.0,-23.0,4.0
+2020-04-11,Virginia,Charles City County,,,,,-41.0,
+2020-04-11,Virginia,Charlotte County,-7.0,17.0,,,-38.0,
+2020-04-11,Virginia,Charlottesville,-68.0,-24.0,-22.0,-49.0,-51.0,15.0
+2020-04-11,Virginia,Chesapeake,-35.0,-15.0,35.0,-6.0,-34.0,12.0
+2020-04-11,Virginia,Chesterfield County,-38.0,-16.0,34.0,-37.0,-33.0,13.0
+2020-04-11,Virginia,Clarke County,-45.0,-21.0,,,-48.0,
+2020-04-11,Virginia,Colonial Heights,-44.0,-17.0,,,-28.0,
+2020-04-11,Virginia,Covington,-40.0,-9.0,,,-42.0,
+2020-04-11,Virginia,Craig County,,,,,-43.0,
+2020-04-11,Virginia,Culpeper County,-26.0,-6.0,,,-28.0,19.0
+2020-04-11,Virginia,Cumberland County,-62.0,,,,-38.0,
+2020-04-11,Virginia,Danville,-38.0,2.0,,-28.0,-28.0,15.0
+2020-04-11,Virginia,Dickenson County,-23.0,-16.0,,,-46.0,
+2020-04-11,Virginia,Dinwiddie County,34.0,-26.0,,-46.0,-17.0,14.0
+2020-04-11,Virginia,Emporia,-42.0,-1.0,,-30.0,-39.0,
+2020-04-11,Virginia,Essex County,-25.0,-8.0,,,-16.0,
+2020-04-11,Virginia,Fairfax,-61.0,-37.0,-36.0,,-51.0,3.0
+2020-04-11,Virginia,Fairfax County,-51.0,-21.0,14.0,-50.0,-47.0,19.0
+2020-04-11,Virginia,Falls Church,-67.0,-47.0,,,-76.0,
+2020-04-11,Virginia,Fauquier County,-29.0,-27.0,,,-25.0,24.0
+2020-04-11,Virginia,Floyd County,-37.0,6.0,,,-47.0,
+2020-04-11,Virginia,Fluvanna County,-79.0,-34.0,,,-29.0,-1.0
+2020-04-11,Virginia,Franklin,-22.0,-2.0,,-13.0,-33.0,
+2020-04-11,Virginia,Franklin County,-24.0,2.0,,,-29.0,18.0
+2020-04-11,Virginia,Frederick County,-35.0,-12.0,-13.0,-29.0,-29.0,12.0
+2020-04-11,Virginia,Fredericksburg,-50.0,-24.0,10.0,-64.0,-38.0,0.0
+2020-04-11,Virginia,Galax,-27.0,12.0,,,-44.0,
+2020-04-11,Virginia,Giles County,-26.0,16.0,,,-15.0,
+2020-04-11,Virginia,Gloucester County,-24.0,-8.0,,,-22.0,18.0
+2020-04-11,Virginia,Goochland County,-44.0,-23.0,,,-23.0,
+2020-04-11,Virginia,Grayson County,,,,,-39.0,
+2020-04-11,Virginia,Greene County,-18.0,-18.0,,,-29.0,
+2020-04-11,Virginia,Greensville County,,,,-42.0,-37.0,
+2020-04-11,Virginia,Halifax County,-20.0,-7.0,,,-24.0,12.0
+2020-04-11,Virginia,Hampton,-36.0,6.0,49.0,-5.0,-34.0,12.0
+2020-04-11,Virginia,Hanover County,-34.0,-14.0,,-30.0,-31.0,23.0
+2020-04-11,Virginia,Harrisonburg,-52.0,-26.0,,-31.0,-46.0,22.0
+2020-04-11,Virginia,Henrico County,-44.0,-16.0,36.0,-69.0,-38.0,13.0
+2020-04-11,Virginia,Henry County,-20.0,3.0,,,-26.0,17.0
+2020-04-11,Virginia,Hopewell,-19.0,0.0,,,-28.0,11.0
+2020-04-11,Virginia,Isle of Wight County,-25.0,9.0,,,-24.0,20.0
+2020-04-11,Virginia,James City County,-59.0,1.0,-2.0,,-43.0,22.0
+2020-04-11,Virginia,King George County,-38.0,-18.0,,-33.0,-30.0,0.0
+2020-04-11,Virginia,King William County,-24.0,3.0,,,-22.0,
+2020-04-11,Virginia,King and Queen County,,,,,-37.0,
+2020-04-11,Virginia,Lancaster County,-23.0,6.0,,,-29.0,
+2020-04-11,Virginia,Lee County,-34.0,10.0,,,-16.0,
+2020-04-11,Virginia,Lexington,-55.0,-21.0,,,,
+2020-04-11,Virginia,Loudoun County,-49.0,-13.0,-16.0,-82.0,-44.0,17.0
+2020-04-11,Virginia,Louisa County,-16.0,-6.0,,,-25.0,18.0
+2020-04-11,Virginia,Lunenburg County,,-4.0,,,-36.0,
+2020-04-11,Virginia,Lynchburg,-46.0,-9.0,,9.0,-39.0,19.0
+2020-04-11,Virginia,Madison County,-48.0,-27.0,,,-44.0,
+2020-04-11,Virginia,Manassas,-35.0,-2.0,,-56.0,-35.0,25.0
+2020-04-11,Virginia,Manassas Park,-60.0,-11.0,,,-39.0,
+2020-04-11,Virginia,Martinsville,-38.0,8.0,,,-22.0,
+2020-04-11,Virginia,Mathews County,-62.0,2.0,,,-38.0,
+2020-04-11,Virginia,Mecklenburg County,-22.0,4.0,4.0,-38.0,-20.0,5.0
+2020-04-11,Virginia,Middlesex County,-43.0,1.0,,,-36.0,
+2020-04-11,Virginia,Montgomery County,-52.0,-3.0,,-27.0,-40.0,26.0
+2020-04-11,Virginia,Nelson County,-53.0,-3.0,,,-35.0,
+2020-04-11,Virginia,New Kent County,-38.0,-10.0,,-36.0,-31.0,
+2020-04-11,Virginia,Newport News,-39.0,-5.0,49.0,-26.0,-34.0,11.0
+2020-04-11,Virginia,Norfolk,-42.0,-2.0,5.0,-52.0,-35.0,11.0
+2020-04-11,Virginia,Northampton County,-32.0,-33.0,,,-14.0,
+2020-04-11,Virginia,Northumberland County,-13.0,-17.0,,,-29.0,
+2020-04-11,Virginia,Norton,-44.0,,,,,
+2020-04-11,Virginia,Nottoway County,-30.0,40.0,,,-16.0,
+2020-04-11,Virginia,Orange County,-21.0,4.0,,,-25.0,11.0
+2020-04-11,Virginia,Page County,-29.0,-2.0,-29.0,,-33.0,
+2020-04-11,Virginia,Patrick County,-20.0,19.0,,,-26.0,
+2020-04-11,Virginia,Petersburg,-25.0,-3.0,,-8.0,-24.0,18.0
+2020-04-11,Virginia,Pittsylvania County,-14.0,10.0,,,-21.0,17.0
+2020-04-11,Virginia,Poquoson,-16.0,-7.0,,,-54.0,
+2020-04-11,Virginia,Portsmouth,-17.0,-4.0,12.0,9.0,-30.0,10.0
+2020-04-11,Virginia,Powhatan County,-35.0,-32.0,,,-34.0,8.0
+2020-04-11,Virginia,Prince Edward County,-34.0,-17.0,,,-31.0,
+2020-04-11,Virginia,Prince George County,-25.0,-8.0,,-28.0,-23.0,20.0
+2020-04-11,Virginia,Prince William County,-44.0,-18.0,35.0,-40.0,-39.0,16.0
+2020-04-11,Virginia,Pulaski County,-16.0,1.0,,,-32.0,15.0
+2020-04-11,Virginia,Radford,-65.0,-13.0,,,-33.0,
+2020-04-11,Virginia,Rappahannock County,,,,,-37.0,
+2020-04-11,Virginia,Richmond,-53.0,-7.0,34.0,-31.0,-39.0,12.0
+2020-04-11,Virginia,Richmond County,-25.0,-25.0,,,-33.0,
+2020-04-11,Virginia,Roanoke,-45.0,-5.0,6.0,-32.0,-33.0,10.0
+2020-04-11,Virginia,Roanoke County,-30.0,-7.0,,,-35.0,11.0
+2020-04-11,Virginia,Rockbridge County,-32.0,,,-31.0,-28.0,
+2020-04-11,Virginia,Rockingham County,-33.0,-9.0,25.0,-44.0,-31.0,11.0
+2020-04-11,Virginia,Russell County,-37.0,-22.0,,,-19.0,
+2020-04-11,Virginia,Salem,-30.0,-2.0,,,-30.0,-1.0
+2020-04-11,Virginia,Scott County,-24.0,-9.0,,,-26.0,
+2020-04-11,Virginia,Shenandoah County,-29.0,-5.0,,-36.0,-37.0,20.0
+2020-04-11,Virginia,Smyth County,-30.0,4.0,,-14.0,-15.0,4.0
+2020-04-11,Virginia,Southampton County,-44.0,-1.0,,,-15.0,
+2020-04-11,Virginia,Spotsylvania County,-41.0,-7.0,,,-33.0,12.0
+2020-04-11,Virginia,Stafford County,-26.0,-18.0,54.0,,-35.0,14.0
+2020-04-11,Virginia,Staunton,-31.0,-15.0,,,-30.0,0.0
+2020-04-11,Virginia,Suffolk,-33.0,1.0,-16.0,10.0,-29.0,11.0
+2020-04-11,Virginia,Surry County,,,,,-46.0,
+2020-04-11,Virginia,Sussex County,-47.0,22.0,,-52.0,-32.0,
+2020-04-11,Virginia,Tazewell County,-14.0,-8.0,,,-18.0,11.0
+2020-04-11,Virginia,Virginia Beach,-40.0,-11.0,5.0,-29.0,-37.0,13.0
+2020-04-11,Virginia,Warren County,-24.0,-11.0,,,-30.0,21.0
+2020-04-11,Virginia,Washington County,-49.0,-9.0,,-33.0,-24.0,18.0
+2020-04-11,Virginia,Waynesboro,-34.0,-24.0,,,-28.0,-1.0
+2020-04-11,Virginia,Westmoreland County,-41.0,6.0,,,-26.0,
+2020-04-11,Virginia,Williamsburg,-72.0,-38.0,,,-47.0,
+2020-04-11,Virginia,Winchester,-52.0,-22.0,-67.0,,-36.0,9.0
+2020-04-11,Virginia,Wise County,-28.0,-17.0,,,-27.0,6.0
+2020-04-11,Virginia,Wythe County,-43.0,-5.0,,-24.0,-23.0,-2.0
+2020-04-11,Virginia,York County,-29.0,-7.0,-15.0,,-42.0,26.0
+2020-04-11,Alaska,Total,-41.0,-4.0,36.0,-52.0,-32.0,10.0
+2020-04-11,Alaska,Anchorage,-45.0,-4.0,29.0,-54.0,-40.0,13.0
+2020-04-11,Alaska,Bethel,,-23.0,,,-25.0,
+2020-04-11,Alaska,Fairbanks North Star,-39.0,-10.0,,-72.0,-33.0,21.0
+2020-04-11,Alaska,Juneau,-52.0,-24.0,-34.0,-56.0,-34.0,-1.0
+2020-04-11,Alaska,Kenai Peninsula Borough,-34.0,-8.0,,,-24.0,14.0
+2020-04-11,Alaska,Ketchikan Gateway,-32.0,-38.0,,,-37.0,
+2020-04-11,Alaska,Kodiak Island,-50.0,,,,-27.0,
+2020-04-11,Alaska,Matanuska-Susitna,-29.0,-2.0,,,-30.0,9.0
+2020-04-11,Alaska,North Slope,,,,,-12.0,
+2020-04-11,Alaska,Sitka,-59.0,,,,-29.0,
+2020-04-11,Alaska,Southeast Fairbanks,,,,,-35.0,
+2020-04-11,Alaska,Valdez-Cordova,,-12.0,,,-30.0,
+2020-04-11,Wisconsin,Total,-47.0,-2.0,67.0,-34.0,-33.0,13.0
+2020-04-11,Wisconsin,Adams County,-43.0,1.0,,,-37.0,
+2020-04-11,Wisconsin,Ashland County,-38.0,-15.0,,,-24.0,
+2020-04-11,Wisconsin,Barron County,-42.0,-5.0,,,-29.0,19.0
+2020-04-11,Wisconsin,Bayfield County,-70.0,-28.0,,,-48.0,
+2020-04-11,Wisconsin,Brown County,-50.0,-1.0,106.0,-71.0,-36.0,13.0
+2020-04-11,Wisconsin,Buffalo County,-48.0,-12.0,,,-33.0,
+2020-04-11,Wisconsin,Burnett County,-35.0,0.0,,,-37.0,
+2020-04-11,Wisconsin,Calumet County,-64.0,1.0,193.0,,-36.0,27.0
+2020-04-11,Wisconsin,Chippewa County,-41.0,9.0,,,-26.0,21.0
+2020-04-11,Wisconsin,Clark County,-56.0,-7.0,,,-18.0,17.0
+2020-04-11,Wisconsin,Columbia County,-49.0,1.0,,-31.0,-31.0,22.0
+2020-04-11,Wisconsin,Crawford County,-33.0,3.0,,,-21.0,
+2020-04-11,Wisconsin,Dane County,-63.0,-12.0,42.0,-56.0,-39.0,15.0
+2020-04-11,Wisconsin,Dodge County,-31.0,1.0,-9.0,,-28.0,11.0
+2020-04-11,Wisconsin,Door County,-48.0,-19.0,,,-29.0,-2.0
+2020-04-11,Wisconsin,Douglas County,-41.0,-8.0,,,-32.0,22.0
+2020-04-11,Wisconsin,Dunn County,-38.0,-6.0,,-23.0,-22.0,20.0
+2020-04-11,Wisconsin,Eau Claire County,-58.0,-10.0,18.0,-9.0,-29.0,12.0
+2020-04-11,Wisconsin,Florence County,-73.0,,,,,
+2020-04-11,Wisconsin,Fond du Lac County,-44.0,-9.0,72.0,-19.0,-27.0,11.0
+2020-04-11,Wisconsin,Forest County,-65.0,,,,-49.0,
+2020-04-11,Wisconsin,Grant County,-39.0,12.0,,,-25.0,20.0
+2020-04-11,Wisconsin,Green County,-45.0,15.0,,,-28.0,23.0
+2020-04-11,Wisconsin,Green Lake County,-23.0,-5.0,,,-22.0,
+2020-04-11,Wisconsin,Iowa County,-39.0,3.0,,,-31.0,2.0
+2020-04-11,Wisconsin,Iron County,-70.0,,,,-42.0,
+2020-04-11,Wisconsin,Jackson County,-64.0,85.0,,-23.0,-29.0,
+2020-04-11,Wisconsin,Jefferson County,-42.0,13.0,-11.0,-46.0,-29.0,11.0
+2020-04-11,Wisconsin,Juneau County,-53.0,-1.0,,-18.0,-30.0,13.0
+2020-04-11,Wisconsin,Kenosha County,-49.0,-6.0,41.0,-41.0,-32.0,12.0
+2020-04-11,Wisconsin,Kewaunee County,-51.0,-9.0,,,-29.0,
+2020-04-11,Wisconsin,La Crosse County,-53.0,-10.0,72.0,-8.0,-36.0,14.0
+2020-04-11,Wisconsin,Lafayette County,-62.0,10.0,,,-25.0,
+2020-04-11,Wisconsin,Langlade County,-35.0,-13.0,,,-26.0,
+2020-04-11,Wisconsin,Lincoln County,-56.0,18.0,,,-28.0,13.0
+2020-04-11,Wisconsin,Manitowoc County,-42.0,3.0,81.0,,-28.0,12.0
+2020-04-11,Wisconsin,Marathon County,-51.0,-10.0,11.0,,-32.0,11.0
+2020-04-11,Wisconsin,Marinette County,-43.0,-13.0,-15.0,,-27.0,14.0
+2020-04-11,Wisconsin,Marquette County,-46.0,5.0,,,-25.0,
+2020-04-11,Wisconsin,Milwaukee County,-47.0,-1.0,49.0,-41.0,-36.0,13.0
+2020-04-11,Wisconsin,Monroe County,-37.0,-11.0,,-22.0,-29.0,19.0
+2020-04-11,Wisconsin,Oconto County,-43.0,1.0,-58.0,,-20.0,16.0
+2020-04-11,Wisconsin,Oneida County,-51.0,-22.0,-22.0,,-27.0,18.0
+2020-04-11,Wisconsin,Outagamie County,-58.0,-7.0,80.0,-43.0,-35.0,13.0
+2020-04-11,Wisconsin,Ozaukee County,-50.0,-10.0,131.0,,-37.0,28.0
+2020-04-11,Wisconsin,Pepin County,-36.0,,,,-33.0,
+2020-04-11,Wisconsin,Pierce County,-50.0,0.0,,,-33.0,24.0
+2020-04-11,Wisconsin,Polk County,-33.0,10.0,86.0,,-32.0,22.0
+2020-04-11,Wisconsin,Portage County,-48.0,-5.0,29.0,,-38.0,24.0
+2020-04-11,Wisconsin,Price County,-36.0,-19.0,,,-41.0,
+2020-04-11,Wisconsin,Racine County,-38.0,0.0,68.0,-13.0,-33.0,12.0
+2020-04-11,Wisconsin,Richland County,-35.0,,,,-23.0,
+2020-04-11,Wisconsin,Rock County,-41.0,6.0,84.0,-24.0,-33.0,11.0
+2020-04-11,Wisconsin,Rusk County,-43.0,-17.0,,,-42.0,
+2020-04-11,Wisconsin,Sauk County,-58.0,-1.0,1.0,-36.0,-45.0,23.0
+2020-04-11,Wisconsin,Sawyer County,-42.0,-20.0,,,-47.0,
+2020-04-11,Wisconsin,Shawano County,-44.0,-2.0,,,-33.0,19.0
+2020-04-11,Wisconsin,Sheboygan County,-42.0,8.0,85.0,-4.0,-31.0,14.0
+2020-04-11,Wisconsin,St. Croix County,-43.0,-5.0,-38.0,-35.0,-32.0,26.0
+2020-04-11,Wisconsin,Taylor County,-35.0,10.0,,,-16.0,
+2020-04-11,Wisconsin,Trempealeau County,-54.0,-3.0,,,-24.0,16.0
+2020-04-11,Wisconsin,Vernon County,-50.0,-14.0,,,-19.0,4.0
+2020-04-11,Wisconsin,Vilas County,-78.0,-26.0,-46.0,,-39.0,
+2020-04-11,Wisconsin,Walworth County,-35.0,12.0,54.0,,-34.0,12.0
+2020-04-11,Wisconsin,Washburn County,-28.0,-40.0,,,-28.0,
+2020-04-11,Wisconsin,Washington County,-34.0,2.0,92.0,-33.0,-32.0,13.0
+2020-04-11,Wisconsin,Waukesha County,-48.0,4.0,89.0,-5.0,-35.0,14.0
+2020-04-11,Wisconsin,Waupaca County,-31.0,13.0,-25.0,,-24.0,21.0
+2020-04-11,Wisconsin,Waushara County,-41.0,7.0,,,-25.0,4.0
+2020-04-11,Wisconsin,Winnebago County,-45.0,-1.0,141.0,-20.0,-30.0,12.0
+2020-04-11,Wisconsin,Wood County,-33.0,-1.0,,,-25.0,11.0
+2020-04-11,South Carolina,Total,-41.0,-2.0,-24.0,-45.0,-34.0,11.0
+2020-04-11,South Carolina,Abbeville County,-30.0,7.0,,,-25.0,
+2020-04-11,South Carolina,Aiken County,-32.0,-1.0,-19.0,-27.0,-33.0,11.0
+2020-04-11,South Carolina,Allendale County,,-12.0,,,-43.0,
+2020-04-11,South Carolina,Anderson County,-45.0,8.0,8.0,-37.0,-33.0,11.0
+2020-04-11,South Carolina,Bamberg County,-32.0,4.0,,,-30.0,
+2020-04-11,South Carolina,Barnwell County,-33.0,4.0,,,-24.0,
+2020-04-11,South Carolina,Beaufort County,-43.0,-10.0,-40.0,-57.0,-38.0,12.0
+2020-04-11,South Carolina,Berkeley County,-35.0,1.0,7.0,-40.0,-34.0,12.0
+2020-04-11,South Carolina,Calhoun County,-16.0,13.0,,-63.0,-27.0,
+2020-04-11,South Carolina,Charleston County,-52.0,-20.0,-58.0,-60.0,-41.0,13.0
+2020-04-11,South Carolina,Cherokee County,-44.0,4.0,-13.0,-32.0,-36.0,17.0
+2020-04-11,South Carolina,Chester County,-35.0,3.0,,-45.0,-28.0,13.0
+2020-04-11,South Carolina,Chesterfield County,-31.0,7.0,,,-22.0,14.0
+2020-04-11,South Carolina,Clarendon County,-31.0,-2.0,,-45.0,-27.0,
+2020-04-11,South Carolina,Colleton County,-35.0,-4.0,,-52.0,-30.0,13.0
+2020-04-11,South Carolina,Darlington County,-27.0,0.0,-28.0,,-30.0,19.0
+2020-04-11,South Carolina,Dillon County,-29.0,0.0,-64.0,-33.0,-30.0,-2.0
+2020-04-11,South Carolina,Dorchester County,-33.0,1.0,-30.0,-47.0,-37.0,12.0
+2020-04-11,South Carolina,Edgefield County,-54.0,7.0,,,-23.0,
+2020-04-11,South Carolina,Fairfield County,-3.0,5.0,,-47.0,-27.0,
+2020-04-11,South Carolina,Florence County,-46.0,3.0,4.0,-38.0,-29.0,10.0
+2020-04-11,South Carolina,Georgetown County,-47.0,-2.0,-23.0,,-30.0,15.0
+2020-04-11,South Carolina,Greenville County,-47.0,1.0,-41.0,-18.0,-39.0,13.0
+2020-04-11,South Carolina,Greenwood County,-39.0,-1.0,,,-23.0,16.0
+2020-04-11,South Carolina,Hampton County,-47.0,-7.0,,-34.0,-22.0,
+2020-04-11,South Carolina,Horry County,-53.0,-13.0,-45.0,-75.0,-41.0,12.0
+2020-04-11,South Carolina,Jasper County,-39.0,-13.0,-54.0,-28.0,-34.0,8.0
+2020-04-11,South Carolina,Kershaw County,-39.0,13.0,,-53.0,-24.0,19.0
+2020-04-11,South Carolina,Lancaster County,-34.0,0.0,,,-31.0,20.0
+2020-04-11,South Carolina,Laurens County,-19.0,19.0,,-32.0,-31.0,9.0
+2020-04-11,South Carolina,Lee County,-70.0,8.0,,-39.0,-18.0,
+2020-04-11,South Carolina,Lexington County,-44.0,-5.0,7.0,-32.0,-30.0,11.0
+2020-04-11,South Carolina,Marion County,-31.0,12.0,,,-28.0,2.0
+2020-04-11,South Carolina,Marlboro County,-29.0,-2.0,,,-37.0,
+2020-04-11,South Carolina,McCormick County,-49.0,11.0,,,-43.0,
+2020-04-11,South Carolina,Newberry County,-27.0,4.0,,-47.0,-29.0,17.0
+2020-04-11,South Carolina,Oconee County,-35.0,9.0,-10.0,,-29.0,16.0
+2020-04-11,South Carolina,Orangeburg County,-33.0,0.0,,-49.0,-28.0,10.0
+2020-04-11,South Carolina,Pickens County,-36.0,4.0,-17.0,,-28.0,10.0
+2020-04-11,South Carolina,Richland County,-42.0,-8.0,-37.0,-31.0,-34.0,13.0
+2020-04-11,South Carolina,Saluda County,-40.0,3.0,,,-23.0,
+2020-04-11,South Carolina,Spartanburg County,-41.0,-2.0,21.0,-60.0,-35.0,11.0
+2020-04-11,South Carolina,Sumter County,-36.0,1.0,,-45.0,-33.0,11.0
+2020-04-11,South Carolina,Union County,-30.0,1.0,,,-35.0,4.0
+2020-04-11,South Carolina,Williamsburg County,-31.0,2.0,,,-19.0,
+2020-04-11,South Carolina,York County,-38.0,-5.0,-12.0,-40.0,-37.0,13.0
+2020-04-11,North Dakota,Total,-48.0,1.0,-18.0,-43.0,-28.0,15.0
+2020-04-11,North Dakota,Barnes County,-34.0,,,,-41.0,
+2020-04-11,North Dakota,Bottineau County,-34.0,,,,-51.0,
+2020-04-11,North Dakota,Burleigh County,-51.0,-8.0,-15.0,-54.0,-32.0,14.0
+2020-04-11,North Dakota,Cass County,-56.0,-11.0,8.0,-38.0,-32.0,15.0
+2020-04-11,North Dakota,Dunn County,-56.0,-17.0,-54.0,,,
+2020-04-11,North Dakota,Grand Forks County,-51.0,1.0,-53.0,-51.0,-31.0,24.0
+2020-04-11,North Dakota,McKenzie County,-48.0,-21.0,,-45.0,-31.0,
+2020-04-11,North Dakota,McLean County,-63.0,,,,-40.0,
+2020-04-11,North Dakota,Mercer County,,6.0,,,-41.0,
+2020-04-11,North Dakota,Morton County,-45.0,6.0,,-11.0,-35.0,19.0
+2020-04-11,North Dakota,Mountrail County,-67.0,-25.0,,,-36.0,
+2020-04-11,North Dakota,Pembina County,,,,,-44.0,
+2020-04-11,North Dakota,Ramsey County,-42.0,-16.0,,,-41.0,
+2020-04-11,North Dakota,Ransom County,,,,,-56.0,
+2020-04-11,North Dakota,Richland County,-38.0,2.0,,,-29.0,
+2020-04-11,North Dakota,Rolette County,-33.0,,,,-57.0,
+2020-04-11,North Dakota,Sargent County,,,,,-56.0,
+2020-04-11,North Dakota,Stark County,-41.0,3.0,,,-23.0,14.0
+2020-04-11,North Dakota,Stutsman County,-34.0,-16.0,,,-25.0,
+2020-04-11,North Dakota,Traill County,,,,,-50.0,
+2020-04-11,North Dakota,Walsh County,-33.0,,,,-41.0,
+2020-04-11,North Dakota,Ward County,-42.0,10.0,,-57.0,-30.0,21.0
+2020-04-11,North Dakota,Williams County,-37.0,4.0,,-37.0,-29.0,21.0
+2020-04-11,District of Columbia,Total,-69.0,-28.0,-65.0,-69.0,-48.0,17.0
+2020-04-11,Nevada,Total,-45.0,-13.0,-43.0,-55.0,-53.0,16.0
+2020-04-11,Nevada,Carson City,-35.0,-2.0,34.0,,-40.0,20.0
+2020-04-11,Nevada,Churchill County,-19.0,-15.0,,,-31.0,5.0
+2020-04-11,Nevada,Clark County,-47.0,-15.0,-50.0,-59.0,-56.0,18.0
+2020-04-11,Nevada,Douglas County,-54.0,-42.0,-32.0,,-46.0,19.0
+2020-04-11,Nevada,Elko County,-43.0,20.0,7.0,0.0,-34.0,16.0
+2020-04-11,Nevada,Humboldt County,-49.0,2.0,,-13.0,-26.0,
+2020-04-11,Nevada,Lander County,-57.0,-14.0,,,-48.0,
+2020-04-11,Nevada,Lyon County,-21.0,16.0,,-20.0,-40.0,18.0
+2020-04-11,Nevada,Mineral County,,,,-21.0,,
+2020-04-11,Nevada,Nye County,-29.0,-14.0,-61.0,-20.0,-38.0,15.0
+2020-04-11,Nevada,Pershing County,,,,-10.0,-30.0,
+2020-04-11,Nevada,Storey County,-67.0,,,,-51.0,
+2020-04-11,Nevada,Washoe County,-43.0,-11.0,19.0,-53.0,-45.0,14.0
+2020-04-11,Nevada,White Pine County,-57.0,-13.0,,-14.0,-21.0,
+2020-04-11,North Carolina,Total,-40.0,-5.0,20.0,-49.0,-35.0,11.0
+2020-04-11,North Carolina,Alamance County,-43.0,4.0,57.0,-32.0,-32.0,11.0
+2020-04-11,North Carolina,Alexander County,-30.0,13.0,,,-33.0,16.0
+2020-04-11,North Carolina,Alleghany County,-29.0,-5.0,,,-42.0,
+2020-04-11,North Carolina,Anson County,-50.0,-1.0,,,-28.0,
+2020-04-11,North Carolina,Ashe County,-28.0,-14.0,,,-29.0,
+2020-04-11,North Carolina,Avery County,-57.0,-20.0,,,-31.0,
+2020-04-11,North Carolina,Beaufort County,-26.0,1.0,25.0,,-20.0,13.0
+2020-04-11,North Carolina,Bertie County,-53.0,3.0,,,-18.0,
+2020-04-11,North Carolina,Bladen County,-23.0,6.0,-27.0,,-25.0,12.0
+2020-04-11,North Carolina,Brunswick County,-32.0,-3.0,-12.0,-62.0,-32.0,10.0
+2020-04-11,North Carolina,Buncombe County,-58.0,-18.0,7.0,-66.0,-43.0,12.0
+2020-04-11,North Carolina,Burke County,-32.0,3.0,43.0,,-29.0,8.0
+2020-04-11,North Carolina,Cabarrus County,-46.0,-8.0,38.0,-34.0,-38.0,13.0
+2020-04-11,North Carolina,Caldwell County,-28.0,5.0,-2.0,,-28.0,9.0
+2020-04-11,North Carolina,Camden County,-46.0,,,,-50.0,
+2020-04-11,North Carolina,Carteret County,-38.0,-3.0,-16.0,,-30.0,17.0
+2020-04-11,North Carolina,Caswell County,-28.0,4.0,,,-27.0,
+2020-04-11,North Carolina,Catawba County,-48.0,-7.0,39.0,-28.0,-35.0,11.0
+2020-04-11,North Carolina,Chatham County,-26.0,-11.0,,,-29.0,22.0
+2020-04-11,North Carolina,Cherokee County,-38.0,-12.0,,,-43.0,1.0
+2020-04-11,North Carolina,Chowan County,-13.0,10.0,,,-24.0,
+2020-04-11,North Carolina,Clay County,-54.0,-12.0,,,-33.0,
+2020-04-11,North Carolina,Cleveland County,-32.0,9.0,16.0,,-30.0,9.0
+2020-04-11,North Carolina,Columbus County,-28.0,10.0,,,-24.0,18.0
+2020-04-11,North Carolina,Craven County,-37.0,-3.0,12.0,-50.0,-32.0,10.0
+2020-04-11,North Carolina,Cumberland County,-39.0,-7.0,6.0,-40.0,-34.0,11.0
+2020-04-11,North Carolina,Currituck County,-25.0,-9.0,,,-23.0,8.0
+2020-04-11,North Carolina,Dare County,-51.0,-18.0,-39.0,,-34.0,12.0
+2020-04-11,North Carolina,Davidson County,-30.0,6.0,81.0,-20.0,-35.0,9.0
+2020-04-11,North Carolina,Davie County,-29.0,3.0,,-41.0,-33.0,17.0
+2020-04-11,North Carolina,Duplin County,-37.0,7.0,,-32.0,-24.0,17.0
+2020-04-11,North Carolina,Durham County,-48.0,-18.0,-6.0,-33.0,-41.0,14.0
+2020-04-11,North Carolina,Edgecombe County,-13.0,17.0,,,-35.0,19.0
+2020-04-11,North Carolina,Forsyth County,-39.0,-8.0,95.0,1.0,-38.0,11.0
+2020-04-11,North Carolina,Franklin County,-18.0,10.0,,,-30.0,22.0
+2020-04-11,North Carolina,Gaston County,-37.0,-9.0,7.0,,-33.0,11.0
+2020-04-11,North Carolina,Gates County,,,,,-39.0,
+2020-04-11,North Carolina,Graham County,,,,,-49.0,
+2020-04-11,North Carolina,Granville County,-22.0,-7.0,,,-32.0,23.0
+2020-04-11,North Carolina,Greene County,-41.0,2.0,-17.0,,-25.0,
+2020-04-11,North Carolina,Guilford County,-46.0,-11.0,50.0,-35.0,-40.0,12.0
+2020-04-11,North Carolina,Halifax County,-32.0,1.0,,,-29.0,18.0
+2020-04-11,North Carolina,Harnett County,-29.0,6.0,-15.0,-24.0,-28.0,10.0
+2020-04-11,North Carolina,Haywood County,-36.0,-1.0,12.0,-36.0,-31.0,19.0
+2020-04-11,North Carolina,Henderson County,-45.0,-3.0,81.0,-23.0,-35.0,11.0
+2020-04-11,North Carolina,Hertford County,-43.0,47.0,,,-21.0,
+2020-04-11,North Carolina,Hoke County,-25.0,8.0,,,-32.0,20.0
+2020-04-11,North Carolina,Iredell County,-40.0,1.0,55.0,-28.0,-36.0,11.0
+2020-04-11,North Carolina,Jackson County,-42.0,-9.0,9.0,,-50.0,17.0
+2020-04-11,North Carolina,Johnston County,-34.0,-4.0,30.0,-30.0,-32.0,12.0
+2020-04-11,North Carolina,Jones County,,-6.0,,,-53.0,
+2020-04-11,North Carolina,Lee County,-30.0,1.0,,,-28.0,21.0
+2020-04-11,North Carolina,Lenoir County,-31.0,12.0,,,-28.0,18.0
+2020-04-11,North Carolina,Lincoln County,-18.0,16.0,,,-33.0,10.0
+2020-04-11,North Carolina,Macon County,-35.0,-9.0,-15.0,,-33.0,14.0
+2020-04-11,North Carolina,Madison County,-62.0,-12.0,,,-20.0,
+2020-04-11,North Carolina,Martin County,-28.0,-4.0,,,-24.0,
+2020-04-11,North Carolina,McDowell County,-20.0,5.0,9.0,-21.0,-18.0,18.0
+2020-04-11,North Carolina,Mecklenburg County,-52.0,-9.0,-17.0,-68.0,-43.0,15.0
+2020-04-11,North Carolina,Mitchell County,-33.0,-10.0,,,-24.0,
+2020-04-11,North Carolina,Montgomery County,-34.0,4.0,9.0,-49.0,-26.0,-1.0
+2020-04-11,North Carolina,Moore County,-48.0,-2.0,12.0,,-39.0,21.0
+2020-04-11,North Carolina,Nash County,-36.0,3.0,,-32.0,-32.0,10.0
+2020-04-11,North Carolina,New Hanover County,-51.0,-14.0,-25.0,-67.0,-39.0,13.0
+2020-04-11,North Carolina,Northampton County,-67.0,21.0,,,-24.0,
+2020-04-11,North Carolina,Onslow County,-35.0,-2.0,10.0,-71.0,-29.0,10.0
+2020-04-11,North Carolina,Orange County,-52.0,-18.0,-4.0,-31.0,-41.0,14.0
+2020-04-11,North Carolina,Pamlico County,-23.0,9.0,,,-45.0,
+2020-04-11,North Carolina,Pasquotank County,-30.0,4.0,,,-21.0,20.0
+2020-04-11,North Carolina,Pender County,-23.0,0.0,,,-23.0,20.0
+2020-04-11,North Carolina,Perquimans County,-53.0,-2.0,,,-43.0,
+2020-04-11,North Carolina,Person County,-26.0,10.0,,,-31.0,17.0
+2020-04-11,North Carolina,Pitt County,-43.0,-10.0,-2.0,-29.0,-33.0,11.0
+2020-04-11,North Carolina,Polk County,-48.0,-19.0,,,-29.0,
+2020-04-11,North Carolina,Randolph County,-42.0,-2.0,-20.0,,-30.0,9.0
+2020-04-11,North Carolina,Richmond County,-33.0,40.0,,,-24.0,11.0
+2020-04-11,North Carolina,Robeson County,-29.0,7.0,,-40.0,-23.0,7.0
+2020-04-11,North Carolina,Rockingham County,-23.0,6.0,,-34.0,-30.0,10.0
+2020-04-11,North Carolina,Rowan County,-39.0,2.0,35.0,-27.0,-33.0,10.0
+2020-04-11,North Carolina,Rutherford County,-31.0,4.0,9.0,,-26.0,17.0
+2020-04-11,North Carolina,Sampson County,-23.0,8.0,,,-27.0,17.0
+2020-04-11,North Carolina,Scotland County,-21.0,-7.0,,,-30.0,12.0
+2020-04-11,North Carolina,Stanly County,-28.0,1.0,,,-33.0,20.0
+2020-04-11,North Carolina,Stokes County,-29.0,15.0,-22.0,,-30.0,15.0
+2020-04-11,North Carolina,Surry County,-30.0,4.0,-11.0,-31.0,-29.0,19.0
+2020-04-11,North Carolina,Swain County,-75.0,0.0,-25.0,,-56.0,
+2020-04-11,North Carolina,Transylvania County,-25.0,-19.0,-8.0,,-24.0,6.0
+2020-04-11,North Carolina,Union County,-35.0,0.0,-14.0,-31.0,-35.0,13.0
+2020-04-11,North Carolina,Vance County,-29.0,5.0,,,-30.0,19.0
+2020-04-11,North Carolina,Wake County,-49.0,-18.0,26.0,-71.0,-40.0,15.0
+2020-04-11,North Carolina,Warren County,-4.0,7.0,,,-23.0,
+2020-04-11,North Carolina,Washington County,-29.0,4.0,,,-38.0,
+2020-04-11,North Carolina,Watauga County,-62.0,-32.0,28.0,,-43.0,18.0
+2020-04-11,North Carolina,Wayne County,-35.0,0.0,-37.0,-29.0,-30.0,9.0
+2020-04-11,North Carolina,Wilkes County,-36.0,14.0,-26.0,,-35.0,17.0
+2020-04-11,North Carolina,Wilson County,-32.0,3.0,-11.0,,-25.0,10.0
+2020-04-11,North Carolina,Yadkin County,-46.0,0.0,,,-35.0,15.0
+2020-04-11,North Carolina,Yancey County,-41.0,-5.0,,,-19.0,
+2020-04-11,Ohio,Total,-41.0,-2.0,82.0,-28.0,-37.0,12.0
+2020-04-11,Ohio,Adams County,-39.0,32.0,,,-23.0,-2.0
+2020-04-11,Ohio,Allen County,-44.0,-2.0,11.0,-20.0,-32.0,12.0
+2020-04-11,Ohio,Ashland County,-36.0,8.0,,,-40.0,23.0
+2020-04-11,Ohio,Ashtabula County,-29.0,8.0,81.0,-28.0,-29.0,11.0
+2020-04-11,Ohio,Athens County,-53.0,-6.0,,,-39.0,18.0
+2020-04-11,Ohio,Auglaize County,-39.0,-3.0,,,-28.0,22.0
+2020-04-11,Ohio,Belmont County,-40.0,32.0,,-36.0,-27.0,19.0
+2020-04-11,Ohio,Brown County,-31.0,10.0,,,-24.0,19.0
+2020-04-11,Ohio,Butler County,-45.0,-6.0,136.0,-12.0,-34.0,12.0
+2020-04-11,Ohio,Carroll County,-37.0,-8.0,,,-30.0,0.0
+2020-04-11,Ohio,Champaign County,-34.0,-5.0,,,-39.0,20.0
+2020-04-11,Ohio,Clark County,-32.0,1.0,,-15.0,-31.0,10.0
+2020-04-11,Ohio,Clermont County,-39.0,-8.0,68.0,,-37.0,12.0
+2020-04-11,Ohio,Clinton County,-37.0,6.0,,17.0,-31.0,22.0
+2020-04-11,Ohio,Columbiana County,-28.0,17.0,,,-37.0,12.0
+2020-04-11,Ohio,Coshocton County,-28.0,0.0,,,-23.0,16.0
+2020-04-11,Ohio,Crawford County,-32.0,1.0,,,-38.0,22.0
+2020-04-11,Ohio,Cuyahoga County,-47.0,-1.0,67.0,-38.0,-40.0,13.0
+2020-04-11,Ohio,Darke County,-29.0,0.0,,,-27.0,23.0
+2020-04-11,Ohio,Defiance County,-39.0,4.0,,,-31.0,20.0
+2020-04-11,Ohio,Delaware County,-58.0,-17.0,137.0,-37.0,-41.0,14.0
+2020-04-11,Ohio,Erie County,-42.0,2.0,2.0,,-43.0,12.0
+2020-04-11,Ohio,Fairfield County,-45.0,-2.0,58.0,,-29.0,12.0
+2020-04-11,Ohio,Fayette County,-35.0,-4.0,,-32.0,-31.0,9.0
+2020-04-11,Ohio,Franklin County,-46.0,-9.0,43.0,-38.0,-40.0,13.0
+2020-04-11,Ohio,Fulton County,-33.0,7.0,,-45.0,-32.0,26.0
+2020-04-11,Ohio,Gallia County,-35.0,-6.0,,-17.0,-21.0,
+2020-04-11,Ohio,Geauga County,-37.0,-6.0,10.0,,-39.0,27.0
+2020-04-11,Ohio,Greene County,-47.0,-3.0,144.0,,-37.0,12.0
+2020-04-11,Ohio,Guernsey County,-32.0,-8.0,,-28.0,-27.0,15.0
+2020-04-11,Ohio,Hamilton County,-47.0,-7.0,94.0,-18.0,-38.0,13.0
+2020-04-11,Ohio,Hancock County,-46.0,-5.0,,-28.0,-45.0,26.0
+2020-04-11,Ohio,Hardin County,-30.0,3.0,,,-38.0,13.0
+2020-04-11,Ohio,Harrison County,-2.0,5.0,,,-25.0,
+2020-04-11,Ohio,Henry County,-34.0,-6.0,,-40.0,-36.0,13.0
+2020-04-11,Ohio,Highland County,-16.0,4.0,,,-27.0,19.0
+2020-04-11,Ohio,Hocking County,-42.0,-11.0,-35.0,,-32.0,-3.0
+2020-04-11,Ohio,Holmes County,-53.0,-13.0,,,-31.0,-1.0
+2020-04-11,Ohio,Huron County,-31.0,13.0,,,-38.0,22.0
+2020-04-11,Ohio,Jackson County,-25.0,27.0,,-35.0,-28.0,-1.0
+2020-04-11,Ohio,Jefferson County,-28.0,14.0,,-17.0,-30.0,19.0
+2020-04-11,Ohio,Knox County,-26.0,14.0,,,-36.0,22.0
+2020-04-11,Ohio,Lake County,-43.0,-1.0,120.0,-30.0,-37.0,14.0
+2020-04-11,Ohio,Lawrence County,-28.0,-4.0,,,-31.0,19.0
+2020-04-11,Ohio,Licking County,-35.0,-3.0,9.0,-32.0,-33.0,12.0
+2020-04-11,Ohio,Logan County,-22.0,4.0,,,-48.0,23.0
+2020-04-11,Ohio,Lorain County,-36.0,10.0,114.0,-59.0,-35.0,12.0
+2020-04-11,Ohio,Lucas County,-48.0,0.0,61.0,-12.0,-38.0,14.0
+2020-04-11,Ohio,Madison County,-40.0,-9.0,,-24.0,-35.0,21.0
+2020-04-11,Ohio,Mahoning County,-42.0,0.0,97.0,-34.0,-38.0,13.0
+2020-04-11,Ohio,Marion County,-29.0,5.0,,,-39.0,21.0
+2020-04-11,Ohio,Medina County,-41.0,4.0,,-30.0,-34.0,14.0
+2020-04-11,Ohio,Meigs County,-29.0,,,,-18.0,
+2020-04-11,Ohio,Mercer County,-34.0,-6.0,,,-32.0,22.0
+2020-04-11,Ohio,Miami County,-36.0,-4.0,-4.0,,-35.0,12.0
+2020-04-11,Ohio,Monroe County,-57.0,-6.0,,,-44.0,
+2020-04-11,Ohio,Montgomery County,-45.0,-3.0,87.0,2.0,-37.0,12.0
+2020-04-11,Ohio,Morgan County,-22.0,20.0,,,-34.0,
+2020-04-11,Ohio,Morrow County,-45.0,-6.0,,-33.0,-31.0,18.0
+2020-04-11,Ohio,Muskingum County,-33.0,-6.0,,-21.0,-30.0,10.0
+2020-04-11,Ohio,Noble County,-53.0,9.0,,-17.0,-39.0,
+2020-04-11,Ohio,Ottawa County,-32.0,6.0,,,-32.0,22.0
+2020-04-11,Ohio,Paulding County,11.0,13.0,,,-38.0,
+2020-04-11,Ohio,Perry County,-5.0,3.0,,,-25.0,10.0
+2020-04-11,Ohio,Pickaway County,-21.0,5.0,,-5.0,-25.0,20.0
+2020-04-11,Ohio,Pike County,-22.0,-5.0,,,-22.0,
+2020-04-11,Ohio,Portage County,-41.0,-2.0,22.0,-40.0,-38.0,13.0
+2020-04-11,Ohio,Preble County,-23.0,-20.0,,1.0,-32.0,22.0
+2020-04-11,Ohio,Putnam County,-37.0,17.0,,,-40.0,16.0
+2020-04-11,Ohio,Richland County,-46.0,-5.0,,-32.0,-39.0,11.0
+2020-04-11,Ohio,Ross County,-38.0,7.0,,3.0,-25.0,17.0
+2020-04-11,Ohio,Sandusky County,-30.0,5.0,,-52.0,-35.0,25.0
+2020-04-11,Ohio,Scioto County,-33.0,0.0,,,-22.0,15.0
+2020-04-11,Ohio,Seneca County,-27.0,10.0,,,-38.0,26.0
+2020-04-11,Ohio,Shelby County,-26.0,-15.0,,-29.0,-41.0,21.0
+2020-04-11,Ohio,Stark County,-40.0,-3.0,89.0,-7.0,-35.0,12.0
+2020-04-11,Ohio,Summit County,-43.0,0.0,59.0,-23.0,-39.0,13.0
+2020-04-11,Ohio,Trumbull County,-38.0,8.0,87.0,-19.0,-37.0,12.0
+2020-04-11,Ohio,Tuscarawas County,-35.0,9.0,,,-35.0,12.0
+2020-04-11,Ohio,Union County,-38.0,1.0,,,-40.0,30.0
+2020-04-11,Ohio,Van Wert County,-25.0,-8.0,,,-34.0,19.0
+2020-04-11,Ohio,Vinton County,-56.0,9.0,,,-46.0,
+2020-04-11,Ohio,Warren County,-45.0,5.0,75.0,-24.0,-37.0,13.0
+2020-04-11,Ohio,Washington County,-40.0,-2.0,,,-31.0,19.0
+2020-04-11,Ohio,Wayne County,-46.0,1.0,,-35.0,-36.0,12.0
+2020-04-11,Ohio,Williams County,-32.0,-11.0,,-58.0,-32.0,21.0
+2020-04-11,Ohio,Wood County,-46.0,-16.0,-7.0,-31.0,-40.0,14.0
+2020-04-11,Ohio,Wyandot County,-40.0,6.0,,-14.0,-39.0,6.0
+2020-04-11,Vermont,Total,-54.0,-23.0,-4.0,-64.0,-44.0,15.0
+2020-04-11,Vermont,Addison County,-46.0,-32.0,,,-32.0,6.0
+2020-04-11,Vermont,Bennington County,-55.0,-24.0,-35.0,,-46.0,8.0
+2020-04-11,Vermont,Caledonia County,-57.0,-29.0,,,-32.0,2.0
+2020-04-11,Vermont,Chittenden County,-57.0,-39.0,1.0,-63.0,-48.0,17.0
+2020-04-11,Vermont,Essex County,,,,,-42.0,
+2020-04-11,Vermont,Franklin County,-44.0,-25.0,,,-36.0,21.0
+2020-04-11,Vermont,Grand Isle County,,,,-63.0,-57.0,
+2020-04-11,Vermont,Lamoille County,-76.0,-35.0,,-40.0,-63.0,
+2020-04-11,Vermont,Orange County,-70.0,-14.0,,-68.0,-28.0,1.0
+2020-04-11,Vermont,Orleans County,-58.0,-15.0,-46.0,,-37.0,0.0
+2020-04-11,Vermont,Rutland County,-50.0,-10.0,,-76.0,-47.0,23.0
+2020-04-11,Vermont,Washington County,-56.0,-21.0,,-47.0,-43.0,23.0
+2020-04-11,Vermont,Windham County,-65.0,-27.0,-36.0,,-50.0,15.0
+2020-04-11,Vermont,Windsor County,-55.0,-40.0,-24.0,-57.0,-43.0,24.0
+2020-04-11,Pennsylvania,Total,-47.0,-12.0,19.0,-50.0,-40.0,15.0
+2020-04-11,Pennsylvania,Adams County,-54.0,-3.0,16.0,,-40.0,14.0
+2020-04-11,Pennsylvania,Allegheny County,-54.0,-8.0,8.0,-52.0,-45.0,15.0
+2020-04-11,Pennsylvania,Armstrong County,-35.0,5.0,,,-33.0,24.0
+2020-04-11,Pennsylvania,Beaver County,-42.0,2.0,14.0,-52.0,-42.0,14.0
+2020-04-11,Pennsylvania,Bedford County,-45.0,10.0,,-79.0,-28.0,18.0
+2020-04-11,Pennsylvania,Berks County,-45.0,-14.0,53.0,-38.0,-43.0,15.0
+2020-04-11,Pennsylvania,Blair County,-51.0,-6.0,-36.0,-35.0,-34.0,12.0
+2020-04-11,Pennsylvania,Bradford County,-31.0,10.0,,,-18.0,22.0
+2020-04-11,Pennsylvania,Bucks County,-47.0,-24.0,54.0,-44.0,-41.0,16.0
+2020-04-11,Pennsylvania,Butler County,-47.0,-35.0,0.0,-31.0,-40.0,14.0
+2020-04-11,Pennsylvania,Cambria County,-46.0,-3.0,,,-32.0,12.0
+2020-04-11,Pennsylvania,Carbon County,-35.0,-7.0,-13.0,,-38.0,24.0
+2020-04-11,Pennsylvania,Centre County,-64.0,-21.0,-5.0,-45.0,-47.0,15.0
+2020-04-11,Pennsylvania,Chester County,-49.0,-24.0,12.0,-69.0,-40.0,15.0
+2020-04-11,Pennsylvania,Clarion County,-46.0,-13.0,,,-23.0,10.0
+2020-04-11,Pennsylvania,Clearfield County,-39.0,-5.0,-34.0,-7.0,-27.0,11.0
+2020-04-11,Pennsylvania,Clinton County,-28.0,-13.0,,-38.0,-27.0,17.0
+2020-04-11,Pennsylvania,Columbia County,-44.0,11.0,,-32.0,-34.0,26.0
+2020-04-11,Pennsylvania,Crawford County,-35.0,11.0,,,-38.0,24.0
+2020-04-11,Pennsylvania,Cumberland County,-51.0,-9.0,83.0,-31.0,-38.0,14.0
+2020-04-11,Pennsylvania,Dauphin County,-53.0,-24.0,28.0,-55.0,-37.0,14.0
+2020-04-11,Pennsylvania,Delaware County,-44.0,-14.0,57.0,-39.0,-40.0,16.0
+2020-04-11,Pennsylvania,Elk County,-32.0,-8.0,,,-38.0,8.0
+2020-04-11,Pennsylvania,Erie County,-46.0,6.0,80.0,-39.0,-40.0,13.0
+2020-04-11,Pennsylvania,Fayette County,-35.0,8.0,-34.0,,-36.0,11.0
+2020-04-11,Pennsylvania,Franklin County,-38.0,-6.0,-15.0,-24.0,-35.0,12.0
+2020-04-11,Pennsylvania,Fulton County,-12.0,-27.0,,-65.0,-53.0,
+2020-04-11,Pennsylvania,Greene County,-33.0,-10.0,,,-30.0,3.0
+2020-04-11,Pennsylvania,Huntingdon County,-36.0,4.0,,,-25.0,18.0
+2020-04-11,Pennsylvania,Indiana County,-43.0,-11.0,,,-29.0,25.0
+2020-04-11,Pennsylvania,Jefferson County,-35.0,-4.0,,-29.0,-24.0,16.0
+2020-04-11,Pennsylvania,Juniata County,-48.0,-34.0,,,-42.0,
+2020-04-11,Pennsylvania,Lackawanna County,-49.0,0.0,64.0,-42.0,-37.0,13.0
+2020-04-11,Pennsylvania,Lancaster County,-51.0,-19.0,36.0,-54.0,-39.0,15.0
+2020-04-11,Pennsylvania,Lawrence County,-33.0,0.0,-50.0,,-29.0,11.0
+2020-04-11,Pennsylvania,Lebanon County,-39.0,-6.0,-42.0,-33.0,-37.0,14.0
+2020-04-11,Pennsylvania,Lehigh County,-53.0,-16.0,46.0,-54.0,-41.0,16.0
+2020-04-11,Pennsylvania,Luzerne County,-50.0,-6.0,51.0,-31.0,-40.0,14.0
+2020-04-11,Pennsylvania,Lycoming County,-46.0,-1.0,-28.0,-29.0,-33.0,12.0
+2020-04-11,Pennsylvania,McKean County,-41.0,-3.0,,,-28.0,16.0
+2020-04-11,Pennsylvania,Mercer County,-49.0,-17.0,,,-37.0,12.0
+2020-04-11,Pennsylvania,Mifflin County,-32.0,-9.0,,,-26.0,24.0
+2020-04-11,Pennsylvania,Monroe County,-53.0,-4.0,-6.0,-63.0,-47.0,16.0
+2020-04-11,Pennsylvania,Montgomery County,-55.0,-25.0,62.0,-52.0,-45.0,17.0
+2020-04-11,Pennsylvania,Montour County,-60.0,-33.0,,,-28.0,
+2020-04-11,Pennsylvania,Northampton County,-51.0,-13.0,73.0,-42.0,-41.0,16.0
+2020-04-11,Pennsylvania,Northumberland County,-40.0,10.0,,-20.0,-29.0,12.0
+2020-04-11,Pennsylvania,Perry County,-31.0,10.0,,,-30.0,27.0
+2020-04-11,Pennsylvania,Philadelphia County,-54.0,-17.0,-37.0,-55.0,-43.0,16.0
+2020-04-11,Pennsylvania,Pike County,-42.0,16.0,,,-39.0,28.0
+2020-04-11,Pennsylvania,Potter County,-38.0,1.0,,,-25.0,
+2020-04-11,Pennsylvania,Schuylkill County,-34.0,4.0,-43.0,-30.0,-35.0,12.0
+2020-04-11,Pennsylvania,Snyder County,-49.0,-6.0,,,-29.0,12.0
+2020-04-11,Pennsylvania,Somerset County,-46.0,3.0,40.0,-57.0,-30.0,25.0
+2020-04-11,Pennsylvania,Sullivan County,,,,,-51.0,
+2020-04-11,Pennsylvania,Susquehanna County,-48.0,-18.0,-42.0,-48.0,-27.0,16.0
+2020-04-11,Pennsylvania,Tioga County,-41.0,-13.0,,,-34.0,18.0
+2020-04-11,Pennsylvania,Union County,-47.0,-4.0,,,-28.0,14.0
+2020-04-11,Pennsylvania,Venango County,-35.0,1.0,,-61.0,-30.0,24.0
+2020-04-11,Pennsylvania,Warren County,-30.0,15.0,-38.0,,-32.0,17.0
+2020-04-11,Pennsylvania,Washington County,-48.0,-2.0,27.0,-24.0,-38.0,13.0
+2020-04-11,Pennsylvania,Wayne County,-37.0,-6.0,,,-36.0,17.0
+2020-04-11,Pennsylvania,Westmoreland County,-42.0,-5.0,43.0,-41.0,-37.0,13.0
+2020-04-11,Pennsylvania,Wyoming County,-48.0,-4.0,,,-33.0,-1.0
+2020-04-11,Pennsylvania,York County,-42.0,-14.0,42.0,-42.0,-39.0,14.0
+2020-04-11,Washington,Total,-47.0,-10.0,3.0,-50.0,-41.0,14.0
+2020-04-11,Washington,Adams County,-38.0,19.0,,-17.0,-31.0,
+2020-04-11,Washington,Asotin County,-24.0,,,,-29.0,7.0
+2020-04-11,Washington,Benton County,-46.0,-7.0,24.0,-20.0,-36.0,11.0
+2020-04-11,Washington,Chelan County,-48.0,-13.0,-21.0,-23.0,-45.0,18.0
+2020-04-11,Washington,Clallam County,-37.0,-13.0,3.0,-8.0,-34.0,16.0
+2020-04-11,Washington,Clark County,-40.0,-14.0,53.0,-31.0,-38.0,13.0
+2020-04-11,Washington,Cowlitz County,-31.0,6.0,28.0,-32.0,-32.0,10.0
+2020-04-11,Washington,Douglas County,-54.0,9.0,,-37.0,-39.0,17.0
+2020-04-11,Washington,Ferry County,,,,,-38.0,
+2020-04-11,Washington,Franklin County,-32.0,-1.0,-16.0,-44.0,-34.0,11.0
+2020-04-11,Washington,Grant County,-32.0,8.0,-1.0,-44.0,-28.0,9.0
+2020-04-11,Washington,Grays Harbor County,-37.0,-3.0,-9.0,-20.0,-39.0,10.0
+2020-04-11,Washington,Island County,-34.0,-16.0,9.0,-45.0,-40.0,20.0
+2020-04-11,Washington,Jefferson County,-58.0,-33.0,-8.0,-44.0,-38.0,2.0
+2020-04-11,Washington,King County,-59.0,-19.0,-5.0,-63.0,-48.0,17.0
+2020-04-11,Washington,Kitsap County,-43.0,-8.0,-10.0,-60.0,-39.0,13.0
+2020-04-11,Washington,Kittitas County,-48.0,-7.0,-26.0,-13.0,-47.0,18.0
+2020-04-11,Washington,Klickitat County,-50.0,-2.0,,,-34.0,
+2020-04-11,Washington,Lewis County,-42.0,0.0,-11.0,-22.0,-30.0,11.0
+2020-04-11,Washington,Lincoln County,,,,,-45.0,
+2020-04-11,Washington,Mason County,-16.0,-7.0,15.0,,-33.0,17.0
+2020-04-11,Washington,Okanogan County,-29.0,7.0,,,-36.0,9.0
+2020-04-11,Washington,Pacific County,-41.0,-14.0,-26.0,,-33.0,
+2020-04-11,Washington,Pend Oreille County,-57.0,-1.0,,,-38.0,
+2020-04-11,Washington,Pierce County,-46.0,-5.0,-2.0,-24.0,-39.0,13.0
+2020-04-11,Washington,San Juan County,-82.0,-42.0,,-57.0,-39.0,
+2020-04-11,Washington,Skagit County,-42.0,-5.0,28.0,-27.0,-41.0,13.0
+2020-04-11,Washington,Skamania County,-65.0,,-38.0,,-45.0,
+2020-04-11,Washington,Snohomish County,-46.0,-15.0,18.0,-40.0,-44.0,15.0
+2020-04-11,Washington,Spokane County,-40.0,1.0,25.0,-38.0,-36.0,11.0
+2020-04-11,Washington,Stevens County,-26.0,1.0,18.0,,-28.0,13.0
+2020-04-11,Washington,Thurston County,-45.0,-7.0,-17.0,-29.0,-39.0,13.0
+2020-04-11,Washington,Walla Walla County,-39.0,-7.0,,-35.0,-39.0,16.0
+2020-04-11,Washington,Whatcom County,-52.0,-20.0,-9.0,-62.0,-43.0,14.0
+2020-04-11,Washington,Whitman County,-45.0,-24.0,,,-35.0,21.0
+2020-04-11,Washington,Yakima County,-37.0,8.0,-4.0,-28.0,-30.0,10.0
+2020-04-11,New Jersey,Total,-61.0,-3.0,-12.0,-65.0,-47.0,18.0
+2020-04-11,New Jersey,Atlantic County,-60.0,6.0,56.0,-62.0,-56.0,17.0
+2020-04-11,New Jersey,Bergen County,-72.0,-5.0,-21.0,-56.0,-55.0,21.0
+2020-04-11,New Jersey,Burlington County,-57.0,17.0,3.0,-41.0,-38.0,16.0
+2020-04-11,New Jersey,Camden County,-56.0,6.0,-33.0,-55.0,-40.0,16.0
+2020-04-11,New Jersey,Cape May County,-52.0,7.0,25.0,-46.0,-36.0,12.0
+2020-04-11,New Jersey,Cumberland County,-36.0,-2.0,-12.0,-26.0,-27.0,12.0
+2020-04-11,New Jersey,Essex County,-65.0,-13.0,-30.0,-77.0,-48.0,20.0
+2020-04-11,New Jersey,Gloucester County,-52.0,-5.0,-8.0,-8.0,-37.0,15.0
+2020-04-11,New Jersey,Hudson County,-64.0,-16.0,-51.0,-70.0,-58.0,21.0
+2020-04-11,New Jersey,Hunterdon County,-62.0,14.0,,-38.0,-45.0,32.0
+2020-04-11,New Jersey,Mercer County,-63.0,30.0,-2.0,-72.0,-42.0,17.0
+2020-04-11,New Jersey,Middlesex County,-70.0,-1.0,-6.0,-69.0,-50.0,20.0
+2020-04-11,New Jersey,Monmouth County,-63.0,13.0,24.0,-49.0,-43.0,17.0
+2020-04-11,New Jersey,Morris County,-66.0,9.0,15.0,-51.0,-49.0,19.0
+2020-04-11,New Jersey,Ocean County,-55.0,9.0,0.0,-50.0,-40.0,15.0
+2020-04-11,New Jersey,Passaic County,-67.0,-14.0,0.0,-46.0,-54.0,20.0
+2020-04-11,New Jersey,Salem County,-37.0,-16.0,-18.0,-61.0,-28.0,22.0
+2020-04-11,New Jersey,Somerset County,-68.0,10.0,-12.0,-46.0,-47.0,20.0
+2020-04-11,New Jersey,Sussex County,-49.0,-1.0,42.0,-45.0,-40.0,16.0
+2020-04-11,New Jersey,Union County,-63.0,-12.0,-40.0,-53.0,-52.0,20.0
+2020-04-11,New Jersey,Warren County,-37.0,-8.0,32.0,-44.0,-37.0,16.0
+2020-04-11,Arizona,Total,-43.0,-14.0,-42.0,-45.0,-36.0,14.0
+2020-04-11,Arizona,Apache County,-80.0,-54.0,-59.0,-35.0,-34.0,16.0
+2020-04-11,Arizona,Cochise County,-41.0,-18.0,-44.0,-35.0,-34.0,11.0
+2020-04-11,Arizona,Coconino County,-65.0,-32.0,-46.0,-42.0,-42.0,18.0
+2020-04-11,Arizona,Gila County,-26.0,16.0,41.0,,-27.0,12.0
+2020-04-11,Arizona,Graham County,-29.0,12.0,,,-19.0,11.0
+2020-04-11,Arizona,Greenlee County,-65.0,-13.0,,,-37.0,
+2020-04-11,Arizona,La Paz County,-62.0,-39.0,-67.0,-51.0,-21.0,
+2020-04-11,Arizona,Maricopa County,-42.0,-13.0,-41.0,-46.0,-37.0,14.0
+2020-04-11,Arizona,Mohave County,-37.0,-5.0,-27.0,-26.0,-36.0,10.0
+2020-04-11,Arizona,Navajo County,-39.0,-23.0,5.0,-24.0,-30.0,14.0
+2020-04-11,Arizona,Pima County,-47.0,-14.0,-52.0,-48.0,-39.0,14.0
+2020-04-11,Arizona,Pinal County,-33.0,-16.0,-45.0,-45.0,-31.0,12.0
+2020-04-11,Arizona,Santa Cruz County,-58.0,-43.0,-62.0,-27.0,-36.0,22.0
+2020-04-11,Arizona,Yavapai County,-43.0,-6.0,-32.0,-38.0,-37.0,11.0
+2020-04-11,Arizona,Yuma County,-51.0,-23.0,-53.0,-60.0,-34.0,16.0
+2020-04-11,Louisiana,Total,-45.0,-2.0,-35.0,-54.0,-36.0,14.0
+2020-04-11,Louisiana,Acadia Parish,-31.0,23.0,,-52.0,-28.0,12.0
+2020-04-11,Louisiana,Allen Parish,-35.0,-10.0,,,-38.0,
+2020-04-11,Louisiana,Ascension Parish,-46.0,4.0,,,-36.0,15.0
+2020-04-11,Louisiana,Assumption Parish,,-3.0,,,-31.0,
+2020-04-11,Louisiana,Avoyelles Parish,-16.0,5.0,,,-27.0,-2.0
+2020-04-11,Louisiana,Beauregard Parish,-27.0,-7.0,,,-33.0,3.0
+2020-04-11,Louisiana,Bienville Parish,-44.0,-8.0,,,-40.0,
+2020-04-11,Louisiana,Bossier Parish,-57.0,-8.0,-13.0,-53.0,-41.0,15.0
+2020-04-11,Louisiana,Caddo Parish,-42.0,0.0,-43.0,-46.0,-36.0,13.0
+2020-04-11,Louisiana,Calcasieu Parish,-42.0,-9.0,-31.0,-51.0,-33.0,14.0
+2020-04-11,Louisiana,Caldwell Parish,-13.0,,,,-43.0,
+2020-04-11,Louisiana,Cameron Parish,,10.0,,,-48.0,
+2020-04-11,Louisiana,Catahoula Parish,-64.0,-24.0,,,-44.0,
+2020-04-11,Louisiana,Claiborne Parish,-41.0,-14.0,,,-41.0,
+2020-04-11,Louisiana,Concordia Parish,-24.0,-16.0,,,-30.0,
+2020-04-11,Louisiana,De Soto Parish,-22.0,-12.0,,-35.0,-23.0,
+2020-04-11,Louisiana,East Baton Rouge Parish,-48.0,3.0,-28.0,-43.0,-36.0,14.0
+2020-04-11,Louisiana,East Feliciana Parish,-23.0,-3.0,,,-58.0,
+2020-04-11,Louisiana,Evangeline Parish,-36.0,1.0,,,-28.0,
+2020-04-11,Louisiana,Franklin Parish,-25.0,3.0,,,-20.0,
+2020-04-11,Louisiana,Grant Parish,,17.0,,,-20.0,
+2020-04-11,Louisiana,Iberia Parish,-27.0,7.0,-28.0,,-27.0,21.0
+2020-04-11,Louisiana,Iberville Parish,-24.0,0.0,,-49.0,-37.0,
+2020-04-11,Louisiana,Jackson Parish,-21.0,-5.0,,,-44.0,
+2020-04-11,Louisiana,Jefferson Davis Parish,-52.0,-7.0,,-53.0,-30.0,-1.0
+2020-04-11,Louisiana,Jefferson Parish,-50.0,-5.0,-35.0,-85.0,-45.0,17.0
+2020-04-11,Louisiana,La Salle Parish,-36.0,2.0,,,-41.0,
+2020-04-11,Louisiana,Lafayette Parish,-48.0,-4.0,-21.0,-40.0,-36.0,14.0
+2020-04-11,Louisiana,Lafourche Parish,-31.0,2.0,,-54.0,-29.0,22.0
+2020-04-11,Louisiana,Lincoln Parish,-60.0,2.0,,-39.0,-33.0,9.0
+2020-04-11,Louisiana,Livingston Parish,-37.0,9.0,-32.0,-35.0,-34.0,12.0
+2020-04-11,Louisiana,Madison Parish,-14.0,6.0,,-50.0,-36.0,
+2020-04-11,Louisiana,Morehouse Parish,-20.0,-9.0,,,-25.0,
+2020-04-11,Louisiana,Natchitoches Parish,-38.0,-16.0,,,-32.0,6.0
+2020-04-11,Louisiana,Orleans Parish,-72.0,-26.0,-62.0,-56.0,-53.0,19.0
+2020-04-11,Louisiana,Ouachita Parish,-45.0,-1.0,-7.0,-38.0,-30.0,11.0
+2020-04-11,Louisiana,Plaquemines Parish,-35.0,-14.0,-33.0,,-46.0,
+2020-04-11,Louisiana,Pointe Coupee Parish,-18.0,-3.0,,,-9.0,
+2020-04-11,Louisiana,Rapides Parish,-39.0,0.0,-39.0,-53.0,-27.0,11.0
+2020-04-11,Louisiana,Red River Parish,-58.0,,,,-40.0,
+2020-04-11,Louisiana,Richland Parish,-28.0,1.0,,-36.0,-17.0,
+2020-04-11,Louisiana,Sabine Parish,-23.0,-15.0,,,-23.0,
+2020-04-11,Louisiana,St. Bernard Parish,-27.0,23.0,-19.0,,-42.0,20.0
+2020-04-11,Louisiana,St. Charles Parish,-45.0,20.0,,-41.0,-38.0,24.0
+2020-04-11,Louisiana,St. Helena Parish,,-20.0,,,-58.0,
+2020-04-11,Louisiana,St. James Parish,-13.0,-4.0,,,-29.0,
+2020-04-11,Louisiana,St. John the Baptist Parish,-37.0,-1.0,-62.0,-57.0,-38.0,21.0
+2020-04-11,Louisiana,St. Landry Parish,-38.0,20.0,,-38.0,-26.0,20.0
+2020-04-11,Louisiana,St. Martin Parish,-41.0,14.0,-16.0,-46.0,-36.0,15.0
+2020-04-11,Louisiana,St. Mary Parish,-34.0,-8.0,,-57.0,-41.0,13.0
+2020-04-11,Louisiana,St. Tammany Parish,-45.0,2.0,-15.0,-32.0,-35.0,14.0
+2020-04-11,Louisiana,Tangipahoa Parish,-31.0,5.0,-20.0,-39.0,-31.0,13.0
+2020-04-11,Louisiana,Terrebonne Parish,-47.0,0.0,-8.0,-49.0,-37.0,14.0
+2020-04-11,Louisiana,Union Parish,-28.0,13.0,,,-24.0,
+2020-04-11,Louisiana,Vermilion Parish,-39.0,12.0,,,-27.0,12.0
+2020-04-11,Louisiana,Vernon Parish,-31.0,-10.0,,,-26.0,20.0
+2020-04-11,Louisiana,Washington Parish,-29.0,18.0,,,-22.0,2.0
+2020-04-11,Louisiana,Webster Parish,-28.0,-9.0,,-40.0,-35.0,13.0
+2020-04-11,Louisiana,West Baton Rouge Parish,-44.0,15.0,,-54.0,-34.0,
+2020-04-11,Louisiana,West Carroll Parish,-16.0,-2.0,,,-47.0,
+2020-04-11,Louisiana,West Feliciana Parish,-69.0,-19.0,,,-60.0,
+2020-04-11,Louisiana,Winn Parish,-18.0,0.0,,,-41.0,
+2020-04-11,West Virginia,Total,-38.0,-5.0,12.0,-39.0,-31.0,10.0
+2020-04-11,West Virginia,Barbour County,-49.0,-1.0,,,-20.0,
+2020-04-11,West Virginia,Berkeley County,-34.0,-6.0,-18.0,-63.0,-32.0,11.0
+2020-04-11,West Virginia,Boone County,-40.0,8.0,,,-28.0,
+2020-04-11,West Virginia,Braxton County,-41.0,,,-45.0,-47.0,
+2020-04-11,West Virginia,Brooke County,-35.0,-4.0,,,-32.0,
+2020-04-11,West Virginia,Cabell County,-50.0,-7.0,,-45.0,-37.0,10.0
+2020-04-11,West Virginia,Fayette County,-32.0,3.0,,,-30.0,7.0
+2020-04-11,West Virginia,Grant County,-46.0,4.0,,,-43.0,
+2020-04-11,West Virginia,Greenbrier County,-47.0,-14.0,,,-40.0,0.0
+2020-04-11,West Virginia,Hampshire County,-38.0,0.0,,,-28.0,
+2020-04-11,West Virginia,Hancock County,-39.0,-27.0,,,-40.0,10.0
+2020-04-11,West Virginia,Hardy County,-53.0,-14.0,,,-38.0,
+2020-04-11,West Virginia,Harrison County,-45.0,-6.0,-43.0,-62.0,-30.0,20.0
+2020-04-11,West Virginia,Jackson County,-29.0,-18.0,,-40.0,-21.0,
+2020-04-11,West Virginia,Jefferson County,-33.0,-30.0,-6.0,,-42.0,23.0
+2020-04-11,West Virginia,Kanawha County,-43.0,-2.0,-38.0,-43.0,-33.0,11.0
+2020-04-11,West Virginia,Lewis County,-39.0,-18.0,,-55.0,-36.0,
+2020-04-11,West Virginia,Lincoln County,,,,,-44.0,
+2020-04-11,West Virginia,Logan County,-34.0,2.0,,,-27.0,
+2020-04-11,West Virginia,Marion County,-37.0,4.0,,,-27.0,21.0
+2020-04-11,West Virginia,Marshall County,-35.0,-20.0,,,-30.0,1.0
+2020-04-11,West Virginia,Mason County,-39.0,11.0,,,-24.0,
+2020-04-11,West Virginia,McDowell County,,13.0,,,-33.0,
+2020-04-11,West Virginia,Mercer County,-36.0,3.0,-42.0,-45.0,-26.0,19.0
+2020-04-11,West Virginia,Mineral County,-40.0,-4.0,,,-19.0,-2.0
+2020-04-11,West Virginia,Mingo County,-63.0,,,,-49.0,
+2020-04-11,West Virginia,Monongalia County,-52.0,-19.0,-14.0,-47.0,-39.0,26.0
+2020-04-11,West Virginia,Monroe County,,,,,-47.0,
+2020-04-11,West Virginia,Morgan County,-32.0,-7.0,,,-33.0,
+2020-04-11,West Virginia,Nicholas County,-37.0,7.0,,,-32.0,
+2020-04-11,West Virginia,Ohio County,-54.0,14.0,-36.0,-23.0,-37.0,15.0
+2020-04-11,West Virginia,Pleasants County,-50.0,,,,-57.0,
+2020-04-11,West Virginia,Pocahontas County,-74.0,,-33.0,,-61.0,
+2020-04-11,West Virginia,Preston County,-38.0,-16.0,,,-25.0,
+2020-04-11,West Virginia,Putnam County,-35.0,-6.0,,-25.0,-35.0,18.0
+2020-04-11,West Virginia,Raleigh County,-39.0,-12.0,,-40.0,-28.0,18.0
+2020-04-11,West Virginia,Randolph County,-33.0,-1.0,,,-16.0,
+2020-04-11,West Virginia,Ritchie County,-26.0,,,,-52.0,
+2020-04-11,West Virginia,Roane County,-8.0,,,,-44.0,
+2020-04-11,West Virginia,Summers County,14.0,,,,-46.0,
+2020-04-11,West Virginia,Taylor County,-18.0,2.0,,,-19.0,
+2020-04-11,West Virginia,Tucker County,,-14.0,,,-37.0,
+2020-04-11,West Virginia,Tyler County,,,,,-40.0,
+2020-04-11,West Virginia,Upshur County,-26.0,-19.0,,,-23.0,
+2020-04-11,West Virginia,Wayne County,-3.0,-6.0,,,-30.0,0.0
+2020-04-11,West Virginia,Webster County,,,,,-49.0,
+2020-04-11,West Virginia,Wetzel County,-42.0,-8.0,,,-22.0,
+2020-04-11,West Virginia,Wirt County,,,,,-53.0,
+2020-04-11,West Virginia,Wood County,-45.0,-6.0,-6.0,,-26.0,10.0
+2020-04-11,West Virginia,Wyoming County,-66.0,,,,-42.0,
+2020-04-11,New York,Total,-62.0,-4.0,-12.0,-65.0,-48.0,18.0
+2020-04-11,New York,Albany County,-62.0,37.0,66.0,-54.0,-37.0,14.0
+2020-04-11,New York,Allegany County,-35.0,-15.0,,,-31.0,18.0
+2020-04-11,New York,Bronx County,-61.0,-12.0,-20.0,-48.0,-52.0,19.0
+2020-04-11,New York,Broome County,-50.0,5.0,40.0,-38.0,-36.0,13.0
+2020-04-11,New York,Cattaraugus County,-45.0,19.0,7.0,,-38.0,25.0
+2020-04-11,New York,Cayuga County,-38.0,10.0,,-46.0,-29.0,25.0
+2020-04-11,New York,Chautauqua County,-38.0,12.0,-22.0,,-38.0,11.0
+2020-04-11,New York,Chemung County,-53.0,37.0,,-57.0,-23.0,13.0
+2020-04-11,New York,Chenango County,-45.0,9.0,,,-33.0,24.0
+2020-04-11,New York,Clinton County,-56.0,39.0,,-71.0,-30.0,23.0
+2020-04-11,New York,Columbia County,-48.0,20.0,,-29.0,-33.0,22.0
+2020-04-11,New York,Cortland County,-43.0,6.0,,-39.0,-33.0,21.0
+2020-04-11,New York,Delaware County,-40.0,0.0,,,-39.0,10.0
+2020-04-11,New York,Dutchess County,-58.0,51.0,102.0,-53.0,-39.0,16.0
+2020-04-11,New York,Erie County,-58.0,12.0,20.0,-44.0,-44.0,15.0
+2020-04-11,New York,Essex County,-66.0,-29.0,-37.0,,-47.0,3.0
+2020-04-11,New York,Franklin County,-47.0,-11.0,,,-33.0,19.0
+2020-04-11,New York,Fulton County,-40.0,-12.0,,,-25.0,20.0
+2020-04-11,New York,Genesee County,-40.0,1.0,,-58.0,-37.0,26.0
+2020-04-11,New York,Greene County,-32.0,5.0,-33.0,,-30.0,18.0
+2020-04-11,New York,Herkimer County,-37.0,9.0,,-62.0,-32.0,23.0
+2020-04-11,New York,Jefferson County,-39.0,21.0,,,-27.0,10.0
+2020-04-11,New York,Kings County,-67.0,-19.0,-9.0,-61.0,-53.0,19.0
+2020-04-11,New York,Lewis County,-51.0,-9.0,,,-23.0,
+2020-04-11,New York,Livingston County,-44.0,36.0,,-41.0,-33.0,27.0
+2020-04-11,New York,Madison County,-35.0,4.0,,-51.0,-32.0,26.0
+2020-04-11,New York,Monroe County,-54.0,12.0,97.0,-33.0,-40.0,14.0
+2020-04-11,New York,Montgomery County,-34.0,-11.0,,-9.0,-27.0,21.0
+2020-04-11,New York,Nassau County,-67.0,-3.0,39.0,-61.0,-52.0,20.0
+2020-04-11,New York,New York County,-86.0,-42.0,-61.0,-78.0,-55.0,19.0
+2020-04-11,New York,Niagara County,-45.0,35.0,-24.0,-53.0,-41.0,13.0
+2020-04-11,New York,Oneida County,-48.0,34.0,36.0,-31.0,-36.0,13.0
+2020-04-11,New York,Onondaga County,-55.0,0.0,57.0,-47.0,-40.0,14.0
+2020-04-11,New York,Ontario County,-52.0,1.0,79.0,-62.0,-37.0,13.0
+2020-04-11,New York,Orange County,-54.0,6.0,149.0,-45.0,-40.0,16.0
+2020-04-11,New York,Orleans County,-41.0,8.0,,,-35.0,19.0
+2020-04-11,New York,Oswego County,-31.0,20.0,-15.0,,-34.0,12.0
+2020-04-11,New York,Otsego County,-46.0,7.0,,,-39.0,24.0
+2020-04-11,New York,Putnam County,-58.0,-20.0,-36.0,-49.0,-45.0,31.0
+2020-04-11,New York,Queens County,-71.0,-22.0,11.0,-73.0,-62.0,23.0
+2020-04-11,New York,Rensselaer County,-47.0,32.0,-7.0,-47.0,-34.0,13.0
+2020-04-11,New York,Richmond County,-62.0,6.0,-9.0,-54.0,-48.0,19.0
+2020-04-11,New York,Rockland County,-68.0,-8.0,146.0,-61.0,-50.0,17.0
+2020-04-11,New York,Saratoga County,-55.0,25.0,15.0,-40.0,-35.0,13.0
+2020-04-11,New York,Schenectady County,-50.0,27.0,2.0,-39.0,-34.0,13.0
+2020-04-11,New York,Schoharie County,-31.0,-4.0,,,-15.0,3.0
+2020-04-11,New York,Schuyler County,-27.0,4.0,,,-26.0,
+2020-04-11,New York,Seneca County,-37.0,2.0,,-62.0,-28.0,15.0
+2020-04-11,New York,St. Lawrence County,-47.0,22.0,-6.0,,-34.0,11.0
+2020-04-11,New York,Steuben County,-46.0,8.0,-29.0,-32.0,-27.0,13.0
+2020-04-11,New York,Suffolk County,-57.0,9.0,109.0,-62.0,-45.0,17.0
+2020-04-11,New York,Sullivan County,-43.0,9.0,,,-35.0,24.0
+2020-04-11,New York,Tioga County,-41.0,-2.0,,,-33.0,24.0
+2020-04-11,New York,Tompkins County,-60.0,37.0,-34.0,-29.0,-43.0,32.0
+2020-04-11,New York,Ulster County,-46.0,8.0,151.0,-59.0,-36.0,14.0
+2020-04-11,New York,Warren County,-45.0,7.0,51.0,-41.0,-37.0,21.0
+2020-04-11,New York,Washington County,-32.0,20.0,,,-30.0,21.0
+2020-04-11,New York,Wayne County,-36.0,64.0,,,-31.0,11.0
+2020-04-11,New York,Westchester County,-68.0,0.0,116.0,-51.0,-48.0,19.0
+2020-04-11,New York,Wyoming County,-14.0,-8.0,,,-27.0,18.0
+2020-04-11,New York,Yates County,-17.0,-2.0,,,-32.0,
+2020-04-11,Mississippi,Total,-35.0,1.0,-12.0,-38.0,-32.0,11.0
+2020-04-11,Mississippi,Adams County,-36.0,-14.0,,,-29.0,
+2020-04-11,Mississippi,Alcorn County,-40.0,-13.0,,,-31.0,1.0
+2020-04-11,Mississippi,Amite County,-50.0,-31.0,,,-35.0,
+2020-04-11,Mississippi,Attala County,-27.0,-11.0,,,-37.0,
+2020-04-11,Mississippi,Benton County,,,,,-45.0,
+2020-04-11,Mississippi,Bolivar County,-29.0,-16.0,,,-24.0,
+2020-04-11,Mississippi,Calhoun County,-63.0,-30.0,,,-53.0,
+2020-04-11,Mississippi,Carroll County,,,,,-48.0,
+2020-04-11,Mississippi,Chickasaw County,-41.0,-25.0,,,-37.0,
+2020-04-11,Mississippi,Claiborne County,-66.0,,,,-28.0,
+2020-04-11,Mississippi,Clarke County,-18.0,-10.0,,,-46.0,
+2020-04-11,Mississippi,Clay County,-43.0,-3.0,,-44.0,-23.0,
+2020-04-11,Mississippi,Coahoma County,-37.0,-8.0,,,-36.0,
+2020-04-11,Mississippi,Copiah County,-35.0,-8.0,,,-24.0,
+2020-04-11,Mississippi,Covington County,-43.0,-28.0,,,-20.0,
+2020-04-11,Mississippi,DeSoto County,-38.0,7.0,3.0,-35.0,-35.0,12.0
+2020-04-11,Mississippi,Forrest County,-45.0,5.0,,-33.0,-30.0,19.0
+2020-04-11,Mississippi,George County,-55.0,25.0,,,-29.0,
+2020-04-11,Mississippi,Greene County,,-6.0,,,-47.0,
+2020-04-11,Mississippi,Grenada County,-20.0,-14.0,,,-30.0,
+2020-04-11,Mississippi,Hancock County,-33.0,5.0,,,-40.0,16.0
+2020-04-11,Mississippi,Harrison County,-44.0,-5.0,-3.0,-46.0,-45.0,14.0
+2020-04-11,Mississippi,Hinds County,-32.0,8.0,-24.0,-19.0,-27.0,10.0
+2020-04-11,Mississippi,Holmes County,-55.0,-6.0,,,-51.0,
+2020-04-11,Mississippi,Humphreys County,,9.0,,,-40.0,
+2020-04-11,Mississippi,Itawamba County,-44.0,-8.0,,,-33.0,
+2020-04-11,Mississippi,Jackson County,-33.0,-5.0,-27.0,-50.0,-43.0,14.0
+2020-04-11,Mississippi,Jasper County,-55.0,-8.0,,,-40.0,
+2020-04-11,Mississippi,Jefferson County,,,,,-35.0,
+2020-04-11,Mississippi,Jefferson Davis County,,16.0,,,-51.0,
+2020-04-11,Mississippi,Jones County,-26.0,8.0,,-47.0,-31.0,17.0
+2020-04-11,Mississippi,Kemper County,,,,,-45.0,
+2020-04-11,Mississippi,Lafayette County,-50.0,-28.0,,,-41.0,10.0
+2020-04-11,Mississippi,Lamar County,-55.0,-9.0,,-49.0,-30.0,17.0
+2020-04-11,Mississippi,Lauderdale County,-42.0,-6.0,-10.0,-40.0,-32.0,18.0
+2020-04-11,Mississippi,Lawrence County,,-18.0,,,-40.0,
+2020-04-11,Mississippi,Leake County,-41.0,-35.0,,,-33.0,
+2020-04-11,Mississippi,Lee County,-53.0,-8.0,,-37.0,-37.0,23.0
+2020-04-11,Mississippi,Leflore County,-25.0,-7.0,,,-24.0,
+2020-04-11,Mississippi,Lincoln County,-32.0,-18.0,,,-26.0,
+2020-04-11,Mississippi,Lowndes County,-43.0,29.0,,-43.0,-27.0,17.0
+2020-04-11,Mississippi,Madison County,-40.0,-8.0,-53.0,-44.0,-33.0,27.0
+2020-04-11,Mississippi,Marion County,-35.0,-12.0,,,-15.0,
+2020-04-11,Mississippi,Marshall County,-33.0,-4.0,,,-33.0,5.0
+2020-04-11,Mississippi,Monroe County,-56.0,25.0,,,-31.0,0.0
+2020-04-11,Mississippi,Montgomery County,-58.0,-29.0,,-38.0,-43.0,
+2020-04-11,Mississippi,Neshoba County,-33.0,-20.0,,,-30.0,
+2020-04-11,Mississippi,Newton County,-29.0,-13.0,,,-36.0,
+2020-04-11,Mississippi,Noxubee County,-71.0,2.0,,,-31.0,
+2020-04-11,Mississippi,Oktibbeha County,-48.0,-22.0,,,-34.0,2.0
+2020-04-11,Mississippi,Panola County,-27.0,4.0,,-34.0,-34.0,-3.0
+2020-04-11,Mississippi,Pearl River County,-23.0,3.0,,-48.0,-28.0,18.0
+2020-04-11,Mississippi,Perry County,,-21.0,-25.0,,-44.0,
+2020-04-11,Mississippi,Pike County,-29.0,-2.0,,-35.0,-26.0,-2.0
+2020-04-11,Mississippi,Pontotoc County,-47.0,-10.0,,,-47.0,-1.0
+2020-04-11,Mississippi,Prentiss County,-37.0,-3.0,,,-13.0,
+2020-04-11,Mississippi,Quitman County,,,,,-48.0,
+2020-04-11,Mississippi,Rankin County,-49.0,-3.0,-63.0,-41.0,-28.0,11.0
+2020-04-11,Mississippi,Scott County,-42.0,-4.0,,-39.0,-25.0,
+2020-04-11,Mississippi,Simpson County,-42.0,-9.0,,-30.0,-17.0,
+2020-04-11,Mississippi,Smith County,,-35.0,,,-48.0,
+2020-04-11,Mississippi,Stone County,-29.0,-26.0,,,-31.0,
+2020-04-11,Mississippi,Sunflower County,-21.0,-1.0,,-11.0,-20.0,
+2020-04-11,Mississippi,Tallahatchie County,,13.0,,,-41.0,
+2020-04-11,Mississippi,Tate County,-31.0,-2.0,,8.0,-27.0,
+2020-04-11,Mississippi,Tippah County,-35.0,-14.0,,,-33.0,
+2020-04-11,Mississippi,Tishomingo County,-26.0,0.0,,,-24.0,
+2020-04-11,Mississippi,Tunica County,-50.0,-12.0,,,-50.0,
+2020-04-11,Mississippi,Union County,-42.0,-16.0,,-32.0,-39.0,
+2020-04-11,Mississippi,Walthall County,-58.0,-11.0,,,-35.0,
+2020-04-11,Mississippi,Warren County,-32.0,-2.0,-42.0,,-27.0,16.0
+2020-04-11,Mississippi,Washington County,-28.0,9.0,,,-23.0,12.0
+2020-04-11,Mississippi,Wayne County,-42.0,-14.0,,,-20.0,
+2020-04-11,Mississippi,Webster County,-44.0,-18.0,,,-49.0,
+2020-04-11,Mississippi,Wilkinson County,,-22.0,,,-51.0,
+2020-04-11,Mississippi,Winston County,-27.0,-2.0,,,-20.0,
+2020-04-11,Mississippi,Yalobusha County,,-8.0,,,-51.0,
+2020-04-11,Mississippi,Yazoo County,-40.0,-8.0,,,-18.0,
+2020-04-11,Illinois,Total,-46.0,-1.0,10.0,-46.0,-38.0,14.0
+2020-04-11,Illinois,Adams County,-51.0,-7.0,,-2.0,-29.0,19.0
+2020-04-11,Illinois,Alexander County,,,,,-43.0,
+2020-04-11,Illinois,Bond County,-39.0,2.0,,-18.0,-18.0,
+2020-04-11,Illinois,Boone County,-22.0,-6.0,,-45.0,-39.0,23.0
+2020-04-11,Illinois,Bureau County,-36.0,14.0,,,-29.0,3.0
+2020-04-11,Illinois,Carroll County,-52.0,14.0,,,-23.0,
+2020-04-11,Illinois,Cass County,-17.0,10.0,,,-33.0,
+2020-04-11,Illinois,Champaign County,-46.0,-10.0,63.0,-32.0,-37.0,12.0
+2020-04-11,Illinois,Christian County,-31.0,-20.0,,,-28.0,9.0
+2020-04-11,Illinois,Clark County,-35.0,,,-30.0,-33.0,
+2020-04-11,Illinois,Clay County,-33.0,,,,-27.0,
+2020-04-11,Illinois,Clinton County,-30.0,-2.0,,,-27.0,14.0
+2020-04-11,Illinois,Coles County,-31.0,4.0,,,-31.0,21.0
+2020-04-11,Illinois,Cook County,-51.0,-9.0,-6.0,-53.0,-43.0,16.0
+2020-04-11,Illinois,Crawford County,-36.0,22.0,,,-23.0,
+2020-04-11,Illinois,Cumberland County,-62.0,,,-24.0,-58.0,
+2020-04-11,Illinois,De Witt County,-37.0,-23.0,,,-21.0,
+2020-04-11,Illinois,DeKalb County,-41.0,21.0,,,-34.0,13.0
+2020-04-11,Illinois,Douglas County,-55.0,14.0,,,-30.0,
+2020-04-11,Illinois,DuPage County,-54.0,-9.0,30.0,-33.0,-43.0,17.0
+2020-04-11,Illinois,Edgar County,-27.0,10.0,,,-21.0,
+2020-04-11,Illinois,Edwards County,,,,,-54.0,
+2020-04-11,Illinois,Effingham County,-46.0,2.0,,-33.0,-33.0,12.0
+2020-04-11,Illinois,Fayette County,-31.0,-10.0,,,-19.0,
+2020-04-11,Illinois,Ford County,-51.0,-11.0,,,-24.0,
+2020-04-11,Illinois,Franklin County,-25.0,1.0,,-35.0,-25.0,14.0
+2020-04-11,Illinois,Fulton County,-33.0,-12.0,,,-28.0,14.0
+2020-04-11,Illinois,Gallatin County,,,,,-42.0,
+2020-04-11,Illinois,Greene County,-60.0,2.0,,,-36.0,
+2020-04-11,Illinois,Grundy County,-30.0,16.0,,-26.0,-31.0,20.0
+2020-04-11,Illinois,Hamilton County,-44.0,,,,-45.0,
+2020-04-11,Illinois,Hancock County,-37.0,17.0,,,-15.0,
+2020-04-11,Illinois,Henderson County,,,,,-38.0,
+2020-04-11,Illinois,Henry County,-36.0,2.0,,-45.0,-28.0,19.0
+2020-04-11,Illinois,Iroquois County,-31.0,16.0,,-52.0,-18.0,3.0
+2020-04-11,Illinois,Jackson County,-53.0,-4.0,8.0,,-34.0,18.0
+2020-04-11,Illinois,Jasper County,-54.0,,,,-45.0,
+2020-04-11,Illinois,Jefferson County,-45.0,-6.0,,-32.0,-36.0,15.0
+2020-04-11,Illinois,Jersey County,-47.0,-24.0,,,-18.0,
+2020-04-11,Illinois,Jo Daviess County,-46.0,-2.0,,,-40.0,
+2020-04-11,Illinois,Johnson County,-54.0,,-20.0,,-48.0,
+2020-04-11,Illinois,Kane County,-49.0,-3.0,74.0,-27.0,-40.0,15.0
+2020-04-11,Illinois,Kankakee County,-39.0,12.0,,-29.0,-33.0,11.0
+2020-04-11,Illinois,Kendall County,-31.0,-7.0,6.0,,-39.0,16.0
+2020-04-11,Illinois,Knox County,-40.0,28.0,,-18.0,-29.0,17.0
+2020-04-11,Illinois,LaSalle County,-37.0,33.0,-11.0,-19.0,-33.0,10.0
+2020-04-11,Illinois,Lake County,-47.0,0.0,47.0,-48.0,-39.0,15.0
+2020-04-11,Illinois,Lawrence County,-25.0,,,,-19.0,
+2020-04-11,Illinois,Lee County,-30.0,23.0,,,-22.0,13.0
+2020-04-11,Illinois,Livingston County,-30.0,22.0,,,-21.0,16.0
+2020-04-11,Illinois,Logan County,-41.0,-21.0,,,-27.0,6.0
+2020-04-11,Illinois,Macon County,-35.0,10.0,,-29.0,-29.0,10.0
+2020-04-11,Illinois,Macoupin County,-45.0,7.0,,,-29.0,18.0
+2020-04-11,Illinois,Madison County,-40.0,9.0,30.0,-22.0,-31.0,12.0
+2020-04-11,Illinois,Marion County,-40.0,5.0,,-38.0,-28.0,15.0
+2020-04-11,Illinois,Marshall County,-64.0,,,,-48.0,
+2020-04-11,Illinois,Mason County,-15.0,35.0,,,-19.0,
+2020-04-11,Illinois,Massac County,-46.0,-10.0,,,-32.0,
+2020-04-11,Illinois,McDonough County,-45.0,-9.0,,,-24.0,0.0
+2020-04-11,Illinois,McHenry County,-42.0,3.0,70.0,-56.0,-37.0,14.0
+2020-04-11,Illinois,McLean County,-48.0,-1.0,59.0,-31.0,-35.0,12.0
+2020-04-11,Illinois,Menard County,-61.0,,,,-46.0,
+2020-04-11,Illinois,Mercer County,-31.0,,,,-24.0,
+2020-04-11,Illinois,Monroe County,-40.0,-31.0,,,-32.0,16.0
+2020-04-11,Illinois,Montgomery County,-38.0,-6.0,,,-19.0,1.0
+2020-04-11,Illinois,Morgan County,-30.0,7.0,,-31.0,-29.0,6.0
+2020-04-11,Illinois,Moultrie County,-56.0,,,,-28.0,
+2020-04-11,Illinois,Ogle County,-44.0,4.0,,,-26.0,20.0
+2020-04-11,Illinois,Peoria County,-46.0,17.0,23.0,-24.0,-32.0,11.0
+2020-04-11,Illinois,Perry County,-45.0,-5.0,,,-30.0,
+2020-04-11,Illinois,Piatt County,-48.0,,,,-22.0,
+2020-04-11,Illinois,Pike County,-23.0,-6.0,,,-29.0,
+2020-04-11,Illinois,Pulaski County,,,,,-57.0,
+2020-04-11,Illinois,Putnam County,,,,,-45.0,
+2020-04-11,Illinois,Randolph County,-25.0,4.0,,,-18.0,10.0
+2020-04-11,Illinois,Richland County,-40.0,-2.0,,,-21.0,
+2020-04-11,Illinois,Rock Island County,-45.0,25.0,-31.0,-35.0,-34.0,13.0
+2020-04-11,Illinois,Saline County,-18.0,2.0,,,-19.0,
+2020-04-11,Illinois,Sangamon County,-46.0,1.0,46.0,-31.0,-35.0,12.0
+2020-04-11,Illinois,Schuyler County,-55.0,,,,-37.0,
+2020-04-11,Illinois,Shelby County,-26.0,,,,-25.0,
+2020-04-11,Illinois,St. Clair County,-48.0,3.0,31.0,-27.0,-35.0,13.0
+2020-04-11,Illinois,Stark County,,,,,-41.0,
+2020-04-11,Illinois,Stephenson County,-33.0,4.0,,,-22.0,19.0
+2020-04-11,Illinois,Tazewell County,-36.0,18.0,-4.0,,-31.0,11.0
+2020-04-11,Illinois,Union County,-24.0,-10.0,,,-25.0,
+2020-04-11,Illinois,Vermilion County,-26.0,15.0,,-28.0,-27.0,8.0
+2020-04-11,Illinois,Wabash County,-50.0,-19.0,,,-34.0,
+2020-04-11,Illinois,Warren County,-19.0,10.0,,,-36.0,
+2020-04-11,Illinois,Washington County,-62.0,-6.0,,,-26.0,
+2020-04-11,Illinois,Wayne County,-38.0,9.0,,,-17.0,
+2020-04-11,Illinois,White County,-42.0,-7.0,,,-19.0,
+2020-04-11,Illinois,Whiteside County,-39.0,12.0,,,-27.0,20.0
+2020-04-11,Illinois,Will County,-43.0,1.0,39.0,-21.0,-37.0,15.0
+2020-04-11,Illinois,Williamson County,-40.0,-4.0,-45.0,-31.0,-34.0,18.0
+2020-04-11,Illinois,Winnebago County,-38.0,14.0,20.0,-31.0,-36.0,11.0
+2020-04-11,Illinois,Woodford County,-32.0,10.0,,,-29.0,19.0
+2020-04-11,Oklahoma,Total,-38.0,-1.0,-8.0,-27.0,-32.0,12.0
+2020-04-11,Oklahoma,Adair County,-22.0,8.0,,,-33.0,
+2020-04-11,Oklahoma,Atoka County,-31.0,-24.0,,-33.0,-28.0,
+2020-04-11,Oklahoma,Beckham County,-31.0,-8.0,,-20.0,-22.0,
+2020-04-11,Oklahoma,Blaine County,-30.0,-4.0,,,-36.0,
+2020-04-11,Oklahoma,Bryan County,-36.0,-19.0,,-38.0,-31.0,16.0
+2020-04-11,Oklahoma,Caddo County,-12.0,7.0,,-23.0,-25.0,
+2020-04-11,Oklahoma,Canadian County,-34.0,-14.0,26.0,-17.0,-35.0,14.0
+2020-04-11,Oklahoma,Carter County,-37.0,9.0,,-25.0,-29.0,15.0
+2020-04-11,Oklahoma,Cherokee County,-26.0,-1.0,,,-31.0,18.0
+2020-04-11,Oklahoma,Choctaw County,-25.0,-5.0,,,-21.0,
+2020-04-11,Oklahoma,Cleveland County,-46.0,-9.0,-28.0,,-37.0,14.0
+2020-04-11,Oklahoma,Coal County,,,,,-38.0,
+2020-04-11,Oklahoma,Comanche County,-49.0,0.0,-18.0,-33.0,-36.0,13.0
+2020-04-11,Oklahoma,Cotton County,,-23.0,,-51.0,-41.0,
+2020-04-11,Oklahoma,Craig County,-18.0,-25.0,,-2.0,-22.0,
+2020-04-11,Oklahoma,Creek County,-20.0,12.0,-37.0,,-30.0,17.0
+2020-04-11,Oklahoma,Custer County,-30.0,-8.0,,-24.0,-33.0,
+2020-04-11,Oklahoma,Delaware County,-17.0,22.0,,-22.0,-25.0,13.0
+2020-04-11,Oklahoma,Garfield County,-30.0,6.0,-54.0,-31.0,-23.0,16.0
+2020-04-11,Oklahoma,Garvin County,-25.0,2.0,-56.0,-20.0,-24.0,-4.0
+2020-04-11,Oklahoma,Grady County,-35.0,6.0,,,-24.0,16.0
+2020-04-11,Oklahoma,Greer County,,,,,-43.0,
+2020-04-11,Oklahoma,Haskell County,-20.0,-12.0,,,-30.0,
+2020-04-11,Oklahoma,Hughes County,-6.0,8.0,,,-24.0,
+2020-04-11,Oklahoma,Jackson County,-43.0,-2.0,,,-20.0,9.0
+2020-04-11,Oklahoma,Jefferson County,,-4.0,,,-46.0,
+2020-04-11,Oklahoma,Johnston County,-58.0,9.0,,,-40.0,
+2020-04-11,Oklahoma,Kay County,-17.0,17.0,,-32.0,-28.0,17.0
+2020-04-11,Oklahoma,Kingfisher County,-24.0,,,,-36.0,
+2020-04-11,Oklahoma,Kiowa County,-15.0,-2.0,,,-32.0,
+2020-04-11,Oklahoma,Latimer County,-26.0,-11.0,,,-44.0,
+2020-04-11,Oklahoma,Le Flore County,-28.0,5.0,,,-29.0,11.0
+2020-04-11,Oklahoma,Lincoln County,-35.0,-5.0,,,-26.0,12.0
+2020-04-11,Oklahoma,Logan County,-40.0,-3.0,,-18.0,-25.0,17.0
+2020-04-11,Oklahoma,Love County,-50.0,-13.0,,,-44.0,
+2020-04-11,Oklahoma,Major County,,,,,-38.0,
+2020-04-11,Oklahoma,Marshall County,-29.0,7.0,,,-21.0,
+2020-04-11,Oklahoma,Mayes County,-29.0,3.0,,-22.0,-24.0,16.0
+2020-04-11,Oklahoma,McClain County,-23.0,-7.0,,-52.0,-36.0,15.0
+2020-04-11,Oklahoma,McCurtain County,-34.0,-4.0,2.0,-23.0,-22.0,7.0
+2020-04-11,Oklahoma,McIntosh County,-31.0,24.0,,-24.0,-23.0,
+2020-04-11,Oklahoma,Murray County,-31.0,0.0,-19.0,,-35.0,
+2020-04-11,Oklahoma,Muskogee County,-32.0,10.0,19.0,-28.0,-23.0,14.0
+2020-04-11,Oklahoma,Noble County,-40.0,-7.0,,-62.0,-50.0,
+2020-04-11,Oklahoma,Nowata County,-51.0,-2.0,,-28.0,-52.0,
+2020-04-11,Oklahoma,Okfuskee County,-41.0,-4.0,,-41.0,-44.0,
+2020-04-11,Oklahoma,Oklahoma County,-45.0,-4.0,-17.0,-34.0,-35.0,13.0
+2020-04-11,Oklahoma,Okmulgee County,-19.0,0.0,,-27.0,-26.0,15.0
+2020-04-11,Oklahoma,Osage County,-18.0,12.0,,,-28.0,17.0
+2020-04-11,Oklahoma,Ottawa County,-21.0,-2.0,,,-34.0,10.0
+2020-04-11,Oklahoma,Pawnee County,-32.0,-11.0,,,-26.0,
+2020-04-11,Oklahoma,Payne County,-43.0,-12.0,10.0,,-31.0,21.0
+2020-04-11,Oklahoma,Pittsburg County,-36.0,12.0,-38.0,-49.0,-27.0,13.0
+2020-04-11,Oklahoma,Pontotoc County,-35.0,-6.0,,,-33.0,15.0
+2020-04-11,Oklahoma,Pottawatomie County,-39.0,13.0,-56.0,,-32.0,19.0
+2020-04-11,Oklahoma,Pushmataha County,-37.0,4.0,,,-33.0,
+2020-04-11,Oklahoma,Rogers County,-34.0,3.0,16.0,,-32.0,12.0
+2020-04-11,Oklahoma,Seminole County,-20.0,13.0,,-11.0,-26.0,
+2020-04-11,Oklahoma,Sequoyah County,-23.0,4.0,,-25.0,-28.0,12.0
+2020-04-11,Oklahoma,Stephens County,-34.0,2.0,,,-28.0,15.0
+2020-04-11,Oklahoma,Texas County,-31.0,-12.0,,-28.0,-25.0,
+2020-04-11,Oklahoma,Tillman County,-14.0,0.0,,,-48.0,
+2020-04-11,Oklahoma,Tulsa County,-44.0,0.0,-31.0,-6.0,-36.0,12.0
+2020-04-11,Oklahoma,Wagoner County,-12.0,4.0,,,-34.0,18.0
+2020-04-11,Oklahoma,Washington County,-40.0,7.0,,,-28.0,17.0
+2020-04-11,Oklahoma,Washita County,,-17.0,,,-31.0,
+2020-04-11,Oklahoma,Woods County,-19.0,,4.0,,-38.0,
+2020-04-11,Oklahoma,Woodward County,-39.0,-11.0,,,-18.0,
+2020-04-11,Delaware,Total,-41.0,-16.0,26.0,-48.0,-37.0,14.0
+2020-04-11,Delaware,Kent County,-35.0,-16.0,9.0,-24.0,-35.0,13.0
+2020-04-11,Delaware,New Castle County,-44.0,-19.0,32.0,-50.0,-39.0,15.0
+2020-04-11,Delaware,Sussex County,-40.0,-9.0,-9.0,-46.0,-35.0,13.0
+2020-04-11,Nebraska,Total,-39.0,4.0,52.0,-21.0,-29.0,11.0
+2020-04-11,Nebraska,Adams County,-38.0,-9.0,,,-19.0,18.0
+2020-04-11,Nebraska,Antelope County,,,,,-26.0,
+2020-04-11,Nebraska,Box Butte County,-28.0,-2.0,,,-13.0,
+2020-04-11,Nebraska,Buffalo County,-53.0,-8.0,,-17.0,-33.0,21.0
+2020-04-11,Nebraska,Burt County,-58.0,,,,-33.0,
+2020-04-11,Nebraska,Butler County,-55.0,,,,-36.0,
+2020-04-11,Nebraska,Cass County,-45.0,,-63.0,,-29.0,12.0
+2020-04-11,Nebraska,Cedar County,,,,,-42.0,
+2020-04-11,Nebraska,Cherry County,-68.0,,,,-39.0,
+2020-04-11,Nebraska,Cheyenne County,-29.0,-20.0,,6.0,-43.0,
+2020-04-11,Nebraska,Clay County,,,,,-42.0,
+2020-04-11,Nebraska,Colfax County,-65.0,-8.0,,,-8.0,
+2020-04-11,Nebraska,Cuming County,-37.0,,,,-36.0,
+2020-04-11,Nebraska,Custer County,-49.0,-11.0,,,-30.0,
+2020-04-11,Nebraska,Dakota County,-18.0,49.0,,,13.0,1.0
+2020-04-11,Nebraska,Dawes County,-38.0,,,,-35.0,
+2020-04-11,Nebraska,Dawson County,-21.0,0.0,,,-20.0,-2.0
+2020-04-11,Nebraska,Deuel County,,,,3.0,,
+2020-04-11,Nebraska,Dixon County,,,,,-30.0,
+2020-04-11,Nebraska,Dodge County,-24.0,3.0,,-14.0,-29.0,16.0
+2020-04-11,Nebraska,Douglas County,-45.0,6.0,-4.0,-34.0,-34.0,12.0
+2020-04-11,Nebraska,Fillmore County,,,,,-27.0,
+2020-04-11,Nebraska,Gage County,-34.0,9.0,,,-21.0,1.0
+2020-04-11,Nebraska,Hall County,-49.0,-20.0,,-9.0,-35.0,20.0
+2020-04-11,Nebraska,Hamilton County,-58.0,,,-1.0,-34.0,
+2020-04-11,Nebraska,Holt County,-25.0,-4.0,,,-26.0,
+2020-04-11,Nebraska,Howard County,,,,,-38.0,
+2020-04-11,Nebraska,Jefferson County,-25.0,,,,-34.0,
+2020-04-11,Nebraska,Johnson County,,,,,-34.0,
+2020-04-11,Nebraska,Kearney County,,,,,-42.0,
+2020-04-11,Nebraska,Keith County,-36.0,-22.0,,0.0,-29.0,
+2020-04-11,Nebraska,Kimball County,,,,,-49.0,
+2020-04-11,Nebraska,Knox County,,,,,-45.0,
+2020-04-11,Nebraska,Lancaster County,-40.0,-5.0,117.0,-19.0,-30.0,11.0
+2020-04-11,Nebraska,Lincoln County,-38.0,3.0,,-14.0,-22.0,14.0
+2020-04-11,Nebraska,Madison County,-38.0,3.0,,,-23.0,16.0
+2020-04-11,Nebraska,Merrick County,-30.0,,,,-37.0,
+2020-04-11,Nebraska,Morrill County,,,,,-36.0,
+2020-04-11,Nebraska,Nemaha County,-58.0,,,,-32.0,
+2020-04-11,Nebraska,Otoe County,-21.0,51.0,,,-23.0,
+2020-04-11,Nebraska,Phelps County,-29.0,16.0,,,-45.0,
+2020-04-11,Nebraska,Pierce County,,,,,-40.0,
+2020-04-11,Nebraska,Platte County,-35.0,0.0,,-8.0,-16.0,19.0
+2020-04-11,Nebraska,Polk County,,,,,-37.0,
+2020-04-11,Nebraska,Red Willow County,-24.0,,,,-24.0,
+2020-04-11,Nebraska,Richardson County,-36.0,-2.0,,,-23.0,
+2020-04-11,Nebraska,Saline County,-23.0,14.0,,,-34.0,
+2020-04-11,Nebraska,Sarpy County,-38.0,0.0,115.0,-6.0,-31.0,12.0
+2020-04-11,Nebraska,Saunders County,-35.0,20.0,,,-24.0,
+2020-04-11,Nebraska,Scotts Bluff County,-36.0,-1.0,,,-26.0,14.0
+2020-04-11,Nebraska,Seward County,-33.0,,,,-19.0,
+2020-04-11,Nebraska,Stanton County,,,,,-33.0,
+2020-04-11,Nebraska,Thayer County,,,,,-17.0,
+2020-04-11,Nebraska,Thurston County,,,,,-40.0,
+2020-04-11,Nebraska,Washington County,-25.0,-9.0,,,-21.0,
+2020-04-11,Nebraska,Wayne County,-39.0,,,,-45.0,
+2020-04-11,Nebraska,York County,-48.0,,,-17.0,-27.0,
+2020-04-11,Iowa,Total,-44.0,7.0,40.0,-28.0,-28.0,12.0
+2020-04-11,Iowa,Adair County,-44.0,2.0,,,-43.0,
+2020-04-11,Iowa,Allamakee County,-75.0,-5.0,,,-38.0,
+2020-04-11,Iowa,Appanoose County,-7.0,52.0,,,-14.0,
+2020-04-11,Iowa,Audubon County,,,,,-28.0,
+2020-04-11,Iowa,Benton County,-16.0,25.0,,,-33.0,8.0
+2020-04-11,Iowa,Black Hawk County,-47.0,-3.0,-15.0,-14.0,-30.0,12.0
+2020-04-11,Iowa,Boone County,-28.0,-21.0,,,-17.0,14.0
+2020-04-11,Iowa,Bremer County,-32.0,-12.0,,,-31.0,-1.0
+2020-04-11,Iowa,Buchanan County,-29.0,0.0,,,-17.0,
+2020-04-11,Iowa,Buena Vista County,-31.0,-15.0,,,-17.0,
+2020-04-11,Iowa,Butler County,,2.0,,,-43.0,
+2020-04-11,Iowa,Calhoun County,,-12.0,,,-37.0,
+2020-04-11,Iowa,Carroll County,-29.0,13.0,,,-26.0,
+2020-04-11,Iowa,Cass County,-32.0,13.0,,,-20.0,
+2020-04-11,Iowa,Cedar County,-30.0,0.0,,-25.0,-21.0,
+2020-04-11,Iowa,Cerro Gordo County,-42.0,19.0,,-25.0,-29.0,18.0
+2020-04-11,Iowa,Cherokee County,-76.0,,,,-32.0,
+2020-04-11,Iowa,Chickasaw County,-25.0,-18.0,,,-39.0,
+2020-04-11,Iowa,Clarke County,-27.0,,,-36.0,-27.0,
+2020-04-11,Iowa,Clay County,-34.0,-12.0,,,-20.0,
+2020-04-11,Iowa,Clayton County,-59.0,7.0,,,-19.0,
+2020-04-11,Iowa,Clinton County,-38.0,12.0,,,-26.0,18.0
+2020-04-11,Iowa,Crawford County,-38.0,,,,-27.0,
+2020-04-11,Iowa,Dallas County,-67.0,-28.0,,,-32.0,24.0
+2020-04-11,Iowa,Davis County,-44.0,,,,-31.0,
+2020-04-11,Iowa,Decatur County,,,,,-29.0,
+2020-04-11,Iowa,Delaware County,-33.0,19.0,,,-15.0,
+2020-04-11,Iowa,Des Moines County,-40.0,14.0,,-24.0,-23.0,16.0
+2020-04-11,Iowa,Dickinson County,-33.0,12.0,12.0,,-31.0,
+2020-04-11,Iowa,Dubuque County,-53.0,9.0,-12.0,-59.0,-37.0,14.0
+2020-04-11,Iowa,Emmet County,-17.0,11.0,,,-49.0,
+2020-04-11,Iowa,Fayette County,-15.0,7.0,,,-21.0,
+2020-04-11,Iowa,Floyd County,-28.0,-12.0,,-16.0,-8.0,
+2020-04-11,Iowa,Franklin County,-39.0,7.0,,,-31.0,
+2020-04-11,Iowa,Fremont County,-45.0,,,-16.0,-35.0,
+2020-04-11,Iowa,Greene County,-45.0,4.0,,,-40.0,
+2020-04-11,Iowa,Grundy County,-64.0,-25.0,,,-44.0,
+2020-04-11,Iowa,Guthrie County,,,,,-34.0,
+2020-04-11,Iowa,Hamilton County,-23.0,-3.0,,-25.0,-6.0,
+2020-04-11,Iowa,Hancock County,,-2.0,,,-44.0,
+2020-04-11,Iowa,Hardin County,-40.0,26.0,,,-17.0,
+2020-04-11,Iowa,Harrison County,-30.0,3.0,,,-17.0,
+2020-04-11,Iowa,Henry County,-27.0,12.0,,-20.0,-21.0,
+2020-04-11,Iowa,Howard County,-37.0,4.0,,,-46.0,
+2020-04-11,Iowa,Humboldt County,-39.0,-7.0,,,-46.0,
+2020-04-11,Iowa,Ida County,-64.0,,,,-25.0,
+2020-04-11,Iowa,Iowa County,-71.0,4.0,,,-31.0,
+2020-04-11,Iowa,Jackson County,-26.0,16.0,,,-25.0,
+2020-04-11,Iowa,Jasper County,-44.0,97.0,,-9.0,-28.0,12.0
+2020-04-11,Iowa,Jefferson County,-39.0,,,,-27.0,
+2020-04-11,Iowa,Johnson County,-55.0,-24.0,35.0,-28.0,-37.0,15.0
+2020-04-11,Iowa,Jones County,-37.0,14.0,,,-21.0,
+2020-04-11,Iowa,Keokuk County,-66.0,,,,-33.0,
+2020-04-11,Iowa,Kossuth County,-62.0,60.0,,,-27.0,
+2020-04-11,Iowa,Lee County,-28.0,-1.0,,,-21.0,13.0
+2020-04-11,Iowa,Linn County,-51.0,10.0,37.0,-53.0,-35.0,13.0
+2020-04-11,Iowa,Louisa County,,,,,-51.0,
+2020-04-11,Iowa,Lucas County,-59.0,8.0,,,-25.0,
+2020-04-11,Iowa,Lyon County,-70.0,,,,-42.0,
+2020-04-11,Iowa,Madison County,-46.0,26.0,,,-29.0,
+2020-04-11,Iowa,Mahaska County,-32.0,,,,-19.0,
+2020-04-11,Iowa,Marion County,-35.0,43.0,,,-35.0,13.0
+2020-04-11,Iowa,Marshall County,-34.0,7.0,,,-23.0,17.0
+2020-04-11,Iowa,Mills County,-8.0,,,,-27.0,
+2020-04-11,Iowa,Mitchell County,-67.0,,,,-38.0,
+2020-04-11,Iowa,Monona County,-25.0,,,,-38.0,
+2020-04-11,Iowa,Monroe County,-51.0,,,,-40.0,
+2020-04-11,Iowa,Montgomery County,-42.0,-3.0,,,-26.0,
+2020-04-11,Iowa,Muscatine County,-36.0,51.0,,,-30.0,21.0
+2020-04-11,Iowa,O'Brien County,-17.0,-9.0,,,-11.0,
+2020-04-11,Iowa,Osceola County,,,,,-41.0,
+2020-04-11,Iowa,Page County,-43.0,,,,-20.0,
+2020-04-11,Iowa,Palo Alto County,-33.0,-18.0,,,-40.0,
+2020-04-11,Iowa,Plymouth County,-32.0,16.0,,,-27.0,8.0
+2020-04-11,Iowa,Pocahontas County,,,,,-37.0,
+2020-04-11,Iowa,Polk County,-49.0,5.0,27.0,-42.0,-32.0,13.0
+2020-04-11,Iowa,Pottawattamie County,-40.0,17.0,53.0,-18.0,-31.0,11.0
+2020-04-11,Iowa,Poweshiek County,-23.0,-5.0,,-18.0,-28.0,
+2020-04-11,Iowa,Sac County,,,,,-32.0,
+2020-04-11,Iowa,Scott County,-48.0,-2.0,30.0,-12.0,-33.0,13.0
+2020-04-11,Iowa,Shelby County,-20.0,-14.0,,,-37.0,
+2020-04-11,Iowa,Sioux County,-33.0,11.0,,,-17.0,16.0
+2020-04-11,Iowa,Story County,-48.0,-9.0,,-28.0,-37.0,22.0
+2020-04-11,Iowa,Tama County,-42.0,-7.0,,,-34.0,
+2020-04-11,Iowa,Taylor County,,,,,-21.0,
+2020-04-11,Iowa,Union County,-22.0,,,,-29.0,
+2020-04-11,Iowa,Van Buren County,,,,,-42.0,
+2020-04-11,Iowa,Wapello County,-38.0,19.0,,,-25.0,11.0
+2020-04-11,Iowa,Warren County,-33.0,7.0,,,-31.0,15.0
+2020-04-11,Iowa,Washington County,-23.0,-9.0,,,-23.0,-3.0
+2020-04-11,Iowa,Wayne County,,,,,-31.0,
+2020-04-11,Iowa,Webster County,-34.0,44.0,,,-20.0,17.0
+2020-04-11,Iowa,Winnebago County,-45.0,-16.0,,,-50.0,
+2020-04-11,Iowa,Winneshiek County,-56.0,-17.0,,,-36.0,
+2020-04-11,Iowa,Woodbury County,-44.0,4.0,,-13.0,-24.0,11.0
+2020-04-11,Iowa,Worth County,,-31.0,,,-44.0,
+2020-04-11,Iowa,Wright County,-27.0,4.0,,,-17.0,
+2020-04-11,Kansas,Total,-41.0,-3.0,97.0,-23.0,-31.0,11.0
+2020-04-11,Kansas,Allen County,-28.0,-2.0,,,-30.0,
+2020-04-11,Kansas,Anderson County,-33.0,,,,-37.0,
+2020-04-11,Kansas,Atchison County,-20.0,,,,-29.0,
+2020-04-11,Kansas,Barton County,-30.0,-16.0,,,-18.0,-1.0
+2020-04-11,Kansas,Bourbon County,-37.0,-15.0,,,-24.0,
+2020-04-11,Kansas,Brown County,-18.0,-13.0,,,-35.0,
+2020-04-11,Kansas,Butler County,-24.0,-3.0,,,-24.0,18.0
+2020-04-11,Kansas,Cherokee County,-24.0,5.0,,,-27.0,-4.0
+2020-04-11,Kansas,Clay County,-23.0,-22.0,,,-40.0,
+2020-04-11,Kansas,Cloud County,-47.0,,,,-33.0,
+2020-04-11,Kansas,Coffey County,-73.0,-49.0,,-32.0,-39.0,
+2020-04-11,Kansas,Cowley County,-25.0,-20.0,,-57.0,-34.0,16.0
+2020-04-11,Kansas,Crawford County,-41.0,-14.0,,,-21.0,15.0
+2020-04-11,Kansas,Dickinson County,-44.0,-14.0,,-17.0,-18.0,
+2020-04-11,Kansas,Doniphan County,,,,,-31.0,
+2020-04-11,Kansas,Douglas County,-50.0,-16.0,110.0,-9.0,-40.0,13.0
+2020-04-11,Kansas,Ellis County,-53.0,-23.0,,-15.0,-41.0,-1.0
+2020-04-11,Kansas,Ellsworth County,,-31.0,,,-35.0,
+2020-04-11,Kansas,Finney County,-43.0,-18.0,,-46.0,11.0,19.0
+2020-04-11,Kansas,Ford County,-37.0,-22.0,,-22.0,-43.0,13.0
+2020-04-11,Kansas,Franklin County,-29.0,-19.0,,-16.0,-28.0,12.0
+2020-04-11,Kansas,Geary County,-31.0,-12.0,,,-27.0,22.0
+2020-04-11,Kansas,Grant County,-22.0,,,,-30.0,
+2020-04-11,Kansas,Greenwood County,,,,,-40.0,
+2020-04-11,Kansas,Harper County,-65.0,,,,-34.0,
+2020-04-11,Kansas,Harvey County,-42.0,27.0,,-35.0,-27.0,19.0
+2020-04-11,Kansas,Jackson County,-29.0,-26.0,,,-38.0,
+2020-04-11,Kansas,Jefferson County,-62.0,5.0,,,-24.0,
+2020-04-11,Kansas,Johnson County,-48.0,-9.0,148.0,-11.0,-39.0,14.0
+2020-04-11,Kansas,Kingman County,-46.0,,,,-33.0,
+2020-04-11,Kansas,Labette County,-34.0,-15.0,,,-13.0,
+2020-04-11,Kansas,Leavenworth County,-31.0,-2.0,,-52.0,-28.0,17.0
+2020-04-11,Kansas,Linn County,,,,,-32.0,
+2020-04-11,Kansas,Lyon County,-41.0,-28.0,,-40.0,-28.0,16.0
+2020-04-11,Kansas,Marion County,-30.0,,,,-44.0,
+2020-04-11,Kansas,Marshall County,-30.0,,,,-40.0,
+2020-04-11,Kansas,McPherson County,-39.0,-20.0,,-37.0,-24.0,13.0
+2020-04-11,Kansas,Miami County,-18.0,-13.0,,,-27.0,16.0
+2020-04-11,Kansas,Mitchell County,-71.0,,,,-31.0,
+2020-04-11,Kansas,Montgomery County,-23.0,-7.0,,,-15.0,12.0
+2020-04-11,Kansas,Morris County,,,,,-48.0,
+2020-04-11,Kansas,Nemaha County,-76.0,,,,-34.0,
+2020-04-11,Kansas,Neosho County,-29.0,-8.0,,-20.0,-15.0,
+2020-04-11,Kansas,Osage County,-66.0,7.0,,,-24.0,
+2020-04-11,Kansas,Ottawa County,,,,,-37.0,
+2020-04-11,Kansas,Pawnee County,-48.0,-21.0,,,-30.0,
+2020-04-11,Kansas,Pottawatomie County,-41.0,-9.0,,,-33.0,2.0
+2020-04-11,Kansas,Pratt County,-33.0,-13.0,,,-35.0,
+2020-04-11,Kansas,Reno County,-33.0,-7.0,,-30.0,-29.0,9.0
+2020-04-11,Kansas,Rice County,-33.0,-25.0,,,-40.0,
+2020-04-11,Kansas,Riley County,-55.0,-32.0,-50.0,-53.0,-38.0,25.0
+2020-04-11,Kansas,Russell County,-56.0,-24.0,,,-34.0,
+2020-04-11,Kansas,Saline County,-45.0,-21.0,-7.0,-23.0,-36.0,17.0
+2020-04-11,Kansas,Scott County,-53.0,,,,-33.0,
+2020-04-11,Kansas,Sedgwick County,-42.0,-3.0,40.0,-30.0,-35.0,11.0
+2020-04-11,Kansas,Seward County,-39.0,-21.0,,-19.0,-17.0,-1.0
+2020-04-11,Kansas,Shawnee County,-39.0,-2.0,104.0,26.0,-32.0,11.0
+2020-04-11,Kansas,Sherman County,-31.0,,,,-34.0,
+2020-04-11,Kansas,Stevens County,-62.0,,,,-49.0,
+2020-04-11,Kansas,Sumner County,-28.0,17.0,,,-24.0,1.0
+2020-04-11,Kansas,Thomas County,-44.0,-22.0,,-4.0,-25.0,
+2020-04-11,Kansas,Trego County,,-27.0,,,,
+2020-04-11,Kansas,Wabaunsee County,,,,,-46.0,
+2020-04-11,Kansas,Washington County,,,,,-38.0,
+2020-04-11,Kansas,Wilson County,-56.0,-9.0,,,-42.0,
+2020-04-11,Kansas,Wyandotte County,-45.0,-8.0,49.0,-9.0,-33.0,11.0
+2020-04-11,Kentucky,Total,-39.0,3.0,60.0,-36.0,-33.0,10.0
+2020-04-11,Kentucky,Adair County,-28.0,6.0,,,-52.0,
+2020-04-11,Kentucky,Allen County,-9.0,7.0,,,-28.0,
+2020-04-11,Kentucky,Anderson County,-21.0,-3.0,,,-34.0,-1.0
+2020-04-11,Kentucky,Ballard County,,,,,-41.0,
+2020-04-11,Kentucky,Barren County,-36.0,12.0,,,-27.0,7.0
+2020-04-11,Kentucky,Bath County,,-11.0,,,-48.0,
+2020-04-11,Kentucky,Bell County,-40.0,-3.0,,,-21.0,
+2020-04-11,Kentucky,Boone County,-46.0,-5.0,31.0,-58.0,-39.0,12.0
+2020-04-11,Kentucky,Bourbon County,-17.0,-13.0,,,-25.0,
+2020-04-11,Kentucky,Boyd County,-48.0,1.0,,-40.0,-30.0,13.0
+2020-04-11,Kentucky,Boyle County,-41.0,-11.0,,,-28.0,
+2020-04-11,Kentucky,Bracken County,,,,,-47.0,
+2020-04-11,Kentucky,Breathitt County,-11.0,,,,-42.0,
+2020-04-11,Kentucky,Breckinridge County,5.0,19.0,,,-31.0,
+2020-04-11,Kentucky,Bullitt County,-35.0,8.0,,-31.0,-32.0,21.0
+2020-04-11,Kentucky,Butler County,8.0,15.0,,,-52.0,
+2020-04-11,Kentucky,Caldwell County,-31.0,-2.0,,,-40.0,
+2020-04-11,Kentucky,Calloway County,-47.0,-11.0,,,-34.0,10.0
+2020-04-11,Kentucky,Campbell County,-46.0,4.0,,,-41.0,13.0
+2020-04-11,Kentucky,Carlisle County,,,,,-42.0,
+2020-04-11,Kentucky,Carroll County,-20.0,-10.0,,,-13.0,
+2020-04-11,Kentucky,Carter County,-24.0,-1.0,,-19.0,-21.0,
+2020-04-11,Kentucky,Casey County,7.0,15.0,,,-49.0,
+2020-04-11,Kentucky,Christian County,-30.0,4.0,,-25.0,-28.0,21.0
+2020-04-11,Kentucky,Clark County,-32.0,-16.0,,,-33.0,12.0
+2020-04-11,Kentucky,Clay County,8.0,2.0,,,-36.0,
+2020-04-11,Kentucky,Clinton County,,,,,-33.0,
+2020-04-11,Kentucky,Crittenden County,-19.0,6.0,,,-46.0,
+2020-04-11,Kentucky,Daviess County,-48.0,0.0,26.0,,-29.0,11.0
+2020-04-11,Kentucky,Edmonson County,,,,,-50.0,
+2020-04-11,Kentucky,Estill County,-15.0,-4.0,,,-48.0,
+2020-04-11,Kentucky,Fayette County,-49.0,-1.0,5.0,-33.0,-40.0,12.0
+2020-04-11,Kentucky,Fleming County,-7.0,13.0,,,-46.0,
+2020-04-11,Kentucky,Floyd County,-17.0,-5.0,,,-17.0,
+2020-04-11,Kentucky,Franklin County,-35.0,-3.0,,,-37.0,24.0
+2020-04-11,Kentucky,Fulton County,-24.0,6.0,,,-44.0,
+2020-04-11,Kentucky,Gallatin County,,58.0,,-89.0,-46.0,
+2020-04-11,Kentucky,Garrard County,-10.0,19.0,,,-33.0,
+2020-04-11,Kentucky,Grant County,-26.0,-7.0,,,-38.0,1.0
+2020-04-11,Kentucky,Graves County,-25.0,4.0,,,-26.0,10.0
+2020-04-11,Kentucky,Grayson County,-12.0,24.0,,,-32.0,
+2020-04-11,Kentucky,Green County,,,,,-48.0,
+2020-04-11,Kentucky,Greenup County,-31.0,7.0,,,-28.0,1.0
+2020-04-11,Kentucky,Hancock County,,,,,-49.0,
+2020-04-11,Kentucky,Hardin County,-42.0,-2.0,,-32.0,-38.0,11.0
+2020-04-11,Kentucky,Harlan County,-10.0,15.0,,,-13.0,
+2020-04-11,Kentucky,Harrison County,-17.0,-14.0,,,-24.0,
+2020-04-11,Kentucky,Hart County,2.0,14.0,,-38.0,-16.0,
+2020-04-11,Kentucky,Henderson County,-39.0,55.0,,,-29.0,19.0
+2020-04-11,Kentucky,Henry County,-37.0,23.0,,-35.0,-41.0,
+2020-04-11,Kentucky,Hopkins County,-38.0,-3.0,,-40.0,-26.0,16.0
+2020-04-11,Kentucky,Jackson County,,,,,-46.0,
+2020-04-11,Kentucky,Jefferson County,-44.0,5.0,104.0,-27.0,-40.0,12.0
+2020-04-11,Kentucky,Jessamine County,-40.0,-9.0,,-15.0,-28.0,20.0
+2020-04-11,Kentucky,Johnson County,-40.0,62.0,,,-30.0,
+2020-04-11,Kentucky,Kenton County,-37.0,3.0,37.0,-9.0,-37.0,13.0
+2020-04-11,Kentucky,Knott County,,,,,-43.0,
+2020-04-11,Kentucky,Knox County,-23.0,13.0,,,-25.0,
+2020-04-11,Kentucky,Larue County,-24.0,12.0,,,-30.0,
+2020-04-11,Kentucky,Laurel County,-41.0,3.0,57.0,-61.0,-32.0,17.0
+2020-04-11,Kentucky,Lawrence County,-28.0,-28.0,,,-27.0,
+2020-04-11,Kentucky,Letcher County,-25.0,0.0,,,-43.0,
+2020-04-11,Kentucky,Lewis County,,-14.0,,,-37.0,
+2020-04-11,Kentucky,Lincoln County,-12.0,38.0,,,-22.0,
+2020-04-11,Kentucky,Livingston County,,17.0,,,-37.0,
+2020-04-11,Kentucky,Logan County,-17.0,12.0,,,-27.0,
+2020-04-11,Kentucky,Lyon County,-43.0,,,,-47.0,
+2020-04-11,Kentucky,Madison County,-41.0,-3.0,,-17.0,-39.0,10.0
+2020-04-11,Kentucky,Marion County,-24.0,3.0,,,-39.0,
+2020-04-11,Kentucky,Marshall County,-33.0,5.0,,-31.0,-23.0,9.0
+2020-04-11,Kentucky,Mason County,-26.0,,,,-26.0,
+2020-04-11,Kentucky,McCracken County,-51.0,-8.0,-25.0,-26.0,-30.0,19.0
+2020-04-11,Kentucky,McCreary County,-14.0,15.0,,,-39.0,
+2020-04-11,Kentucky,McLean County,,,,,-45.0,
+2020-04-11,Kentucky,Meade County,-20.0,8.0,,,-38.0,8.0
+2020-04-11,Kentucky,Menifee County,,,,,-46.0,
+2020-04-11,Kentucky,Mercer County,-26.0,-9.0,,,-35.0,
+2020-04-11,Kentucky,Metcalfe County,,-16.0,,,-47.0,
+2020-04-11,Kentucky,Monroe County,-7.0,,,,-34.0,
+2020-04-11,Kentucky,Montgomery County,-30.0,10.0,,-22.0,-34.0,-3.0
+2020-04-11,Kentucky,Morgan County,-59.0,,,,-48.0,
+2020-04-11,Kentucky,Muhlenberg County,-27.0,15.0,,,-25.0,
+2020-04-11,Kentucky,Nelson County,-32.0,5.0,,,-37.0,18.0
+2020-04-11,Kentucky,Nicholas County,,,,,-45.0,
+2020-04-11,Kentucky,Ohio County,-23.0,29.0,,-45.0,-20.0,
+2020-04-11,Kentucky,Oldham County,-30.0,19.0,,,-30.0,25.0
+2020-04-11,Kentucky,Owen County,,,,,-52.0,
+2020-04-11,Kentucky,Pendleton County,0.0,-12.0,,,-25.0,
+2020-04-11,Kentucky,Perry County,-37.0,-5.0,,,-23.0,
+2020-04-11,Kentucky,Pike County,-46.0,-22.0,,,-21.0,
+2020-04-11,Kentucky,Powell County,0.0,-2.0,,,-43.0,
+2020-04-11,Kentucky,Pulaski County,-39.0,-9.0,,,-33.0,19.0
+2020-04-11,Kentucky,Rockcastle County,-43.0,-4.0,,,-24.0,
+2020-04-11,Kentucky,Rowan County,-30.0,8.0,,,-27.0,
+2020-04-11,Kentucky,Russell County,-20.0,23.0,,,-45.0,
+2020-04-11,Kentucky,Scott County,-39.0,-13.0,,-43.0,-41.0,27.0
+2020-04-11,Kentucky,Shelby County,-43.0,11.0,,-31.0,-43.0,20.0
+2020-04-11,Kentucky,Simpson County,-29.0,-2.0,,-38.0,-38.0,
+2020-04-11,Kentucky,Spencer County,-20.0,6.0,,,-31.0,
+2020-04-11,Kentucky,Taylor County,-28.0,28.0,,,-26.0,
+2020-04-11,Kentucky,Todd County,-52.0,15.0,,,-51.0,
+2020-04-11,Kentucky,Trigg County,-33.0,17.0,,,-50.0,
+2020-04-11,Kentucky,Trimble County,,,,,-50.0,
+2020-04-11,Kentucky,Union County,-23.0,6.0,,,-56.0,
+2020-04-11,Kentucky,Warren County,-45.0,-13.0,-43.0,-14.0,-37.0,12.0
+2020-04-11,Kentucky,Washington County,-29.0,,,,-59.0,
+2020-04-11,Kentucky,Wayne County,-11.0,-11.0,,,-32.0,
+2020-04-11,Kentucky,Webster County,-34.0,10.0,,,-34.0,
+2020-04-11,Kentucky,Whitley County,-38.0,6.0,,-14.0,-27.0,-3.0
+2020-04-11,Kentucky,Wolfe County,,,,,-49.0,
+2020-04-11,Kentucky,Woodford County,-26.0,-13.0,,,-29.0,
+2020-04-11,Maine,Total,-43.0,-2.0,-16.0,-55.0,-33.0,10.0
+2020-04-11,Maine,Androscoggin County,-41.0,4.0,-33.0,,-31.0,10.0
+2020-04-11,Maine,Aroostook County,-43.0,9.0,-37.0,,-23.0,24.0
+2020-04-11,Maine,Cumberland County,-54.0,-22.0,30.0,-65.0,-40.0,14.0
+2020-04-11,Maine,Franklin County,-35.0,-13.0,-50.0,,-33.0,0.0
+2020-04-11,Maine,Hancock County,-36.0,-25.0,0.0,,-27.0,18.0
+2020-04-11,Maine,Kennebec County,-38.0,2.0,-47.0,-43.0,-30.0,8.0
+2020-04-11,Maine,Knox County,-38.0,-24.0,,,-30.0,11.0
+2020-04-11,Maine,Lincoln County,-52.0,-20.0,,,-29.0,6.0
+2020-04-11,Maine,Oxford County,-43.0,2.0,-19.0,,-36.0,15.0
+2020-04-11,Maine,Penobscot County,-42.0,-3.0,-27.0,-50.0,-33.0,6.0
+2020-04-11,Maine,Piscataquis County,-45.0,-17.0,,,-28.0,
+2020-04-11,Maine,Sagadahoc County,-40.0,-8.0,,,-36.0,13.0
+2020-04-11,Maine,Somerset County,-30.0,7.0,-31.0,,-26.0,7.0
+2020-04-11,Maine,Waldo County,-43.0,-28.0,,,-28.0,13.0
+2020-04-11,Maine,Washington County,-50.0,-19.0,,,-25.0,
+2020-04-11,Maine,York County,-42.0,1.0,20.0,-64.0,-36.0,13.0
+2020-04-11,Oregon,Total,-45.0,-7.0,16.0,-41.0,-36.0,12.0
+2020-04-11,Oregon,Baker County,-38.0,-10.0,,-27.0,-31.0,
+2020-04-11,Oregon,Benton County,-54.0,-21.0,44.0,-49.0,-44.0,23.0
+2020-04-11,Oregon,Clackamas County,-46.0,-9.0,6.0,-27.0,-37.0,13.0
+2020-04-11,Oregon,Clatsop County,-55.0,-23.0,-25.0,-61.0,-40.0,16.0
+2020-04-11,Oregon,Columbia County,-31.0,-2.0,58.0,,-32.0,16.0
+2020-04-11,Oregon,Coos County,-33.0,3.0,-11.0,,-34.0,13.0
+2020-04-11,Oregon,Crook County,-32.0,-15.0,,,-33.0,-1.0
+2020-04-11,Oregon,Curry County,-47.0,-10.0,16.0,,-31.0,
+2020-04-11,Oregon,Deschutes County,-46.0,-8.0,-14.0,-61.0,-37.0,11.0
+2020-04-11,Oregon,Douglas County,-30.0,10.0,17.0,-11.0,-26.0,7.0
+2020-04-11,Oregon,Grant County,-70.0,-19.0,,,-28.0,
+2020-04-11,Oregon,Harney County,-41.0,-6.0,,,-22.0,
+2020-04-11,Oregon,Hood River County,-48.0,6.0,-3.0,,-41.0,
+2020-04-11,Oregon,Jackson County,-40.0,-1.0,44.0,-37.0,-33.0,8.0
+2020-04-11,Oregon,Jefferson County,-36.0,-6.0,,-8.0,-33.0,0.0
+2020-04-11,Oregon,Josephine County,-32.0,3.0,64.0,-37.0,-29.0,8.0
+2020-04-11,Oregon,Klamath County,-36.0,7.0,18.0,-20.0,-28.0,7.0
+2020-04-11,Oregon,Lake County,-38.0,,,,-30.0,
+2020-04-11,Oregon,Lane County,-45.0,-9.0,29.0,-48.0,-37.0,11.0
+2020-04-11,Oregon,Lincoln County,-58.0,-24.0,-43.0,,-45.0,16.0
+2020-04-11,Oregon,Linn County,-32.0,4.0,38.0,-27.0,-28.0,10.0
+2020-04-11,Oregon,Malheur County,-21.0,11.0,,1.0,-17.0,7.0
+2020-04-11,Oregon,Marion County,-41.0,-1.0,37.0,-26.0,-30.0,11.0
+2020-04-11,Oregon,Morrow County,-41.0,,,-21.0,-21.0,
+2020-04-11,Oregon,Multnomah County,-60.0,-15.0,5.0,-54.0,-43.0,14.0
+2020-04-11,Oregon,Polk County,-27.0,6.0,41.0,,-37.0,11.0
+2020-04-11,Oregon,Sherman County,,,,-28.0,,
+2020-04-11,Oregon,Tillamook County,-56.0,-13.0,-10.0,,-29.0,-1.0
+2020-04-11,Oregon,Umatilla County,-27.0,20.0,13.0,-23.0,-28.0,8.0
+2020-04-11,Oregon,Union County,-30.0,-31.0,,-34.0,-26.0,0.0
+2020-04-11,Oregon,Wallowa County,-68.0,-14.0,,,-27.0,
+2020-04-11,Oregon,Wasco County,-33.0,1.0,12.0,,-31.0,7.0
+2020-04-11,Oregon,Washington County,-47.0,-15.0,47.0,-43.0,-39.0,14.0
+2020-04-11,Oregon,Yamhill County,-34.0,-4.0,66.0,-63.0,-33.0,11.0
+2020-04-11,Arkansas,Total,-35.0,1.0,1.0,-34.0,-26.0,10.0
+2020-04-11,Arkansas,Arkansas County,-23.0,8.0,,,-24.0,
+2020-04-11,Arkansas,Ashley County,-32.0,6.0,,,-13.0,
+2020-04-11,Arkansas,Baxter County,-34.0,18.0,,,-22.0,13.0
+2020-04-11,Arkansas,Benton County,-42.0,-7.0,21.0,-62.0,-32.0,12.0
+2020-04-11,Arkansas,Boone County,-30.0,5.0,,,-35.0,16.0
+2020-04-11,Arkansas,Bradley County,-40.0,-7.0,,,-42.0,
+2020-04-11,Arkansas,Carroll County,-42.0,-3.0,,,-43.0,-1.0
+2020-04-11,Arkansas,Chicot County,-22.0,4.0,,,-35.0,
+2020-04-11,Arkansas,Clark County,-26.0,-4.0,,-37.0,-13.0,
+2020-04-11,Arkansas,Clay County,-10.0,-2.0,,,-36.0,
+2020-04-11,Arkansas,Cleburne County,-48.0,43.0,,,-27.0,
+2020-04-11,Arkansas,Cleveland County,,,,,-40.0,
+2020-04-11,Arkansas,Columbia County,-20.0,-11.0,,,-21.0,
+2020-04-11,Arkansas,Conway County,-25.0,2.0,,-18.0,-21.0,
+2020-04-11,Arkansas,Craighead County,-44.0,-6.0,-59.0,-14.0,-26.0,9.0
+2020-04-11,Arkansas,Crawford County,-16.0,6.0,,-4.0,-20.0,15.0
+2020-04-11,Arkansas,Crittenden County,-29.0,10.0,,-27.0,-25.0,19.0
+2020-04-11,Arkansas,Cross County,-55.0,93.0,,,-7.0,
+2020-04-11,Arkansas,Dallas County,-25.0,,,,-25.0,
+2020-04-11,Arkansas,Desha County,-22.0,11.0,,,-41.0,
+2020-04-11,Arkansas,Drew County,-27.0,5.0,,,-27.0,
+2020-04-11,Arkansas,Faulkner County,-44.0,-11.0,-2.0,,-28.0,11.0
+2020-04-11,Arkansas,Franklin County,-10.0,-3.0,,-22.0,-20.0,
+2020-04-11,Arkansas,Fulton County,,,,,-31.0,
+2020-04-11,Arkansas,Garland County,-41.0,0.0,-43.0,,-34.0,11.0
+2020-04-11,Arkansas,Grant County,-6.0,6.0,,,-16.0,
+2020-04-11,Arkansas,Greene County,-21.0,5.0,,,-23.0,15.0
+2020-04-11,Arkansas,Hempstead County,-33.0,-3.0,,,-25.0,
+2020-04-11,Arkansas,Hot Spring County,-16.0,21.0,,-37.0,-19.0,8.0
+2020-04-11,Arkansas,Howard County,-36.0,4.0,,,-24.0,
+2020-04-11,Arkansas,Independence County,-43.0,50.0,,,-16.0,13.0
+2020-04-11,Arkansas,Izard County,-22.0,8.0,,,-36.0,
+2020-04-11,Arkansas,Jackson County,-12.0,24.0,,,-32.0,
+2020-04-11,Arkansas,Jefferson County,-26.0,21.0,,-20.0,-25.0,15.0
+2020-04-11,Arkansas,Johnson County,-34.0,4.0,-12.0,,-20.0,-2.0
+2020-04-11,Arkansas,Lawrence County,-22.0,-1.0,,,-43.0,
+2020-04-11,Arkansas,Lincoln County,-60.0,-4.0,,,-39.0,
+2020-04-11,Arkansas,Little River County,-25.0,-4.0,,,-42.0,
+2020-04-11,Arkansas,Logan County,-24.0,9.0,,,-15.0,
+2020-04-11,Arkansas,Lonoke County,-24.0,12.0,,,-22.0,17.0
+2020-04-11,Arkansas,Madison County,-31.0,-13.0,,,-20.0,
+2020-04-11,Arkansas,Marion County,-16.0,3.0,,,-31.0,
+2020-04-11,Arkansas,Miller County,-35.0,-2.0,-33.0,-47.0,-26.0,14.0
+2020-04-11,Arkansas,Mississippi County,-13.0,18.0,,-26.0,-15.0,10.0
+2020-04-11,Arkansas,Monroe County,-40.0,-8.0,,,-39.0,
+2020-04-11,Arkansas,Montgomery County,,,,,-35.0,
+2020-04-11,Arkansas,Nevada County,-61.0,,,-40.0,-33.0,
+2020-04-11,Arkansas,Newton County,,,,,-29.0,
+2020-04-11,Arkansas,Ouachita County,-16.0,-20.0,,,-19.0,
+2020-04-11,Arkansas,Perry County,,,,,-41.0,
+2020-04-11,Arkansas,Phillips County,-5.0,16.0,,,-17.0,
+2020-04-11,Arkansas,Pike County,-30.0,-8.0,,,-31.0,
+2020-04-11,Arkansas,Poinsett County,-2.0,7.0,,,-5.0,
+2020-04-11,Arkansas,Polk County,-51.0,31.0,,,-28.0,
+2020-04-11,Arkansas,Pope County,-41.0,-6.0,,-31.0,-20.0,15.0
+2020-04-11,Arkansas,Prairie County,,,,,-39.0,
+2020-04-11,Arkansas,Pulaski County,-41.0,-5.0,-18.0,-46.0,-30.0,11.0
+2020-04-11,Arkansas,Randolph County,-33.0,12.0,,,-18.0,
+2020-04-11,Arkansas,Saline County,-30.0,-3.0,-44.0,-20.0,-26.0,11.0
+2020-04-11,Arkansas,Scott County,-53.0,,,,-33.0,
+2020-04-11,Arkansas,Searcy County,,,,,-43.0,
+2020-04-11,Arkansas,Sebastian County,-39.0,-3.0,0.0,-58.0,-30.0,10.0
+2020-04-11,Arkansas,Sevier County,-35.0,-8.0,,,-28.0,
+2020-04-11,Arkansas,Sharp County,-27.0,0.0,,,-25.0,
+2020-04-11,Arkansas,St. Francis County,-26.0,28.0,,-27.0,-18.0,
+2020-04-11,Arkansas,Stone County,-23.0,8.0,,,-25.0,
+2020-04-11,Arkansas,Union County,-32.0,-9.0,,,-21.0,10.0
+2020-04-11,Arkansas,Van Buren County,-33.0,,,,-38.0,
+2020-04-11,Arkansas,Washington County,-43.0,-9.0,13.0,-30.0,-33.0,12.0
+2020-04-11,Arkansas,White County,-30.0,1.0,-9.0,-19.0,-20.0,13.0
+2020-04-11,Arkansas,Yell County,-27.0,10.0,18.0,,-15.0,
+2020-04-11,Indiana,Total,-40.0,-2.0,70.0,-29.0,-36.0,12.0
+2020-04-11,Indiana,Adams County,-35.0,-29.0,,,-27.0,8.0
+2020-04-11,Indiana,Allen County,-48.0,-12.0,76.0,-38.0,-39.0,13.0
+2020-04-11,Indiana,Bartholomew County,-49.0,-10.0,23.0,-17.0,-49.0,28.0
+2020-04-11,Indiana,Benton County,,,,,-52.0,
+2020-04-11,Indiana,Blackford County,-53.0,-7.0,,,-17.0,
+2020-04-11,Indiana,Boone County,-39.0,-6.0,,-26.0,-35.0,27.0
+2020-04-11,Indiana,Brown County,-70.0,-20.0,,,-39.0,
+2020-04-11,Indiana,Carroll County,-7.0,5.0,,,-30.0,
+2020-04-11,Indiana,Cass County,-26.0,-3.0,,,-20.0,19.0
+2020-04-11,Indiana,Clark County,-48.0,4.0,101.0,-36.0,-36.0,12.0
+2020-04-11,Indiana,Clay County,-30.0,-29.0,,-29.0,-39.0,-1.0
+2020-04-11,Indiana,Clinton County,-31.0,-9.0,,,-34.0,17.0
+2020-04-11,Indiana,Crawford County,-47.0,-16.0,,-42.0,-54.0,
+2020-04-11,Indiana,Daviess County,-38.0,5.0,,,-28.0,8.0
+2020-04-11,Indiana,DeKalb County,-40.0,-5.0,,,-37.0,20.0
+2020-04-11,Indiana,Dearborn County,-42.0,-14.0,,,-44.0,24.0
+2020-04-11,Indiana,Decatur County,-53.0,-46.0,,-35.0,-44.0,11.0
+2020-04-11,Indiana,Delaware County,-42.0,-7.0,,-4.0,-33.0,10.0
+2020-04-11,Indiana,Dubois County,-47.0,-14.0,,,-49.0,23.0
+2020-04-11,Indiana,Elkhart County,-32.0,-5.0,23.0,-20.0,-40.0,11.0
+2020-04-11,Indiana,Fayette County,-27.0,-16.0,,,-26.0,6.0
+2020-04-11,Indiana,Floyd County,-40.0,-4.0,,,-38.0,23.0
+2020-04-11,Indiana,Fountain County,-47.0,0.0,,,-31.0,
+2020-04-11,Indiana,Franklin County,-38.0,-32.0,,,-33.0,
+2020-04-11,Indiana,Fulton County,-21.0,-10.0,,-46.0,-35.0,
+2020-04-11,Indiana,Gibson County,-27.0,-4.0,,-46.0,-26.0,11.0
+2020-04-11,Indiana,Grant County,-28.0,8.0,,-32.0,-24.0,8.0
+2020-04-11,Indiana,Greene County,-40.0,-15.0,,,-29.0,5.0
+2020-04-11,Indiana,Hamilton County,-51.0,-8.0,111.0,,-42.0,14.0
+2020-04-11,Indiana,Hancock County,-39.0,33.0,,-24.0,-33.0,23.0
+2020-04-11,Indiana,Harrison County,-40.0,0.0,,,-30.0,19.0
+2020-04-11,Indiana,Hendricks County,-36.0,-1.0,-13.0,-24.0,-34.0,13.0
+2020-04-11,Indiana,Henry County,-25.0,-1.0,,-28.0,-31.0,23.0
+2020-04-11,Indiana,Howard County,-42.0,-3.0,,,-41.0,11.0
+2020-04-11,Indiana,Huntington County,-33.0,-18.0,,-46.0,-27.0,18.0
+2020-04-11,Indiana,Jackson County,-26.0,-45.0,,-23.0,-44.0,25.0
+2020-04-11,Indiana,Jasper County,-24.0,-3.0,,-21.0,-26.0,14.0
+2020-04-11,Indiana,Jay County,-43.0,-20.0,,,-20.0,
+2020-04-11,Indiana,Jefferson County,-31.0,-7.0,,,-26.0,14.0
+2020-04-11,Indiana,Jennings County,-43.0,-14.0,,,-41.0,12.0
+2020-04-11,Indiana,Johnson County,-46.0,3.0,0.0,-26.0,-37.0,12.0
+2020-04-11,Indiana,Knox County,-34.0,-5.0,,,-31.0,14.0
+2020-04-11,Indiana,Kosciusko County,-39.0,-2.0,,,-36.0,26.0
+2020-04-11,Indiana,LaGrange County,-62.0,-6.0,-8.0,-41.0,-25.0,9.0
+2020-04-11,Indiana,LaPorte County,-44.0,1.0,-7.0,-38.0,-35.0,12.0
+2020-04-11,Indiana,Lake County,-37.0,4.0,18.0,-18.0,-35.0,13.0
+2020-04-11,Indiana,Lawrence County,-32.0,-2.0,,,-32.0,19.0
+2020-04-11,Indiana,Madison County,-32.0,10.0,,-29.0,-35.0,10.0
+2020-04-11,Indiana,Marion County,-45.0,-5.0,50.0,-35.0,-38.0,11.0
+2020-04-11,Indiana,Marshall County,-31.0,7.0,,-19.0,-30.0,17.0
+2020-04-11,Indiana,Martin County,-53.0,-8.0,,,-51.0,
+2020-04-11,Indiana,Miami County,-26.0,-9.0,,,-35.0,16.0
+2020-04-11,Indiana,Monroe County,-49.0,-12.0,35.0,-33.0,-40.0,12.0
+2020-04-11,Indiana,Montgomery County,-23.0,-9.0,,-28.0,-33.0,14.0
+2020-04-11,Indiana,Morgan County,-27.0,8.0,,,-31.0,19.0
+2020-04-11,Indiana,Newton County,-18.0,,,,-27.0,
+2020-04-11,Indiana,Noble County,-25.0,1.0,,,-37.0,22.0
+2020-04-11,Indiana,Ohio County,,,,,-49.0,
+2020-04-11,Indiana,Orange County,-48.0,-20.0,,,-48.0,
+2020-04-11,Indiana,Owen County,-26.0,-7.0,,,-27.0,
+2020-04-11,Indiana,Parke County,-53.0,10.0,,,-48.0,
+2020-04-11,Indiana,Perry County,-57.0,85.0,,,-41.0,
+2020-04-11,Indiana,Pike County,-54.0,8.0,,,-56.0,
+2020-04-11,Indiana,Porter County,-43.0,1.0,160.0,-35.0,-37.0,12.0
+2020-04-11,Indiana,Posey County,-27.0,0.0,,,-18.0,-1.0
+2020-04-11,Indiana,Pulaski County,-7.0,-20.0,,,-48.0,
+2020-04-11,Indiana,Putnam County,-28.0,-14.0,,,-26.0,11.0
+2020-04-11,Indiana,Randolph County,-26.0,-12.0,,,-23.0,8.0
+2020-04-11,Indiana,Ripley County,-51.0,-15.0,,,-30.0,0.0
+2020-04-11,Indiana,Rush County,-39.0,-9.0,,,-34.0,
+2020-04-11,Indiana,Scott County,-26.0,1.0,,,-38.0,3.0
+2020-04-11,Indiana,Shelby County,-37.0,-4.0,,-51.0,-38.0,21.0
+2020-04-11,Indiana,Spencer County,-44.0,19.0,,,-27.0,
+2020-04-11,Indiana,St. Joseph County,-43.0,-4.0,104.0,-24.0,-39.0,11.0
+2020-04-11,Indiana,Starke County,-23.0,11.0,,,-26.0,
+2020-04-11,Indiana,Steuben County,-44.0,1.0,,-32.0,-36.0,18.0
+2020-04-11,Indiana,Sullivan County,-38.0,-5.0,,,-24.0,
+2020-04-11,Indiana,Switzerland County,,-20.0,,,-54.0,
+2020-04-11,Indiana,Tippecanoe County,-46.0,-12.0,39.0,3.0,-43.0,13.0
+2020-04-11,Indiana,Tipton County,-35.0,-2.0,,,-34.0,
+2020-04-11,Indiana,Union County,-38.0,,,,-48.0,
+2020-04-11,Indiana,Vanderburgh County,-49.0,-3.0,29.0,-63.0,-34.0,12.0
+2020-04-11,Indiana,Vermillion County,-31.0,0.0,,-28.0,-27.0,
+2020-04-11,Indiana,Vigo County,-46.0,-8.0,-7.0,5.0,-35.0,11.0
+2020-04-11,Indiana,Wabash County,-35.0,-9.0,,,-31.0,8.0
+2020-04-11,Indiana,Warren County,,,,,-56.0,
+2020-04-11,Indiana,Warrick County,-35.0,-13.0,,,-34.0,24.0
+2020-04-11,Indiana,Washington County,-40.0,-18.0,,,-24.0,11.0
+2020-04-11,Indiana,Wayne County,-47.0,-9.0,,-27.0,-32.0,11.0
+2020-04-11,Indiana,Wells County,-30.0,6.0,,,-28.0,11.0
+2020-04-11,Indiana,White County,-25.0,-8.0,,-34.0,-32.0,6.0
+2020-04-11,Indiana,Whitley County,-32.0,-12.0,,,-38.0,21.0
+2020-04-11,Rhode Island,Total,-45.0,-4.0,45.0,-57.0,-40.0,15.0
+2020-04-11,Rhode Island,Bristol County,-47.0,-36.0,,,-39.0,22.0
+2020-04-11,Rhode Island,Kent County,-42.0,3.0,72.0,-69.0,-38.0,13.0
+2020-04-11,Rhode Island,Newport County,-43.0,-8.0,-1.0,-41.0,-40.0,24.0
+2020-04-11,Rhode Island,Providence County,-48.0,-7.0,52.0,-56.0,-42.0,15.0
+2020-04-11,Rhode Island,Washington County,-39.0,-7.0,91.0,-40.0,-33.0,14.0
+2020-04-11,Idaho,Total,-40.0,0.0,12.0,-35.0,-34.0,11.0
+2020-04-11,Idaho,Ada County,-45.0,-6.0,24.0,-54.0,-40.0,13.0
+2020-04-11,Idaho,Bannock County,-44.0,-2.0,-40.0,-44.0,-32.0,11.0
+2020-04-11,Idaho,Bear Lake County,-28.0,-17.0,,,-41.0,
+2020-04-11,Idaho,Benewah County,-16.0,-6.0,,,-43.0,
+2020-04-11,Idaho,Bingham County,-31.0,2.0,,,-24.0,13.0
+2020-04-11,Idaho,Blaine County,-84.0,-50.0,,-57.0,-64.0,
+2020-04-11,Idaho,Boise County,-57.0,,-12.0,,-50.0,
+2020-04-11,Idaho,Bonner County,-32.0,-32.0,-22.0,,-33.0,12.0
+2020-04-11,Idaho,Bonneville County,-41.0,-2.0,16.0,-28.0,-28.0,11.0
+2020-04-11,Idaho,Boundary County,-29.0,-4.0,,,-25.0,
+2020-04-11,Idaho,Canyon County,-36.0,4.0,24.0,-21.0,-32.0,10.0
+2020-04-11,Idaho,Caribou County,-53.0,-6.0,,,-29.0,
+2020-04-11,Idaho,Cassia County,-7.0,2.0,,,-28.0,0.0
+2020-04-11,Idaho,Clearwater County,-54.0,-14.0,,,-21.0,
+2020-04-11,Idaho,Elmore County,-28.0,1.0,,-32.0,-24.0,14.0
+2020-04-11,Idaho,Franklin County,-3.0,-10.0,,,-20.0,
+2020-04-11,Idaho,Fremont County,-64.0,2.0,-38.0,,-22.0,
+2020-04-11,Idaho,Gem County,-9.0,1.0,,,-24.0,
+2020-04-11,Idaho,Gooding County,-42.0,-4.0,,,-11.0,
+2020-04-11,Idaho,Idaho County,-74.0,-15.0,,,-30.0,
+2020-04-11,Idaho,Jefferson County,-39.0,-12.0,-62.0,,-26.0,9.0
+2020-04-11,Idaho,Jerome County,-5.0,-44.0,,-13.0,-19.0,6.0
+2020-04-11,Idaho,Kootenai County,-37.0,4.0,82.0,-13.0,-36.0,10.0
+2020-04-11,Idaho,Latah County,-49.0,-22.0,,,-42.0,19.0
+2020-04-11,Idaho,Lemhi County,-23.0,-27.0,,,-28.0,
+2020-04-11,Idaho,Lincoln County,,,,,-39.0,
+2020-04-11,Idaho,Madison County,-44.0,-28.0,,,-45.0,15.0
+2020-04-11,Idaho,Minidoka County,-40.0,27.0,,-12.0,-24.0,1.0
+2020-04-11,Idaho,Nez Perce County,-36.0,17.0,-24.0,-55.0,-27.0,15.0
+2020-04-11,Idaho,Oneida County,,,,,-42.0,
+2020-04-11,Idaho,Owyhee County,-30.0,12.0,,,-25.0,
+2020-04-11,Idaho,Payette County,-42.0,-5.0,,,-29.0,5.0
+2020-04-11,Idaho,Power County,-26.0,-9.0,,,-32.0,
+2020-04-11,Idaho,Shoshone County,-28.0,-4.0,,,-29.0,
+2020-04-11,Idaho,Teton County,-69.0,-19.0,,,-56.0,
+2020-04-11,Idaho,Twin Falls County,-45.0,2.0,-16.0,,-31.0,12.0
+2020-04-11,Idaho,Valley County,-84.0,-54.0,-64.0,,-58.0,
+2020-04-11,Idaho,Washington County,-17.0,2.0,,,-37.0,
+2020-04-11,Wyoming,Total,-41.0,-2.0,-25.0,-15.0,-30.0,12.0
+2020-04-11,Wyoming,Albany County,-40.0,-20.0,-4.0,8.0,-32.0,16.0
+2020-04-11,Wyoming,Big Horn County,-37.0,-7.0,,,-34.0,
+2020-04-11,Wyoming,Campbell County,-40.0,8.0,,-18.0,-28.0,16.0
+2020-04-11,Wyoming,Carbon County,-36.0,-23.0,,-4.0,-27.0,
+2020-04-11,Wyoming,Converse County,-42.0,-9.0,,-35.0,-27.0,
+2020-04-11,Wyoming,Crook County,,,,,-29.0,
+2020-04-11,Wyoming,Fremont County,-32.0,-8.0,,,-31.0,13.0
+2020-04-11,Wyoming,Goshen County,-26.0,-13.0,,,-24.0,
+2020-04-11,Wyoming,Hot Springs County,-64.0,-20.0,-62.0,,,
+2020-04-11,Wyoming,Johnson County,-35.0,-2.0,,,-37.0,
+2020-04-11,Wyoming,Laramie County,-38.0,-2.0,23.0,-16.0,-31.0,12.0
+2020-04-11,Wyoming,Lincoln County,-51.0,-16.0,,,-27.0,
+2020-04-11,Wyoming,Natrona County,-40.0,2.0,22.0,-42.0,-33.0,12.0
+2020-04-11,Wyoming,Park County,-50.0,12.0,,,-25.0,5.0
+2020-04-11,Wyoming,Platte County,-21.0,-11.0,,-38.0,-31.0,
+2020-04-11,Wyoming,Sheridan County,-51.0,5.0,,,-34.0,12.0
+2020-04-11,Wyoming,Sublette County,-70.0,-33.0,,,-40.0,
+2020-04-11,Wyoming,Sweetwater County,-35.0,13.0,,15.0,-27.0,15.0
+2020-04-11,Wyoming,Teton County,-85.0,-53.0,-63.0,-83.0,-66.0,
+2020-04-11,Wyoming,Uinta County,-31.0,-11.0,,2.0,-22.0,
+2020-04-11,Wyoming,Washakie County,-28.0,-23.0,,,-40.0,
+2020-04-11,Wyoming,Weston County,-57.0,-19.0,,,-43.0,
+2020-04-11,Texas,Total,-45.0,-14.0,-54.0,-49.0,-38.0,16.0
+2020-04-11,Texas,Anderson County,-35.0,-2.0,,,-24.0,16.0
+2020-04-11,Texas,Andrews County,-45.0,-40.0,,-13.0,-36.0,
+2020-04-11,Texas,Angelina County,-46.0,-4.0,-20.0,-38.0,-29.0,13.0
+2020-04-11,Texas,Aransas County,-45.0,-31.0,-57.0,,-27.0,10.0
+2020-04-11,Texas,Archer County,,,,,-42.0,
+2020-04-11,Texas,Atascosa County,-22.0,-4.0,,-50.0,-25.0,22.0
+2020-04-11,Texas,Austin County,-33.0,-22.0,,,-29.0,1.0
+2020-04-11,Texas,Bailey County,-24.0,-8.0,,,-35.0,
+2020-04-11,Texas,Bandera County,-45.0,-5.0,-71.0,,-30.0,
+2020-04-11,Texas,Bastrop County,-37.0,-21.0,-66.0,,-36.0,16.0
+2020-04-11,Texas,Bee County,-31.0,-8.0,,,-26.0,-1.0
+2020-04-11,Texas,Bell County,-37.0,-18.0,-25.0,-43.0,-34.0,13.0
+2020-04-11,Texas,Bexar County,-45.0,-10.0,-73.0,-43.0,-41.0,16.0
+2020-04-11,Texas,Blanco County,-67.0,-20.0,-71.0,,-35.0,
+2020-04-11,Texas,Bosque County,-37.0,-7.0,,,-16.0,
+2020-04-11,Texas,Bowie County,-47.0,-12.0,-29.0,-39.0,-30.0,13.0
+2020-04-11,Texas,Brazoria County,-36.0,-8.0,-23.0,-28.0,-32.0,15.0
+2020-04-11,Texas,Brazos County,-47.0,-21.0,-30.0,-64.0,-35.0,15.0
+2020-04-11,Texas,Brewster County,-52.0,-43.0,,,-50.0,
+2020-04-11,Texas,Brooks County,-55.0,-9.0,,-55.0,-44.0,
+2020-04-11,Texas,Brown County,-37.0,-6.0,,,-23.0,16.0
+2020-04-11,Texas,Burleson County,-34.0,-10.0,,,-29.0,
+2020-04-11,Texas,Burnet County,-36.0,-14.0,-62.0,,-32.0,17.0
+2020-04-11,Texas,Caldwell County,-36.0,-31.0,,-32.0,-33.0,23.0
+2020-04-11,Texas,Calhoun County,-39.0,-17.0,-38.0,,-20.0,
+2020-04-11,Texas,Callahan County,-30.0,-15.0,,-33.0,-20.0,
+2020-04-11,Texas,Cameron County,-62.0,-35.0,-74.0,-71.0,-42.0,22.0
+2020-04-11,Texas,Camp County,-32.0,-9.0,,,-35.0,
+2020-04-11,Texas,Carson County,,-24.0,,-23.0,-52.0,
+2020-04-11,Texas,Cass County,-36.0,-3.0,,-28.0,-26.0,6.0
+2020-04-11,Texas,Castro County,,-20.0,,,-31.0,
+2020-04-11,Texas,Chambers County,-43.0,-2.0,-55.0,-56.0,-35.0,20.0
+2020-04-11,Texas,Cherokee County,-21.0,1.0,,,-29.0,17.0
+2020-04-11,Texas,Childress County,-36.0,-20.0,,-26.0,-41.0,
+2020-04-11,Texas,Clay County,-51.0,,,-35.0,-38.0,
+2020-04-11,Texas,Coke County,,-30.0,,,,
+2020-04-11,Texas,Coleman County,-48.0,-19.0,,,-35.0,
+2020-04-11,Texas,Collin County,-52.0,-27.0,-44.0,-40.0,-44.0,19.0
+2020-04-11,Texas,Colorado County,-44.0,-11.0,,-49.0,-15.0,
+2020-04-11,Texas,Comal County,-49.0,-22.0,-70.0,-33.0,-38.0,16.0
+2020-04-11,Texas,Comanche County,-28.0,-29.0,,,-40.0,
+2020-04-11,Texas,Cooke County,-42.0,0.0,-38.0,-47.0,-31.0,15.0
+2020-04-11,Texas,Coryell County,-32.0,0.0,-14.0,,-32.0,13.0
+2020-04-11,Texas,Crane County,-63.0,-20.0,,,-53.0,
+2020-04-11,Texas,Crockett County,-50.0,-24.0,,,,
+2020-04-11,Texas,Crosby County,,-24.0,,,-52.0,
+2020-04-11,Texas,Culberson County,-54.0,,,-43.0,,
+2020-04-11,Texas,Dallam County,-38.0,-21.0,,,-28.0,
+2020-04-11,Texas,Dallas County,-47.0,-14.0,-56.0,-48.0,-42.0,18.0
+2020-04-11,Texas,Dawson County,-35.0,-9.0,,,-36.0,
+2020-04-11,Texas,DeWitt County,-38.0,-27.0,,,-25.0,
+2020-04-11,Texas,Deaf Smith County,-26.0,-14.0,,-41.0,-39.0,
+2020-04-11,Texas,Delta County,,,,,-42.0,
+2020-04-11,Texas,Denton County,-48.0,-22.0,-40.0,-45.0,-43.0,19.0
+2020-04-11,Texas,Dimmit County,-31.0,-24.0,,-38.0,-49.0,
+2020-04-11,Texas,Donley County,,,,-4.0,,
+2020-04-11,Texas,Duval County,-46.0,-30.0,,,-53.0,
+2020-04-11,Texas,Eastland County,-42.0,-12.0,,-38.0,-14.0,
+2020-04-11,Texas,Ector County,-44.0,-9.0,,-23.0,-33.0,16.0
+2020-04-11,Texas,El Paso County,-51.0,-14.0,-78.0,-45.0,-42.0,19.0
+2020-04-11,Texas,Ellis County,-39.0,-3.0,-42.0,-43.0,-36.0,17.0
+2020-04-11,Texas,Erath County,-43.0,-34.0,,,-24.0,10.0
+2020-04-11,Texas,Falls County,-16.0,-10.0,,,-20.0,
+2020-04-11,Texas,Fannin County,-23.0,-2.0,,,-23.0,11.0
+2020-04-11,Texas,Fayette County,-52.0,-24.0,,-45.0,-29.0,
+2020-04-11,Texas,Floyd County,,,,,-38.0,
+2020-04-11,Texas,Fort Bend County,-46.0,-13.0,-27.0,-34.0,-40.0,18.0
+2020-04-11,Texas,Franklin County,-43.0,-2.0,,-40.0,-41.0,
+2020-04-11,Texas,Freestone County,-54.0,-13.0,,-51.0,-22.0,
+2020-04-11,Texas,Frio County,-25.0,-30.0,,-52.0,-22.0,
+2020-04-11,Texas,Gaines County,-33.0,-8.0,,,-17.0,
+2020-04-11,Texas,Galveston County,-43.0,-2.0,-53.0,-54.0,-37.0,15.0
+2020-04-11,Texas,Garza County,-40.0,-28.0,,,,
+2020-04-11,Texas,Gillespie County,-63.0,-32.0,-78.0,,-37.0,
+2020-04-11,Texas,Goliad County,-54.0,-54.0,,,-43.0,
+2020-04-11,Texas,Gonzales County,-32.0,-24.0,-50.0,,-23.0,
+2020-04-11,Texas,Gray County,-47.0,-27.0,,,-32.0,
+2020-04-11,Texas,Grayson County,-43.0,-11.0,-35.0,,-33.0,15.0
+2020-04-11,Texas,Gregg County,-46.0,-11.0,-30.0,,-32.0,14.0
+2020-04-11,Texas,Grimes County,-28.0,-5.0,,,-29.0,0.0
+2020-04-11,Texas,Guadalupe County,-40.0,-12.0,-42.0,-47.0,-38.0,16.0
+2020-04-11,Texas,Hale County,-23.0,12.0,,,-25.0,11.0
+2020-04-11,Texas,Hall County,,,,-20.0,,
+2020-04-11,Texas,Hamilton County,-54.0,-35.0,,,-37.0,
+2020-04-11,Texas,Hardeman County,,-24.0,,-21.0,,
+2020-04-11,Texas,Hardin County,-30.0,5.0,,,-31.0,23.0
+2020-04-11,Texas,Harris County,-44.0,-13.0,-62.0,-56.0,-40.0,17.0
+2020-04-11,Texas,Harrison County,-35.0,8.0,-46.0,,-38.0,20.0
+2020-04-11,Texas,Hartley County,,6.0,,,,
+2020-04-11,Texas,Haskell County,-44.0,-34.0,,,,
+2020-04-11,Texas,Hays County,-48.0,-15.0,-44.0,-31.0,-37.0,17.0
+2020-04-11,Texas,Henderson County,-33.0,7.0,-29.0,,-28.0,13.0
+2020-04-11,Texas,Hidalgo County,-57.0,-30.0,-73.0,-61.0,-40.0,21.0
+2020-04-11,Texas,Hill County,-38.0,-8.0,-42.0,-46.0,-27.0,14.0
+2020-04-11,Texas,Hockley County,-33.0,-22.0,,,-21.0,-3.0
+2020-04-11,Texas,Hood County,-40.0,32.0,-60.0,,-29.0,17.0
+2020-04-11,Texas,Hopkins County,-36.0,0.0,,-41.0,-21.0,12.0
+2020-04-11,Texas,Houston County,-30.0,4.0,,,-19.0,
+2020-04-11,Texas,Howard County,-34.0,-17.0,,-44.0,-35.0,15.0
+2020-04-11,Texas,Hunt County,-36.0,-12.0,-36.0,-35.0,-31.0,14.0
+2020-04-11,Texas,Hutchinson County,-31.0,-17.0,,,-19.0,
+2020-04-11,Texas,Jack County,-67.0,,,,-43.0,
+2020-04-11,Texas,Jackson County,-35.0,-16.0,,-51.0,-23.0,
+2020-04-11,Texas,Jasper County,-24.0,0.0,15.0,,-21.0,6.0
+2020-04-11,Texas,Jefferson County,-45.0,-5.0,-20.0,-39.0,-33.0,15.0
+2020-04-11,Texas,Jim Hogg County,,-47.0,,,,
+2020-04-11,Texas,Jim Wells County,-28.0,-1.0,,,-31.0,15.0
+2020-04-11,Texas,Johnson County,-35.0,-12.0,-28.0,,-34.0,15.0
+2020-04-11,Texas,Jones County,-33.0,-11.0,,,-20.0,
+2020-04-11,Texas,Karnes County,-23.0,-22.0,,-51.0,-14.0,
+2020-04-11,Texas,Kaufman County,-40.0,-14.0,-49.0,-34.0,-34.0,17.0
+2020-04-11,Texas,Kendall County,-45.0,-19.0,-56.0,-43.0,-38.0,14.0
+2020-04-11,Texas,Kerr County,-39.0,-14.0,-45.0,,-28.0,18.0
+2020-04-11,Texas,Kimble County,-51.0,,,-30.0,,
+2020-04-11,Texas,Kleberg County,-40.0,-27.0,-73.0,-45.0,-31.0,16.0
+2020-04-11,Texas,La Salle County,-65.0,-26.0,,-58.0,,
+2020-04-11,Texas,Lamar County,-38.0,-8.0,,-43.0,-22.0,16.0
+2020-04-11,Texas,Lamb County,-19.0,-11.0,,,-22.0,
+2020-04-11,Texas,Lampasas County,-42.0,-31.0,,,-30.0,
+2020-04-11,Texas,Lavaca County,-35.0,-16.0,,,-26.0,
+2020-04-11,Texas,Lee County,-42.0,-41.0,,,-27.0,
+2020-04-11,Texas,Leon County,-71.0,-40.0,-33.0,-47.0,-17.0,
+2020-04-11,Texas,Liberty County,-27.0,10.0,,-27.0,-33.0,14.0
+2020-04-11,Texas,Limestone County,-36.0,-23.0,,,-25.0,
+2020-04-11,Texas,Live Oak County,-73.0,-36.0,,-59.0,-34.0,
+2020-04-11,Texas,Llano County,-38.0,-24.0,-24.0,,-28.0,
+2020-04-11,Texas,Loving County,,-49.0,,,,
+2020-04-11,Texas,Lubbock County,-41.0,-3.0,34.0,-31.0,-33.0,12.0
+2020-04-11,Texas,Lynn County,,,,,-49.0,
+2020-04-11,Texas,Madison County,-43.0,-59.0,,,-24.0,
+2020-04-11,Texas,Marion County,-45.0,-4.0,,,-39.0,
+2020-04-11,Texas,Martin County,-33.0,-14.0,,,-50.0,
+2020-04-11,Texas,Matagorda County,-35.0,-10.0,-57.0,,-21.0,14.0
+2020-04-11,Texas,Maverick County,-57.0,-33.0,-90.0,-75.0,-34.0,27.0
+2020-04-11,Texas,McCulloch County,-37.0,-22.0,,,-39.0,
+2020-04-11,Texas,McLennan County,-46.0,-14.0,-31.0,-42.0,-36.0,14.0
+2020-04-11,Texas,McMullen County,,,,-65.0,,
+2020-04-11,Texas,Medina County,-21.0,5.0,-59.0,-42.0,-33.0,23.0
+2020-04-11,Texas,Midland County,-50.0,-15.0,-43.0,-36.0,-32.0,16.0
+2020-04-11,Texas,Milam County,-39.0,-20.0,,,-31.0,
+2020-04-11,Texas,Mitchell County,-50.0,-23.0,-70.0,,-33.0,
+2020-04-11,Texas,Montague County,-18.0,-33.0,,,-24.0,
+2020-04-11,Texas,Montgomery County,-44.0,-7.0,-33.0,-41.0,-38.0,15.0
+2020-04-11,Texas,Moore County,-33.0,-17.0,,-29.0,12.0,-1.0
+2020-04-11,Texas,Morris County,-32.0,-10.0,,,-20.0,
+2020-04-11,Texas,Nacogdoches County,-42.0,-12.0,-3.0,-45.0,-30.0,22.0
+2020-04-11,Texas,Navarro County,-49.0,27.0,-36.0,-58.0,-34.0,19.0
+2020-04-11,Texas,Newton County,,-2.0,,,-53.0,
+2020-04-11,Texas,Nolan County,-35.0,-12.0,,-37.0,-20.0,
+2020-04-11,Texas,Nueces County,-43.0,-9.0,-37.0,-42.0,-36.0,14.0
+2020-04-11,Texas,Ochiltree County,-41.0,-14.0,,,-33.0,
+2020-04-11,Texas,Oldham County,,,,-13.0,,
+2020-04-11,Texas,Orange County,-23.0,6.0,-52.0,-38.0,-30.0,14.0
+2020-04-11,Texas,Palo Pinto County,-25.0,-3.0,,-50.0,-29.0,8.0
+2020-04-11,Texas,Panola County,-38.0,-19.0,,-53.0,-29.0,
+2020-04-11,Texas,Parker County,-39.0,-6.0,-41.0,-42.0,-34.0,14.0
+2020-04-11,Texas,Parmer County,,-4.0,,,-21.0,
+2020-04-11,Texas,Pecos County,-39.0,-28.0,,-30.0,-31.0,
+2020-04-11,Texas,Polk County,-27.0,2.0,-24.0,-43.0,-29.0,15.0
+2020-04-11,Texas,Potter County,-45.0,-3.0,-4.0,-25.0,-27.0,11.0
+2020-04-11,Texas,Presidio County,-52.0,-42.0,,,-60.0,
+2020-04-11,Texas,Rains County,-53.0,-25.0,,,-22.0,
+2020-04-11,Texas,Randall County,-36.0,-4.0,-37.0,-25.0,-30.0,11.0
+2020-04-11,Texas,Reagan County,,-22.0,,-46.0,,
+2020-04-11,Texas,Real County,,-38.0,,,,
+2020-04-11,Texas,Red River County,-54.0,4.0,,,-37.0,
+2020-04-11,Texas,Reeves County,-45.0,-26.0,,-35.0,-17.0,
+2020-04-11,Texas,Refugio County,-69.0,-44.0,,-57.0,-44.0,
+2020-04-11,Texas,Robertson County,-52.0,-25.0,,-47.0,-10.0,
+2020-04-11,Texas,Rockwall County,-46.0,-10.0,,-40.0,-38.0,26.0
+2020-04-11,Texas,Runnels County,-25.0,-17.0,,,-37.0,
+2020-04-11,Texas,Rusk County,-24.0,6.0,,,-20.0,19.0
+2020-04-11,Texas,Sabine County,-35.0,-2.0,,,-40.0,
+2020-04-11,Texas,San Augustine County,-64.0,-14.0,,,-48.0,
+2020-04-11,Texas,San Jacinto County,-51.0,3.0,-40.0,,-27.0,5.0
+2020-04-11,Texas,San Patricio County,-32.0,-13.0,-44.0,-32.0,-27.0,13.0
+2020-04-11,Texas,San Saba County,-32.0,,,,,
+2020-04-11,Texas,Scurry County,-26.0,-20.0,,,-26.0,
+2020-04-11,Texas,Shelby County,-46.0,-19.0,,,-21.0,
+2020-04-11,Texas,Sherman County,,,,-25.0,,
+2020-04-11,Texas,Smith County,-46.0,-12.0,-45.0,-37.0,-31.0,14.0
+2020-04-11,Texas,Somervell County,-59.0,-22.0,,,-48.0,
+2020-04-11,Texas,Starr County,-42.0,-20.0,-68.0,,-26.0,28.0
+2020-04-11,Texas,Stephens County,-34.0,,,,-39.0,
+2020-04-11,Texas,Sutton County,-66.0,-27.0,,,,
+2020-04-11,Texas,Swisher County,,-2.0,,,-38.0,
+2020-04-11,Texas,Tarrant County,-48.0,-9.0,-40.0,-72.0,-39.0,17.0
+2020-04-11,Texas,Taylor County,-42.0,-10.0,-35.0,-19.0,-31.0,13.0
+2020-04-11,Texas,Terry County,-30.0,-27.0,,,-14.0,
+2020-04-11,Texas,Titus County,-37.0,6.0,,,-21.0,13.0
+2020-04-11,Texas,Tom Green County,-51.0,-13.0,-50.0,,-33.0,14.0
+2020-04-11,Texas,Travis County,-56.0,-24.0,-63.0,-69.0,-44.0,19.0
+2020-04-11,Texas,Trinity County,-56.0,-10.0,,,-30.0,
+2020-04-11,Texas,Tyler County,-32.0,5.0,,,-21.0,
+2020-04-11,Texas,Upshur County,-25.0,4.0,,,-32.0,14.0
+2020-04-11,Texas,Upton County,,-25.0,,,-49.0,
+2020-04-11,Texas,Uvalde County,-35.0,-23.0,-63.0,,-25.0,
+2020-04-11,Texas,Val Verde County,-48.0,-21.0,-35.0,,-27.0,24.0
+2020-04-11,Texas,Van Zandt County,-44.0,-13.0,-29.0,-44.0,-28.0,17.0
+2020-04-11,Texas,Victoria County,-47.0,-18.0,-63.0,-40.0,-33.0,15.0
+2020-04-11,Texas,Walker County,-43.0,-7.0,-39.0,-42.0,-32.0,15.0
+2020-04-11,Texas,Waller County,-48.0,-5.0,,-36.0,-32.0,26.0
+2020-04-11,Texas,Ward County,-33.0,-29.0,,22.0,-24.0,
+2020-04-11,Texas,Washington County,-34.0,-14.0,,,-28.0,-2.0
+2020-04-11,Texas,Webb County,-55.0,-30.0,-78.0,-43.0,-37.0,20.0
+2020-04-11,Texas,Wharton County,-27.0,-29.0,,-44.0,-25.0,15.0
+2020-04-11,Texas,Wheeler County,-41.0,,,,,
+2020-04-11,Texas,Wichita County,-44.0,-9.0,-17.0,-33.0,-34.0,14.0
+2020-04-11,Texas,Wilbarger County,-23.0,-15.0,,-40.0,-16.0,
+2020-04-11,Texas,Willacy County,-58.0,-38.0,,,-26.0,
+2020-04-11,Texas,Williamson County,-51.0,-21.0,-52.0,-53.0,-42.0,18.0
+2020-04-11,Texas,Wilson County,-30.0,-42.0,-40.0,,-32.0,24.0
+2020-04-11,Texas,Winkler County,-30.0,-32.0,,0.0,-20.0,
+2020-04-11,Texas,Wise County,-35.0,-10.0,-37.0,-40.0,-26.0,17.0
+2020-04-11,Texas,Wood County,-33.0,-1.0,,,-28.0,17.0
+2020-04-11,Texas,Yoakum County,-34.0,-12.0,,,-51.0,
+2020-04-11,Texas,Young County,-60.0,43.0,,,-34.0,
+2020-04-11,Texas,Zapata County,-55.0,-30.0,,,-49.0,
+2020-04-11,Texas,Zavala County,-51.0,-16.0,,,-47.0,
+2020-04-11,Utah,Total,-42.0,-4.0,28.0,-43.0,-34.0,12.0
+2020-04-11,Utah,Beaver County,-63.0,,,-24.0,-32.0,
+2020-04-11,Utah,Box Elder County,-23.0,-7.0,13.0,-17.0,-22.0,16.0
+2020-04-11,Utah,Cache County,-36.0,9.0,47.0,8.0,-30.0,11.0
+2020-04-11,Utah,Carbon County,-26.0,-13.0,,,-24.0,
+2020-04-11,Utah,Davis County,-39.0,2.0,24.0,-18.0,-33.0,12.0
+2020-04-11,Utah,Duchesne County,-25.0,12.0,,,-22.0,
+2020-04-11,Utah,Emery County,-55.0,2.0,,,-45.0,
+2020-04-11,Utah,Garfield County,,,-4.0,,,
+2020-04-11,Utah,Grand County,-54.0,-2.0,-20.0,,-29.0,
+2020-04-11,Utah,Iron County,-36.0,-13.0,,-22.0,-32.0,15.0
+2020-04-11,Utah,Juab County,-25.0,-15.0,,-29.0,-28.0,
+2020-04-11,Utah,Kane County,-31.0,-15.0,-10.0,,-39.0,
+2020-04-11,Utah,Millard County,-16.0,67.0,,,-2.0,
+2020-04-11,Utah,Morgan County,-68.0,-2.0,,,-52.0,
+2020-04-11,Utah,Salt Lake County,-48.0,-7.0,14.0,-60.0,-35.0,13.0
+2020-04-11,Utah,San Juan County,-35.0,34.0,-30.0,,-50.0,
+2020-04-11,Utah,Sanpete County,-9.0,-7.0,,,-16.0,
+2020-04-11,Utah,Sevier County,-23.0,2.0,,12.0,-14.0,
+2020-04-11,Utah,Summit County,-80.0,-59.0,-48.0,-65.0,-70.0,6.0
+2020-04-11,Utah,Tooele County,-18.0,31.0,,-13.0,-32.0,16.0
+2020-04-11,Utah,Uintah County,-31.0,1.0,0.0,,-35.0,5.0
+2020-04-11,Utah,Utah County,-40.0,-4.0,94.0,-3.0,-37.0,12.0
+2020-04-11,Utah,Wasatch County,-49.0,-32.0,20.0,,-54.0,4.0
+2020-04-11,Utah,Washington County,-38.0,-3.0,-9.0,-22.0,-31.0,9.0
+2020-04-11,Utah,Weber County,-36.0,-7.0,57.0,-16.0,-27.0,11.0
+2020-04-11,Maryland,Total,-43.0,-14.0,24.0,-49.0,-39.0,15.0
+2020-04-11,Maryland,Allegany County,-41.0,-6.0,-55.0,-39.0,-30.0,20.0
+2020-04-11,Maryland,Anne Arundel County,-47.0,-19.0,25.0,-80.0,-41.0,15.0
+2020-04-11,Maryland,Baltimore,-44.0,-12.0,26.0,-31.0,-36.0,13.0
+2020-04-11,Maryland,Baltimore County,-41.0,0.0,63.0,-32.0,-37.0,15.0
+2020-04-11,Maryland,Calvert County,-33.0,-10.0,16.0,,-36.0,28.0
+2020-04-11,Maryland,Caroline County,-35.0,-8.0,,,-28.0,17.0
+2020-04-11,Maryland,Carroll County,-38.0,-15.0,66.0,-61.0,-36.0,15.0
+2020-04-11,Maryland,Cecil County,-23.0,-17.0,66.0,-59.0,-32.0,12.0
+2020-04-11,Maryland,Charles County,-38.0,-7.0,-42.0,-30.0,-39.0,15.0
+2020-04-11,Maryland,Dorchester County,-25.0,-5.0,,,-25.0,13.0
+2020-04-11,Maryland,Frederick County,-48.0,-19.0,36.0,-24.0,-38.0,15.0
+2020-04-11,Maryland,Garrett County,-42.0,-6.0,,-35.0,-30.0,-1.0
+2020-04-11,Maryland,Harford County,-39.0,-10.0,99.0,-61.0,-35.0,14.0
+2020-04-11,Maryland,Howard County,-55.0,-35.0,28.0,-32.0,-46.0,18.0
+2020-04-11,Maryland,Kent County,-38.0,-18.0,,,-22.0,
+2020-04-11,Maryland,Montgomery County,-53.0,-28.0,32.0,-53.0,-46.0,19.0
+2020-04-11,Maryland,Prince George's County,-39.0,-19.0,14.0,-49.0,-40.0,17.0
+2020-04-11,Maryland,Queen Anne's County,-48.0,-24.0,-28.0,,-33.0,23.0
+2020-04-11,Maryland,Somerset County,-21.0,-5.0,,,-26.0,
+2020-04-11,Maryland,St. Mary's County,-39.0,3.0,-1.0,,-33.0,13.0
+2020-04-11,Maryland,Talbot County,-33.0,-9.0,,,-32.0,8.0
+2020-04-11,Maryland,Washington County,-42.0,-6.0,64.0,-25.0,-33.0,12.0
+2020-04-11,Maryland,Wicomico County,-45.0,-16.0,,-50.0,-37.0,13.0
+2020-04-11,Maryland,Worcester County,-49.0,-8.0,-37.0,,-37.0,21.0
+2020-04-11,Georgia,Total,-40.0,-5.0,3.0,-53.0,-36.0,13.0
+2020-04-11,Georgia,Appling County,-44.0,-20.0,,,-16.0,
+2020-04-11,Georgia,Atkinson County,-55.0,8.0,,,-37.0,
+2020-04-11,Georgia,Bacon County,-21.0,-27.0,,,-39.0,
+2020-04-11,Georgia,Baldwin County,-38.0,-11.0,,,-31.0,16.0
+2020-04-11,Georgia,Banks County,-39.0,,,,-19.0,
+2020-04-11,Georgia,Barrow County,-32.0,2.0,,,-31.0,12.0
+2020-04-11,Georgia,Bartow County,-41.0,7.0,126.0,-28.0,-33.0,10.0
+2020-04-11,Georgia,Ben Hill County,-41.0,1.0,,,-20.0,
+2020-04-11,Georgia,Berrien County,-42.0,-13.0,,,-27.0,
+2020-04-11,Georgia,Bibb County,-44.0,-3.0,-6.0,-31.0,-30.0,11.0
+2020-04-11,Georgia,Bleckley County,-46.0,8.0,,,-52.0,
+2020-04-11,Georgia,Brantley County,-69.0,-7.0,,,-27.0,
+2020-04-11,Georgia,Brooks County,-50.0,-16.0,,,-18.0,
+2020-04-11,Georgia,Bryan County,-44.0,-2.0,-19.0,-39.0,-36.0,24.0
+2020-04-11,Georgia,Bulloch County,-42.0,-14.0,-31.0,,-31.0,21.0
+2020-04-11,Georgia,Burke County,-35.0,-17.0,-2.0,,-39.0,
+2020-04-11,Georgia,Butts County,-47.0,-9.0,,-24.0,-30.0,-1.0
+2020-04-11,Georgia,Camden County,-34.0,12.0,-17.0,-38.0,-31.0,20.0
+2020-04-11,Georgia,Candler County,-67.0,-28.0,,,-38.0,
+2020-04-11,Georgia,Carroll County,-32.0,5.0,0.0,-26.0,-27.0,10.0
+2020-04-11,Georgia,Catoosa County,-42.0,3.0,-21.0,,-29.0,22.0
+2020-04-11,Georgia,Charlton County,-49.0,-9.0,,,-38.0,
+2020-04-11,Georgia,Chatham County,-51.0,-19.0,-28.0,-45.0,-43.0,13.0
+2020-04-11,Georgia,Chattahoochee County,-61.0,-38.0,,,-51.0,
+2020-04-11,Georgia,Chattooga County,-30.0,-5.0,,,-35.0,
+2020-04-11,Georgia,Cherokee County,-36.0,-7.0,134.0,,-35.0,13.0
+2020-04-11,Georgia,Clarke County,-51.0,-14.0,-25.0,-25.0,-39.0,13.0
+2020-04-11,Georgia,Clayton County,-29.0,-4.0,-10.0,-82.0,-36.0,14.0
+2020-04-11,Georgia,Clinch County,,-2.0,,,-32.0,
+2020-04-11,Georgia,Cobb County,-47.0,-8.0,-34.0,-29.0,-41.0,15.0
+2020-04-11,Georgia,Coffee County,-40.0,-1.0,,,-27.0,18.0
+2020-04-11,Georgia,Colquitt County,-34.0,1.0,,,-24.0,15.0
+2020-04-11,Georgia,Columbia County,-37.0,3.0,4.0,-34.0,-38.0,12.0
+2020-04-11,Georgia,Cook County,-36.0,-2.0,,-42.0,-24.0,
+2020-04-11,Georgia,Coweta County,-44.0,1.0,,-21.0,-34.0,13.0
+2020-04-11,Georgia,Crawford County,,,,,-24.0,
+2020-04-11,Georgia,Crisp County,-32.0,-21.0,,-20.0,-22.0,
+2020-04-11,Georgia,Dade County,-52.0,-23.0,,-32.0,-30.0,
+2020-04-11,Georgia,Dawson County,-48.0,-11.0,6.0,,-32.0,0.0
+2020-04-11,Georgia,DeKalb County,-43.0,-7.0,26.0,-36.0,-43.0,16.0
+2020-04-11,Georgia,Decatur County,-23.0,-12.0,,,-26.0,-3.0
+2020-04-11,Georgia,Dodge County,-42.0,-18.0,,,-23.0,
+2020-04-11,Georgia,Dooly County,-59.0,-28.0,,-40.0,-40.0,
+2020-04-11,Georgia,Dougherty County,-47.0,-16.0,-33.0,-46.0,-34.0,14.0
+2020-04-11,Georgia,Douglas County,-35.0,-6.0,8.0,-14.0,-37.0,14.0
+2020-04-11,Georgia,Early County,-57.0,-29.0,,,-44.0,
+2020-04-11,Georgia,Effingham County,-23.0,9.0,,,-33.0,21.0
+2020-04-11,Georgia,Elbert County,-23.0,-21.0,,,-24.0,
+2020-04-11,Georgia,Emanuel County,-36.0,5.0,,,-17.0,
+2020-04-11,Georgia,Evans County,-38.0,-22.0,,,-37.0,
+2020-04-11,Georgia,Fannin County,-47.0,-29.0,66.0,,-35.0,
+2020-04-11,Georgia,Fayette County,-36.0,-6.0,70.0,,-37.0,15.0
+2020-04-11,Georgia,Floyd County,-34.0,7.0,28.0,,-29.0,10.0
+2020-04-11,Georgia,Forsyth County,-41.0,-22.0,68.0,,-38.0,15.0
+2020-04-11,Georgia,Franklin County,-52.0,-13.0,-17.0,-38.0,-30.0,
+2020-04-11,Georgia,Fulton County,-54.0,-15.0,-38.0,-49.0,-44.0,16.0
+2020-04-11,Georgia,Gilmer County,-38.0,-28.0,,,-28.0,2.0
+2020-04-11,Georgia,Glynn County,-45.0,-15.0,-9.0,-50.0,-38.0,11.0
+2020-04-11,Georgia,Gordon County,-37.0,2.0,,-32.0,-38.0,21.0
+2020-04-11,Georgia,Grady County,-42.0,-13.0,,,-25.0,-1.0
+2020-04-11,Georgia,Greene County,-41.0,-27.0,,,-30.0,
+2020-04-11,Georgia,Gwinnett County,-45.0,-8.0,36.0,-31.0,-41.0,16.0
+2020-04-11,Georgia,Habersham County,-36.0,11.0,,,-36.0,20.0
+2020-04-11,Georgia,Hall County,-36.0,-8.0,85.0,-17.0,-34.0,12.0
+2020-04-11,Georgia,Hancock County,,-17.0,,,-42.0,
+2020-04-11,Georgia,Haralson County,-69.0,26.0,-35.0,-31.0,-28.0,8.0
+2020-04-11,Georgia,Harris County,-35.0,0.0,0.0,,-29.0,13.0
+2020-04-11,Georgia,Hart County,-32.0,-11.0,,,-29.0,
+2020-04-11,Georgia,Heard County,,-15.0,,,-47.0,
+2020-04-11,Georgia,Henry County,-39.0,4.0,-6.0,,-38.0,15.0
+2020-04-11,Georgia,Houston County,-42.0,-9.0,-8.0,,-34.0,12.0
+2020-04-11,Georgia,Irwin County,,-14.0,,,-48.0,
+2020-04-11,Georgia,Jackson County,-53.0,-16.0,,-19.0,-22.0,20.0
+2020-04-11,Georgia,Jasper County,-47.0,-13.0,,,-23.0,
+2020-04-11,Georgia,Jeff Davis County,-41.0,-18.0,,,-23.0,
+2020-04-11,Georgia,Jefferson County,-42.0,-13.0,,,-21.0,
+2020-04-11,Georgia,Jenkins County,-42.0,-17.0,,,-43.0,
+2020-04-11,Georgia,Johnson County,,-13.0,,,-42.0,
+2020-04-11,Georgia,Jones County,-37.0,-14.0,,,-35.0,8.0
+2020-04-11,Georgia,Lamar County,-49.0,-14.0,,,-39.0,
+2020-04-11,Georgia,Lanier County,-62.0,-15.0,,,-47.0,
+2020-04-11,Georgia,Laurens County,-40.0,-10.0,,-27.0,-25.0,17.0
+2020-04-11,Georgia,Lee County,-39.0,-24.0,,,-34.0,11.0
+2020-04-11,Georgia,Liberty County,-32.0,-5.0,-22.0,-30.0,-32.0,11.0
+2020-04-11,Georgia,Lincoln County,,,,,-37.0,
+2020-04-11,Georgia,Long County,,,,,-27.0,
+2020-04-11,Georgia,Lowndes County,-42.0,-10.0,-33.0,-41.0,-29.0,11.0
+2020-04-11,Georgia,Lumpkin County,-38.0,16.0,,,-33.0,6.0
+2020-04-11,Georgia,Macon County,-59.0,-16.0,,,-38.0,
+2020-04-11,Georgia,Madison County,-56.0,4.0,,,-29.0,8.0
+2020-04-11,Georgia,Marion County,,-9.0,,,-39.0,
+2020-04-11,Georgia,McDuffie County,-17.0,-2.0,,-41.0,-27.0,
+2020-04-11,Georgia,McIntosh County,-59.0,-9.0,,,-32.0,
+2020-04-11,Georgia,Meriwether County,-45.0,-7.0,,,-31.0,
+2020-04-11,Georgia,Miller County,-58.0,,,,-40.0,
+2020-04-11,Georgia,Mitchell County,-34.0,-28.0,,,-29.0,
+2020-04-11,Georgia,Monroe County,-39.0,-3.0,-2.0,-60.0,-35.0,-2.0
+2020-04-11,Georgia,Montgomery County,,-5.0,,,-37.0,
+2020-04-11,Georgia,Morgan County,-30.0,-18.0,,-34.0,-33.0,
+2020-04-11,Georgia,Murray County,-29.0,3.0,,,-39.0,19.0
+2020-04-11,Georgia,Muscogee County,-44.0,-1.0,12.0,-62.0,-31.0,11.0
+2020-04-11,Georgia,Newton County,-24.0,10.0,-8.0,,-35.0,13.0
+2020-04-11,Georgia,Oconee County,-47.0,-27.0,,,-32.0,0.0
+2020-04-11,Georgia,Oglethorpe County,,-12.0,,,-34.0,
+2020-04-11,Georgia,Paulding County,-33.0,-10.0,-47.0,,-36.0,13.0
+2020-04-11,Georgia,Peach County,-40.0,-7.0,,-38.0,-33.0,7.0
+2020-04-11,Georgia,Pickens County,-23.0,8.0,,,-31.0,9.0
+2020-04-11,Georgia,Pierce County,-61.0,-23.0,,,-19.0,
+2020-04-11,Georgia,Pike County,-54.0,-11.0,,,-34.0,
+2020-04-11,Georgia,Polk County,-16.0,-3.0,,,-33.0,18.0
+2020-04-11,Georgia,Pulaski County,-65.0,-26.0,,,-42.0,
+2020-04-11,Georgia,Putnam County,-33.0,-9.0,,-59.0,-24.0,
+2020-04-11,Georgia,Rabun County,-52.0,-20.0,11.0,,-31.0,
+2020-04-11,Georgia,Randolph County,-64.0,,,,-56.0,
+2020-04-11,Georgia,Richmond County,-44.0,-4.0,-4.0,-35.0,-34.0,12.0
+2020-04-11,Georgia,Rockdale County,-35.0,13.0,-4.0,,-36.0,14.0
+2020-04-11,Georgia,Schley County,,,,,-51.0,
+2020-04-11,Georgia,Screven County,-67.0,-21.0,,,-44.0,
+2020-04-11,Georgia,Seminole County,-31.0,-16.0,,,-38.0,
+2020-04-11,Georgia,Spalding County,-28.0,1.0,,,-30.0,19.0
+2020-04-11,Georgia,Stephens County,-23.0,-6.0,,,-29.0,1.0
+2020-04-11,Georgia,Sumter County,-31.0,-25.0,,,-21.0,1.0
+2020-04-11,Georgia,Talbot County,,,-9.0,,-48.0,
+2020-04-11,Georgia,Tattnall County,-41.0,-11.0,,,-14.0,
+2020-04-11,Georgia,Taylor County,,-7.0,,,-36.0,
+2020-04-11,Georgia,Telfair County,-73.0,-15.0,,,-37.0,
+2020-04-11,Georgia,Terrell County,-67.0,-23.0,,,-41.0,
+2020-04-11,Georgia,Thomas County,-38.0,-3.0,,,-29.0,22.0
+2020-04-11,Georgia,Tift County,-43.0,-17.0,,-35.0,-30.0,14.0
+2020-04-11,Georgia,Toombs County,-34.0,-6.0,,,-26.0,-2.0
+2020-04-11,Georgia,Towns County,-55.0,-15.0,,,-37.0,
+2020-04-11,Georgia,Treutlen County,,-17.0,,,-41.0,
+2020-04-11,Georgia,Troup County,-35.0,6.0,,-41.0,-40.0,24.0
+2020-04-11,Georgia,Turner County,-71.0,8.0,,-46.0,-42.0,
+2020-04-11,Georgia,Twiggs County,,,,,-42.0,
+2020-04-11,Georgia,Union County,-32.0,-8.0,-10.0,,-33.0,
+2020-04-11,Georgia,Upson County,-26.0,-10.0,,,-26.0,-4.0
+2020-04-11,Georgia,Walker County,-17.0,20.0,-33.0,,-29.0,20.0
+2020-04-11,Georgia,Walton County,-21.0,22.0,,,-33.0,11.0
+2020-04-11,Georgia,Ware County,-39.0,-13.0,,,-28.0,11.0
+2020-04-11,Georgia,Warren County,,,,,-53.0,
+2020-04-11,Georgia,Washington County,-31.0,-34.0,,,-23.0,
+2020-04-11,Georgia,Wayne County,-31.0,-15.0,,,-21.0,-2.0
+2020-04-11,Georgia,White County,-44.0,-17.0,-28.0,,-36.0,9.0
+2020-04-11,Georgia,Whitfield County,-35.0,0.0,6.0,-36.0,-41.0,12.0
+2020-04-11,Georgia,Wilcox County,,-6.0,,,-50.0,
+2020-04-11,Georgia,Wilkes County,-43.0,-11.0,,,-31.0,
+2020-04-11,Georgia,Wilkinson County,,-3.0,,,-46.0,
+2020-04-11,Georgia,Worth County,-43.0,-20.0,,,-33.0,
+2020-04-11,Missouri,Total,-44.0,1.0,16.0,-36.0,-32.0,12.0
+2020-04-11,Missouri,Adair County,-50.0,57.0,,,-29.0,-1.0
+2020-04-11,Missouri,Andrew County,-68.0,12.0,,,-24.0,
+2020-04-11,Missouri,Audrain County,-28.0,2.0,,,-23.0,6.0
+2020-04-11,Missouri,Barry County,-32.0,10.0,,,-23.0,11.0
+2020-04-11,Missouri,Barton County,-23.0,,,,-34.0,
+2020-04-11,Missouri,Bates County,-27.0,30.0,,,-19.0,
+2020-04-11,Missouri,Benton County,-48.0,136.0,,,-32.0,
+2020-04-11,Missouri,Bollinger County,-50.0,-9.0,,,-45.0,
+2020-04-11,Missouri,Boone County,-54.0,11.0,-13.0,-61.0,-34.0,12.0
+2020-04-11,Missouri,Buchanan County,-39.0,21.0,,-17.0,-30.0,10.0
+2020-04-11,Missouri,Butler County,-33.0,-3.0,,,-22.0,13.0
+2020-04-11,Missouri,Caldwell County,,,,,-28.0,
+2020-04-11,Missouri,Callaway County,-40.0,6.0,,,-18.0,18.0
+2020-04-11,Missouri,Camden County,-43.0,2.0,,,-32.0,14.0
+2020-04-11,Missouri,Cape Girardeau County,-50.0,-17.0,0.0,,-35.0,18.0
+2020-04-11,Missouri,Carroll County,-30.0,,,,-34.0,
+2020-04-11,Missouri,Cass County,-34.0,1.0,6.0,-23.0,-30.0,11.0
+2020-04-11,Missouri,Cedar County,-23.0,-12.0,,,-27.0,
+2020-04-11,Missouri,Chariton County,,,,,-39.0,
+2020-04-11,Missouri,Christian County,-36.0,2.0,-34.0,,-30.0,12.0
+2020-04-11,Missouri,Clark County,,-8.0,,-35.0,-28.0,
+2020-04-11,Missouri,Clay County,-43.0,7.0,146.0,-27.0,-37.0,13.0
+2020-04-11,Missouri,Clinton County,-54.0,-10.0,,,-20.0,
+2020-04-11,Missouri,Cole County,-43.0,1.0,,,-27.0,22.0
+2020-04-11,Missouri,Cooper County,-30.0,-2.0,,-17.0,-21.0,
+2020-04-11,Missouri,Crawford County,-32.0,1.0,,-18.0,-28.0,
+2020-04-11,Missouri,Dade County,,,,,-38.0,
+2020-04-11,Missouri,Dallas County,-10.0,17.0,,,-25.0,
+2020-04-11,Missouri,Daviess County,,,,,-26.0,
+2020-04-11,Missouri,DeKalb County,-11.0,3.0,,,-34.0,
+2020-04-11,Missouri,Dent County,-17.0,,,,-11.0,
+2020-04-11,Missouri,Douglas County,-24.0,-21.0,,,-33.0,
+2020-04-11,Missouri,Dunklin County,-26.0,21.0,,,-9.0,
+2020-04-11,Missouri,Franklin County,-39.0,16.0,22.0,-23.0,-28.0,12.0
+2020-04-11,Missouri,Gasconade County,-34.0,,,,-30.0,
+2020-04-11,Missouri,Gentry County,,,,,-50.0,
+2020-04-11,Missouri,Greene County,-55.0,-22.0,-25.0,-35.0,-36.0,12.0
+2020-04-11,Missouri,Grundy County,-2.0,2.0,,,-27.0,
+2020-04-11,Missouri,Harrison County,-81.0,-20.0,,-14.0,-32.0,
+2020-04-11,Missouri,Henry County,-34.0,11.0,,,-20.0,-1.0
+2020-04-11,Missouri,Hickory County,,,,,-25.0,
+2020-04-11,Missouri,Howard County,,,,,-33.0,
+2020-04-11,Missouri,Howell County,-43.0,-5.0,,-12.0,-23.0,13.0
+2020-04-11,Missouri,Iron County,-60.0,10.0,44.0,,-32.0,
+2020-04-11,Missouri,Jackson County,-46.0,-3.0,-6.0,-10.0,-37.0,12.0
+2020-04-11,Missouri,Jasper County,-40.0,-1.0,1.0,-17.0,-30.0,11.0
+2020-04-11,Missouri,Jefferson County,-38.0,5.0,6.0,-3.0,-32.0,13.0
+2020-04-11,Missouri,Johnson County,-41.0,10.0,,,-29.0,19.0
+2020-04-11,Missouri,Laclede County,-37.0,-3.0,,,-26.0,15.0
+2020-04-11,Missouri,Lafayette County,-31.0,-3.0,,-18.0,-27.0,15.0
+2020-04-11,Missouri,Lawrence County,-18.0,18.0,,-31.0,-29.0,12.0
+2020-04-11,Missouri,Lewis County,-27.0,,,,-41.0,
+2020-04-11,Missouri,Lincoln County,-36.0,14.0,,,-30.0,19.0
+2020-04-11,Missouri,Linn County,-32.0,-4.0,,,-29.0,
+2020-04-11,Missouri,Livingston County,-11.0,11.0,,,-23.0,
+2020-04-11,Missouri,Macon County,-20.0,6.0,,-20.0,-25.0,
+2020-04-11,Missouri,Madison County,-19.0,,,,-30.0,
+2020-04-11,Missouri,Maries County,,,,,-38.0,
+2020-04-11,Missouri,Marion County,-38.0,-2.0,,-38.0,-29.0,13.0
+2020-04-11,Missouri,McDonald County,-28.0,1.0,,,-16.0,-4.0
+2020-04-11,Missouri,Miller County,-34.0,13.0,-32.0,,-29.0,-3.0
+2020-04-11,Missouri,Mississippi County,-48.0,,,-41.0,-26.0,
+2020-04-11,Missouri,Moniteau County,-22.0,23.0,,,-38.0,
+2020-04-11,Missouri,Monroe County,-61.0,,,,-37.0,
+2020-04-11,Missouri,Montgomery County,-54.0,2.0,,,-30.0,
+2020-04-11,Missouri,Morgan County,-26.0,21.0,,,-26.0,
+2020-04-11,Missouri,New Madrid County,-28.0,7.0,,-37.0,-12.0,
+2020-04-11,Missouri,Newton County,-43.0,-7.0,52.0,-24.0,-28.0,16.0
+2020-04-11,Missouri,Nodaway County,-40.0,-17.0,,,-25.0,
+2020-04-11,Missouri,Oregon County,-9.0,2.0,,,-33.0,
+2020-04-11,Missouri,Osage County,-74.0,-7.0,,,-44.0,
+2020-04-11,Missouri,Ozark County,,,,,-32.0,
+2020-04-11,Missouri,Pemiscot County,-34.0,22.0,,-40.0,-17.0,
+2020-04-11,Missouri,Perry County,-42.0,-16.0,,,-19.0,
+2020-04-11,Missouri,Pettis County,-38.0,-1.0,,,-29.0,17.0
+2020-04-11,Missouri,Phelps County,-49.0,-8.0,,-26.0,-26.0,18.0
+2020-04-11,Missouri,Pike County,-38.0,-11.0,,,-13.0,
+2020-04-11,Missouri,Platte County,-55.0,26.0,8.0,-83.0,-36.0,14.0
+2020-04-11,Missouri,Polk County,-37.0,-2.0,-46.0,,-24.0,12.0
+2020-04-11,Missouri,Pulaski County,-40.0,-6.0,,-60.0,-17.0,16.0
+2020-04-11,Missouri,Putnam County,,,,,-33.0,
+2020-04-11,Missouri,Ralls County,-54.0,,,-17.0,-33.0,
+2020-04-11,Missouri,Randolph County,-35.0,-8.0,,,-15.0,1.0
+2020-04-11,Missouri,Ray County,-32.0,5.0,,,-34.0,7.0
+2020-04-11,Missouri,Ripley County,-5.0,-2.0,,,-43.0,
+2020-04-11,Missouri,Saline County,-30.0,1.0,,,-19.0,0.0
+2020-04-11,Missouri,Schuyler County,,,,,-33.0,
+2020-04-11,Missouri,Scott County,-40.0,6.0,,-27.0,-20.0,15.0
+2020-04-11,Missouri,Shannon County,,,,,-40.0,
+2020-04-11,Missouri,Shelby County,,,,,-28.0,
+2020-04-11,Missouri,St. Charles County,-50.0,6.0,24.0,-23.0,-39.0,14.0
+2020-04-11,Missouri,St. Clair County,-14.0,8.0,,-25.0,-33.0,
+2020-04-11,Missouri,St. Francois County,-36.0,4.0,-29.0,,-22.0,15.0
+2020-04-11,Missouri,St. Louis,-62.0,-4.0,-33.0,-40.0,-40.0,14.0
+2020-04-11,Missouri,St. Louis County,-49.0,-5.0,-5.0,-55.0,-39.0,15.0
+2020-04-11,Missouri,Ste. Genevieve County,-41.0,,,-20.0,-20.0,
+2020-04-11,Missouri,Stoddard County,-32.0,-2.0,,,-15.0,-2.0
+2020-04-11,Missouri,Stone County,-20.0,14.0,,,-32.0,9.0
+2020-04-11,Missouri,Sullivan County,,,,,-7.0,
+2020-04-11,Missouri,Taney County,-57.0,-4.0,-27.0,,-48.0,16.0
+2020-04-11,Missouri,Texas County,-76.0,97.0,,,-18.0,
+2020-04-11,Missouri,Vernon County,-35.0,6.0,,-29.0,-14.0,
+2020-04-11,Missouri,Warren County,-27.0,6.0,,-15.0,-31.0,18.0
+2020-04-11,Missouri,Washington County,-9.0,20.0,,,-18.0,
+2020-04-11,Missouri,Wayne County,0.0,9.0,,,-39.0,
+2020-04-11,Missouri,Webster County,-31.0,4.0,,-36.0,-27.0,13.0
+2020-04-11,Missouri,Wright County,-35.0,23.0,,,-18.0,
+2020-04-11,Minnesota,Total,-44.0,-2.0,50.0,-51.0,-36.0,14.0
+2020-04-11,Minnesota,Aitkin County,-47.0,-35.0,-58.0,,-33.0,
+2020-04-11,Minnesota,Anoka County,-36.0,2.0,118.0,-9.0,-36.0,14.0
+2020-04-11,Minnesota,Becker County,-57.0,62.0,,,-36.0,16.0
+2020-04-11,Minnesota,Beltrami County,-39.0,3.0,-38.0,,-30.0,22.0
+2020-04-11,Minnesota,Benton County,-35.0,5.0,,,-33.0,21.0
+2020-04-11,Minnesota,Big Stone County,,,,,-35.0,
+2020-04-11,Minnesota,Blue Earth County,-57.0,-10.0,-26.0,,-32.0,23.0
+2020-04-11,Minnesota,Brown County,-29.0,-21.0,,,-16.0,9.0
+2020-04-11,Minnesota,Carlton County,-27.0,-14.0,,,-27.0,11.0
+2020-04-11,Minnesota,Carver County,-37.0,1.0,46.0,,-33.0,28.0
+2020-04-11,Minnesota,Cass County,-60.0,-4.0,-11.0,,-33.0,0.0
+2020-04-11,Minnesota,Chippewa County,-19.0,,,,-22.0,
+2020-04-11,Minnesota,Chisago County,-43.0,3.0,-33.0,,-32.0,24.0
+2020-04-11,Minnesota,Clay County,-37.0,0.0,,,-35.0,25.0
+2020-04-11,Minnesota,Clearwater County,-72.0,-28.0,,,-47.0,
+2020-04-11,Minnesota,Cook County,-64.0,-58.0,,,-54.0,
+2020-04-11,Minnesota,Cottonwood County,-46.0,,,,-52.0,
+2020-04-11,Minnesota,Crow Wing County,-42.0,0.0,14.0,,-39.0,20.0
+2020-04-11,Minnesota,Dakota County,-42.0,-4.0,90.0,-11.0,-38.0,14.0
+2020-04-11,Minnesota,Dodge County,-46.0,-17.0,,,-27.0,4.0
+2020-04-11,Minnesota,Douglas County,-39.0,-20.0,-47.0,-28.0,-27.0,22.0
+2020-04-11,Minnesota,Faribault County,-31.0,-10.0,,,-14.0,
+2020-04-11,Minnesota,Fillmore County,-52.0,-7.0,,,-21.0,
+2020-04-11,Minnesota,Freeborn County,-27.0,-4.0,,-20.0,-30.0,18.0
+2020-04-11,Minnesota,Goodhue County,-25.0,13.0,-20.0,,-34.0,21.0
+2020-04-11,Minnesota,Grant County,,,,,-38.0,
+2020-04-11,Minnesota,Hennepin County,-53.0,-6.0,65.0,-65.0,-43.0,16.0
+2020-04-11,Minnesota,Houston County,-78.0,-11.0,,,-30.0,
+2020-04-11,Minnesota,Hubbard County,-35.0,-4.0,,,-42.0,
+2020-04-11,Minnesota,Isanti County,-26.0,14.0,-36.0,,-24.0,20.0
+2020-04-11,Minnesota,Itasca County,-39.0,-4.0,,,-31.0,19.0
+2020-04-11,Minnesota,Jackson County,-77.0,,,,-46.0,
+2020-04-11,Minnesota,Kanabec County,-34.0,-12.0,,,-40.0,
+2020-04-11,Minnesota,Kandiyohi County,-35.0,-7.0,,,-20.0,20.0
+2020-04-11,Minnesota,Koochiching County,-46.0,-18.0,,,-29.0,
+2020-04-11,Minnesota,Lac qui Parle County,,,,,-36.0,
+2020-04-11,Minnesota,Lake County,-43.0,-16.0,25.0,,-42.0,
+2020-04-11,Minnesota,Lake of the Woods County,-71.0,,,,,
+2020-04-11,Minnesota,Le Sueur County,-1.0,-4.0,,,-26.0,18.0
+2020-04-11,Minnesota,Lincoln County,,,,,-40.0,
+2020-04-11,Minnesota,Lyon County,-39.0,-12.0,,,-26.0,4.0
+2020-04-11,Minnesota,Mahnomen County,,,,,-60.0,
+2020-04-11,Minnesota,Marshall County,,,,,-49.0,
+2020-04-11,Minnesota,Martin County,-45.0,-16.0,,,-13.0,
+2020-04-11,Minnesota,McLeod County,-32.0,-14.0,,,-22.0,21.0
+2020-04-11,Minnesota,Meeker County,-31.0,-17.0,,,-21.0,3.0
+2020-04-11,Minnesota,Mille Lacs County,-30.0,4.0,,,-32.0,11.0
+2020-04-11,Minnesota,Morrison County,-37.0,-17.0,-61.0,,-28.0,14.0
+2020-04-11,Minnesota,Mower County,-35.0,5.0,,,-17.0,20.0
+2020-04-11,Minnesota,Murray County,-70.0,,,,-39.0,
+2020-04-11,Minnesota,Nicollet County,-47.0,-10.0,,,-34.0,20.0
+2020-04-11,Minnesota,Nobles County,-33.0,-3.0,,-49.0,-45.0,
+2020-04-11,Minnesota,Norman County,,,,,-38.0,
+2020-04-11,Minnesota,Olmsted County,-50.0,-1.0,107.0,-29.0,-37.0,14.0
+2020-04-11,Minnesota,Otter Tail County,-41.0,0.0,-9.0,,-26.0,20.0
+2020-04-11,Minnesota,Pennington County,-35.0,-23.0,,,-49.0,
+2020-04-11,Minnesota,Pine County,-41.0,9.0,-47.0,,-46.0,10.0
+2020-04-11,Minnesota,Pipestone County,-29.0,-20.0,,,-33.0,
+2020-04-11,Minnesota,Polk County,-52.0,-19.0,,,-32.0,15.0
+2020-04-11,Minnesota,Pope County,-55.0,,,,-39.0,
+2020-04-11,Minnesota,Ramsey County,-54.0,-3.0,26.0,-25.0,-39.0,15.0
+2020-04-11,Minnesota,Red Lake County,,,,,-37.0,
+2020-04-11,Minnesota,Redwood County,-41.0,-16.0,,,-30.0,
+2020-04-11,Minnesota,Renville County,-77.0,,,,-22.0,
+2020-04-11,Minnesota,Rice County,-31.0,14.0,2.0,-19.0,-38.0,21.0
+2020-04-11,Minnesota,Rock County,-41.0,,,,-40.0,
+2020-04-11,Minnesota,Roseau County,-73.0,-23.0,,,-52.0,
+2020-04-11,Minnesota,Scott County,-40.0,-6.0,83.0,,-40.0,15.0
+2020-04-11,Minnesota,Sherburne County,-26.0,8.0,-42.0,,-32.0,24.0
+2020-04-11,Minnesota,Sibley County,-71.0,,,,-11.0,
+2020-04-11,Minnesota,St. Louis County,-51.0,-8.0,32.0,-36.0,-36.0,14.0
+2020-04-11,Minnesota,Stearns County,-48.0,-2.0,-19.0,-53.0,-34.0,13.0
+2020-04-11,Minnesota,Steele County,-40.0,22.0,-37.0,-47.0,-33.0,22.0
+2020-04-11,Minnesota,Stevens County,-48.0,-4.0,,,-33.0,
+2020-04-11,Minnesota,Swift County,-38.0,-15.0,,,-41.0,
+2020-04-11,Minnesota,Todd County,-23.0,-7.0,,,-35.0,3.0
+2020-04-11,Minnesota,Wabasha County,-59.0,13.0,,,-31.0,
+2020-04-11,Minnesota,Wadena County,-40.0,-8.0,,,-38.0,
+2020-04-11,Minnesota,Waseca County,-25.0,-9.0,,,-23.0,
+2020-04-11,Minnesota,Washington County,-41.0,-7.0,136.0,-7.0,-38.0,15.0
+2020-04-11,Minnesota,Watonwan County,-51.0,,,,-12.0,
+2020-04-11,Minnesota,Wilkin County,,,,,-38.0,
+2020-04-11,Minnesota,Winona County,-36.0,-4.0,,-54.0,-31.0,24.0
+2020-04-11,Minnesota,Wright County,-39.0,7.0,79.0,,-31.0,14.0
+2020-04-11,Minnesota,Yellow Medicine County,-57.0,,,,-38.0,
+2020-04-11,Alabama,Total,-39.0,3.0,11.0,-35.0,-29.0,10.0
+2020-04-11,Alabama,Autauga County,-37.0,16.0,-14.0,,-30.0,20.0
+2020-04-11,Alabama,Baldwin County,-44.0,-10.0,-42.0,-39.0,-28.0,11.0
+2020-04-11,Alabama,Barbour County,-18.0,-20.0,,,-31.0,
+2020-04-11,Alabama,Bibb County,-42.0,-15.0,,,-19.0,
+2020-04-11,Alabama,Blount County,-20.0,18.0,,,-24.0,20.0
+2020-04-11,Alabama,Bullock County,-22.0,-27.0,,,-33.0,
+2020-04-11,Alabama,Butler County,-47.0,-9.0,,-57.0,-33.0,
+2020-04-11,Alabama,Calhoun County,-40.0,1.0,-22.0,,-29.0,9.0
+2020-04-11,Alabama,Chambers County,-35.0,-3.0,,-40.0,-32.0,15.0
+2020-04-11,Alabama,Cherokee County,-41.0,-5.0,,,-18.0,
+2020-04-11,Alabama,Chilton County,-28.0,11.0,,-30.0,-25.0,17.0
+2020-04-11,Alabama,Choctaw County,-13.0,-19.0,,,-43.0,
+2020-04-11,Alabama,Clarke County,-22.0,-29.0,,,-9.0,
+2020-04-11,Alabama,Clay County,-43.0,-20.0,,,-41.0,
+2020-04-11,Alabama,Cleburne County,-35.0,-13.0,,-42.0,-14.0,
+2020-04-11,Alabama,Coffee County,-25.0,-2.0,,,-27.0,18.0
+2020-04-11,Alabama,Colbert County,-27.0,11.0,-37.0,-23.0,-21.0,16.0
+2020-04-11,Alabama,Conecuh County,-65.0,-10.0,,-41.0,-36.0,
+2020-04-11,Alabama,Coosa County,,,,,-44.0,
+2020-04-11,Alabama,Covington County,-30.0,6.0,,,-20.0,8.0
+2020-04-11,Alabama,Crenshaw County,-58.0,-10.0,,,-33.0,
+2020-04-11,Alabama,Cullman County,-39.0,13.0,38.0,-33.0,-28.0,9.0
+2020-04-11,Alabama,Dale County,-32.0,0.0,,-39.0,-23.0,16.0
+2020-04-11,Alabama,Dallas County,-30.0,7.0,,,-22.0,5.0
+2020-04-11,Alabama,DeKalb County,-43.0,2.0,-4.0,-33.0,-16.0,17.0
+2020-04-11,Alabama,Elmore County,-35.0,6.0,49.0,,-33.0,21.0
+2020-04-11,Alabama,Escambia County,-32.0,-7.0,,,-28.0,7.0
+2020-04-11,Alabama,Etowah County,-42.0,1.0,-23.0,-37.0,-30.0,8.0
+2020-04-11,Alabama,Fayette County,-39.0,,,,-32.0,
+2020-04-11,Alabama,Franklin County,-19.0,-15.0,,,-21.0,5.0
+2020-04-11,Alabama,Geneva County,-42.0,14.0,,,-27.0,-2.0
+2020-04-11,Alabama,Greene County,11.0,-29.0,,-47.0,-44.0,
+2020-04-11,Alabama,Hale County,-41.0,-36.0,,,-29.0,
+2020-04-11,Alabama,Henry County,-49.0,-19.0,,,-21.0,
+2020-04-11,Alabama,Houston County,-45.0,-5.0,14.0,-35.0,-29.0,10.0
+2020-04-11,Alabama,Jackson County,-40.0,14.0,,,-21.0,18.0
+2020-04-11,Alabama,Jefferson County,-45.0,3.0,20.0,-35.0,-32.0,11.0
+2020-04-11,Alabama,Lamar County,-32.0,0.0,,,-39.0,
+2020-04-11,Alabama,Lauderdale County,-44.0,6.0,-15.0,,-29.0,8.0
+2020-04-11,Alabama,Lawrence County,-41.0,-16.0,,,-22.0,7.0
+2020-04-11,Alabama,Lee County,-49.0,-9.0,-14.0,,-32.0,12.0
+2020-04-11,Alabama,Limestone County,-30.0,5.0,-1.0,,-24.0,10.0
+2020-04-11,Alabama,Lowndes County,,,,-42.0,-54.0,
+2020-04-11,Alabama,Macon County,-46.0,-5.0,,-54.0,-39.0,
+2020-04-11,Alabama,Madison County,-46.0,-5.0,55.0,-37.0,-36.0,11.0
+2020-04-11,Alabama,Marengo County,-26.0,5.0,,,-9.0,
+2020-04-11,Alabama,Marion County,-43.0,-13.0,,,-32.0,
+2020-04-11,Alabama,Marshall County,-34.0,7.0,94.0,,-28.0,8.0
+2020-04-11,Alabama,Mobile County,-35.0,6.0,-33.0,-36.0,-28.0,12.0
+2020-04-11,Alabama,Monroe County,-52.0,36.0,,,-24.0,
+2020-04-11,Alabama,Montgomery County,-43.0,-2.0,0.0,4.0,-29.0,11.0
+2020-04-11,Alabama,Morgan County,-37.0,11.0,49.0,-34.0,-31.0,9.0
+2020-04-11,Alabama,Perry County,-58.0,-16.0,,,-44.0,
+2020-04-11,Alabama,Pickens County,-36.0,9.0,,,-36.0,
+2020-04-11,Alabama,Pike County,-31.0,-20.0,,,-34.0,0.0
+2020-04-11,Alabama,Randolph County,-45.0,-7.0,,,-26.0,
+2020-04-11,Alabama,Russell County,-30.0,48.0,,,-27.0,18.0
+2020-04-11,Alabama,Shelby County,-41.0,-4.0,56.0,,-32.0,12.0
+2020-04-11,Alabama,St. Clair County,-30.0,8.0,,-34.0,-26.0,9.0
+2020-04-11,Alabama,Sumter County,-61.0,-11.0,,,-45.0,
+2020-04-11,Alabama,Talladega County,-25.0,11.0,16.0,-30.0,-26.0,9.0
+2020-04-11,Alabama,Tallapoosa County,-33.0,6.0,,,-31.0,18.0
+2020-04-11,Alabama,Tuscaloosa County,-42.0,5.0,-10.0,-34.0,-35.0,12.0
+2020-04-11,Alabama,Walker County,-31.0,7.0,,-39.0,-15.0,14.0
+2020-04-11,Alabama,Washington County,,-16.0,,,-36.0,
+2020-04-11,Alabama,Wilcox County,-61.0,,,,-44.0,
+2020-04-11,Alabama,Winston County,-42.0,-12.0,,,-23.0,
+2020-04-11,Michigan,Total,-58.0,-15.0,59.0,-51.0,-45.0,16.0
+2020-04-11,Michigan,Alcona County,1.0,,,,-50.0,
+2020-04-11,Michigan,Alger County,-79.0,-45.0,-14.0,,-62.0,
+2020-04-11,Michigan,Allegan County,-49.0,-4.0,,-51.0,-41.0,15.0
+2020-04-11,Michigan,Alpena County,-50.0,-10.0,,,-34.0,3.0
+2020-04-11,Michigan,Antrim County,-73.0,-8.0,,,-43.0,
+2020-04-11,Michigan,Arenac County,-28.0,13.0,,,-35.0,
+2020-04-11,Michigan,Baraga County,,-44.0,,,-63.0,
+2020-04-11,Michigan,Barry County,-48.0,18.0,,,-37.0,29.0
+2020-04-11,Michigan,Bay County,-59.0,-11.0,-23.0,,-41.0,14.0
+2020-04-11,Michigan,Benzie County,-23.0,-3.0,,,-33.0,
+2020-04-11,Michigan,Berrien County,-45.0,-2.0,123.0,-35.0,-37.0,12.0
+2020-04-11,Michigan,Branch County,-55.0,-10.0,,,-40.0,21.0
+2020-04-11,Michigan,Calhoun County,-51.0,-8.0,30.0,-44.0,-41.0,13.0
+2020-04-11,Michigan,Cass County,-38.0,3.0,,,-32.0,25.0
+2020-04-11,Michigan,Charlevoix County,-46.0,-22.0,25.0,,-43.0,
+2020-04-11,Michigan,Cheboygan County,-45.0,-7.0,,,-38.0,
+2020-04-11,Michigan,Chippewa County,-63.0,21.0,-50.0,,-40.0,2.0
+2020-04-11,Michigan,Clare County,-63.0,4.0,,,-30.0,9.0
+2020-04-11,Michigan,Clinton County,-58.0,-18.0,,-50.0,-41.0,30.0
+2020-04-11,Michigan,Crawford County,-47.0,-34.0,,,-35.0,
+2020-04-11,Michigan,Delta County,-51.0,-14.0,,,-34.0,9.0
+2020-04-11,Michigan,Dickinson County,-38.0,-13.0,,,-29.0,0.0
+2020-04-11,Michigan,Eaton County,-58.0,-22.0,,,-37.0,15.0
+2020-04-11,Michigan,Emmet County,-67.0,-28.0,,,-49.0,1.0
+2020-04-11,Michigan,Genesee County,-55.0,-10.0,94.0,-45.0,-46.0,15.0
+2020-04-11,Michigan,Gladwin County,-54.0,-2.0,,,-38.0,0.0
+2020-04-11,Michigan,Gogebic County,-41.0,-33.0,,,-41.0,
+2020-04-11,Michigan,Grand Traverse County,-65.0,-26.0,80.0,-74.0,-44.0,13.0
+2020-04-11,Michigan,Gratiot County,-47.0,-7.0,,,-31.0,18.0
+2020-04-11,Michigan,Hillsdale County,-51.0,-15.0,,,-41.0,22.0
+2020-04-11,Michigan,Houghton County,-64.0,-18.0,-29.0,,-39.0,3.0
+2020-04-11,Michigan,Huron County,-38.0,-5.0,,,-32.0,0.0
+2020-04-11,Michigan,Ingham County,-63.0,-22.0,104.0,-53.0,-40.0,15.0
+2020-04-11,Michigan,Ionia County,-48.0,1.0,,-47.0,-34.0,28.0
+2020-04-11,Michigan,Iosco County,-50.0,28.0,,,-37.0,
+2020-04-11,Michigan,Iron County,-34.0,-9.0,,,-44.0,
+2020-04-11,Michigan,Isabella County,-65.0,-25.0,,,-44.0,28.0
+2020-04-11,Michigan,Jackson County,-54.0,-9.0,-7.0,-43.0,-39.0,14.0
+2020-04-11,Michigan,Kalamazoo County,-60.0,-20.0,100.0,-60.0,-40.0,15.0
+2020-04-11,Michigan,Kalkaska County,-50.0,-5.0,,,-42.0,
+2020-04-11,Michigan,Kent County,-64.0,-20.0,61.0,-54.0,-44.0,16.0
+2020-04-11,Michigan,Lake County,-43.0,10.0,,,-51.0,
+2020-04-11,Michigan,Lapeer County,-52.0,-18.0,-32.0,,-48.0,31.0
+2020-04-11,Michigan,Leelanau County,-64.0,-33.0,,,-47.0,
+2020-04-11,Michigan,Lenawee County,-54.0,-11.0,,,-43.0,15.0
+2020-04-11,Michigan,Livingston County,-64.0,-13.0,19.0,,-48.0,17.0
+2020-04-11,Michigan,Luce County,-67.0,,,,,
+2020-04-11,Michigan,Mackinac County,-75.0,-37.0,,,-60.0,
+2020-04-11,Michigan,Macomb County,-58.0,-14.0,125.0,-32.0,-53.0,18.0
+2020-04-11,Michigan,Manistee County,-53.0,-12.0,,,-31.0,
+2020-04-11,Michigan,Marquette County,-64.0,-16.0,1.0,,-33.0,26.0
+2020-04-11,Michigan,Mason County,-53.0,-11.0,,,-38.0,7.0
+2020-04-11,Michigan,Mecosta County,-48.0,1.0,,,-29.0,20.0
+2020-04-11,Michigan,Menominee County,-34.0,-18.0,,,-29.0,
+2020-04-11,Michigan,Midland County,-56.0,-9.0,-14.0,,-38.0,30.0
+2020-04-11,Michigan,Missaukee County,-37.0,,,,-30.0,
+2020-04-11,Michigan,Monroe County,-57.0,-9.0,58.0,-31.0,-38.0,15.0
+2020-04-11,Michigan,Montcalm County,-39.0,8.0,,,-32.0,27.0
+2020-04-11,Michigan,Montmorency County,-54.0,-12.0,,,-50.0,
+2020-04-11,Michigan,Muskegon County,-53.0,-8.0,136.0,,-42.0,13.0
+2020-04-11,Michigan,Newaygo County,-37.0,18.0,88.0,,-32.0,25.0
+2020-04-11,Michigan,Oakland County,-66.0,-22.0,63.0,-42.0,-52.0,18.0
+2020-04-11,Michigan,Oceana County,-46.0,17.0,9.0,,-34.0,-1.0
+2020-04-11,Michigan,Ogemaw County,-47.0,0.0,,,-31.0,
+2020-04-11,Michigan,Ontonagon County,-46.0,,,,,
+2020-04-11,Michigan,Osceola County,-46.0,10.0,,,-34.0,
+2020-04-11,Michigan,Oscoda County,-28.0,-14.0,,,-55.0,
+2020-04-11,Michigan,Otsego County,-67.0,-37.0,,,-44.0,-1.0
+2020-04-11,Michigan,Ottawa County,-55.0,-20.0,176.0,-11.0,-45.0,16.0
+2020-04-11,Michigan,Presque Isle County,-64.0,-4.0,,,-47.0,
+2020-04-11,Michigan,Roscommon County,-55.0,30.0,-33.0,,-37.0,
+2020-04-11,Michigan,Saginaw County,-63.0,-16.0,-14.0,-58.0,-44.0,15.0
+2020-04-11,Michigan,Sanilac County,-46.0,-13.0,,,-36.0,12.0
+2020-04-11,Michigan,Schoolcraft County,-80.0,-32.0,-22.0,,-51.0,
+2020-04-11,Michigan,Shiawassee County,-47.0,-5.0,,,-43.0,28.0
+2020-04-11,Michigan,St. Clair County,-54.0,-15.0,27.0,-44.0,-46.0,15.0
+2020-04-11,Michigan,St. Joseph County,-40.0,-19.0,,,-38.0,27.0
+2020-04-11,Michigan,Tuscola County,-41.0,-18.0,,,-38.0,27.0
+2020-04-11,Michigan,Van Buren County,-41.0,4.0,,,-35.0,26.0
+2020-04-11,Michigan,Washtenaw County,-63.0,-38.0,115.0,-46.0,-53.0,17.0
+2020-04-11,Michigan,Wayne County,-57.0,-11.0,36.0,-55.0,-48.0,17.0
+2020-04-11,Michigan,Wexford County,-56.0,-7.0,,,-40.0,12.0
+2020-04-11,Montana,Total,-55.0,-11.0,-51.0,-46.0,-39.0,15.0
+2020-04-11,Montana,Beaverhead County,-39.0,-20.0,,,-34.0,
+2020-04-11,Montana,Big Horn County,-31.0,-7.0,,-20.0,-38.0,
+2020-04-11,Montana,Blaine County,,,,,-51.0,
+2020-04-11,Montana,Broadwater County,-67.0,-5.0,,,-43.0,
+2020-04-11,Montana,Carbon County,-61.0,-21.0,,,-47.0,
+2020-04-11,Montana,Cascade County,-58.0,-26.0,-60.0,-73.0,-41.0,15.0
+2020-04-11,Montana,Custer County,-35.0,,,,-36.0,
+2020-04-11,Montana,Dawson County,-60.0,-2.0,,,-34.0,
+2020-04-11,Montana,Deer Lodge County,-51.0,-12.0,,,-40.0,
+2020-04-11,Montana,Fergus County,-38.0,-22.0,,,-38.0,
+2020-04-11,Montana,Flathead County,-49.0,-12.0,-56.0,-41.0,-39.0,13.0
+2020-04-11,Montana,Gallatin County,-64.0,-27.0,-61.0,-70.0,-50.0,19.0
+2020-04-11,Montana,Glacier County,-59.0,-17.0,,,-63.0,
+2020-04-11,Montana,Hill County,-32.0,4.0,,,-32.0,
+2020-04-11,Montana,Jefferson County,-64.0,,,,-45.0,
+2020-04-11,Montana,Lake County,-26.0,-9.0,,,-29.0,1.0
+2020-04-11,Montana,Lewis and Clark County,-55.0,-22.0,-56.0,,-41.0,19.0
+2020-04-11,Montana,Lincoln County,-81.0,-18.0,,,-32.0,
+2020-04-11,Montana,Madison County,-100.0,,-62.0,,-59.0,
+2020-04-11,Montana,Mineral County,,-61.0,,,-38.0,
+2020-04-11,Montana,Missoula County,-54.0,-19.0,-44.0,-41.0,-41.0,15.0
+2020-04-11,Montana,Park County,-49.0,-16.0,,,-45.0,
+2020-04-11,Montana,Pondera County,-56.0,,,,,
+2020-04-11,Montana,Powell County,,,,,-35.0,
+2020-04-11,Montana,Ravalli County,-35.0,6.0,,,-35.0,12.0
+2020-04-11,Montana,Richland County,-43.0,-15.0,,,-36.0,
+2020-04-11,Montana,Roosevelt County,-20.0,-20.0,,,-50.0,
+2020-04-11,Montana,Rosebud County,,,,,-40.0,
+2020-04-11,Montana,Sanders County,-60.0,-24.0,,,-39.0,
+2020-04-11,Montana,Silver Bow County,-44.0,3.0,,-35.0,-40.0,11.0
+2020-04-11,Montana,Stillwater County,-47.0,,,-28.0,-38.0,
+2020-04-11,Montana,Teton County,,,,,-34.0,
+2020-04-11,Montana,Valley County,-68.0,,,,-37.0,
+2020-04-11,Montana,Yellowstone County,-53.0,-7.0,-43.0,-59.0,-36.0,14.0
+2020-04-11,California,Total,-48.0,-14.0,-46.0,-53.0,-40.0,18.0
+2020-04-11,California,Alameda County,-59.0,-23.0,-30.0,-65.0,-45.0,19.0
+2020-04-11,California,Amador County,-35.0,-26.0,-64.0,,-39.0,0.0
+2020-04-11,California,Butte County,-35.0,-1.0,-22.0,-34.0,-31.0,10.0
+2020-04-11,California,Calaveras County,-41.0,-18.0,-54.0,,-34.0,10.0
+2020-04-11,California,Colusa County,-46.0,-6.0,,-38.0,-30.0,
+2020-04-11,California,Contra Costa County,-47.0,-7.0,-17.0,-51.0,-43.0,17.0
+2020-04-11,California,Del Norte County,-31.0,-11.0,20.0,,-23.0,
+2020-04-11,California,El Dorado County,-57.0,-27.0,-45.0,-42.0,-48.0,14.0
+2020-04-11,California,Fresno County,-39.0,-3.0,-46.0,-39.0,-31.0,13.0
+2020-04-11,California,Glenn County,-47.0,25.0,-36.0,-16.0,-26.0,2.0
+2020-04-11,California,Humboldt County,-45.0,-14.0,-18.0,-55.0,-35.0,12.0
+2020-04-11,California,Imperial County,-60.0,-30.0,-77.0,-67.0,-37.0,22.0
+2020-04-11,California,Inyo County,-81.0,-37.0,-52.0,,-43.0,
+2020-04-11,California,Kern County,-39.0,-2.0,-24.0,-37.0,-29.0,13.0
+2020-04-11,California,Kings County,-34.0,3.0,-39.0,-49.0,-27.0,11.0
+2020-04-11,California,Lake County,-33.0,5.0,-40.0,-42.0,-36.0,17.0
+2020-04-11,California,Lassen County,-37.0,-3.0,,,-19.0,
+2020-04-11,California,Los Angeles County,-51.0,-19.0,-54.0,-52.0,-43.0,20.0
+2020-04-11,California,Madera County,-30.0,-10.0,-29.0,-26.0,-32.0,13.0
+2020-04-11,California,Marin County,-59.0,-29.0,-63.0,-55.0,-46.0,19.0
+2020-04-11,California,Mariposa County,-86.0,-54.0,-83.0,,-51.0,
+2020-04-11,California,Mendocino County,-39.0,-12.0,-51.0,-39.0,-31.0,17.0
+2020-04-11,California,Merced County,-38.0,-8.0,-25.0,-34.0,-29.0,13.0
+2020-04-11,California,Modoc County,-59.0,4.0,,,-28.0,
+2020-04-11,California,Mono County,-96.0,-67.0,-46.0,,-70.0,
+2020-04-11,California,Monterey County,-45.0,-10.0,-56.0,-32.0,-33.0,13.0
+2020-04-11,California,Napa County,-51.0,-28.0,-14.0,-34.0,-50.0,16.0
+2020-04-11,California,Nevada County,-53.0,-24.0,-48.0,-71.0,-41.0,13.0
+2020-04-11,California,Orange County,-51.0,-13.0,-42.0,-47.0,-43.0,19.0
+2020-04-11,California,Placer County,-50.0,-13.0,-15.0,-51.0,-41.0,14.0
+2020-04-11,California,Plumas County,-64.0,-18.0,,,-18.0,
+2020-04-11,California,Riverside County,-42.0,-12.0,-59.0,-45.0,-39.0,17.0
+2020-04-11,California,Sacramento County,-44.0,-3.0,-23.0,-54.0,-37.0,14.0
+2020-04-11,California,San Benito County,-44.0,-9.0,-54.0,,-38.0,25.0
+2020-04-11,California,San Bernardino County,-43.0,-11.0,-44.0,-45.0,-35.0,16.0
+2020-04-11,California,San Diego County,-49.0,-17.0,-68.0,-63.0,-42.0,19.0
+2020-04-11,California,San Francisco County,-77.0,-33.0,-59.0,-70.0,-54.0,22.0
+2020-04-11,California,San Joaquin County,-37.0,-1.0,-14.0,-25.0,-31.0,14.0
+2020-04-11,California,San Luis Obispo County,-53.0,-19.0,-37.0,-56.0,-39.0,14.0
+2020-04-11,California,San Mateo County,-60.0,-20.0,-38.0,-83.0,-47.0,21.0
+2020-04-11,California,Santa Barbara County,-49.0,-12.0,-33.0,-49.0,-36.0,14.0
+2020-04-11,California,Santa Clara County,-61.0,-26.0,-17.0,-63.0,-48.0,20.0
+2020-04-11,California,Santa Cruz County,-56.0,-16.0,-63.0,-56.0,-40.0,17.0
+2020-04-11,California,Shasta County,-36.0,3.0,33.0,-24.0,-29.0,9.0
+2020-04-11,California,Siskiyou County,-24.0,2.0,37.0,-7.0,-23.0,10.0
+2020-04-11,California,Solano County,-43.0,-4.0,-18.0,-39.0,-35.0,15.0
+2020-04-11,California,Sonoma County,-50.0,-14.0,-59.0,-49.0,-41.0,16.0
+2020-04-11,California,Stanislaus County,-42.0,-4.0,-15.0,-27.0,-32.0,13.0
+2020-04-11,California,Sutter County,-37.0,-4.0,-19.0,-20.0,-37.0,12.0
+2020-04-11,California,Tehama County,-27.0,11.0,-5.0,-28.0,-24.0,14.0
+2020-04-11,California,Trinity County,-39.0,0.0,,,-35.0,
+2020-04-11,California,Tulare County,-36.0,-2.0,-47.0,-32.0,-29.0,12.0
+2020-04-11,California,Tuolumne County,-41.0,1.0,-72.0,,-34.0,14.0
+2020-04-11,California,Ventura County,-44.0,-18.0,-38.0,-37.0,-36.0,16.0
+2020-04-11,California,Yolo County,-41.0,-9.0,-9.0,-30.0,-38.0,15.0
+2020-04-11,California,Yuba County,-25.0,9.0,37.0,-26.0,-30.0,11.0
+2020-04-11,Massachusetts,Total,-49.0,-12.0,33.0,-64.0,-44.0,16.0
+2020-04-11,Massachusetts,Barnstable County,-43.0,-7.0,93.0,-40.0,-38.0,13.0
+2020-04-11,Massachusetts,Berkshire County,-43.0,-6.0,-24.0,-63.0,-36.0,13.0
+2020-04-11,Massachusetts,Bristol County,-40.0,0.0,49.0,-33.0,-38.0,14.0
+2020-04-11,Massachusetts,Dukes County,-80.0,-36.0,,-44.0,-51.0,
+2020-04-11,Massachusetts,Essex County,-47.0,-15.0,59.0,-38.0,-46.0,16.0
+2020-04-11,Massachusetts,Franklin County,-43.0,-7.0,-37.0,-55.0,-37.0,25.0
+2020-04-11,Massachusetts,Hampden County,-44.0,1.0,39.0,-40.0,-39.0,13.0
+2020-04-11,Massachusetts,Hampshire County,-52.0,-9.0,22.0,-45.0,-41.0,14.0
+2020-04-11,Massachusetts,Middlesex County,-55.0,-19.0,25.0,-60.0,-47.0,17.0
+2020-04-11,Massachusetts,Nantucket County,-70.0,-35.0,,,-54.0,
+2020-04-11,Massachusetts,Norfolk County,-53.0,-11.0,87.0,-46.0,-45.0,17.0
+2020-04-11,Massachusetts,Plymouth County,-41.0,-3.0,101.0,-36.0,-38.0,15.0
+2020-04-11,Massachusetts,Suffolk County,-66.0,-19.0,-26.0,-76.0,-55.0,20.0
+2020-04-11,Massachusetts,Worcester County,-42.0,-12.0,46.0,-52.0,-39.0,14.0
+2020-04-11,Florida,Total,-49.0,-20.0,-54.0,-65.0,-40.0,15.0
+2020-04-11,Florida,Alachua County,-51.0,-19.0,-39.0,-49.0,-32.0,14.0
+2020-04-11,Florida,Baker County,-27.0,-6.0,,-60.0,-20.0,-3.0
+2020-04-11,Florida,Bay County,-43.0,-13.0,-18.0,-54.0,-29.0,11.0
+2020-04-11,Florida,Bradford County,-27.0,21.0,,,-26.0,0.0
+2020-04-11,Florida,Brevard County,-44.0,-17.0,-32.0,-46.0,-38.0,13.0
+2020-04-11,Florida,Broward County,-52.0,-23.0,-69.0,-75.0,-43.0,20.0
+2020-04-11,Florida,Calhoun County,-49.0,-14.0,,,-41.0,
+2020-04-11,Florida,Charlotte County,-50.0,-21.0,-49.0,-43.0,-39.0,13.0
+2020-04-11,Florida,Citrus County,-41.0,3.0,-43.0,,-33.0,11.0
+2020-04-11,Florida,Clay County,-33.0,-1.0,-22.0,,-33.0,12.0
+2020-04-11,Florida,Collier County,-55.0,-25.0,-70.0,-55.0,-44.0,17.0
+2020-04-11,Florida,Columbia County,-44.0,12.0,-42.0,-46.0,-23.0,10.0
+2020-04-11,Florida,DeSoto County,-42.0,-5.0,-37.0,,-16.0,11.0
+2020-04-11,Florida,Dixie County,-34.0,-6.0,,,-23.0,
+2020-04-11,Florida,Duval County,-40.0,-8.0,-45.0,-41.0,-35.0,13.0
+2020-04-11,Florida,Escambia County,-41.0,-5.0,-11.0,-44.0,-31.0,11.0
+2020-04-11,Florida,Flagler County,-43.0,1.0,-55.0,,-39.0,13.0
+2020-04-11,Florida,Franklin County,-83.0,-23.0,-45.0,,-31.0,
+2020-04-11,Florida,Gadsden County,-27.0,5.0,,-44.0,-22.0,20.0
+2020-04-11,Florida,Gilchrist County,-40.0,-12.0,-44.0,,-28.0,
+2020-04-11,Florida,Glades County,-62.0,,-65.0,-29.0,-23.0,
+2020-04-11,Florida,Gulf County,-77.0,-17.0,,,-24.0,
+2020-04-11,Florida,Hamilton County,-33.0,-3.0,,-48.0,-39.0,
+2020-04-11,Florida,Hardee County,-38.0,-17.0,-34.0,,-15.0,
+2020-04-11,Florida,Hendry County,-34.0,-4.0,-52.0,,-25.0,13.0
+2020-04-11,Florida,Hernando County,-37.0,-10.0,-41.0,-26.0,-33.0,12.0
+2020-04-11,Florida,Highlands County,-45.0,-15.0,-57.0,,-27.0,11.0
+2020-04-11,Florida,Hillsborough County,-49.0,-19.0,-57.0,-71.0,-41.0,16.0
+2020-04-11,Florida,Holmes County,-43.0,-19.0,,,-20.0,
+2020-04-11,Florida,Indian River County,-48.0,-24.0,-48.0,-54.0,-37.0,14.0
+2020-04-11,Florida,Jackson County,-31.0,-4.0,-24.0,-41.0,-22.0,14.0
+2020-04-11,Florida,Jefferson County,-55.0,-13.0,,,-31.0,
+2020-04-11,Florida,Lafayette County,,,,,-39.0,
+2020-04-11,Florida,Lake County,-39.0,-16.0,-35.0,-53.0,-37.0,14.0
+2020-04-11,Florida,Lee County,-54.0,-25.0,-69.0,-76.0,-41.0,15.0
+2020-04-11,Florida,Leon County,-45.0,-15.0,-23.0,-49.0,-34.0,14.0
+2020-04-11,Florida,Levy County,-33.0,-4.0,-36.0,,-24.0,15.0
+2020-04-11,Florida,Liberty County,,-14.0,,,-43.0,
+2020-04-11,Florida,Madison County,-58.0,-14.0,,-42.0,-15.0,
+2020-04-11,Florida,Manatee County,-48.0,-18.0,-44.0,-57.0,-38.0,14.0
+2020-04-11,Florida,Marion County,-41.0,-11.0,-49.0,-39.0,-33.0,11.0
+2020-04-11,Florida,Martin County,-52.0,-17.0,-44.0,-66.0,-37.0,15.0
+2020-04-11,Florida,Miami-Dade County,-58.0,-33.0,-81.0,-71.0,-48.0,22.0
+2020-04-11,Florida,Monroe County,-74.0,-46.0,-77.0,-77.0,-53.0,17.0
+2020-04-11,Florida,Nassau County,-40.0,-6.0,-42.0,-68.0,-33.0,11.0
+2020-04-11,Florida,Okaloosa County,-41.0,-9.0,-28.0,-50.0,-33.0,12.0
+2020-04-11,Florida,Okeechobee County,-41.0,-7.0,-29.0,-85.0,-26.0,17.0
+2020-04-11,Florida,Orange County,-63.0,-30.0,-53.0,-80.0,-50.0,18.0
+2020-04-11,Florida,Osceola County,-58.0,-29.0,-47.0,-61.0,-51.0,19.0
+2020-04-11,Florida,Palm Beach County,-49.0,-21.0,-70.0,-60.0,-41.0,18.0
+2020-04-11,Florida,Pasco County,-40.0,-15.0,-47.0,-32.0,-34.0,13.0
+2020-04-11,Florida,Pinellas County,-49.0,-18.0,-35.0,-42.0,-39.0,15.0
+2020-04-11,Florida,Polk County,-40.0,-15.0,-43.0,-36.0,-37.0,14.0
+2020-04-11,Florida,Putnam County,-29.0,4.0,-37.0,,-33.0,10.0
+2020-04-11,Florida,Santa Rosa County,-23.0,-2.0,0.0,,-28.0,12.0
+2020-04-11,Florida,Sarasota County,-55.0,-28.0,-66.0,-31.0,-42.0,14.0
+2020-04-11,Florida,Seminole County,-47.0,-17.0,-33.0,-75.0,-43.0,16.0
+2020-04-11,Florida,St. Johns County,-49.0,-2.0,-63.0,-46.0,-42.0,14.0
+2020-04-11,Florida,St. Lucie County,-40.0,-9.0,-24.0,-53.0,-34.0,14.0
+2020-04-11,Florida,Sumter County,-54.0,-16.0,-41.0,-46.0,-36.0,11.0
+2020-04-11,Florida,Suwannee County,-34.0,0.0,-23.0,-45.0,-22.0,15.0
+2020-04-11,Florida,Taylor County,-38.0,2.0,,,-22.0,
+2020-04-11,Florida,Union County,-42.0,-11.0,,,-42.0,
+2020-04-11,Florida,Volusia County,-44.0,-13.0,-32.0,-42.0,-38.0,12.0
+2020-04-11,Florida,Wakulla County,-22.0,-17.0,-10.0,,-24.0,17.0
+2020-04-11,Florida,Walton County,-50.0,-23.0,-49.0,-34.0,-31.0,10.0
+2020-04-11,Florida,Washington County,-31.0,8.0,,,-28.0,
+2020-04-11,Connecticut,Total,-44.0,-9.0,76.0,-54.0,-40.0,15.0
+2020-04-11,Connecticut,Fairfield County,-52.0,-17.0,53.0,-65.0,-45.0,17.0
+2020-04-11,Connecticut,Hartford County,-47.0,-9.0,88.0,-50.0,-39.0,14.0
+2020-04-11,Connecticut,Litchfield County,-35.0,-6.0,26.0,,-37.0,14.0
+2020-04-11,Connecticut,Middlesex County,-41.0,0.0,42.0,-43.0,-38.0,14.0
+2020-04-11,Connecticut,New Haven County,-44.0,-8.0,43.0,-50.0,-39.0,14.0
+2020-04-11,Connecticut,New London County,-45.0,-3.0,83.0,-50.0,-41.0,15.0
+2020-04-11,Connecticut,Tolland County,-46.0,-3.0,4.0,-34.0,-40.0,14.0
+2020-04-11,Connecticut,Windham County,-27.0,4.0,22.0,-57.0,-35.0,13.0
+2020-04-11,Colorado,Total,-46.0,-11.0,-2.0,-53.0,-40.0,14.0
+2020-04-11,Colorado,Adams County,-41.0,-4.0,0.0,-27.0,-36.0,14.0
+2020-04-11,Colorado,Alamosa County,-40.0,-15.0,,,-24.0,
+2020-04-11,Colorado,Arapahoe County,-45.0,-12.0,22.0,-27.0,-41.0,16.0
+2020-04-11,Colorado,Archuleta County,-58.0,-20.0,,,-44.0,
+2020-04-11,Colorado,Bent County,,,,,-32.0,
+2020-04-11,Colorado,Boulder County,-53.0,-15.0,11.0,-42.0,-45.0,16.0
+2020-04-11,Colorado,Broomfield County,-50.0,-19.0,23.0,-41.0,-41.0,28.0
+2020-04-11,Colorado,Chaffee County,-51.0,-34.0,-16.0,,-41.0,
+2020-04-11,Colorado,Clear Creek County,-87.0,-53.0,-16.0,,-47.0,
+2020-04-11,Colorado,Conejos County,,,,,-36.0,
+2020-04-11,Colorado,Delta County,-27.0,-11.0,2.0,,-23.0,5.0
+2020-04-11,Colorado,Denver County,-60.0,-8.0,-10.0,-71.0,-45.0,16.0
+2020-04-11,Colorado,Douglas County,-49.0,-19.0,18.0,-23.0,-43.0,15.0
+2020-04-11,Colorado,Eagle County,-69.0,-33.0,-45.0,-66.0,-72.0,26.0
+2020-04-11,Colorado,El Paso County,-40.0,-8.0,4.0,-45.0,-39.0,13.0
+2020-04-11,Colorado,Elbert County,-19.0,-25.0,,,-30.0,0.0
+2020-04-11,Colorado,Fremont County,-19.0,2.0,-5.0,,-33.0,12.0
+2020-04-11,Colorado,Garfield County,-44.0,-17.0,16.0,-36.0,-41.0,20.0
+2020-04-11,Colorado,Gilpin County,,,,,-65.0,
+2020-04-11,Colorado,Grand County,-82.0,-43.0,-84.0,-43.0,-59.0,
+2020-04-11,Colorado,Gunnison County,-65.0,-38.0,-43.0,,-49.0,
+2020-04-11,Colorado,Huerfano County,-50.0,-10.0,,,-28.0,
+2020-04-11,Colorado,Jefferson County,-44.0,-17.0,5.0,-31.0,-41.0,15.0
+2020-04-11,Colorado,Kiowa County,,,,-41.0,,
+2020-04-11,Colorado,Kit Carson County,-34.0,-20.0,,-30.0,-18.0,
+2020-04-11,Colorado,La Plata County,-51.0,-7.0,21.0,-59.0,-46.0,21.0
+2020-04-11,Colorado,Lake County,-77.0,-34.0,,,-55.0,
+2020-04-11,Colorado,Larimer County,-50.0,-6.0,13.0,-38.0,-39.0,14.0
+2020-04-11,Colorado,Las Animas County,-37.0,-27.0,,,-28.0,
+2020-04-11,Colorado,Lincoln County,-36.0,-12.0,,-33.0,-26.0,
+2020-04-11,Colorado,Logan County,-34.0,-13.0,,,-28.0,
+2020-04-11,Colorado,Mesa County,-36.0,-7.0,97.0,-27.0,-35.0,8.0
+2020-04-11,Colorado,Moffat County,-27.0,-24.0,,,-30.0,
+2020-04-11,Colorado,Montezuma County,-48.0,2.0,,,-28.0,-1.0
+2020-04-11,Colorado,Montrose County,-35.0,-10.0,,,-32.0,14.0
+2020-04-11,Colorado,Morgan County,-37.0,-17.0,-4.0,-17.0,-22.0,15.0
+2020-04-11,Colorado,Otero County,-25.0,-17.0,,,-21.0,
+2020-04-11,Colorado,Ouray County,-28.0,,,,-56.0,
+2020-04-11,Colorado,Park County,-63.0,-41.0,46.0,,-36.0,
+2020-04-11,Colorado,Phillips County,,,,,-39.0,
+2020-04-11,Colorado,Pitkin County,-100.0,-53.0,,-87.0,-72.0,
+2020-04-11,Colorado,Prowers County,-18.0,-4.0,,-36.0,-14.0,
+2020-04-11,Colorado,Pueblo County,-38.0,-1.0,-50.0,-23.0,-28.0,10.0
+2020-04-11,Colorado,Rio Blanco County,,,,,-28.0,
+2020-04-11,Colorado,Rio Grande County,-25.0,-20.0,,,-24.0,
+2020-04-11,Colorado,Routt County,-79.0,-48.0,-69.0,-65.0,-60.0,-2.0
+2020-04-11,Colorado,Saguache County,,,,,-44.0,
+2020-04-11,Colorado,San Miguel County,-80.0,,,,-71.0,
+2020-04-11,Colorado,Summit County,-84.0,-71.0,-77.0,-67.0,-64.0,5.0
+2020-04-11,Colorado,Teller County,-24.0,-19.0,,,-51.0,-1.0
+2020-04-11,Colorado,Washington County,,,,,-39.0,
+2020-04-11,Colorado,Weld County,-34.0,-6.0,24.0,-23.0,-33.0,14.0
+2020-04-11,Colorado,Yuma County,-33.0,-26.0,,,-23.0,
+2020-04-11,Hawaii,Total,-55.0,-29.0,-66.0,-74.0,-47.0,18.0
+2020-04-11,Hawaii,Hawaii County,-56.0,-34.0,-72.0,-89.0,-42.0,16.0
+2020-04-11,Hawaii,Honolulu County,-52.0,-24.0,-62.0,-70.0,-46.0,19.0
+2020-04-11,Hawaii,Kauai County,-67.0,-50.0,-73.0,-89.0,-47.0,22.0
+2020-04-11,Hawaii,Maui County,-65.0,-37.0,-76.0,-88.0,-54.0,20.0
+2020-04-11,South Dakota,Total,-47.0,1.0,-16.0,-42.0,-31.0,15.0
+2020-04-11,South Dakota,Beadle County,-36.0,-12.0,,,-24.0,
+2020-04-11,South Dakota,Bon Homme County,,,,,-43.0,
+2020-04-11,South Dakota,Brookings County,-39.0,-27.0,,,-28.0,22.0
+2020-04-11,South Dakota,Brown County,-38.0,-12.0,,,-29.0,20.0
+2020-04-11,South Dakota,Brule County,-55.0,,,,-41.0,
+2020-04-11,South Dakota,Butte County,-25.0,,,,-34.0,
+2020-04-11,South Dakota,Charles Mix County,-49.0,,,,-34.0,
+2020-04-11,South Dakota,Clay County,-47.0,,,,-35.0,
+2020-04-11,South Dakota,Codington County,-31.0,5.0,,-50.0,-27.0,15.0
+2020-04-11,South Dakota,Custer County,,,,,-36.0,
+2020-04-11,South Dakota,Davison County,-40.0,-4.0,,,-25.0,
+2020-04-11,South Dakota,Dewey County,,,,,-46.0,
+2020-04-11,South Dakota,Fall River County,-37.0,,,,-30.0,
+2020-04-11,South Dakota,Grant County,-32.0,,,,-23.0,
+2020-04-11,South Dakota,Hamlin County,,,,,-40.0,
+2020-04-11,South Dakota,Hughes County,-24.0,-11.0,,,-22.0,
+2020-04-11,South Dakota,Hutchinson County,,,,,-36.0,
+2020-04-11,South Dakota,Kingsbury County,,,,,-24.0,
+2020-04-11,South Dakota,Lake County,-20.0,-6.0,,,-45.0,
+2020-04-11,South Dakota,Lawrence County,-69.0,-14.0,-26.0,,-55.0,0.0
+2020-04-11,South Dakota,Lincoln County,-38.0,0.0,,,-34.0,24.0
+2020-04-11,South Dakota,McCook County,,,,,-41.0,
+2020-04-11,South Dakota,Meade County,-38.0,-7.0,,,-35.0,12.0
+2020-04-11,South Dakota,Minnehaha County,-52.0,-6.0,13.0,-44.0,-37.0,14.0
+2020-04-11,South Dakota,Moody County,,,,,-43.0,
+2020-04-11,South Dakota,Pennington County,-52.0,-2.0,-58.0,-33.0,-35.0,15.0
+2020-04-11,South Dakota,Roberts County,-45.0,-20.0,,-40.0,-45.0,
+2020-04-11,South Dakota,Shannon County,-50.0,-11.0,,,-45.0,
+2020-04-11,South Dakota,Spink County,,,,,-38.0,
+2020-04-11,South Dakota,Todd County,,-14.0,,,-46.0,
+2020-04-11,South Dakota,Tripp County,-71.0,,,,,
+2020-04-11,South Dakota,Turner County,,,,,-38.0,
+2020-04-11,South Dakota,Union County,-48.0,-9.0,,-35.0,-32.0,
+2020-04-11,South Dakota,Walworth County,-21.0,,,,-34.0,
+2020-04-11,South Dakota,Yankton County,-42.0,0.0,,,-33.0,8.0
+2020-04-11,New Mexico,Total,-46.0,-10.0,-22.0,-36.0,-36.0,14.0
+2020-04-11,New Mexico,Bernalillo County,-48.0,-12.0,-2.0,-39.0,-40.0,14.0
+2020-04-11,New Mexico,Chaves County,-43.0,-11.0,-38.0,-57.0,-26.0,11.0
+2020-04-11,New Mexico,Cibola County,-44.0,8.0,,-28.0,-35.0,
+2020-04-11,New Mexico,Colfax County,-64.0,-29.0,,-48.0,-43.0,
+2020-04-11,New Mexico,Curry County,-33.0,-4.0,-33.0,-19.0,-23.0,18.0
+2020-04-11,New Mexico,Doña Ana County,-42.0,-14.0,-55.0,-32.0,-36.0,14.0
+2020-04-11,New Mexico,Eddy County,-37.0,-9.0,-36.0,-35.0,-23.0,13.0
+2020-04-11,New Mexico,Grant County,-37.0,4.0,,,-32.0,2.0
+2020-04-11,New Mexico,Guadalupe County,-44.0,-9.0,,-21.0,,
+2020-04-11,New Mexico,Hidalgo County,-54.0,,,-41.0,,
+2020-04-11,New Mexico,Lea County,-40.0,-5.0,-22.0,-50.0,-19.0,13.0
+2020-04-11,New Mexico,Lincoln County,-72.0,-33.0,-76.0,,-49.0,
+2020-04-11,New Mexico,Los Alamos County,-66.0,-34.0,,,-53.0,
+2020-04-11,New Mexico,Luna County,-43.0,-20.0,-55.0,-38.0,-23.0,
+2020-04-11,New Mexico,McKinley County,-70.0,-48.0,,-25.0,-32.0,21.0
+2020-04-11,New Mexico,Otero County,-41.0,-12.0,-55.0,,-36.0,19.0
+2020-04-11,New Mexico,Quay County,-15.0,1.0,,-14.0,-39.0,
+2020-04-11,New Mexico,Rio Arriba County,-17.0,-15.0,,,-35.0,12.0
+2020-04-11,New Mexico,Roosevelt County,-26.0,-17.0,,,-18.0,
+2020-04-11,New Mexico,San Juan County,-55.0,-16.0,-9.0,-52.0,-34.0,16.0
+2020-04-11,New Mexico,San Miguel County,-22.0,-6.0,,-46.0,-22.0,-1.0
+2020-04-11,New Mexico,Sandoval County,-35.0,-4.0,18.0,-46.0,-43.0,14.0
+2020-04-11,New Mexico,Santa Fe County,-51.0,-15.0,-30.0,-36.0,-46.0,15.0
+2020-04-11,New Mexico,Sierra County,-39.0,4.0,,,-28.0,
+2020-04-11,New Mexico,Socorro County,-42.0,-7.0,,,-34.0,
+2020-04-11,New Mexico,Taos County,-62.0,-14.0,-7.0,,-47.0,1.0
+2020-04-11,New Mexico,Torrance County,-24.0,9.0,,-22.0,-22.0,
+2020-04-11,New Mexico,Union County,,,,-46.0,,
+2020-04-11,New Mexico,Valencia County,-34.0,39.0,-25.0,-33.0,-34.0,13.0
