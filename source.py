@@ -227,8 +227,9 @@ def download_apple_report(directory="apple_reports"):
     last_date = datetime.datetime.strptime("-".join(last_file.split("-")[1:])[:-4] , '%Y-%m-%d')
     next_date = last_date+datetime.timedelta(days=1)
     next_date_str = str(next_date).split(" ")[0]
+    next_day_str = str(next_date.day)
     file_name = "applemobilitytrends-" + next_date_str + ".csv"
-    next_url="https://covid19-static.cdn-apple.com/covid19-mobility-data/2005HotfixDev13/v1/en-us/" + file_name
+    next_url="https://covid19-static.cdn-apple.com/covid19-mobility-data/2005HotfixDev"+next_day_str +"/v1/en-us/" + file_name
     request = requests.get(next_url)
     if request.status_code == 200:
         for f in [f for f in os.listdir(directory)] :
