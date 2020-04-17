@@ -123,8 +123,8 @@ def run():
                         os.path.join("google_reports", "mobility_report_US.xlsx"))
     # download apple report (not working :-( )
     new_files_status_apple, file_name_apple = download_apple_report()
-    #if new_files_status_apple:
-    #csv_to_excel(os.path.join('apple_reports',file_name_apple+".csv"), os.path.join('apple_reports',file_name_apple+".xlsx"))
-    csv_to_excel(os.path.join('apple_reports',"applemobilitytrends-2020-04-15.csv"), os.path.join('apple_reports',"applemobilitytrends-2020-04-15.xlsx"))
+    if new_files_status_apple:
+        csv_to_excel(os.path.join('apple_reports',file_name_apple+".csv"), os.path.join('apple_reports',file_name_apple+".xlsx"))
+    #csv_to_excel(os.path.join('apple_reports',"applemobilitytrends-2020-04-15.csv"), os.path.join('apple_reports',"applemobilitytrends-2020-04-15.xlsx"))
 if __name__ == '__main__':
     run()
