@@ -22,7 +22,7 @@ jobs:
           git config --local user.email "action@github.com"
           git add .
           git commit -m "Update data" -a
-          git push origin master
+          git push origin Scraper-v-2.0
         env:
           REPO_KEY: ${{secrets.GITHUB_TOKEN}}
           username: github-actions

@@ -16,9 +16,11 @@ Data that is sent from users’ devices to the Maps service is associated with r
 ## Data explorer
 **Google reports:**
 
-[All downloaded reports in PDF format](data)
+[All downloaded reports in PDF format](pdf_reports)
 
-Data by regions: [Google sheets](https://docs.google.com/spreadsheets/d/1fuV8AKwSjIh9Pswb_XTC0UFaoFPMBbz9YHAZ8TScAQc/edit#gid=1171841841), [CSV](google_reports/mobility_report_regions.csv), [Excel](google_reports/mobility_report_regions.xlsx)
+[Raw CSV file](google_reports/Global_Mobility_Report.csv)
+
+Data by countries: [Google sheets](https://docs.google.com/spreadsheets/d/1fuV8AKwSjIh9Pswb_XTC0UFaoFPMBbz9YHAZ8TScAQc/edit#gid=1171841841), [CSV](google_reports/mobility_report_countries.csv), [Excel](google_reports/mobility_report_countries.xlsx)
 
 Data for the US: [Google sheets](https://docs.google.com/spreadsheets/d/1pxuTu10uO7MsBaKA554XSuCpnF--FTqwdnl_sUHfWro/edit#gid=265926435), [CSV](google_reports/mobility_report_US.csv), [Excel](google_reports/mobility_report_US.csv)
 
