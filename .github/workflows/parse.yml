@@ -1,7 +1,7 @@
 name: Parse Reports
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '30 */6 * * *'
 
 jobs:
   build:
