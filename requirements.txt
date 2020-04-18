@@ -1,4 +1,5 @@
-beautifulsoup4==4.8.2
+requests-html==0.10.0
+bs4
 pandas==1.0.3
 requests==2.23.0
 urllib3==1.25.8

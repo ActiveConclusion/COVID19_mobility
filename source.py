@@ -6,6 +6,7 @@ import requests
 import urllib.request
 import time
 from bs4 import BeautifulSoup
+from requests_html import HTMLSession
 
 import pandas as pd
 
@@ -82,24 +83,41 @@ def build_google_report(source="Global_Mobility_Report.csv", destination="mobili
 
 
 def download_apple_report(directory="apple_reports"):
-    """Download new Apple mobility report"""
-    last_file = [filename for filename in os.listdir(directory) if filename.endswith(".csv")][0]
-    last_date = datetime.datetime.strptime("-".join(last_file.split("-")[1:])[:-4] , '%Y-%m-%d')
-    next_date = last_date+datetime.timedelta(days=1)
-    next_date_str = str(next_date).split(" ")[0]
-    next_day_str = str(next_date.day)
-    file_name = "applemobilitytrends-" + next_date_str + ".csv"
-    next_url="https://covid19-static.cdn-apple.com/covid19-mobility-data/2005HotfixDev"+next_day_str +"/v1/en-us/" + file_name
-    request = requests.get(next_url)
-    if request.status_code == 200:
-        for f in [f for f in os.listdir(directory)] :
-            os.remove(os.path.join(directory, f))
-        urllib.request.urlretrieve(next_url, os.path.join(directory,file_name))
-        print(file_name)
-        return (True, file_name[:-4])
-    else:
-        print("Apple: No updates")
-        return (False, file_name[:-4])
+    """Download new Apple Mobility Reports
+    """
+    url = "https://www.apple.com/covid19/mobility"
+    session = HTMLSession()
+    # Use the object above to connect to needed webpage
+    resp = session.get(url)
+    # Run JavaScript code on webpage
+    resp.html.render(sleep=10)
+    soup = BeautifulSoup(resp.html.html, "html.parser")
+    button = soup.find('div', {"class": "download-button-container"}).find('a')
+    link = button['href']
+    new_files = False
+
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    file_name = "applemobilitytrends.csv"
+    if link[-3:] == "csv":
+        path = os.path.join(directory, file_name)
+        if not os.path.isfile(path):
+            new_files = True
+            urllib.request.urlretrieve(link, path)
+            print(file_name)
+        else:
+            path_new = os.path.join(directory, file_name+"_new")
+            urllib.request.urlretrieve(link, path_new)
+            if os.path.getsize(path)==os.path.getsize(path_new):
+                os.remove(path_new)
+            else:
+                new_files = True
+                os.remove(path)
+                os.rename(path_new, path)
+
+    if not new_files:
+        print('Apple: No updates')
+    return new_files
 
 
 def csv_to_excel(csv_path, excel_path):
@@ -121,10 +139,11 @@ def run():
                         os.path.join("google_reports", "mobility_report_countries.xlsx"))
         csv_to_excel(os.path.join("google_reports", "mobility_report_US.csv"),
                         os.path.join("google_reports", "mobility_report_US.xlsx"))
-    # download apple report (not working :-( )
-    new_files_status_apple, file_name_apple = download_apple_report()
+
+    new_files_status_apple = download_apple_report()
     if new_files_status_apple:
-        csv_to_excel(os.path.join('apple_reports',file_name_apple+".csv"), os.path.join('apple_reports',file_name_apple+".xlsx"))
-    #csv_to_excel(os.path.join('apple_reports',"applemobilitytrends-2020-04-15.csv"), os.path.join('apple_reports',"applemobilitytrends-2020-04-15.xlsx"))
+        csv_to_excel(os.path.join('apple_reports',"applemobilitytrends.csv"), os.path.join('apple_reports',"applemobilitytrends.xlsx"))
+
+
 if __name__ == '__main__':
     run()
