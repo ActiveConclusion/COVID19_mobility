@@ -1,12 +1,12 @@
-# Scraper of Google and Apple COVID-19 Community Mobility Reports
-This is a repository with a data scraper of Community Mobility Reports and reports in different formats.
+# Scraper of Google and Apple COVID-19 Mobility Reports
+This is a repository with a data scraper of Mobility Reports and reports in different formats.
 
 ## About [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/)
 In early April 2020, Google started publishing an early release of COVID-19 Community Mobility Reports to provide insights into what has changed in response to work from home, shelter in place, and other policies aimed at flattening the curve of this pandemic. These reports have been developed to be helpful while adhering to our stringent privacy protocols and policies. 
 
 These Community Mobility Reports aim to provide insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential.
 
-## About [Apple COVID-19 Community Mobility Reports](https://www.apple.com/covid19/mobility)
+## About [Apple COVID-19 Mobility Trends Reports](https://www.apple.com/covid19/mobility)
 The CSV file shows a relative volume of directions requests per country/region or city compared to a baseline volume on January 13th, 2020.
 
 Day defined as midnight-to-midnight, Pacific time. Cities represent usage in greater metropolitan areas and are stably defined during this period. In many countries/regions and cities, relative volume has increased since January 13th, consistent with normal, seasonal usage of Apple Maps. Day of week effects are important to normalize as you use this data.
@@ -16,7 +16,7 @@ Data that is sent from users’ devices to the Maps service is associated with r
 ## Data explorer
 **Google reports:**
 
-[All downloaded reports in PDF format](pdf_reports)
+[All downloaded reports in PDF format](google_reports/pdf_reports)
 
 [Raw CSV file](google_reports/Global_Mobility_Report.csv)
 
@@ -24,7 +24,15 @@ Data by countries: [Google sheets](https://docs.google.com/spreadsheets/d/1fuV8A
 
 Data for the US: [Google sheets](https://docs.google.com/spreadsheets/d/1pxuTu10uO7MsBaKA554XSuCpnF--FTqwdnl_sUHfWro/edit#gid=265926435), [CSV](google_reports/mobility_report_US.csv), [Excel](google_reports/mobility_report_US.csv)
 
-[**Apple reports**](apple_reports)
+**Apple reports:**
+
+[Raw CSV file](apple_reports/applemobilitytrends.csv)
+
+Cleaned report: [CSV](apple_reports/apple_mobility_report.csv), [Excel](apple_reports/apple_mobility_report.xlsx)
+
+**Summary reports:**
+
+Report compiled from Apple and Google data: [CSV](summary_reports/summary_report.csv), [Excel](summary_reports/summary_report.xlsx)
 
 ## How to run script
 ```bash
