@@ -11,7 +11,11 @@ from requests_html import HTMLSession
 import pandas as pd
 
 
-def download_google_reports(directory_pdf="pdf_reports", directory_csv="google_reports"):
+def download_google_reports(
+        directory_pdf=os.path.join(
+            "google_reports",
+            "pdf_reports"),
+        directory_csv="google_reports"):
     """Download all new Google Community Mobility Reports
     """
     url = 'https://www.google.com/covid19/mobility/'
@@ -28,7 +32,7 @@ def download_google_reports(directory_pdf="pdf_reports", directory_csv="google_r
     for one_a_tag in soup.findAll('a', {"class": "download-link"}):
         link = one_a_tag['href']
         file_name = link[link.find('mobility') + len('mobility') + 1:]
-        
+
         if link[-3:] == "pdf":
             path = os.path.join(directory_pdf, file_name)
             if not os.path.isfile(path):
@@ -45,9 +49,9 @@ def download_google_reports(directory_pdf="pdf_reports", directory_csv="google_r
                 print(file_name)
                 time.sleep(1)
             else:
-                path_new = os.path.join(directory_csv, file_name+"_new")
+                path_new = os.path.join(directory_csv, file_name + "_new")
                 urllib.request.urlretrieve(link, path_new)
-                if os.path.getsize(path)==os.path.getsize(path_new):
+                if os.path.getsize(path) == os.path.getsize(path_new):
                     os.remove(path_new)
                 else:
                     new_files = True
@@ -59,24 +63,33 @@ def download_google_reports(directory_pdf="pdf_reports", directory_csv="google_r
     return new_files
 
 
-def build_google_report(source="Global_Mobility_Report.csv", destination="mobility_report.csv", report_type="regions"):
+def build_google_report(
+        source="Global_Mobility_Report.csv",
+        destination="mobility_report.csv",
+        report_type="regions"):
     df = pd.read_csv(source, low_memory=False)
     df = df.drop(columns=['country_region_code'])
-    df = df.rename(columns={'country_region':'country', 'retail_and_recreation_percent_change_from_baseline':'retail',
-                       'grocery_and_pharmacy_percent_change_from_baseline':'grocery and pharmacy',
-                       'parks_percent_change_from_baseline':'parks', 
-                        'transit_stations_percent_change_from_baseline':'transit stations',
-                       'workplaces_percent_change_from_baseline':'workplaces', 
-                       'residential_percent_change_from_baseline':'residential'})
-    if report_type=="regions":
+    df = df.rename(
+        columns={
+            'country_region': 'country',
+            'retail_and_recreation_percent_change_from_baseline': 'retail',
+            'grocery_and_pharmacy_percent_change_from_baseline': 'grocery and pharmacy',
+            'parks_percent_change_from_baseline': 'parks',
+            'transit_stations_percent_change_from_baseline': 'transit stations',
+            'workplaces_percent_change_from_baseline': 'workplaces',
+            'residential_percent_change_from_baseline': 'residential'})
+    if report_type == "regions":
         df = df[df['sub_region_2'].isnull()]
         df = df.drop(columns=['sub_region_2'])
-        df = df.rename(columns={'sub_region_1':'region'})
+        df = df.rename(columns={'sub_region_1': 'region'})
         df['region'].fillna('Total', inplace=True)
-    elif report_type=="US":
-        df = df[(df['country']=="United States")]
+    elif report_type == "US":
+        df = df[(df['country'] == "United States")]
         df = df.drop(columns=['country'])
-        df = df.rename(columns={'sub_region_1':'state', 'sub_region_2':'county'})
+        df = df.rename(
+            columns={
+                'sub_region_1': 'state',
+                'sub_region_2': 'county'})
         df['state'].fillna('Total', inplace=True)
         df['county'].fillna('Total', inplace=True)
     df.to_csv(destination, index=False)
@@ -106,9 +119,9 @@ def download_apple_report(directory="apple_reports"):
             urllib.request.urlretrieve(link, path)
             print(file_name)
         else:
-            path_new = os.path.join(directory, file_name+"_new")
+            path_new = os.path.join(directory, file_name + "_new")
             urllib.request.urlretrieve(link, path_new)
-            if os.path.getsize(path)==os.path.getsize(path_new):
+            if os.path.getsize(path) == os.path.getsize(path_new):
                 os.remove(path_new)
             else:
                 new_files = True
@@ -120,6 +133,125 @@ def download_apple_report(directory="apple_reports"):
     return new_files
 
 
+def build_apple_report(
+    source=os.path.join(
+        'apple_reports',
+        "applemobilitytrends.csv"),
+        destination=os.path.join(
+            'apple_reports',
+        "apple_mobility_report.csv")):
+    apple = pd.read_csv(source)
+    city_country_file = os.path.join(
+        'auxiliary_data', 'city_country_Apple.csv')
+
+    if os.path.isfile(city_country_file):
+        city_country = pd.read_csv(city_country_file, index_col=0)
+    else:
+        city_country = None
+
+    apple['country'] = apple.apply(lambda x: city_country.loc[x['region'], 'country'] if (
+        x['geo_type'] == 'city' and city_country is not None and x['region'] in city_country.index) else x['region'], axis=1)
+    apple = apple.melt(
+        id_vars=[
+            'geo_type',
+            'region',
+            'transportation_type',
+            'country'],
+        var_name='date')
+    apple['value'] = apple['value'] - 100
+    apple = apple.pivot_table(
+        index=[
+            "geo_type",
+            "region",
+            "date",
+            "country"],
+        columns='transportation_type').reset_index()
+    apple.columns = [t + (v if v != "value" else "") for v, t in apple.columns]
+    apple['city'] = apple.apply(
+        lambda x: x['region'] if (
+            x['geo_type'] == 'city') else "Total", axis=1)
+    apple = apple.drop(columns=['geo_type', 'region'])
+    apple = apple[['country', 'city', 'date', 'driving', 'transit', 'walking']]
+    apple.to_csv(destination, index=False)
+
+
+def build_summary_report(
+    apple_source=os.path.join(
+        'apple_reports',
+        "applemobilitytrends.csv"),
+        google_source=os.path.join(
+            "google_reports",
+            "Global_Mobility_Report.csv"),
+    destination=os.path.join(
+        "summary_reports",
+        "summary_report.csv")):
+    # preprocess apple data
+    apple = pd.read_csv(apple_source)
+    city_country_file = os.path.join(
+        'auxiliary_data', 'city_country_Apple.csv')
+    if os.path.isfile(city_country_file):
+        city_country = pd.read_csv(city_country_file, index_col=0)
+    else:
+        city_country = None
+    apple['country'] = apple.apply(lambda x: city_country.loc[x['region'], 'country'] if (
+        x['geo_type'] == 'city' and city_country is not None and x['region'] in city_country.index) else x['region'], axis=1)
+
+    apple = apple.melt(
+        id_vars=[
+            'geo_type',
+            'region',
+            'transportation_type',
+            'country'],
+        var_name='date')
+    apple['value'] = apple['value'] - 100
+    apple = apple.pivot_table(
+        index=[
+            "geo_type",
+            "region",
+            "date",
+            "country"],
+        columns='transportation_type').reset_index()
+    apple.columns = [t + (v if v != "value" else "") for v, t in apple.columns]
+    country_AtoG_file = os.path.join(
+        'auxiliary_data', 'country_Apple_to_Google.csv')
+
+    if os.path.isfile(country_AtoG_file):
+        country_AtoG = pd.read_csv(country_AtoG_file, index_col=0)
+    else:
+        country_AtoG = None
+    apple['country'] = apple.apply(lambda x: country_AtoG.loc[x['country'], 'country_google'] if (
+        country_AtoG is not None and x['country'] in country_AtoG.index) else x['country'], axis=1)
+
+    apple['sub_region_1'] = apple.apply(
+        lambda x: x['region'] if (
+            x['geo_type'] == 'city') else "Total", axis=1)
+
+    # process google data
+    google = pd.read_csv(google_source, low_memory=False)
+    google['sub_region_1'].fillna('Total', inplace=True)
+    google['sub_region_2'].fillna('Total', inplace=True)
+    google = google.rename(
+        columns={
+            'country_region': 'country',
+            'retail_and_recreation_percent_change_from_baseline': 'retail',
+            'grocery_and_pharmacy_percent_change_from_baseline': 'grocery and pharmacy',
+            'parks_percent_change_from_baseline': 'parks',
+            'transit_stations_percent_change_from_baseline': 'transit stations',
+            'workplaces_percent_change_from_baseline': 'workplaces',
+            'residential_percent_change_from_baseline': 'residential'})
+    summary = pd.merge(
+        google, apple, how='outer', left_on=[
+            'country', 'sub_region_1', 'date'], right_on=[
+            'country', 'sub_region_1', 'date'], sort=True)
+    summary = summary.drop(
+        columns=[
+            'country_region_code',
+            'geo_type',
+            'region'])
+    summary['sub_region_2'].fillna('Total', inplace=True)
+    summary.to_csv(destination, index=False)
+
+
 def csv_to_excel(csv_path, excel_path):
     """Helper function which create Excel file from CSV"""
     df = pd.read_csv(csv_path, low_memory=False)
@@ -128,21 +260,55 @@ def csv_to_excel(csv_path, excel_path):
 
 def run():
     """Run parse flow"""
-    # parse Google reports
+    # process Google reports
     new_files_status_google = download_google_reports()
     if new_files_status_google:
-        build_google_report(source=os.path.join("google_reports","Global_Mobility_Report.csv"), 
-                            destination=os.path.join("google_reports", "mobility_report_countries.csv"), report_type="regions")
-        build_google_report(source=os.path.join("google_reports","Global_Mobility_Report.csv"), 
-                            destination=os.path.join("google_reports", "mobility_report_US.csv"), report_type="US")
-        csv_to_excel(os.path.join("google_reports", "mobility_report_countries.csv"),
-                        os.path.join("google_reports", "mobility_report_countries.xlsx"))
+        build_google_report(
+            source=os.path.join(
+                "google_reports",
+                "Global_Mobility_Report.csv"),
+            destination=os.path.join(
+                "google_reports",
+                "mobility_report_countries.csv"),
+            report_type="regions")
+        build_google_report(
+            source=os.path.join(
+                "google_reports",
+                "Global_Mobility_Report.csv"),
+            destination=os.path.join(
+                "google_reports",
+                "mobility_report_US.csv"),
+            report_type="US")
+        csv_to_excel(
+            os.path.join(
+                "google_reports",
+                "mobility_report_countries.csv"),
+            os.path.join(
+                "google_reports",
+                "mobility_report_countries.xlsx"))
         csv_to_excel(os.path.join("google_reports", "mobility_report_US.csv"),
-                        os.path.join("google_reports", "mobility_report_US.xlsx"))
-
+                     os.path.join("google_reports", "mobility_report_US.xlsx"))
+    # process Apple reports
     new_files_status_apple = download_apple_report()
     if new_files_status_apple:
-        csv_to_excel(os.path.join('apple_reports',"applemobilitytrends.csv"), os.path.join('apple_reports',"applemobilitytrends.xlsx"))
+        build_apple_report()
+        csv_to_excel(
+            os.path.join(
+                'apple_reports',
+                "apple_mobility_report.csv"),
+            os.path.join(
+                'apple_reports',
+                "apple_mobility_report.xlsx"))
+    # build summary report
+    if new_files_status_apple or new_files_status_google:
+        build_summary_report()
+        csv_to_excel(
+            os.path.join(
+                "summary_reports",
+                "summary_report.csv"),
+            os.path.join(
+                "summary_reports",
+                "summary_report.xlsx"))
 
 
 if __name__ == '__main__':
