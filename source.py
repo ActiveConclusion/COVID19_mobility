@@ -28,35 +28,39 @@ def download_google_reports(
         os.makedirs(directory_pdf)
     if not os.path.exists(directory_csv):
         os.makedirs(directory_csv)
-
-    for one_a_tag in soup.findAll('a', {"class": "download-link"}):
-        link = one_a_tag['href']
-        file_name = link[link.find('mobility') + len('mobility') + 1:]
-
-        if link[-3:] == "pdf":
-            path = os.path.join(directory_pdf, file_name)
-            if not os.path.isfile(path):
-                new_files = True
-                urllib.request.urlretrieve(link, path)
-                print(file_name)
-                time.sleep(1)
-
-        elif link[-3:] == "csv":
-            path = os.path.join(directory_csv, file_name)
-            if not os.path.isfile(path):
-                new_files = True
-                urllib.request.urlretrieve(link, path)
-                print(file_name)
-                time.sleep(1)
+        
+    # download CSV
+    csv_tag = soup.find('a', {"class": "icon-link"})
+    link = csv_tag['href']
+    file_name = link[link.find('mobility') + len('mobility') + 1:]
+    if link[-3:] == "csv":
+        path = os.path.join(directory_csv, file_name)
+        if not os.path.isfile(path):
+            new_files = True
+            urllib.request.urlretrieve(link, path)
+            print(file_name)
+            time.sleep(1)
+        else:
+            path_new = os.path.join(directory_csv, file_name + "_new")
+            urllib.request.urlretrieve(link, path_new)
+            if os.path.getsize(path) == os.path.getsize(path_new):
+                os.remove(path_new)
             else:
-                path_new = os.path.join(directory_csv, file_name + "_new")
-                urllib.request.urlretrieve(link, path_new)
-                if os.path.getsize(path) == os.path.getsize(path_new):
-                    os.remove(path_new)
-                else:
-                    new_files = True
-                    os.remove(path)
-                    os.rename(path_new, path)
+                new_files = True
+                os.remove(path)
+                os.rename(path_new, path)
+      # download PDFs (not working from 21.04.2020)
+#     for one_a_tag in soup.findAll('a', {"class": "download-link"}):
+#         link = one_a_tag['href']
+#         print(link)
+#         file_name = link[link.find('mobility') + len('mobility') + 1:]
+#         if link[-3:] == "pdf":
+#             path = os.path.join(directory_pdf, file_name)
+#             if not os.path.isfile(path):
+#                 new_files = True
+#                 urllib.request.urlretrieve(link, path)
+#                 print(file_name)
+#                 time.sleep(1)
 
     if not new_files:
         print('Google: No updates')
