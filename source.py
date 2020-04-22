@@ -7,6 +7,8 @@ import urllib.request
 import time
 from bs4 import BeautifulSoup
 from requests_html import HTMLSession
+import re
+import json
 
 import pandas as pd
 
@@ -28,7 +30,7 @@ def download_google_reports(
         os.makedirs(directory_pdf)
     if not os.path.exists(directory_csv):
         os.makedirs(directory_csv)
-        
+
     # download CSV
     csv_tag = soup.find('a', {"class": "icon-link"})
     link = csv_tag['href']
@@ -49,18 +51,22 @@ def download_google_reports(
                 new_files = True
                 os.remove(path)
                 os.rename(path_new, path)
-      # download PDFs (not working from 21.04.2020)
-#     for one_a_tag in soup.findAll('a', {"class": "download-link"}):
-#         link = one_a_tag['href']
-#         print(link)
-#         file_name = link[link.find('mobility') + len('mobility') + 1:]
-#         if link[-3:] == "pdf":
-#             path = os.path.join(directory_pdf, file_name)
-#             if not os.path.isfile(path):
-#                 new_files = True
-#                 urllib.request.urlretrieve(link, path)
-#                 print(file_name)
-#                 time.sleep(1)
+    # download PDFs
+    json_data = re.search(
+        r"window.templateData=JSON.parse\('([^']+)", response.text)
+    json_data = bytes(json_data.groups()[0], 'utf-8').decode('unicode_escape')
+    json_data = json.loads(json_data)
+    for elem in json_data['countries']:
+        link = elem['pdfLink']
+        file_name = link[link.find('mobility') + len('mobility') + 1:]
+
+        if link[-3:] == "pdf":
+            path = os.path.join(directory_pdf, file_name)
+            if not os.path.isfile(path):
+                new_files = True
+                urllib.request.urlretrieve(link, path)
+                print(file_name)
+                time.sleep(1)
 
     if not new_files:
         print('Google: No updates')
