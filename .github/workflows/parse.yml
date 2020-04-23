@@ -1,5 +1,6 @@
 name: Parse Reports
 on:
+  push:
   schedule:
     - cron: '30 */6 * * *'
 
