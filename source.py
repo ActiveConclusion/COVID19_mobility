@@ -151,16 +151,17 @@ def build_apple_report(
             'apple_reports',
         "apple_mobility_report.csv")):
     apple = pd.read_csv(source)
-    city_country_file = os.path.join(
-        'auxiliary_data', 'city_country_Apple.csv')
+    apple = apple.drop(columns=['alternative_name'])
+    subcity_country_file = os.path.join(
+        'auxiliary_data', 'sub&city_country_Apple.xlsx')
 
-    if os.path.isfile(city_country_file):
-        city_country = pd.read_csv(city_country_file, index_col=0)
+    if os.path.isfile(subcity_country_file):
+        subcity_country = pd.read_excel(subcity_country_file, index_col=0)
     else:
-        city_country = None
+        subcity_country = None
 
-    apple['country'] = apple.apply(lambda x: city_country.loc[x['region'], 'country'] if (
-        x['geo_type'] == 'city' and city_country is not None and x['region'] in city_country.index) else x['region'], axis=1)
+    apple['country'] = apple.apply(lambda x: subcity_country.loc[x['region'], 'country'] if (
+        x['geo_type'] != 'country/region' and subcity_country is not None and x['region'] in subcity_country.index) else x['region'], axis=1)
     apple = apple.melt(
         id_vars=[
             'geo_type',
@@ -177,11 +178,11 @@ def build_apple_report(
             "country"],
         columns='transportation_type').reset_index()
     apple.columns = [t + (v if v != "value" else "") for v, t in apple.columns]
-    apple['city'] = apple.apply(
-        lambda x: x['region'] if (
-            x['geo_type'] == 'city') else "Total", axis=1)
-    apple = apple.drop(columns=['geo_type', 'region'])
-    apple = apple[['country', 'city', 'date', 'driving', 'transit', 'walking']]
+    apple['subregion_and_city'] = apple.apply(lambda x: x['region'] if (
+        x['geo_type'] != 'country/region') else "Total", axis=1)
+    apple = apple[['country', 'subregion_and_city',
+                   'geo_type', 'date', 'driving', 'transit', 'walking']]
+    apple = apple.sort_values(by=['country', 'subregion_and_city', 'date'])
     apple.to_csv(destination, index=False)
 
 
@@ -197,15 +198,17 @@ def build_summary_report(
         "summary_report.csv")):
     # preprocess apple data
     apple = pd.read_csv(apple_source)
-    city_country_file = os.path.join(
-        'auxiliary_data', 'city_country_Apple.csv')
-    if os.path.isfile(city_country_file):
-        city_country = pd.read_csv(city_country_file, index_col=0)
-    else:
-        city_country = None
-    apple['country'] = apple.apply(lambda x: city_country.loc[x['region'], 'country'] if (
-        x['geo_type'] == 'city' and city_country is not None and x['region'] in city_country.index) else x['region'], axis=1)
+    apple = apple.drop(columns=['alternative_name'])
+    subcity_country_file = os.path.join(
+        'auxiliary_data', 'sub&city_country_Apple.xlsx')
 
+    if os.path.isfile(subcity_country_file):
+        subcity_country = pd.read_excel(subcity_country_file, index_col=0)
+    else:
+        subcity_country = None
+
+    apple['country'] = apple.apply(lambda x: subcity_country.loc[x['region'], 'country'] if (
+        x['geo_type'] != 'country/region' and subcity_country is not None and x['region'] in subcity_country.index) else x['region'], axis=1)
     apple = apple.melt(
         id_vars=[
             'geo_type',
@@ -222,6 +225,11 @@ def build_summary_report(
             "country"],
         columns='transportation_type').reset_index()
     apple.columns = [t + (v if v != "value" else "") for v, t in apple.columns]
+    apple['sub_region_1'] = apple.apply(lambda x: x['region'] if (
+        x['geo_type'] != 'country/region') else "Total", axis=1)
+    apple = apple[['country', 'sub_region_1',
+                   'date', 'driving', 'transit', 'walking']]
+
     country_AtoG_file = os.path.join(
         'auxiliary_data', 'country_Apple_to_Google.csv')
 
@@ -231,10 +239,7 @@ def build_summary_report(
         country_AtoG = None
     apple['country'] = apple.apply(lambda x: country_AtoG.loc[x['country'], 'country_google'] if (
         country_AtoG is not None and x['country'] in country_AtoG.index) else x['country'], axis=1)
-
-    apple['sub_region_1'] = apple.apply(
-        lambda x: x['region'] if (
-            x['geo_type'] == 'city') else "Total", axis=1)
+    apple['sub_region_2'] = "Total"
 
     # process google data
     google = pd.read_csv(google_source, low_memory=False)
@@ -251,14 +256,13 @@ def build_summary_report(
             'residential_percent_change_from_baseline': 'residential'})
     summary = pd.merge(
         google, apple, how='outer', left_on=[
-            'country', 'sub_region_1', 'date'], right_on=[
-            'country', 'sub_region_1', 'date'], sort=True)
+            'country', 'sub_region_1', 'sub_region_2', 'date'], right_on=[
+            'country', 'sub_region_1', 'sub_region_2', 'date'], sort=True)
     summary = summary.drop(
-        columns=[
-            'country_region_code',
-            'geo_type',
-            'region'])
+        columns=['country_region_code'])
     summary['sub_region_2'].fillna('Total', inplace=True)
+    summary = summary.sort_values(
+        by=['country', 'sub_region_1', 'sub_region_2', 'date'])
     summary.to_csv(destination, index=False)
 
 
