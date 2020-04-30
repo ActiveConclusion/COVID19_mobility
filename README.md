@@ -28,7 +28,7 @@ Data for the US: [Google sheets](https://docs.google.com/spreadsheets/d/1pxuTu10
 
 [Raw CSV file](apple_reports/applemobilitytrends.csv)
 
-Cleaned report: [CSV](apple_reports/apple_mobility_report.csv), [Excel](apple_reports/apple_mobility_report.xlsx)
+Cleaned report: [Google sheets](https://docs.google.com/spreadsheets/d/1KmTczsuu4G6Wki9EigjH-EH3xupirBG0ZKOK2qNAHJU/edit?usp=sharing), [CSV](apple_reports/apple_mobility_report.csv), [Excel](apple_reports/apple_mobility_report.xlsx)
 
 **Summary reports:**
 
