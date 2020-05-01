@@ -1,3 +1,12 @@
+"""
+This script loads Google and Apple Mobility reports, builds cleaned reports in different formats and builds merged files from both sources.
+
+Original data:
+    - Google Community Mobility reports: https://www.google.com/covid19/mobility/
+    - Apple Mobility Trends reports: https://www.apple.com/covid19/mobility
+
+"""
+
 import io
 import os
 import datetime
@@ -18,20 +27,28 @@ def download_google_reports(
             "google_reports",
             "pdf_reports"),
         directory_csv="google_reports"):
-    """Download all new Google Community Mobility Reports
-    """
+    '''Download Google Community Mobility reports in CSV and PDF format
+
+        Args:
+            directory_pdf: directory to which PDF reports will be downloaded
+            directory_csv: directory to which CSV report will be downloaded
+
+        Returns:
+            new_files (bool): flag indicating whether or not new files have been downloaded
+    '''
+    # get webpage source
     url = 'https://www.google.com/covid19/mobility/'
     response = requests.get(url)
-
     soup = BeautifulSoup(response.text, "html.parser")
     new_files = False
 
+    # create directories if they don't exist
     if not os.path.exists(directory_pdf):
         os.makedirs(directory_pdf)
     if not os.path.exists(directory_csv):
         os.makedirs(directory_csv)
 
-    # download CSV
+    # download CSV file
     csv_tag = soup.find('a', {"class": "icon-link"})
     link = csv_tag['href']
     file_name = "Global_Mobility_Report.csv"
@@ -55,8 +72,9 @@ def download_google_reports(
         r"window.templateData=JSON.parse\('([^']+)", response.text)
     json_data = bytes(json_data.groups()[0], 'utf-8').decode('unicode_escape')
     json_data = json.loads(json_data)
-    for elem in json_data['countries']:
-        link = elem['pdfLink']
+
+    def get_pdf_files(e):
+        link = e['pdfLink']
         file_name = link[link.find('mobility') + len('mobility') + 1:]
         if link[-3:] == "pdf":
             path = os.path.join(directory_pdf, file_name)
@@ -65,16 +83,11 @@ def download_google_reports(
                 urllib.request.urlretrieve(link, path)
                 print(file_name)
                 time.sleep(1)
+
+    for elem in json_data['countries']:
+        get_pdf_files(elem)
         for child in elem['childRegions']:
-            link = child['pdfLink']
-            file_name = link[link.find('mobility') + len('mobility') + 1:]
-            if link[-3:] == "pdf":
-                path = os.path.join(directory_pdf, file_name)
-                if not os.path.isfile(path):
-                    new_files = True
-                    urllib.request.urlretrieve(link, path)
-                    print(file_name)
-                    time.sleep(1)
+            get_pdf_files(child)
 
     if not new_files:
         print('Google: No updates')
@@ -85,6 +98,13 @@ def build_google_report(
         source="Global_Mobility_Report.csv",
         destination="mobility_report.csv",
         report_type="regions"):
+    '''Build cleaned Google report for worldwide or for some country (currently only for the US)
+
+        Args:
+            source: location of the raw Google CSV report
+            destination: destination file path
+            report_type: two options available: "regions" - report for worldwide, "US" - report for the US
+    '''
     df = pd.read_csv(source, low_memory=False)
     df = df.drop(columns=['country_region_code'])
     df = df.rename(
@@ -114,8 +134,14 @@ def build_google_report(
 
 
 def download_apple_report(directory="apple_reports"):
-    """Download new Apple Mobility Reports
-    """
+    '''Download Apple Mobility Trends report in CSV
+
+        Args:
+            directory: directory to which CSV report will be downloaded
+
+        Returns:
+            new_files (bool): flag indicating whether or not a new file has been downloaded
+    '''
     url = "https://www.apple.com/covid19/mobility"
     session = HTMLSession()
     # Use the object above to connect to needed webpage
@@ -158,6 +184,12 @@ def build_apple_report(
         destination=os.path.join(
             'apple_reports',
         "apple_mobility_report.csv")):
+    '''Build cleaned Apple report (transform dates from columns to rows, add country names for subregions and cities)
+
+        Args:
+            source: location of the raw Apple CSV report
+            destination: destination file path
+    '''
     apple = pd.read_csv(source)
     apple = apple.drop(columns=['alternative_name'])
     subcity_country_file = os.path.join(
@@ -204,6 +236,13 @@ def build_summary_report(
     destination=os.path.join(
         "summary_reports",
         "summary_report.csv")):
+    '''Build a merged report from Google and Apple data
+
+        Args:
+            apple_source: location of the raw Apple CSV report
+            google_source: location of the raw Google CSV report
+            destination: destination file path
+    '''
     # preprocess apple data
     apple = pd.read_csv(apple_source)
     apple = apple.drop(columns=['alternative_name'])
@@ -281,7 +320,7 @@ def csv_to_excel(csv_path, excel_path):
 
 
 def run():
-    """Run parse flow"""
+    """Run parse flow and build reports"""
     # process Google reports
     new_files_status_google = download_google_reports()
     if new_files_status_google:
