@@ -79,7 +79,6 @@ def download_google_reports(
         if link[-3:] == "pdf":
             path = os.path.join(directory_pdf, file_name)
             if not os.path.isfile(path):
-                new_files = True
                 urllib.request.urlretrieve(link, path)
                 print(file_name)
                 time.sleep(1)
@@ -193,10 +192,10 @@ def build_apple_report(
     apple = pd.read_csv(source)
     apple = apple.drop(columns=['alternative_name'])
     subcity_country_file = os.path.join(
-        'auxiliary_data', 'sub&city_country_Apple.xlsx')
+        'auxiliary_data', 'sub&city_country_Apple.csv')
 
     if os.path.isfile(subcity_country_file):
-        subcity_country = pd.read_excel(subcity_country_file, index_col=0)
+        subcity_country = pd.read_csv(subcity_country_file, index_col=0)
     else:
         subcity_country = None
 
@@ -247,10 +246,10 @@ def build_summary_report(
     apple = pd.read_csv(apple_source)
     apple = apple.drop(columns=['alternative_name'])
     subcity_country_file = os.path.join(
-        'auxiliary_data', 'sub&city_country_Apple.xlsx')
+        'auxiliary_data', 'sub&city_country_Apple.csv')
 
     if os.path.isfile(subcity_country_file):
-        subcity_country = pd.read_excel(subcity_country_file, index_col=0)
+        subcity_country = pd.read_csv(subcity_country_file, index_col=0)
     else:
         subcity_country = None
 

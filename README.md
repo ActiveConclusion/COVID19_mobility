@@ -22,7 +22,7 @@ Data that is sent from users’ devices to the Maps service is associated with r
 
 Data by countries: [Google sheets](https://docs.google.com/spreadsheets/d/1fuV8AKwSjIh9Pswb_XTC0UFaoFPMBbz9YHAZ8TScAQc/edit#gid=1171841841), [CSV](google_reports/mobility_report_countries.csv), [Excel](google_reports/mobility_report_countries.xlsx)
 
-Data for the US: [Google sheets](https://docs.google.com/spreadsheets/d/1pxuTu10uO7MsBaKA554XSuCpnF--FTqwdnl_sUHfWro/edit#gid=265926435), [CSV](google_reports/mobility_report_US.csv), [Excel](google_reports/mobility_report_US.csv)
+Data for the US: [CSV](google_reports/mobility_report_US.csv), [Excel](google_reports/mobility_report_US.csv)
 
 **Apple reports:**
 
