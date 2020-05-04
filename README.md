@@ -36,11 +36,26 @@ Data for the US: [CSV](google_reports/mobility_report_US.csv), [Excel](google_re
 
 [Raw CSV file](apple_reports/applemobilitytrends.csv)
 
-Cleaned report: [Google sheets](https://docs.google.com/spreadsheets/d/1KmTczsuu4G6Wki9EigjH-EH3xupirBG0ZKOK2qNAHJU/edit?usp=sharing), [CSV](apple_reports/apple_mobility_report.csv), [Excel](apple_reports/apple_mobility_report.xlsx)
+Preprocessed report: [Google sheets](https://docs.google.com/spreadsheets/d/1KmTczsuu4G6Wki9EigjH-EH3xupirBG0ZKOK2qNAHJU/edit?usp=sharing), [CSV](apple_reports/apple_mobility_report.csv), [Excel](apple_reports/apple_mobility_report.xlsx)
+
+The following transformations have been made here:
+
+* transformed dates from columns to rows
+* transformed transportation types from rows to columns
+* subtracted 100 from values (such as in Google Mobility Reports)
+* added country names for subregions/cities (in original dataset they are not provided currently)
 
 **Summary reports:**
 
-Report compiled from Apple and Google data: [CSV](summary_reports/summary_report.csv), [Excel](summary_reports/summary_report.xlsx)
+These are merged Apple and google reports.
+
+Full merged report: [CSV](summary_reports/summary_report.csv), [Excel](summary_reports/summary_report.xlsx)
+
+Report by regions (without US counties): [CSV](summary_reports/summary_report_regions.csv), [Excel](summary_reports/summary_report_regions.xlsx)
+
+Report by countries (only totals): [CSV](summary_reports/summary_report_countries.csv), [Excel](summary_reports/summary_report_countries.xlsx)
+
+Report for the US: [CSV](summary_reports/summary_report_US.csv), [Excel](summary_reports/summary_report_US.csv)
 
 ## How to run script
 ```bash
@@ -58,7 +73,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 2. [Dashboard for the US-2](https://public.tableau.com/profile/sky.quintin#!/vizhome/Mobilitydata/CommunityMobility)
 3. [Dashboard for the world](https://public.tableau.com/profile/ryansoares#!/vizhome/COVID-19CommunityMobility/Dashboard1)
 4. [Balefire COVID-19 USA Data Explorer](http://balefire.info/)
-5. [Here can be your great dashboard/visualization]
+5. [Pandemic Traffic in Ireland](https://public.tableau.com/profile/docinsight#!/vizhome/COVIDtrafficinIrelandrepoint/MobilityDashboard) by David ó Cinnéide
+6. [Here can be your great dashboard/visualization]
 
 ## Articles
 1. [Is Your Community Doing Enough To Fight COVID-19?](https://towardsdatascience.com/is-your-community-doing-enough-to-fight-covid-19-aa745b424eb1) by [Molly Liebeskind](https://towardsdatascience.com/@molly.liebeskind)
