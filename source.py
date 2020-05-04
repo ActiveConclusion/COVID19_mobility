@@ -278,13 +278,23 @@ def build_summary_report(
 
     country_AtoG_file = os.path.join(
         'auxiliary_data', 'country_Apple_to_Google.csv')
+    subregions_AtoG_file = os.path.join(
+        'auxiliary_data', 'subregions_Apple_to_Google.csv')
 
     if os.path.isfile(country_AtoG_file):
         country_AtoG = pd.read_csv(country_AtoG_file, index_col=0)
     else:
         country_AtoG = None
+    if os.path.isfile(subregions_AtoG_file):
+        subregions_AtoG = pd.read_csv(subregions_AtoG_file, index_col=0)
+    else:
+        subregions_AtoG = None
+
     apple['country'] = apple.apply(lambda x: country_AtoG.loc[x['country'], 'country_google'] if (
         country_AtoG is not None and x['country'] in country_AtoG.index) else x['country'], axis=1)
+    apple['sub_region_1'] = apple.apply(lambda x: subregions_AtoG.loc[x['sub_region_1'], 'subregion_Google'] if (
+        subregions_AtoG is not None and x['sub_region_1'] in subregions_AtoG.index) else x['sub_region_1'], axis=1)
+
     apple['sub_region_2'] = "Total"
 
     # process google data
@@ -310,6 +320,45 @@ def build_summary_report(
     summary = summary.sort_values(
         by=['country', 'sub_region_1', 'sub_region_2', 'date'])
     summary.to_csv(destination, index=False)
+
+
+def slice_summary_report(
+    source=os.path.join(
+        "summary_reports",
+        "summary_report.csv"),
+        destination_regions=os.path.join(
+            "summary_reports",
+            "summary_report_regions.csv"),
+    destination_countries=os.path.join(
+        "summary_reports",
+        "summary_report_countries.csv"),
+    destination_US=os.path.join(
+        "summary_reports",
+        "summary_report_US.csv")):
+    '''Slice a merged report into 3 next subreports:
+        1) Summary report by regions without US counties
+        2) Summary report by countries
+        3) Summary report for the US only
+
+        Args:
+            source: location of the summary CSV report
+            destination_regions: destination for report #1
+            destination_countries: destination for report #2
+            destination_US: destination for report #3
+    '''
+    # read full summary report
+    summary = pd.read_csv(source, low_memory=False)
+    # create report #1
+    regions = summary[summary['sub_region_2'] == 'Total']
+    regions = regions.drop(columns=['sub_region_2'])
+    regions.to_csv(destination_regions, index=False)
+    # create report #2
+    countries = summary[summary['sub_region_1'] == 'Total']
+    countries = countries.drop(columns=['sub_region_1', 'sub_region_2'])
+    countries.to_csv(destination_countries, index=False)
+    # create report #3
+    US = summary[summary['country'] == 'United States']
+    US.to_csv(destination_US, index=False)
 
 
 def csv_to_excel(csv_path, excel_path):
@@ -369,6 +418,29 @@ def run():
             os.path.join(
                 "summary_reports",
                 "summary_report.xlsx"))
+        # slice summary report
+        slice_summary_report()
+        csv_to_excel(
+            os.path.join(
+                "summary_reports",
+                "summary_report_regions.csv"),
+            os.path.join(
+                "summary_reports",
+                "summary_report_regions.xlsx"))
+        csv_to_excel(
+            os.path.join(
+                "summary_reports",
+                "summary_report_countries.csv"),
+            os.path.join(
+                "summary_reports",
+                "summary_report_countries.xlsx"))
+        csv_to_excel(
+            os.path.join(
+                "summary_reports",
+                "summary_report_US.csv"),
+            os.path.join(
+                "summary_reports",
+                "summary_report_US.xlsx"))
 
 
 if __name__ == '__main__':
