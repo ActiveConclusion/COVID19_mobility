@@ -22,7 +22,7 @@ Data that is sent from users' devices to the Maps service is associated with ran
 By downloading or using this data, you agree to Apple terms.
 
 ## Data explorer
-**Google reports:**
+### Google reports:
 
 [All downloaded reports in PDF format](google_reports/pdf_reports)
 
@@ -32,7 +32,7 @@ Data by countries: [Google sheets](https://docs.google.com/spreadsheets/d/1fuV8A
 
 Data for the US: [CSV](google_reports/mobility_report_US.csv), [Excel](google_reports/mobility_report_US.csv)
 
-**Apple reports:**
+### Apple reports:
 
 [Raw CSV file](apple_reports/applemobilitytrends.csv)
 
@@ -45,9 +45,9 @@ The following transformations have been made here:
 * subtracted 100 from values (such as in Google Mobility Reports)
 * added country names for subregions/cities (in original dataset they are not provided currently)
 
-**Summary reports:**
+### Summary reports:
 
-These are merged Apple and google reports.
+These are merged Apple and Google reports.
 
 Full merged report: [CSV](summary_reports/summary_report.csv), [Excel](summary_reports/summary_report.xlsx)
 
