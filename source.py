@@ -22,16 +22,11 @@ import json
 import pandas as pd
 
 
-def download_google_reports(
-        directory_pdf=os.path.join(
-            "google_reports",
-            "pdf_reports"),
-        directory_csv="google_reports"):
-    '''Download Google Community Mobility reports in CSV and PDF format
+def download_google_reports(directory="google_reports"):
+    '''Download Google Community Mobility report in CSV format
 
         Args:
-            directory_pdf: directory to which PDF reports will be downloaded
-            directory_csv: directory to which CSV report will be downloaded
+            directory: directory to which CSV report will be downloaded
 
         Returns:
             new_files (bool): flag indicating whether or not new files have been downloaded
@@ -42,24 +37,22 @@ def download_google_reports(
     soup = BeautifulSoup(response.text, "html.parser")
     new_files = False
 
-    # create directories if they don't exist
-    if not os.path.exists(directory_pdf):
-        os.makedirs(directory_pdf)
-    if not os.path.exists(directory_csv):
-        os.makedirs(directory_csv)
+    # create directory if it don't exist
+    if not os.path.exists(directory):
+        os.makedirs(directory)
 
     # download CSV file
     csv_tag = soup.find('a', {"class": "icon-link"})
     link = csv_tag['href']
     file_name = "Global_Mobility_Report.csv"
-    path = os.path.join(directory_csv, file_name)
+    path = os.path.join(directory, file_name)
     if not os.path.isfile(path):
         new_files = True
         urllib.request.urlretrieve(link, path)
         print(file_name)
         time.sleep(1)
     else:
-        path_new = os.path.join(directory_csv, file_name + "_new")
+        path_new = os.path.join(directory, file_name + "_new")
         urllib.request.urlretrieve(link, path_new)
         if os.path.getsize(path) == os.path.getsize(path_new):
             os.remove(path_new)
@@ -67,26 +60,6 @@ def download_google_reports(
             new_files = True
             os.remove(path)
             os.rename(path_new, path)
-    # download PDFs
-    json_data = re.search(
-        r"window.templateData=JSON.parse\('([^']+)", response.text)
-    json_data = bytes(json_data.groups()[0], 'utf-8').decode('unicode_escape')
-    json_data = json.loads(json_data)
-
-    def get_pdf_files(e):
-        link = e['pdfLink']
-        file_name = link[link.find('mobility') + len('mobility') + 1:]
-        if link[-3:] == "pdf":
-            path = os.path.join(directory_pdf, file_name)
-            if not os.path.isfile(path):
-                urllib.request.urlretrieve(link, path)
-                print(file_name)
-                time.sleep(1)
-
-    for elem in json_data['countries']:
-        get_pdf_files(elem)
-        for child in elem['childRegions']:
-            get_pdf_files(child)
 
     if not new_files:
         print('Google: No updates')
