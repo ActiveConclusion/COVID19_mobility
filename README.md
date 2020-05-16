@@ -24,8 +24,6 @@ By downloading or using this data, you agree to Apple terms.
 ## Data explorer
 ### Google reports:
 
-[All downloaded reports in PDF format](google_reports/pdf_reports)
-
 [Raw CSV file](google_reports/Global_Mobility_Report.csv)
 
 Data by countries: [Google sheets](https://docs.google.com/spreadsheets/d/1fuV8AKwSjIh9Pswb_XTC0UFaoFPMBbz9YHAZ8TScAQc/edit#gid=1171841841), [CSV](google_reports/mobility_report_countries.csv), [Excel](google_reports/mobility_report_countries.xlsx)
