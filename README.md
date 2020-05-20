@@ -26,7 +26,7 @@ By downloading or using this data, you agree to Apple terms.
 
 [Raw CSV file](google_reports/Global_Mobility_Report.csv)
 
-Data by countries: [Google sheets](https://docs.google.com/spreadsheets/d/1fuV8AKwSjIh9Pswb_XTC0UFaoFPMBbz9YHAZ8TScAQc/edit#gid=1171841841), [CSV](google_reports/mobility_report_countries.csv), [Excel](google_reports/mobility_report_countries.xlsx)
+Data for the worldwide: [Google sheets](https://docs.google.com/spreadsheets/d/1fuV8AKwSjIh9Pswb_XTC0UFaoFPMBbz9YHAZ8TScAQc/edit#gid=1171841841), [CSV](google_reports/mobility_report_countries.csv), [Excel](google_reports/mobility_report_countries.xlsx)
 
 Data for the US: [CSV](google_reports/mobility_report_US.csv), [Excel](google_reports/mobility_report_US.csv)
 
@@ -34,14 +34,17 @@ Data for the US: [CSV](google_reports/mobility_report_US.csv), [Excel](google_re
 
 [Raw CSV file](apple_reports/applemobilitytrends.csv)
 
-Preprocessed report: [Google sheets](https://docs.google.com/spreadsheets/d/1KmTczsuu4G6Wki9EigjH-EH3xupirBG0ZKOK2qNAHJU/edit?usp=sharing), [CSV](apple_reports/apple_mobility_report.csv), [Excel](apple_reports/apple_mobility_report.xlsx)
+Data for the worldwide: [Google sheets](https://docs.google.com/spreadsheets/d/1KmTczsuu4G6Wki9EigjH-EH3xupirBG0ZKOK2qNAHJU/edit?usp=sharing), [CSV](apple_reports/apple_mobility_report.csv), [Excel](apple_reports/apple_mobility_report.xlsx)
+
+Data for the US: [CSV](apple_reports/apple_mobility_report_US.csv), [Excel](apple_reports/apple_mobility_report_US.xlsx)
 
 The following transformations have been made here:
 
 * transformed dates from columns to rows
 * transformed transportation types from rows to columns
 * subtracted 100 from values (such as in Google Mobility Reports)
-* added country names for subregions/cities (in original dataset they are not provided currently)
+
+**Note: Data for May 11-12 is not available**
 
 ### Summary reports:
 
