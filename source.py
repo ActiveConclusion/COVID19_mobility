@@ -15,7 +15,6 @@ import requests
 import urllib.request
 import time
 from bs4 import BeautifulSoup
-from requests_html import HTMLSession
 import re
 import json
 
@@ -114,15 +113,11 @@ def download_apple_report(directory="apple_reports"):
         Returns:
             new_files (bool): flag indicating whether or not a new file has been downloaded
     '''
-    url = "https://www.apple.com/covid19/mobility"
-    session = HTMLSession()
-    # Use the object above to connect to needed webpage
-    resp = session.get(url)
-    # Run JavaScript code on webpage
-    resp.html.render(sleep=10)
-    soup = BeautifulSoup(resp.html.html, "html.parser")
-    button = soup.find('div', {"class": "download-button-container"}).find('a')
-    link = button['href']
+    json_link = "https://covid19-static.cdn-apple.com/covid19-mobility-data/current/v3/index.json"
+    with urllib.request.urlopen(json_link) as url:
+        json_data = json.loads(url.read().decode())
+    link = "https://covid19-static.cdn-apple.com" + \
+        json_data['basePath'] + json_data['regions']['en-us']['csvPath']
     new_files = False
 
     if not os.path.exists(directory):
@@ -155,49 +150,96 @@ def build_apple_report(
         "applemobilitytrends.csv"),
         destination=os.path.join(
             'apple_reports',
-        "apple_mobility_report.csv")):
+        "apple_mobility_report.csv"),
+        report_type="regions"):
     '''Build cleaned Apple report (transform dates from columns to rows, add country names for subregions and cities)
+       for worldwide or for some country (currently only for the US)
 
         Args:
             source: location of the raw Apple CSV report
             destination: destination file path
+            report_type: two options available: "regions" - report for worldwide, "US" - report for the US
     '''
     apple = pd.read_csv(source)
     apple = apple.drop(columns=['alternative_name'])
-    subcity_country_file = os.path.join(
-        'auxiliary_data', 'sub&city_country_Apple.csv')
+    apple['country'] = apple.apply(
+        lambda x: x['region'] if x['geo_type'] == 'country/region' else x['country'],
+        axis=1)
 
-    if os.path.isfile(subcity_country_file):
-        subcity_country = pd.read_csv(subcity_country_file, index_col=0)
-    else:
-        subcity_country = None
+    if report_type == 'regions':
+        apple = apple[apple.geo_type != 'county']
+        apple['sub-region'] = apple.apply(lambda x: 'Total' if x['geo_type'] == 'country/region' else (
+            x['region'] if x['geo_type'] == 'sub-region' else x['sub-region']), axis=1)
+        apple['subregion_and_city'] = apple.apply(
+            lambda x: 'Total' if x['geo_type'] == 'country/region' else x['region'], axis=1)
+        apple = apple.drop(columns=['region'])
+        apple['sub-region'] = apple['sub-region'].fillna(
+            apple['subregion_and_city'])
 
-    apple['country'] = apple.apply(lambda x: subcity_country.loc[x['region'], 'country'] if (
-        x['geo_type'] != 'country/region' and subcity_country is not None and x['region'] in subcity_country.index) else x['region'], axis=1)
-    apple = apple.melt(
-        id_vars=[
-            'geo_type',
-            'region',
-            'transportation_type',
-            'country'],
-        var_name='date')
-    apple['value'] = apple['value'] - 100
-    apple = apple.pivot_table(
-        index=[
-            "geo_type",
-            "region",
-            "date",
-            "country"],
-        columns='transportation_type').reset_index()
-    apple.columns = [t + (v if v != "value" else "") for v, t in apple.columns]
-    apple['subregion_and_city'] = apple.apply(lambda x: x['region'] if (
-        x['geo_type'] != 'country/region') else "Total", axis=1)
-    apple = apple[['country', 'subregion_and_city',
-                   'geo_type', 'date', 'driving', 'transit', 'walking']]
-    apple = apple.sort_values(by=['country', 'subregion_and_city', 'date'])
+        apple = apple.melt(
+            id_vars=[
+                'geo_type',
+                'subregion_and_city',
+                'sub-region',
+                'transportation_type',
+                'country'],
+            var_name='date')
+        apple['value'] = apple['value'] - 100
+
+        apple = apple.pivot_table(
+            index=[
+                "geo_type",
+                "subregion_and_city",
+                "sub-region",
+                "date",
+                "country"],
+            columns='transportation_type').reset_index()
+        apple.columns = [t + (v if v != "value" else "")
+                         for v, t in apple.columns]
+        apple = apple[['country', 'sub-region', 'subregion_and_city',
+                       'geo_type', 'date', 'driving', 'transit', 'walking']]
+        apple = apple.sort_values(by=['country',
+                                      'sub-region',
+                                      'subregion_and_city',
+                                      'date']).reset_index(drop=True)
+    elif report_type == "US":
+        apple = apple[apple.country == "United States"].drop(columns=[
+                                                             'country'])
+        apple['sub-region'] = apple['sub-region'].fillna(
+            apple['region']).replace({"United States": "Total"})
+        apple['region'] = apple.apply(lambda x: x['region'] if (
+            x['geo_type'] == 'city' or x['geo_type'] == 'county') else 'Total', axis=1)
+        apple = apple.rename(
+            columns={
+                'sub-region': 'state',
+                'region': 'county_and_city'})
+
+        apple = apple.melt(
+            id_vars=[
+                'geo_type',
+                'state',
+                'county_and_city',
+                'transportation_type'],
+            var_name='date')
+        apple['value'] = apple['value'] - 100
+
+        apple = apple.pivot_table(
+            index=[
+                'geo_type',
+                'state',
+                'county_and_city',
+                'date'],
+            columns='transportation_type').reset_index()
+        apple.columns = [t + (v if v != "value" else "")
+                         for v, t in apple.columns]
+
+        apple = apple[['state', 'county_and_city', 'geo_type',
+                       'date', 'driving', 'transit', 'walking']]
+        apple = apple.sort_values(
+            by=['state', 'county_and_city', 'geo_type', 'date']).reset_index(drop=True)
     apple.to_csv(destination, index=False)
 
-
+# TO FIX
 def build_summary_report(
     apple_source=os.path.join(
         'apple_reports',
@@ -294,7 +336,7 @@ def build_summary_report(
         by=['country', 'sub_region_1', 'sub_region_2', 'date'])
     summary.to_csv(destination, index=False)
 
-
+# TO FIX
 def slice_summary_report(
     source=os.path.join(
         "summary_reports",
@@ -373,7 +415,13 @@ def run():
     # process Apple reports
     new_files_status_apple = download_apple_report()
     if new_files_status_apple:
+        # build report for the worldwide
         build_apple_report()
+        build_apple_report(
+            destination=os.path.join(
+                'apple_reports',
+                "apple_mobility_report_US.csv"),
+            report_type="US")
         csv_to_excel(
             os.path.join(
                 'apple_reports',
@@ -381,39 +429,46 @@ def run():
             os.path.join(
                 'apple_reports',
                 "apple_mobility_report.xlsx"))
-    # build summary report
-    if new_files_status_apple or new_files_status_google:
-        build_summary_report()
         csv_to_excel(
             os.path.join(
-                "summary_reports",
-                "summary_report.csv"),
+                'apple_reports',
+                "apple_mobility_report_US.csv"),
             os.path.join(
-                "summary_reports",
-                "summary_report.xlsx"))
-        # slice summary report
-        slice_summary_report()
-        csv_to_excel(
-            os.path.join(
-                "summary_reports",
-                "summary_report_regions.csv"),
-            os.path.join(
-                "summary_reports",
-                "summary_report_regions.xlsx"))
-        csv_to_excel(
-            os.path.join(
-                "summary_reports",
-                "summary_report_countries.csv"),
-            os.path.join(
-                "summary_reports",
-                "summary_report_countries.xlsx"))
-        csv_to_excel(
-            os.path.join(
-                "summary_reports",
-                "summary_report_US.csv"),
-            os.path.join(
-                "summary_reports",
-                "summary_report_US.xlsx"))
+                'apple_reports',
+                "apple_mobility_report_US.xlsx"))
+    # build summary report (TO FIX)
+    # if new_files_status_apple or new_files_status_google:
+    #     build_summary_report()
+    #     csv_to_excel(
+    #         os.path.join(
+    #             "summary_reports",
+    #             "summary_report.csv"),
+    #         os.path.join(
+    #             "summary_reports",
+    #             "summary_report.xlsx"))
+    #     # slice summary report
+    #     slice_summary_report()
+    #     csv_to_excel(
+    #         os.path.join(
+    #             "summary_reports",
+    #             "summary_report_regions.csv"),
+    #         os.path.join(
+    #             "summary_reports",
+    #             "summary_report_regions.xlsx"))
+    #     csv_to_excel(
+    #         os.path.join(
+    #             "summary_reports",
+    #             "summary_report_countries.csv"),
+    #         os.path.join(
+    #             "summary_reports",
+    #             "summary_report_countries.xlsx"))
+    #     csv_to_excel(
+    #         os.path.join(
+    #             "summary_reports",
+    #             "summary_report_US.csv"),
+    #         os.path.join(
+    #             "summary_reports",
+    #             "summary_report_US.xlsx"))
 
 
 if __name__ == '__main__':
