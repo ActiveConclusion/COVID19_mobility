@@ -23,7 +23,7 @@ import pandas as pd
 
 def get_google_link():
     '''Get link of Google Community Mobility report file
-    
+
        Returns:
            link (str): link of Google Community report file
     '''
@@ -117,7 +117,7 @@ def build_google_report(
 
 def get_apple_link():
     '''Get link of Apple Mobility Trends report file
-    
+
        Returns:
            link (str): link of Apple Mobility Trends report file
     '''
@@ -143,7 +143,7 @@ def download_apple_report(directory="apple_reports"):
 
     if not os.path.exists(directory):
         os.makedirs(directory)
-    
+
     link = get_apple_link()
     file_name = "applemobilitytrends.csv"
     path = os.path.join(directory, file_name)
@@ -164,7 +164,7 @@ def download_apple_report(directory="apple_reports"):
         print('Apple: No updates')
     else:
         print('Apple: Update available')
-      
+
     return new_files
 
 
@@ -282,35 +282,39 @@ def build_summary_report(
             destination: destination file path
     '''
     # preprocess apple data
-    apple_source=os.path.join(
-        'apple_reports',
-        "applemobilitytrends.csv")
     apple = pd.read_csv(apple_source)
     apple['country'] = apple.apply(
         lambda x: x['region'] if x['geo_type'] == 'country/region' else x['country'],
         axis=1)
-    apple['sub_region_1'] = apple.apply(lambda x: 'Total' if x['geo_type']=='country/region' else
-                                       (x['region'] if x['geo_type']=='city' or x['geo_type']=='sub-region' else
-                                       (x['sub-region'] if x['geo_type']=='county' else None)), axis=1)
-    apple['sub_region_2'] = apple.apply(lambda x: x['region'] if x['geo_type']=='county' else 'Total', axis=1)
-    apple = apple.drop(columns=['alternative_name', 'geo_type', 'region', 'sub-region'])
+    apple['sub_region_1'] = apple.apply(
+        lambda x: 'Total' if x['geo_type'] == 'country/region' else (
+            x['region'] if x['geo_type'] == 'city' or x['geo_type'] == 'sub-region' else (
+                x['sub-region'] if x['geo_type'] == 'county' else None)), axis=1)
+    apple['sub_region_2'] = apple.apply(
+        lambda x: x['region'] if x['geo_type'] == 'county' else 'Total', axis=1)
+    apple = apple.drop(
+        columns=[
+            'alternative_name',
+            'geo_type',
+            'region',
+            'sub-region'])
     apple = apple.melt(
-                id_vars=[
-                    'country',
-                    'sub_region_1',
-                    'sub_region_2',
-                    'transportation_type'],
-                var_name='date')
+        id_vars=[
+            'country',
+            'sub_region_1',
+            'sub_region_2',
+            'transportation_type'],
+        var_name='date')
     apple['value'] = apple['value'] - 100
     apple = apple.pivot_table(
-                index=[
-                    'country',
-                    'sub_region_1',
-                    'sub_region_2',
-                    'date'],
-                columns='transportation_type').reset_index()
+        index=[
+            'country',
+            'sub_region_1',
+            'sub_region_2',
+            'date'],
+        columns='transportation_type').reset_index()
     apple.columns = [t + (v if v != "value" else "")for v, t in apple.columns]
-    
+
     # convert Apple countries and subregions to Google names
     country_AtoG_file = os.path.join(
         'auxiliary_data', 'country_Apple_to_Google.csv')
@@ -325,11 +329,11 @@ def build_summary_report(
         subregions_AtoG = pd.read_csv(subregions_AtoG_file, index_col=0)
     else:
         subregions_AtoG = None
-        
+
     apple['country'] = apple.apply(lambda x: country_AtoG.loc[x['country'], 'country_google'] if (
         country_AtoG is not None and x['country'] in country_AtoG.index) else x['country'], axis=1)
     apple['sub_region_1'] = apple.apply(lambda x: subregions_AtoG.loc[x['sub_region_1'], 'subregion_Google'] if (
-        subregions_AtoG is not None and x['sub_region_1'] in subregions_AtoG.index) else x['sub_region_1'], axis=1)   
+        subregions_AtoG is not None and x['sub_region_1'] in subregions_AtoG.index) else x['sub_region_1'], axis=1)
 
     # process google data
     google = pd.read_csv(google_source, low_memory=False)
