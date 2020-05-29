@@ -75,9 +75,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 3. [Dashboard for the world](https://public.tableau.com/profile/ryansoares#!/vizhome/COVID-19CommunityMobility/Dashboard1)
 4. [Balefire COVID-19 USA Data Explorer](http://balefire.info/)
 5. [Pandemic Traffic in Ireland](https://public.tableau.com/profile/docinsight#!/vizhome/COVIDtrafficinIrelandrepoint/MobilityDashboard) by David ó Cinnéide
-6. [Here can be your great dashboard/visualization]
+6. [New South Wales COVID Tracking Dashboard](https://public.tableau.com/profile/damjan.vlastelica#!/vizhome/CovidNSWTracker/HomeDash?publish=yes) by Damjan Vlastelica
+7. [Here can be your great dashboard/visualization]
 
 ## Articles
 1. [Is Your Community Doing Enough To Fight COVID-19?](https://towardsdatascience.com/is-your-community-doing-enough-to-fight-covid-19-aa745b424eb1) by [Molly Liebeskind](https://towardsdatascience.com/@molly.liebeskind)
 2. [Project US Mobility and Fuel Demand Under COVID-19](https://covid19-mobility.com)
-3. [Here can be your great article/research publication]
+3. [COVID-19: Country progress tracker and forward projections](https://www.agility.asia/covid) 
+4. [Here can be your great article/research publication]
