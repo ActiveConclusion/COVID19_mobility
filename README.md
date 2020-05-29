@@ -79,4 +79,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Articles
 1. [Is Your Community Doing Enough To Fight COVID-19?](https://towardsdatascience.com/is-your-community-doing-enough-to-fight-covid-19-aa745b424eb1) by [Molly Liebeskind](https://towardsdatascience.com/@molly.liebeskind)
-2. [Here can be your great article/research publication]
+2. [Project US Mobility and Fuel Demand Under COVID-19](https://covid19-mobility.com)
+3. [Here can be your great article/research publication]
