@@ -26,7 +26,7 @@ By downloading or using this data, you agree to Apple terms.
 
 [Raw CSV file](google_reports/Global_Mobility_Report.csv)
 
-Data for the worldwide: [Google sheets](https://docs.google.com/spreadsheets/d/1fuV8AKwSjIh9Pswb_XTC0UFaoFPMBbz9YHAZ8TScAQc/edit#gid=1171841841), [CSV](google_reports/mobility_report_countries.csv), [Excel](google_reports/mobility_report_countries.xlsx)
+Data for the worldwide: [CSV](google_reports/mobility_report_countries.csv), [Excel](google_reports/mobility_report_countries.xlsx)
 
 Data for the US: [CSV](google_reports/mobility_report_US.csv), [Excel](google_reports/mobility_report_US.csv)
 
