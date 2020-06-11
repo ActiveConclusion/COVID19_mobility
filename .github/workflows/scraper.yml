@@ -1,8 +1,8 @@
-name: Parse Reports
+name: Scrape Reports
 on:
   push:
   schedule:
-    - cron: '30 */6 * * *'
+    - cron: '30 */3 * * *'
 
 jobs:
   build:
@@ -15,15 +15,17 @@ jobs:
           python-version: '3.6' 
       - name: Install requirements
         run: pip install -r requirements.txt 
-      - name: Download and parse new reports 
+      - name: Download and build reports 
         run: python source.py
       - name: Commit changes
         run: |
           git config --local user.name github-actions
           git config --local user.email "action@github.com"
           git add .
-          git commit -m "Update data" -a
-          git push origin master
+          if [[ "$(git status --porcelain)" != "" ]]; then
+              git commit -m "Update data" -a
+              git push origin master
+          fi
         env:
           REPO_KEY: ${{secrets.GITHUB_TOKEN}}
           username: github-actions
