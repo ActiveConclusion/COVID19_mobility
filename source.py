@@ -100,16 +100,20 @@ def build_google_report(
             'residential_percent_change_from_baseline': 'residential'})
     if report_type == "regions":
         df = df[df['sub_region_2'].isnull()]
-        df = df.drop(columns=['sub_region_2'])
         df = df.rename(columns={'sub_region_1': 'region'})
+        df = df[['country', 'region', 'date', 'retail',
+                 'grocery and pharmacy', 'parks', 'transit stations',
+                 'workplaces', 'residential']]
         df['region'].fillna('Total', inplace=True)
     elif report_type == "US":
         df = df[(df['country'] == "United States")]
-        df = df.drop(columns=['country'])
         df = df.rename(
             columns={
                 'sub_region_1': 'state',
                 'sub_region_2': 'county'})
+        df = df[['state', 'county', 'date', 'retail',
+                 'grocery and pharmacy', 'parks', 'transit stations',
+                 'workplaces', 'residential']]
         df['state'].fillna('Total', inplace=True)
         df['county'].fillna('Total', inplace=True)
     df.to_csv(destination, index=False)
@@ -348,12 +352,20 @@ def build_summary_report(
             'transit_stations_percent_change_from_baseline': 'transit stations',
             'workplaces_percent_change_from_baseline': 'workplaces',
             'residential_percent_change_from_baseline': 'residential'})
+    google = google[['country',
+                     'sub_region_1',
+                     'sub_region_2',
+                     'date',
+                     'retail',
+                     'grocery and pharmacy',
+                     'parks',
+                     'transit stations',
+                     'workplaces',
+                     'residential']]
     summary = pd.merge(
         google, apple, how='outer', left_on=[
             'country', 'sub_region_1', 'sub_region_2', 'date'], right_on=[
             'country', 'sub_region_1', 'sub_region_2', 'date'], sort=True)
-    summary = summary.drop(
-        columns=['country_region_code'])
     summary['sub_region_2'].fillna('Total', inplace=True)
     summary = summary.sort_values(
         by=['country', 'sub_region_1', 'sub_region_2', 'date'])
