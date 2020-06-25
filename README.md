@@ -50,11 +50,9 @@ The following transformations have been made here:
 
 These are merged Apple and Google reports.
 
-Full merged report: [CSV](summary_reports/summary_report.csv), [Excel](summary_reports/summary_report.xlsx)
+Report by regions: [CSV](summary_reports/summary_report_regions.csv), [Excel](summary_reports/summary_report_regions.xlsx)
 
-Report by regions (without US counties): [CSV](summary_reports/summary_report_regions.csv), [Excel](summary_reports/summary_report_regions.xlsx)
-
-Report by countries (only totals): [Google Sheets](https://docs.google.com/spreadsheets/d/1d9t7xg-lUPEUArTsc_wMOGl1XfzpXmeWcALx7v58KcU), [CSV](summary_reports/summary_report_countries.csv), [Excel](summary_reports/summary_report_countries.xlsx)
+Report by countries: [Google Sheets](https://docs.google.com/spreadsheets/d/1d9t7xg-lUPEUArTsc_wMOGl1XfzpXmeWcALx7v58KcU), [CSV](summary_reports/summary_report_countries.csv), [Excel](summary_reports/summary_report_countries.xlsx)
 
 Report for the US: [CSV](summary_reports/summary_report_US.csv), [Excel](summary_reports/summary_report_US.csv)
 
