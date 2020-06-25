@@ -7,7 +7,6 @@ Original data:
 
 """
 
-import io
 import os
 import datetime
 
@@ -77,46 +76,55 @@ def download_google_reports(directory="google_reports"):
 
 
 def build_google_report(
-        source="Global_Mobility_Report.csv",
-        destination="mobility_report.csv",
+        source=os.path.join("google_reports", "Global_Mobility_Report.csv"),
         report_type="regions"):
-    '''Build cleaned Google report for worldwide or for some country (currently only for the US)
+    '''Build cleaned Google report for the worldwide or for some country (currently only for the US)
 
         Args:
             source: location of the raw Google CSV report
-            destination: destination file path
-            report_type: two options available: "regions" - report for worldwide, "US" - report for the US
+            report_type: two options available: "regions" - report for the worldwide, "US" - report for the US
+
+        Returns:
+           google (DataFrame): generated Google report
     '''
-    df = pd.read_csv(source, low_memory=False)
-    df = df.drop(columns=['country_region_code'])
-    df = df.rename(
-        columns={
-            'country_region': 'country',
-            'retail_and_recreation_percent_change_from_baseline': 'retail',
-            'grocery_and_pharmacy_percent_change_from_baseline': 'grocery and pharmacy',
-            'parks_percent_change_from_baseline': 'parks',
-            'transit_stations_percent_change_from_baseline': 'transit stations',
-            'workplaces_percent_change_from_baseline': 'workplaces',
-            'residential_percent_change_from_baseline': 'residential'})
+    google = pd.read_csv(source, low_memory=False)
+    google.columns = google.columns.str.replace(
+        r'_percent_change_from_baseline', '')
+    google.columns = google.columns.str.replace(r'_', ' ')
+    google = google.rename(columns={'country region': 'country'})
     if report_type == "regions":
-        df = df[df['sub_region_2'].isnull()]
-        df = df.rename(columns={'sub_region_1': 'region'})
-        df = df[['country', 'region', 'date', 'retail',
-                 'grocery and pharmacy', 'parks', 'transit stations',
-                 'workplaces', 'residential']]
-        df['region'].fillna('Total', inplace=True)
+        google = google[google['sub region 2'].isnull()]
+        google = google.rename(columns={'sub region 1': 'region'})
+        google = google.loc[:,
+                            ['country',
+                             'region',
+                             'date',
+                             'retail and recreation',
+                             'grocery and pharmacy',
+                             'parks',
+                             'transit stations',
+                             'workplaces',
+                             'residential']]
+        google['region'].fillna('Total', inplace=True)
     elif report_type == "US":
-        df = df[(df['country'] == "United States")]
-        df = df.rename(
+        google = google[(google['country'] == "United States")]
+        google = google.rename(
             columns={
-                'sub_region_1': 'state',
-                'sub_region_2': 'county'})
-        df = df[['state', 'county', 'date', 'retail',
-                 'grocery and pharmacy', 'parks', 'transit stations',
-                 'workplaces', 'residential']]
-        df['state'].fillna('Total', inplace=True)
-        df['county'].fillna('Total', inplace=True)
-    df.to_csv(destination, index=False)
+                'sub region 1': 'state',
+                'sub region 2': 'county'})
+        google = google.loc[:,
+                            ['state',
+                             'county',
+                             'date',
+                             'retail and recreation',
+                             'grocery and pharmacy',
+                             'parks',
+                             'transit stations',
+                             'workplaces',
+                             'residential']]
+        google['state'].fillna('Total', inplace=True)
+        google['county'].fillna('Total', inplace=True)
+    return google
 
 
 def get_apple_link():
@@ -176,17 +184,17 @@ def build_apple_report(
     source=os.path.join(
         'apple_reports',
         "applemobilitytrends.csv"),
-        destination=os.path.join(
-            'apple_reports',
-        "apple_mobility_report.csv"),
         report_type="regions"):
     '''Build cleaned Apple report (transform dates from columns to rows, add country names for subregions and cities)
-       for worldwide or for some country (currently only for the US)
+       for the worldwide or for some country (currently only for the US)
 
         Args:
             source: location of the raw Apple CSV report
             destination: destination file path
-            report_type: two options available: "regions" - report for worldwide, "US" - report for the US
+            report_type: two options available: "regions" - report for the worldwide, "US" - report for the US
+
+        Returns:
+           apple (DataFrame): generated Apple report
     '''
     apple = pd.read_csv(source)
     apple = apple.drop(columns=['alternative_name'])
@@ -224,8 +232,15 @@ def build_apple_report(
             columns='transportation_type').reset_index()
         apple.columns = [t + (v if v != "value" else "")
                          for v, t in apple.columns]
-        apple = apple[['country', 'sub-region', 'subregion_and_city',
-                       'geo_type', 'date', 'driving', 'transit', 'walking']]
+        apple = apple.loc[:,
+                          ['country',
+                           'sub-region',
+                           'subregion_and_city',
+                           'geo_type',
+                           'date',
+                           'driving',
+                           'transit',
+                           'walking']]
         apple = apple.sort_values(by=['country',
                                       'sub-region',
                                       'subregion_and_city',
@@ -261,160 +276,73 @@ def build_apple_report(
         apple.columns = [t + (v if v != "value" else "")
                          for v, t in apple.columns]
 
-        apple = apple[['state', 'county_and_city', 'geo_type',
-                       'date', 'driving', 'transit', 'walking']]
+        apple = apple.loc[:, ['state', 'county_and_city', 'geo_type',
+                              'date', 'driving', 'transit', 'walking']]
         apple = apple.sort_values(
             by=['state', 'county_and_city', 'geo_type', 'date']).reset_index(drop=True)
-    apple.to_csv(destination, index=False)
+    return apple
 
 
-def build_summary_report(
-    apple_source=os.path.join(
-        'apple_reports',
-        "applemobilitytrends.csv"),
-        google_source=os.path.join(
-            "google_reports",
-            "Global_Mobility_Report.csv"),
-    destination=os.path.join(
-        "summary_reports",
-        "summary_report.csv")):
+def build_summary_report(apple_source, google_source, report_type="regions"):
     '''Build a merged report from Google and Apple data
 
         Args:
-            apple_source: location of the raw Apple CSV report
-            google_source: location of the raw Google CSV report
-            destination: destination file path
+            apple_source: location of the CSV report generated by build_apple_report function
+            google_source: location of the CSV report generated by build_google_report function
+            report_type: two options available: "regions" - report for the worldwide, "US" - report for the US
+
+        Returns:
+            summary (DataFrame): merged report from Google and Apple data
     '''
-    # preprocess apple data
-    apple = pd.read_csv(apple_source)
-    apple['country'] = apple.apply(
-        lambda x: x['region'] if x['geo_type'] == 'country/region' else x['country'],
-        axis=1)
-    apple['sub_region_1'] = apple.apply(
-        lambda x: 'Total' if x['geo_type'] == 'country/region' else (
-            x['region'] if x['geo_type'] == 'city' or x['geo_type'] == 'sub-region' else (
-                x['sub-region'] if x['geo_type'] == 'county' else None)), axis=1)
-    apple['sub_region_2'] = apple.apply(
-        lambda x: x['region'] if x['geo_type'] == 'county' else 'Total', axis=1)
-    apple = apple.drop(
-        columns=[
-            'alternative_name',
-            'geo_type',
-            'region',
-            'sub-region'])
-    apple = apple.melt(
-        id_vars=[
-            'country',
-            'sub_region_1',
-            'sub_region_2',
-            'transportation_type'],
-        var_name='date')
-    apple['value'] = apple['value'] - 100
-    apple = apple.pivot_table(
-        index=[
-            'country',
-            'sub_region_1',
-            'sub_region_2',
-            'date'],
-        columns='transportation_type').reset_index()
-    apple.columns = [t + (v if v != "value" else "")for v, t in apple.columns]
-
-    # convert Apple countries and subregions to Google names
-    country_AtoG_file = os.path.join(
-        'auxiliary_data', 'country_Apple_to_Google.csv')
-    subregions_AtoG_file = os.path.join(
-        'auxiliary_data', 'subregions_Apple_to_Google.csv')
-
-    if os.path.isfile(country_AtoG_file):
-        country_AtoG = pd.read_csv(country_AtoG_file, index_col=0)
-    else:
-        country_AtoG = None
-    if os.path.isfile(subregions_AtoG_file):
-        subregions_AtoG = pd.read_csv(subregions_AtoG_file, index_col=0)
-    else:
-        subregions_AtoG = None
-
-    apple['country'] = apple.apply(lambda x: country_AtoG.loc[x['country'], 'country_google'] if (
-        country_AtoG is not None and x['country'] in country_AtoG.index) else x['country'], axis=1)
-    apple['sub_region_1'] = apple.apply(lambda x: subregions_AtoG.loc[x['sub_region_1'], 'subregion_Google'] if (
-        subregions_AtoG is not None and x['sub_region_1'] in subregions_AtoG.index) else x['sub_region_1'], axis=1)
-
-    # process google data
+    apple = pd.read_csv(apple_source, low_memory=False)
     google = pd.read_csv(google_source, low_memory=False)
-    google['sub_region_1'].fillna('Total', inplace=True)
-    google['sub_region_2'].fillna('Total', inplace=True)
-    google = google.rename(
-        columns={
-            'country_region': 'country',
-            'retail_and_recreation_percent_change_from_baseline': 'retail',
-            'grocery_and_pharmacy_percent_change_from_baseline': 'grocery and pharmacy',
-            'parks_percent_change_from_baseline': 'parks',
-            'transit_stations_percent_change_from_baseline': 'transit stations',
-            'workplaces_percent_change_from_baseline': 'workplaces',
-            'residential_percent_change_from_baseline': 'residential'})
-    google = google[['country',
-                     'sub_region_1',
-                     'sub_region_2',
-                     'date',
-                     'retail',
-                     'grocery and pharmacy',
-                     'parks',
-                     'transit stations',
-                     'workplaces',
-                     'residential']]
-    summary = pd.merge(
-        google, apple, how='outer', left_on=[
-            'country', 'sub_region_1', 'sub_region_2', 'date'], right_on=[
-            'country', 'sub_region_1', 'sub_region_2', 'date'], sort=True)
-    summary['sub_region_2'].fillna('Total', inplace=True)
-    summary = summary.sort_values(
-        by=['country', 'sub_region_1', 'sub_region_2', 'date'])
-    summary.to_csv(destination, index=False)
+    summary = pd.DataFrame()
+    # build report for regions
+    if report_type == "regions":
+        apple = apple.rename(columns={'subregion_and_city': 'region'})
+        apple = apple.loc[:, ['country', 'region',
+                              'date', 'driving', 'transit', 'walking']]
+        # get matching table for converting Apple countries and subregions to
+        # Google names
+        country_AtoG_file = os.path.join(
+            'auxiliary_data', 'country_Apple_to_Google.csv')
+        subregions_AtoG_file = os.path.join(
+            'auxiliary_data', 'subregions_Apple_to_Google.csv')
 
+        if os.path.isfile(country_AtoG_file):
+            country_AtoG = pd.read_csv(country_AtoG_file, index_col=0)
+        else:
+            country_AtoG = None
+        if os.path.isfile(subregions_AtoG_file):
+            subregions_AtoG = pd.read_csv(subregions_AtoG_file, index_col=0)
+        else:
+            subregions_AtoG = None
+        # convert Apple countries and subregions to Google names
+        apple['country'] = apple.apply(lambda x: country_AtoG.loc[x['country'], 'country_google'] if (
+            country_AtoG is not None and x['country'] in country_AtoG.index) else x['country'], axis=1)
+        apple['region'] = apple.apply(lambda x: subregions_AtoG.loc[x['region'], 'subregion_Google'] if (
+            subregions_AtoG is not None and x['region'] in subregions_AtoG.index) else x['region'], axis=1)
+        # merge reports
+        apple = apple.set_index(['country', 'region', 'date'])
+        google = google.set_index(['country', 'region', 'date'])
+        summary = google.join(apple, how='outer')
+        summary = summary.reset_index(level=['country', 'region', 'date'])
+    elif report_type == "US":
+        apple = apple.loc[:, ['state', 'county_and_city',
+                              'date', 'driving', 'transit', 'walking']]
+        apple.loc[apple.state == 'Washington DC',
+                  'state'] = 'District of Columbia'
+        apple.loc[apple.county_and_city ==
+                  'Washington DC', 'county_and_city'] = 'Total'
 
-def slice_summary_report(
-    source=os.path.join(
-        "summary_reports",
-        "summary_report.csv"),
-        destination_regions=os.path.join(
-            "summary_reports",
-            "summary_report_regions.csv"),
-    destination_countries=os.path.join(
-        "summary_reports",
-        "summary_report_countries.csv"),
-    destination_US=os.path.join(
-        "summary_reports",
-        "summary_report_US.csv")):
-    '''Slice a merged report into 3 next subreports:
-        1) Summary report by regions without US counties
-        2) Summary report by countries
-        3) Summary report for the US only
-
-        Args:
-            source: location of the summary CSV report
-            destination_regions: destination for report #1
-            destination_countries: destination for report #2
-            destination_US: destination for report #3
-    '''
-    # read full summary report
-    summary = pd.read_csv(source, low_memory=False)
-    # create report #1
-    regions = summary[summary['sub_region_2'] == 'Total']
-    regions = regions.drop(columns=['sub_region_2'])
-    regions.to_csv(destination_regions, index=False)
-    # create report #2
-    countries = summary[summary['sub_region_1'] == 'Total']
-    countries = countries.drop(columns=['sub_region_1', 'sub_region_2'])
-    countries.to_csv(destination_countries, index=False)
-    # create report #3
-    US = summary[summary['country'] == 'United States']
-    US.to_csv(destination_US, index=False)
-
-
-def csv_to_excel(csv_path, excel_path):
-    """Helper function which create Excel file from CSV"""
-    df = pd.read_csv(csv_path, low_memory=False)
-    df.to_excel(excel_path, index=False, sheet_name='Data')
+        google = google.rename(columns={'county': 'county_and_city'})
+        # merge reports
+        apple = apple.set_index(['state', 'county_and_city', 'date'])
+        google = google.set_index(['state', 'county_and_city', 'date'])
+        summary = google.join(apple, how='outer')
+        summary = summary.reset_index(
+            level=['state', 'county_and_city', 'date'])
+    return summary
 
 
 def run():
@@ -422,89 +350,48 @@ def run():
     # process Google reports
     new_files_status_google = download_google_reports()
     if new_files_status_google:
-        build_google_report(
-            source=os.path.join(
-                "google_reports",
-                "Global_Mobility_Report.csv"),
-            destination=os.path.join(
-                "google_reports",
-                "mobility_report_countries.csv"),
-            report_type="regions")
-        build_google_report(
-            source=os.path.join(
-                "google_reports",
-                "Global_Mobility_Report.csv"),
-            destination=os.path.join(
-                "google_reports",
-                "mobility_report_US.csv"),
-            report_type="US")
-        csv_to_excel(
-            os.path.join(
-                "google_reports",
-                "mobility_report_countries.csv"),
-            os.path.join(
-                "google_reports",
-                "mobility_report_countries.xlsx"))
-        csv_to_excel(os.path.join("google_reports", "mobility_report_US.csv"),
-                     os.path.join("google_reports", "mobility_report_US.xlsx"))
+        # build reports
+        google_world = build_google_report()
+        google_US = build_google_report(report_type="US")
+        # write reports to CSV and Excel
+        google_world.to_csv(os.path.join("google_reports", "mobility_report_countries.csv"), index=False)
+        google_world.to_excel(os.path.join("google_reports", "mobility_report_countries.xlsx"), 
+                            index=False, sheet_name='Data', engine = 'xlsxwriter')
+        google_US.to_csv(os.path.join("google_reports", "mobility_report_US.csv"), index=False)
+        google_US.to_excel(os.path.join("google_reports", "mobility_report_US.xlsx"), 
+                            index=False, sheet_name='Data', engine = 'xlsxwriter')
     # process Apple reports
     new_files_status_apple = download_apple_report()
     if new_files_status_apple:
-        # build report for the worldwide
-        build_apple_report()
-        build_apple_report(
-            destination=os.path.join(
-                'apple_reports',
-                "apple_mobility_report_US.csv"),
-            report_type="US")
-        csv_to_excel(
-            os.path.join(
-                'apple_reports',
-                "apple_mobility_report.csv"),
-            os.path.join(
-                'apple_reports',
-                "apple_mobility_report.xlsx"))
-        csv_to_excel(
-            os.path.join(
-                'apple_reports',
-                "apple_mobility_report_US.csv"),
-            os.path.join(
-                'apple_reports',
-                "apple_mobility_report_US.xlsx"))
-    # build summary report
+        # build reports
+        apple_world = build_apple_report()
+        apple_US = build_apple_report(report_type="US")
+        # write reports to CSV and Excel
+        apple_world.to_csv(os.path.join("apple_reports", "apple_mobility_report.csv"), index=False)
+        apple_world.to_excel(os.path.join("apple_reports", "apple_mobility_report.xlsx"), 
+                            index=False, sheet_name='Data', engine = 'xlsxwriter')
+        apple_US.to_csv(os.path.join("apple_reports", "apple_mobility_report_US.csv"), index=False)
+        apple_US.to_excel(os.path.join("apple_reports", "apple_mobility_report_US.xlsx"), 
+                        index=False, sheet_name='Data', engine = 'xlsxwriter')
+    # build summary reports
     if new_files_status_apple or new_files_status_google:
         print("Merging reports...")
-        build_summary_report()
-        csv_to_excel(
-            os.path.join(
-                "summary_reports",
-                "summary_report.csv"),
-            os.path.join(
-                "summary_reports",
-                "summary_report.xlsx"))
-        # slice summary report
-        slice_summary_report()
-        csv_to_excel(
-            os.path.join(
-                "summary_reports",
-                "summary_report_regions.csv"),
-            os.path.join(
-                "summary_reports",
-                "summary_report_regions.xlsx"))
-        csv_to_excel(
-            os.path.join(
-                "summary_reports",
-                "summary_report_countries.csv"),
-            os.path.join(
-                "summary_reports",
-                "summary_report_countries.xlsx"))
-        csv_to_excel(
-            os.path.join(
-                "summary_reports",
-                "summary_report_US.csv"),
-            os.path.join(
-                "summary_reports",
-                "summary_report_US.xlsx"))
+        summary_regions = build_summary_report(os.path.join("apple_reports","apple_mobility_report.csv"),
+                                            os.path.join("google_reports", "mobility_report_countries.csv"))
+        summary_US = build_summary_report(os.path.join("apple_reports", "apple_mobility_report_US.csv"), 
+                                        os.path.join("google_reports", "mobility_report_US.csv"), 'US')
+        summary_countries = summary_regions[summary_regions['region']=='Total'].drop(columns=['region'])
+        
+        print('Writing merged reports to files...')
+        summary_regions.to_csv(os.path.join("summary_reports", "summary_report_regions.csv"), index=False)
+        summary_regions.to_excel(os.path.join("summary_reports", "summary_report_regions.xlsx"), 
+                                index=False, sheet_name='Data', engine = 'xlsxwriter')
+        summary_US.to_csv(os.path.join("summary_reports", "summary_report_US.csv"), index=False)
+        summary_US.to_excel(os.path.join("summary_reports", "summary_report_US.xlsx"),
+                            index=False, sheet_name='Data', engine = 'xlsxwriter')
+        summary_countries.to_csv(os.path.join("summary_reports", "summary_report_countries.csv"), index=False)
+        summary_countries.to_excel(os.path.join("summary_reports", "summary_report_countries.xlsx"),
+                                index=False, sheet_name='Data', engine = 'xlsxwriter')
 
 
 if __name__ == '__main__':
