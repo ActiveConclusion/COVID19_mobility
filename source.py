@@ -35,7 +35,7 @@ def get_google_link():
     return link
 
 
-def download_google_reports(directory="google_reports"):
+def download_google_report(directory="google_reports"):
     '''Download Google Community Mobility report in CSV format
 
         Args:
@@ -348,7 +348,7 @@ def build_summary_report(apple_source, google_source, report_type="regions"):
 def run():
     """Run parse flow and build reports"""
     # process Google reports
-    new_files_status_google = download_google_reports()
+    new_files_status_google = download_google_report()
     if new_files_status_google:
         # build reports
         google_world = build_google_report()
