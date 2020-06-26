@@ -1,4 +1,4 @@
-# Scraper of Google and Apple COVID-19 Mobility Reports
+# Scraper of Google, Apple and Waze COVID-19 Mobility Reports
 This is a repository with a data scraper of Mobility Reports and reports in different formats.
 
 ## About [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/)
@@ -20,6 +20,18 @@ Data that is sent from users' devices to the Maps service is associated with ran
 **Update interval:** daily
 
 By downloading or using this data, you agree to Apple terms.
+
+
+## About [Waze COVID-19 local driving trends](https://www.waze.com/covid19)
+The driven kilometers/miles percent change data being shared comes from the Waze app and is aggregated and anonymized. These insights were generated using differential privacy to protect user privacy. No personally identifiable information, such as an individual’s location, contacts, or movement, is available through this data. 
+
+These reports show the increase or decrease in driven kilometers/miles as a percent change compared to a baseline. The changes for each day are compared to a baseline value for that day of the week. 
+* The baseline is the average value, for the corresponding day of the week, during the 2- week period February 11, 2020 to February 25, 2020. 
+* The reports show trends over two weeks with the most recent data representing approximately 2-3 days ago. 
+
+As with all samples, this may or may not represent the exact behavior of a wider population.
+
+**Update interval:** ?
 
 ## Data explorer
 ### Google reports:
@@ -45,6 +57,12 @@ The following transformations have been made here:
 * subtracted 100 from values (such as in Google Mobility Reports)
 
 **Note: Data for May 11-12 is not available**
+
+### Waze reports:
+
+Raw CSV files: [Country-level](waze_reports/Waze_Country-Level_Data.csv), [City-level](waze_reports/Waze_City-Level_Data.csv)
+
+Preprocessed report: [Google Sheets](https://docs.google.com/spreadsheets/d/1prxgtL1s8AvJDQb0hF2_g8rswwZElKQc2K79-FOmmt8/edit?usp=sharing), [CSV](waze_reports/waze_mobility.csv), [Excel](waze_reports/waze_mobility.xlsx)
 
 ### Summary reports:
 
