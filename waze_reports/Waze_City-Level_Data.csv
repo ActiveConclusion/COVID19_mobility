@@ -113,7 +113,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jul 12, 2020",Montevideo,Uruguay,-0.04
 "Jul 12, 2020",Brussels,Belgium,-0.03
 "Jul 12, 2020",Warsaw,Poland,-0.02
-"Jul 12, 2020",Calgary,Canada,0
+"Jul 12, 2020",Calgary,Canada,0.0
 "Jul 12, 2020",Brisbane,Australia,0.01
 "Jul 12, 2020",Bratislava,Slovakia,0.02
 "Jul 12, 2020",Rome,Italy,0.02
@@ -259,8 +259,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jul 11, 2020",Montevideo,Uruguay,-0.04
 "Jul 11, 2020",Amsterdam,Netherlands,-0.01
 "Jul 11, 2020",Prague,Czechia,-0.01
-"Jul 11, 2020",Brisbane,Australia,0
-"Jul 11, 2020",Puchong,Malaysia,0
+"Jul 11, 2020",Brisbane,Australia,0.0
+"Jul 11, 2020",Puchong,Malaysia,0.0
 "Jul 11, 2020",Perth,Australia,0.01
 "Jul 11, 2020",Tangerang,Indonesia,0.02
 "Jul 11, 2020",Krakow,Poland,0.03
@@ -541,7 +541,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jul 9, 2020",Puchong,Malaysia,-0.02
 "Jul 9, 2020",Brisbane,Australia,-0.02
 "Jul 9, 2020",Budapest,Hungary,-0.01
-"Jul 9, 2020",Bucharest,Romania,0
+"Jul 9, 2020",Bucharest,Romania,0.0
 "Jul 9, 2020",Toulouse,France,0.02
 "Jul 9, 2020",Maipu,Chile,0.03
 "Jul 9, 2020",Paris,France,0.05
@@ -676,9 +676,9 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jul 8, 2020",Ipoh,Malaysia,-0.03
 "Jul 8, 2020",Bratislava,Slovakia,-0.02
 "Jul 8, 2020",Hamilton,Canada,-0.01
-"Jul 8, 2020",Shah Alam,Malaysia,0
-"Jul 8, 2020",Sydney,Australia,0
-"Jul 8, 2020",Bucharest,Romania,0
+"Jul 8, 2020",Shah Alam,Malaysia,0.0
+"Jul 8, 2020",Sydney,Australia,0.0
+"Jul 8, 2020",Bucharest,Romania,0.0
 "Jul 8, 2020",Puchong,Malaysia,0.01
 "Jul 8, 2020",Lyon,France,0.01
 "Jul 8, 2020",Brisbane,Australia,0.01
@@ -1088,9 +1088,9 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jul 5, 2020",Ramat Gan,Israel,-0.01
 "Jul 5, 2020",Paris,France,-0.01
 "Jul 5, 2020",Raleigh,United States,-0.01
-"Jul 5, 2020",Be'er Sheva,Israel,0
-"Jul 5, 2020",Rishon Letsiyon,Israel,0
-"Jul 5, 2020",Barcelona,Spain,0
+"Jul 5, 2020",Be'er Sheva,Israel,0.0
+"Jul 5, 2020",Rishon Letsiyon,Israel,0.0
+"Jul 5, 2020",Barcelona,Spain,0.0
 "Jul 5, 2020",Bratislava,Slovakia,0.02
 "Jul 5, 2020",Perth,Australia,0.02
 "Jul 5, 2020",Stockholm,Sweden,0.03
@@ -1245,7 +1245,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jul 4, 2020",Bratislava,Slovakia,-0.01
 "Jul 4, 2020",Riga,Latvia,-0.01
 "Jul 4, 2020",Lviv,Ukraine,-0.01
-"Jul 4, 2020",Gold Coast,Australia,0
+"Jul 4, 2020",Gold Coast,Australia,0.0
 "Jul 4, 2020",Montevideo,Uruguay,0.01
 "Jul 4, 2020",Liverpool,United Kingdom,0.02
 "Jul 4, 2020",Luton,United Kingdom,0.04
@@ -1386,8 +1386,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jul 3, 2020",Haifa,Israel,-0.02
 "Jul 3, 2020",Hamilton,Canada,-0.02
 "Jul 3, 2020",Sydney,Australia,-0.02
-"Jul 3, 2020",Brno,Czechia,0
-"Jul 3, 2020",Be'er Sheva,Israel,0
+"Jul 3, 2020",Brno,Czechia,0.0
+"Jul 3, 2020",Be'er Sheva,Israel,0.0
 "Jul 3, 2020",Rishon Letsiyon,Israel,0.01
 "Jul 3, 2020",Riga,Latvia,0.02
 "Jul 3, 2020",Puchong,Malaysia,0.04
@@ -1520,7 +1520,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jul 2, 2020",Haifa,Israel,-0.03
 "Jul 2, 2020",Puchong,Malaysia,-0.01
 "Jul 2, 2020",Bucharest,Romania,-0.01
-"Jul 2, 2020",Bordeaux,France,0
+"Jul 2, 2020",Bordeaux,France,0.0
 "Jul 2, 2020",Quebec City,Canada,0.01
 "Jul 2, 2020",Kaunas,Lithuania,0.01
 "Jul 2, 2020",Maipu,Chile,0.02
@@ -1661,10 +1661,10 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jul 1, 2020",Luton,United Kingdom,-0.02
 "Jul 1, 2020",Rotterdam,Netherlands,-0.02
 "Jul 1, 2020",Tel Aviv-Yafo,Israel,-0.02
-"Jul 1, 2020",Lyon,France,0
-"Jul 1, 2020",Bucharest,Romania,0
-"Jul 1, 2020",Brno,Czechia,0
-"Jul 1, 2020",Shah Alam,Malaysia,0
+"Jul 1, 2020",Lyon,France,0.0
+"Jul 1, 2020",Bucharest,Romania,0.0
+"Jul 1, 2020",Brno,Czechia,0.0
+"Jul 1, 2020",Shah Alam,Malaysia,0.0
 "Jul 1, 2020",Rishon Letsiyon,Israel,0.01
 "Jul 1, 2020",Puchong,Malaysia,0.02
 "Jul 1, 2020",Ramat Gan,Israel,0.03
@@ -1800,7 +1800,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 30, 2020",Be'er Sheva,Israel,-0.02
 "Jun 30, 2020",Toulouse,France,-0.02
 "Jun 30, 2020",Puchong,Malaysia,-0.02
-"Jun 30, 2020",Lyon,France,0
+"Jun 30, 2020",Lyon,France,0.0
 "Jun 30, 2020",Bucharest,Romania,0.03
 "Jun 30, 2020",Paris,France,0.04
 "Jun 30, 2020",Rishon Letsiyon,Israel,0.04
@@ -1935,7 +1935,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 29, 2020",Be'er Sheva,Israel,-0.05
 "Jun 29, 2020",Shah Alam,Malaysia,-0.04
 "Jun 29, 2020",Bordeaux,France,-0.02
-"Jun 29, 2020",Rishon Letsiyon,Israel,0
+"Jun 29, 2020",Rishon Letsiyon,Israel,0.0
 "Jun 29, 2020",Paris,France,0.01
 "Jun 29, 2020",Lyon,France,0.02
 "Jun 29, 2020",Hamilton,Canada,0.02
@@ -2067,8 +2067,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 28, 2020",Lille,France,-0.03
 "Jun 28, 2020",Tel Aviv-Yafo,Israel,-0.02
 "Jun 28, 2020",Quebec City,Canada,-0.02
-"Jun 28, 2020",Paris,France,0
-"Jun 28, 2020",Antwerp,Belgium,0
+"Jun 28, 2020",Paris,France,0.0
+"Jun 28, 2020",Antwerp,Belgium,0.0
 "Jun 28, 2020",Kaunas,Lithuania,0.01
 "Jun 28, 2020",Haifa,Israel,0.01
 "Jun 28, 2020",Hamilton,Canada,0.02
@@ -2924,7 +2924,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 22, 2020",Bratislava,Slovakia,-0.02
 "Jun 22, 2020",Ramat Gan,Israel,-0.02
 "Jun 22, 2020",Lyon,France,-0.01
-"Jun 22, 2020",Lille,France,0
+"Jun 22, 2020",Lille,France,0.0
 "Jun 22, 2020",Paris,France,0.01
 "Jun 22, 2020",Rishon Letsiyon,Israel,0.06
 "Jun 22, 2020",Hamilton,Canada,0.06
@@ -3049,8 +3049,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 21, 2020",Lviv,Ukraine,-0.06
 "Jun 21, 2020",Brisbane,Australia,-0.05
 "Jun 21, 2020",Gold Coast,Australia,-0.05
-"Jun 21, 2020",Bucharest,Romania,0
-"Jun 21, 2020",Berlin,Germany,0
+"Jun 21, 2020",Bucharest,Romania,0.0
+"Jun 21, 2020",Berlin,Germany,0.0
 "Jun 21, 2020",Quebec City,Canada,0.02
 "Jun 21, 2020",Paris,France,0.02
 "Jun 21, 2020",Tel Aviv-Yafo,Israel,0.02
@@ -3348,7 +3348,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 19, 2020",Ipoh,Malaysia,-0.03
 "Jun 19, 2020",Kaunas,Lithuania,-0.02
 "Jun 19, 2020",Prague,Czechia,-0.01
-"Jun 19, 2020",Marseille,France,0
+"Jun 19, 2020",Marseille,France,0.0
 "Jun 19, 2020",Vilnius,Lithuania,0.03
 "Jun 19, 2020",Brno,Czechia,0.04
 "Jun 19, 2020",Ramat Gan,Israel,0.06
@@ -3483,7 +3483,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 18, 2020",Marseille,France,-0.06
 "Jun 18, 2020",Tel Aviv-Yafo,Israel,-0.06
 "Jun 18, 2020",Kaunas,Lithuania,-0.04
-"Jun 18, 2020",Haifa,Israel,0
+"Jun 18, 2020",Haifa,Israel,0.0
 "Jun 18, 2020",Prague,Czechia,0.01
 "Jun 18, 2020",Rishon Letsiyon,Israel,0.01
 "Jun 18, 2020",Puchong,Malaysia,0.05
@@ -3757,7 +3757,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 16, 2020",Marseille,France,-0.02
 "Jun 16, 2020",Haifa,Israel,-0.01
 "Jun 16, 2020",Tel Aviv-Yafo,Israel,-0.01
-"Jun 16, 2020",Rishon Letsiyon,Israel,0
+"Jun 16, 2020",Rishon Letsiyon,Israel,0.0
 "Jun 16, 2020",Lyon,France,0.01
 "Jun 16, 2020",Brno,Czechia,0.03
 "Jun 16, 2020",South Tangerang,Indonesia,0.03
@@ -3899,7 +3899,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 15, 2020",Tel Aviv-Yafo,Israel,-0.01
 "Jun 15, 2020",Haifa,Israel,-0.01
 "Jun 15, 2020",Ramat Gan,Israel,-0.01
-"Jun 15, 2020",Rishon Letsiyon,Israel,0
+"Jun 15, 2020",Rishon Letsiyon,Israel,0.0
 "Jun 15, 2020",Marseille,France,0.04
 "Jun 15, 2020",Brno,Czechia,0.04
 "Jun 15, 2020",Prague,Czechia,0.04
@@ -4034,8 +4034,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 14, 2020",Bratislava,Slovakia,-0.03
 "Jun 14, 2020",Berlin,Germany,-0.02
 "Jun 14, 2020",Ramat Gan,Israel,-0.02
-"Jun 14, 2020",Gold Coast,Australia,0
-"Jun 14, 2020",Lille,France,0
+"Jun 14, 2020",Gold Coast,Australia,0.0
+"Jun 14, 2020",Lille,France,0.0
 "Jun 14, 2020",Brno,Czechia,0.01
 "Jun 14, 2020",Bordeaux,France,0.02
 "Jun 14, 2020",Tel Aviv-Yafo,Israel,0.02
@@ -4744,9 +4744,9 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 9, 2020",Haifa,Israel,-0.03
 "Jun 9, 2020",Tel Aviv-Yafo,Israel,-0.02
 "Jun 9, 2020",Rishon Letsiyon,Israel,-0.01
-"Jun 9, 2020",Ramat Gan,Israel,0
-"Jun 9, 2020",Lviv,Ukraine,0
-"Jun 9, 2020",Prague,Czechia,0
+"Jun 9, 2020",Ramat Gan,Israel,0.0
+"Jun 9, 2020",Lviv,Ukraine,0.0
+"Jun 9, 2020",Prague,Czechia,0.0
 "Jun 9, 2020",Rotterdam,Netherlands,0.02
 "Jun 9, 2020",Gold Coast,Australia,0.05
 "Jun 9, 2020",Riga,Latvia,0.06
@@ -5306,7 +5306,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 5, 2020",Riga,Latvia,-0.07
 "Jun 5, 2020",Haifa,Israel,-0.06
 "Jun 5, 2020",Rotterdam,Netherlands,-0.04
-"Jun 5, 2020",Stockholm,Sweden,0
+"Jun 5, 2020",Stockholm,Sweden,0.0
 "Jun 5, 2020",Rishon Letsiyon,Israel,0.05
 "Jun 5, 2020",Brno,Czechia,0.08
 "Jun 5, 2020",Lviv,Ukraine,0.22
@@ -5588,7 +5588,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 3, 2020",Riga,Latvia,-0.03
 "Jun 3, 2020",Haifa,Israel,-0.02
 "Jun 3, 2020",Be'er Sheva,Israel,-0.01
-"Jun 3, 2020",Brno,Czechia,0
+"Jun 3, 2020",Brno,Czechia,0.0
 "Jun 3, 2020",Lviv,Ukraine,0.34
 "Jun 3, 2020",Kyiv,Ukraine,0.36
 "Jun 2, 2020",Luton,United Kingdom,-0.8
@@ -5865,7 +5865,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Jun 1, 2020",Rishon Letsiyon,Israel,-0.02
 "Jun 1, 2020",Minneapolis,United States,-0.02
 "Jun 1, 2020",Be'er Sheva,Israel,-0.01
-"Jun 1, 2020",Kaunas,Lithuania,0
+"Jun 1, 2020",Kaunas,Lithuania,0.0
 "Jun 1, 2020",Riga,Latvia,0.03
 "Jun 1, 2020",Bucharest,Romania,0.06
 "Jun 1, 2020",Berlin,Germany,0.22
@@ -6000,7 +6000,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "May 31, 2020",Ramat Gan,Israel,-0.03
 "May 31, 2020",Be'er Sheva,Israel,-0.02
 "May 31, 2020",Haifa,Israel,-0.01
-"May 31, 2020",Vilnius,Lithuania,0
+"May 31, 2020",Vilnius,Lithuania,0.0
 "May 31, 2020",Tel Aviv-Yafo,Israel,0.01
 "May 31, 2020",Prague,Czechia,0.02
 "May 31, 2020",Rishon Letsiyon,Israel,0.02
@@ -6424,9 +6424,9 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "May 28, 2020",Prague,Czechia,-0.12
 "May 28, 2020",Manchester,United Kingdom,-0.1
 "May 28, 2020",Riga,Latvia,-0.02
-"May 28, 2020",Vilnius,Lithuania,0
-"May 28, 2020",Kaunas,Lithuania,0
-"May 28, 2020",Gold Coast,Australia,0
+"May 28, 2020",Vilnius,Lithuania,0.0
+"May 28, 2020",Kaunas,Lithuania,0.0
+"May 28, 2020",Gold Coast,Australia,0.0
 "May 28, 2020",Kyiv,Ukraine,0.06
 "May 28, 2020",Lviv,Ukraine,0.22
 "May 27, 2020",Minneapolis,United States,-0.88
@@ -6561,7 +6561,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "May 27, 2020",Stockholm,Sweden,-0.05
 "May 27, 2020",Riga,Latvia,-0.04
 "May 27, 2020",Ramat Gan,Israel,-0.01
-"May 27, 2020",Haifa,Israel,0
+"May 27, 2020",Haifa,Israel,0.0
 "May 27, 2020",Tel Aviv-Yafo,Israel,0.01
 "May 27, 2020",Kyiv,Ukraine,0.04
 "May 27, 2020",Be'er Sheva,Israel,0.04
@@ -7403,7 +7403,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "May 21, 2020",Riga,Latvia,-0.09
 "May 21, 2020",Ramat Gan,Israel,-0.07
 "May 21, 2020",Brno,Czechia,-0.06
-"May 21, 2020",Be'er Sheva,Israel,0
+"May 21, 2020",Be'er Sheva,Israel,0.0
 "May 21, 2020",Maipu,Chile,0.07
 "May 21, 2020",Kyiv,Ukraine,0.37
 "May 20, 2020",Cambridge,United States,-0.94
@@ -9225,7 +9225,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "May 8, 2020",Riga,Latvia,-0.22
 "May 8, 2020",Rishon Letsiyon,Israel,-0.21
 "May 8, 2020",Ramat Gan,Israel,-0.13
-"May 8, 2020",Kyiv,Ukraine,0
+"May 8, 2020",Kyiv,Ukraine,0.0
 "May 7, 2020",Makati,Philippines,-0.9
 "May 7, 2020",Lima,Peru,-0.85
 "May 7, 2020",Manila,Philippines,-0.85
@@ -16776,7 +16776,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 15, 2020",Shah Alam,Malaysia,-0.04
 "Mar 15, 2020",Puchong,Malaysia,-0.03
 "Mar 15, 2020",Sao Paulo,Brazil,-0.01
-"Mar 15, 2020",Fortaleza,Brazil,0
+"Mar 15, 2020",Fortaleza,Brazil,0.0
 "Mar 15, 2020",Santiago De Queretaro,Mexico,0.02
 "Mar 15, 2020",Singapore,Singapore,0.02
 "Mar 15, 2020",Guarulhos,Brazil,0.05
@@ -16911,8 +16911,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 14, 2020",Guadalajara,Mexico,-0.04
 "Mar 14, 2020",Puebla City,Mexico,-0.03
 "Mar 14, 2020",Sao Paulo,Brazil,-0.02
-"Mar 14, 2020",Singapore,Singapore,0
-"Mar 14, 2020",Bristol,United Kingdom,0
+"Mar 14, 2020",Singapore,Singapore,0.0
+"Mar 14, 2020",Bristol,United Kingdom,0.0
 "Mar 14, 2020",Johor Bahru,Malaysia,0.01
 "Mar 14, 2020",Santiago,Chile,0.01
 "Mar 14, 2020",Santiago De Queretaro,Mexico,0.03
@@ -17052,7 +17052,7 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 13, 2020",Buenos Aires,Argentina,-0.01
 "Mar 13, 2020",Salvador,Brazil,-0.01
 "Mar 13, 2020",Johor Bahru,Malaysia,-0.01
-"Mar 13, 2020",Liverpool,United Kingdom,0
+"Mar 13, 2020",Liverpool,United Kingdom,0.0
 "Mar 13, 2020",Singapore,Singapore,0.01
 "Mar 13, 2020",Kyiv,Ukraine,0.01
 "Mar 13, 2020",Raleigh,United States,0.02
@@ -17176,14 +17176,14 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 12, 2020",Shah Alam,Malaysia,-0.01
 "Mar 12, 2020",Montreal,Canada,-0.01
 "Mar 12, 2020",Zapopan,Mexico,-0.01
-"Mar 12, 2020",Luton,United Kingdom,0
-"Mar 12, 2020",Perth,Australia,0
-"Mar 12, 2020",Fort Worth,United States,0
-"Mar 12, 2020",Sydney,Australia,0
-"Mar 12, 2020",Sao Paulo,Brazil,0
-"Mar 12, 2020",Mexico City,Mexico,0
-"Mar 12, 2020",Liverpool,United Kingdom,0
-"Mar 12, 2020",Vilnius,Lithuania,0
+"Mar 12, 2020",Luton,United Kingdom,0.0
+"Mar 12, 2020",Perth,Australia,0.0
+"Mar 12, 2020",Fort Worth,United States,0.0
+"Mar 12, 2020",Sydney,Australia,0.0
+"Mar 12, 2020",Sao Paulo,Brazil,0.0
+"Mar 12, 2020",Mexico City,Mexico,0.0
+"Mar 12, 2020",Liverpool,United Kingdom,0.0
+"Mar 12, 2020",Vilnius,Lithuania,0.0
 "Mar 12, 2020",Quito,Ecuador,0.01
 "Mar 12, 2020",Puebla City,Mexico,0.01
 "Mar 12, 2020",Santiago De Queretaro,Mexico,0.01
@@ -17298,17 +17298,17 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 11, 2020",Budapest,Hungary,-0.01
 "Mar 11, 2020",Guarulhos,Brazil,-0.01
 "Mar 11, 2020",Atlanta,United States,-0.01
-"Mar 11, 2020",Krakow,Poland,0
-"Mar 11, 2020",Bekasi,Indonesia,0
-"Mar 11, 2020",Mexico City,Mexico,0
-"Mar 11, 2020",Ghent,Belgium,0
-"Mar 11, 2020",Puebla City,Mexico,0
-"Mar 11, 2020",Jerusalem,Israel,0
-"Mar 11, 2020",Manchester,United Kingdom,0
-"Mar 11, 2020",Berlin,Germany,0
-"Mar 11, 2020",Fortaleza,Brazil,0
-"Mar 11, 2020",Belo Horizonte,Brazil,0
-"Mar 11, 2020",Sydney,Australia,0
+"Mar 11, 2020",Krakow,Poland,0.0
+"Mar 11, 2020",Bekasi,Indonesia,0.0
+"Mar 11, 2020",Mexico City,Mexico,0.0
+"Mar 11, 2020",Ghent,Belgium,0.0
+"Mar 11, 2020",Puebla City,Mexico,0.0
+"Mar 11, 2020",Jerusalem,Israel,0.0
+"Mar 11, 2020",Manchester,United Kingdom,0.0
+"Mar 11, 2020",Berlin,Germany,0.0
+"Mar 11, 2020",Fortaleza,Brazil,0.0
+"Mar 11, 2020",Belo Horizonte,Brazil,0.0
+"Mar 11, 2020",Sydney,Australia,0.0
 "Mar 11, 2020",Melbourne,Australia,0.01
 "Mar 11, 2020",Birmingham,United Kingdom,0.02
 "Mar 11, 2020",Fort Worth,United States,0.02
@@ -17425,12 +17425,12 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 10, 2020",Makati,Philippines,-0.01
 "Mar 10, 2020",Santiago De Queretaro,Mexico,-0.01
 "Mar 10, 2020",Lisbon,Portugal,-0.01
-"Mar 10, 2020",Bucharest,Romania,0
-"Mar 10, 2020",Vaughan,Canada,0
-"Mar 10, 2020",Hamilton,Canada,0
-"Mar 10, 2020",Puchong,Malaysia,0
-"Mar 10, 2020",Bogota,Colombia,0
-"Mar 10, 2020",Gold Coast,Australia,0
+"Mar 10, 2020",Bucharest,Romania,0.0
+"Mar 10, 2020",Vaughan,Canada,0.0
+"Mar 10, 2020",Hamilton,Canada,0.0
+"Mar 10, 2020",Puchong,Malaysia,0.0
+"Mar 10, 2020",Bogota,Colombia,0.0
+"Mar 10, 2020",Gold Coast,Australia,0.0
 "Mar 10, 2020",Brisbane,Australia,0.01
 "Mar 10, 2020",Lille,France,0.01
 "Mar 10, 2020",Budapest,Hungary,0.01
@@ -17560,17 +17560,17 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 9, 2020",Las Condes,Chile,-0.01
 "Mar 9, 2020",Tel Aviv-Yafo,Israel,-0.01
 "Mar 9, 2020",Kuala Lumpur,Malaysia,-0.01
-"Mar 9, 2020",Bogota,Colombia,0
-"Mar 9, 2020",Austin,United States,0
-"Mar 9, 2020",Berlin,Germany,0
-"Mar 9, 2020",Liverpool,United Kingdom,0
-"Mar 9, 2020",Makati,Philippines,0
-"Mar 9, 2020",Krakow,Poland,0
-"Mar 9, 2020",Puchong,Malaysia,0
-"Mar 9, 2020",Detroit,United States,0
-"Mar 9, 2020",Cape Town,South Africa,0
-"Mar 9, 2020",Petaling Jaya,Malaysia,0
-"Mar 9, 2020",Manchester,United Kingdom,0
+"Mar 9, 2020",Bogota,Colombia,0.0
+"Mar 9, 2020",Austin,United States,0.0
+"Mar 9, 2020",Berlin,Germany,0.0
+"Mar 9, 2020",Liverpool,United Kingdom,0.0
+"Mar 9, 2020",Makati,Philippines,0.0
+"Mar 9, 2020",Krakow,Poland,0.0
+"Mar 9, 2020",Puchong,Malaysia,0.0
+"Mar 9, 2020",Detroit,United States,0.0
+"Mar 9, 2020",Cape Town,South Africa,0.0
+"Mar 9, 2020",Petaling Jaya,Malaysia,0.0
+"Mar 9, 2020",Manchester,United Kingdom,0.0
 "Mar 9, 2020",Bucharest,Romania,0.01
 "Mar 9, 2020",Riga,Latvia,0.01
 "Mar 9, 2020",Shah Alam,Malaysia,0.01
@@ -17680,26 +17680,26 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 8, 2020",Mississauga,Canada,-0.01
 "Mar 8, 2020",Baltimore,United States,-0.01
 "Mar 8, 2020",London,United Kingdom,-0.01
-"Mar 8, 2020",Jerusalem,Israel,0
-"Mar 8, 2020",Vilnius,Lithuania,0
-"Mar 8, 2020",Lima,Peru,0
-"Mar 8, 2020",Houston,United States,0
-"Mar 8, 2020",Manila,Philippines,0
-"Mar 8, 2020",Bristol,United Kingdom,0
-"Mar 8, 2020",Pittsburgh,United States,0
-"Mar 8, 2020",Budapest,Hungary,0
-"Mar 8, 2020",Sacramento,United States,0
-"Mar 8, 2020",Bekasi,Indonesia,0
-"Mar 8, 2020",Tangerang,Indonesia,0
-"Mar 8, 2020",Quezon City,Philippines,0
-"Mar 8, 2020",Puchong,Malaysia,0
-"Mar 8, 2020",Washington,United States,0
-"Mar 8, 2020",South Tangerang,Indonesia,0
-"Mar 8, 2020",New York,United States,0
-"Mar 8, 2020",Jersey City,United States,0
-"Mar 8, 2020",Lille,France,0
-"Mar 8, 2020",Ghent,Belgium,0
-"Mar 8, 2020",Warsaw,Poland,0
+"Mar 8, 2020",Jerusalem,Israel,0.0
+"Mar 8, 2020",Vilnius,Lithuania,0.0
+"Mar 8, 2020",Lima,Peru,0.0
+"Mar 8, 2020",Houston,United States,0.0
+"Mar 8, 2020",Manila,Philippines,0.0
+"Mar 8, 2020",Bristol,United Kingdom,0.0
+"Mar 8, 2020",Pittsburgh,United States,0.0
+"Mar 8, 2020",Budapest,Hungary,0.0
+"Mar 8, 2020",Sacramento,United States,0.0
+"Mar 8, 2020",Bekasi,Indonesia,0.0
+"Mar 8, 2020",Tangerang,Indonesia,0.0
+"Mar 8, 2020",Quezon City,Philippines,0.0
+"Mar 8, 2020",Puchong,Malaysia,0.0
+"Mar 8, 2020",Washington,United States,0.0
+"Mar 8, 2020",South Tangerang,Indonesia,0.0
+"Mar 8, 2020",New York,United States,0.0
+"Mar 8, 2020",Jersey City,United States,0.0
+"Mar 8, 2020",Lille,France,0.0
+"Mar 8, 2020",Ghent,Belgium,0.0
+"Mar 8, 2020",Warsaw,Poland,0.0
 "Mar 8, 2020",Recife,Brazil,0.01
 "Mar 8, 2020",Kuala Lumpur,Malaysia,0.01
 "Mar 8, 2020",Bucharest,Romania,0.01
@@ -17842,13 +17842,13 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 7, 2020",Bordeaux,France,-0.01
 "Mar 7, 2020",Birmingham,United Kingdom,-0.01
 "Mar 7, 2020",Boston,United States,-0.01
-"Mar 7, 2020",Vilnius,Lithuania,0
-"Mar 7, 2020",Bristol,United Kingdom,0
-"Mar 7, 2020",Be'er Sheva,Israel,0
-"Mar 7, 2020",Minneapolis,United States,0
-"Mar 7, 2020",Vitoria,Brazil,0
-"Mar 7, 2020",Jersey City,United States,0
-"Mar 7, 2020",Rotterdam,Netherlands,0
+"Mar 7, 2020",Vilnius,Lithuania,0.0
+"Mar 7, 2020",Bristol,United Kingdom,0.0
+"Mar 7, 2020",Be'er Sheva,Israel,0.0
+"Mar 7, 2020",Minneapolis,United States,0.0
+"Mar 7, 2020",Vitoria,Brazil,0.0
+"Mar 7, 2020",Jersey City,United States,0.0
+"Mar 7, 2020",Rotterdam,Netherlands,0.0
 "Mar 7, 2020",London,United Kingdom,0.01
 "Mar 7, 2020",Philadelphia,United States,0.01
 "Mar 7, 2020",New York,United States,0.01
@@ -17979,19 +17979,19 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 6, 2020",Los Angeles,United States,-0.01
 "Mar 6, 2020",Brisbane,Australia,-0.01
 "Mar 6, 2020",Zapopan,Mexico,-0.01
-"Mar 6, 2020",Minneapolis,United States,0
-"Mar 6, 2020",Stockholm,Sweden,0
-"Mar 6, 2020",Fort Lauderdale,United States,0
-"Mar 6, 2020",Toronto,Canada,0
-"Mar 6, 2020",Krakow,Poland,0
-"Mar 6, 2020",Bekasi,Indonesia,0
-"Mar 6, 2020",Calgary,Canada,0
-"Mar 6, 2020",Lviv,Ukraine,0
-"Mar 6, 2020",Monterrey,Mexico,0
-"Mar 6, 2020",Baltimore,United States,0
-"Mar 6, 2020",Kaunas,Lithuania,0
-"Mar 6, 2020",Liverpool,United Kingdom,0
-"Mar 6, 2020",Lisbon,Portugal,0
+"Mar 6, 2020",Minneapolis,United States,0.0
+"Mar 6, 2020",Stockholm,Sweden,0.0
+"Mar 6, 2020",Fort Lauderdale,United States,0.0
+"Mar 6, 2020",Toronto,Canada,0.0
+"Mar 6, 2020",Krakow,Poland,0.0
+"Mar 6, 2020",Bekasi,Indonesia,0.0
+"Mar 6, 2020",Calgary,Canada,0.0
+"Mar 6, 2020",Lviv,Ukraine,0.0
+"Mar 6, 2020",Monterrey,Mexico,0.0
+"Mar 6, 2020",Baltimore,United States,0.0
+"Mar 6, 2020",Kaunas,Lithuania,0.0
+"Mar 6, 2020",Liverpool,United Kingdom,0.0
+"Mar 6, 2020",Lisbon,Portugal,0.0
 "Mar 6, 2020",Orlando,United States,0.01
 "Mar 6, 2020",Shah Alam,Malaysia,0.01
 "Mar 6, 2020",Johor Bahru,Malaysia,0.01
@@ -18104,23 +18104,23 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 5, 2020",Budapest,Hungary,-0.01
 "Mar 5, 2020",Manila,Philippines,-0.01
 "Mar 5, 2020",San Diego,United States,-0.01
-"Mar 5, 2020",Lima,Peru,0
-"Mar 5, 2020",Krakow,Poland,0
-"Mar 5, 2020",Vaughan,Canada,0
-"Mar 5, 2020",Perth,Australia,0
-"Mar 5, 2020",Quezon City,Philippines,0
-"Mar 5, 2020",Luton,United Kingdom,0
-"Mar 5, 2020",Austin,United States,0
-"Mar 5, 2020",Birmingham,United Kingdom,0
-"Mar 5, 2020",Cincinnati,United States,0
-"Mar 5, 2020",Lviv,Ukraine,0
-"Mar 5, 2020",Rotterdam,Netherlands,0
-"Mar 5, 2020",Paris,France,0
-"Mar 5, 2020",Be'er Sheva,Israel,0
-"Mar 5, 2020",Monterrey,Mexico,0
-"Mar 5, 2020",Puchong,Malaysia,0
-"Mar 5, 2020",Cali,Colombia,0
-"Mar 5, 2020",Gold Coast,Australia,0
+"Mar 5, 2020",Lima,Peru,0.0
+"Mar 5, 2020",Krakow,Poland,0.0
+"Mar 5, 2020",Vaughan,Canada,0.0
+"Mar 5, 2020",Perth,Australia,0.0
+"Mar 5, 2020",Quezon City,Philippines,0.0
+"Mar 5, 2020",Luton,United Kingdom,0.0
+"Mar 5, 2020",Austin,United States,0.0
+"Mar 5, 2020",Birmingham,United Kingdom,0.0
+"Mar 5, 2020",Cincinnati,United States,0.0
+"Mar 5, 2020",Lviv,Ukraine,0.0
+"Mar 5, 2020",Rotterdam,Netherlands,0.0
+"Mar 5, 2020",Paris,France,0.0
+"Mar 5, 2020",Be'er Sheva,Israel,0.0
+"Mar 5, 2020",Monterrey,Mexico,0.0
+"Mar 5, 2020",Puchong,Malaysia,0.0
+"Mar 5, 2020",Cali,Colombia,0.0
+"Mar 5, 2020",Gold Coast,Australia,0.0
 "Mar 5, 2020",Tampa,United States,0.01
 "Mar 5, 2020",Philadelphia,United States,0.01
 "Mar 5, 2020",Melbourne,Australia,0.01
@@ -18248,19 +18248,19 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 4, 2020",Mexico City,Mexico,-0.01
 "Mar 4, 2020",Boston,United States,-0.01
 "Mar 4, 2020",Madrid,Spain,-0.01
-"Mar 4, 2020",Manchester,United Kingdom,0
-"Mar 4, 2020",Bekasi,Indonesia,0
-"Mar 4, 2020",Jersey City,United States,0
-"Mar 4, 2020",Vaughan,Canada,0
-"Mar 4, 2020",Brisbane,Australia,0
-"Mar 4, 2020",Bucharest,Romania,0
-"Mar 4, 2020",Luton,United Kingdom,0
-"Mar 4, 2020",Puchong,Malaysia,0
-"Mar 4, 2020",Hartford,United States,0
-"Mar 4, 2020",Lviv,Ukraine,0
-"Mar 4, 2020",San Jose,United States,0
-"Mar 4, 2020",Kuala Lumpur,Malaysia,0
-"Mar 4, 2020",Chicago,United States,0
+"Mar 4, 2020",Manchester,United Kingdom,0.0
+"Mar 4, 2020",Bekasi,Indonesia,0.0
+"Mar 4, 2020",Jersey City,United States,0.0
+"Mar 4, 2020",Vaughan,Canada,0.0
+"Mar 4, 2020",Brisbane,Australia,0.0
+"Mar 4, 2020",Bucharest,Romania,0.0
+"Mar 4, 2020",Luton,United Kingdom,0.0
+"Mar 4, 2020",Puchong,Malaysia,0.0
+"Mar 4, 2020",Hartford,United States,0.0
+"Mar 4, 2020",Lviv,Ukraine,0.0
+"Mar 4, 2020",San Jose,United States,0.0
+"Mar 4, 2020",Kuala Lumpur,Malaysia,0.0
+"Mar 4, 2020",Chicago,United States,0.0
 "Mar 4, 2020",Quezon City,Philippines,0.01
 "Mar 4, 2020",Jerusalem,Israel,0.01
 "Mar 4, 2020",San Jose,Costa Rica,0.01
@@ -18389,18 +18389,18 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 3, 2020",Rio De Janeiro,Brazil,-0.01
 "Mar 3, 2020",Brussels,Belgium,-0.01
 "Mar 3, 2020",Mexico City,Mexico,-0.01
-"Mar 3, 2020",Kuala Lumpur,Malaysia,0
-"Mar 3, 2020",Baltimore,United States,0
-"Mar 3, 2020",Fort Lauderdale,United States,0
-"Mar 3, 2020",Paris,France,0
-"Mar 3, 2020",Tel Aviv-Yafo,Israel,0
-"Mar 3, 2020",Medellin,Colombia,0
-"Mar 3, 2020",San Antonio,United States,0
-"Mar 3, 2020",Vaughan,Canada,0
-"Mar 3, 2020",Manila,Philippines,0
-"Mar 3, 2020",Gold Coast,Australia,0
-"Mar 3, 2020",Rishon Letsiyon,Israel,0
-"Mar 3, 2020",London,United Kingdom,0
+"Mar 3, 2020",Kuala Lumpur,Malaysia,0.0
+"Mar 3, 2020",Baltimore,United States,0.0
+"Mar 3, 2020",Fort Lauderdale,United States,0.0
+"Mar 3, 2020",Paris,France,0.0
+"Mar 3, 2020",Tel Aviv-Yafo,Israel,0.0
+"Mar 3, 2020",Medellin,Colombia,0.0
+"Mar 3, 2020",San Antonio,United States,0.0
+"Mar 3, 2020",Vaughan,Canada,0.0
+"Mar 3, 2020",Manila,Philippines,0.0
+"Mar 3, 2020",Gold Coast,Australia,0.0
+"Mar 3, 2020",Rishon Letsiyon,Israel,0.0
+"Mar 3, 2020",London,United Kingdom,0.0
 "Mar 3, 2020",Prague,Czechia,0.01
 "Mar 3, 2020",Quezon City,Philippines,0.01
 "Mar 3, 2020",Melbourne,Australia,0.01
@@ -18510,21 +18510,21 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 2, 2020",London,United Kingdom,-0.01
 "Mar 2, 2020",Jakarta,Indonesia,-0.01
 "Mar 2, 2020",Amsterdam,Netherlands,-0.01
-"Mar 2, 2020",Perth,Australia,0
-"Mar 2, 2020",Fort Lauderdale,United States,0
-"Mar 2, 2020",Portland,United States,0
-"Mar 2, 2020",Philadelphia,United States,0
-"Mar 2, 2020",Brussels,Belgium,0
-"Mar 2, 2020",Bucharest,Romania,0
-"Mar 2, 2020",Lviv,Ukraine,0
-"Mar 2, 2020",Orlando,United States,0
-"Mar 2, 2020",Ghent,Belgium,0
-"Mar 2, 2020",Manchester,United Kingdom,0
-"Mar 2, 2020",Kaunas,Lithuania,0
-"Mar 2, 2020",Birmingham,United Kingdom,0
-"Mar 2, 2020",San Jose,Costa Rica,0
-"Mar 2, 2020",Gold Coast,Australia,0
-"Mar 2, 2020",Liverpool,United Kingdom,0
+"Mar 2, 2020",Perth,Australia,0.0
+"Mar 2, 2020",Fort Lauderdale,United States,0.0
+"Mar 2, 2020",Portland,United States,0.0
+"Mar 2, 2020",Philadelphia,United States,0.0
+"Mar 2, 2020",Brussels,Belgium,0.0
+"Mar 2, 2020",Bucharest,Romania,0.0
+"Mar 2, 2020",Lviv,Ukraine,0.0
+"Mar 2, 2020",Orlando,United States,0.0
+"Mar 2, 2020",Ghent,Belgium,0.0
+"Mar 2, 2020",Manchester,United Kingdom,0.0
+"Mar 2, 2020",Kaunas,Lithuania,0.0
+"Mar 2, 2020",Birmingham,United Kingdom,0.0
+"Mar 2, 2020",San Jose,Costa Rica,0.0
+"Mar 2, 2020",Gold Coast,Australia,0.0
+"Mar 2, 2020",Liverpool,United Kingdom,0.0
 "Mar 2, 2020",Petaling Jaya,Malaysia,0.01
 "Mar 2, 2020",Prague,Czechia,0.01
 "Mar 2, 2020",Santiago De Queretaro,Mexico,0.01
@@ -18653,15 +18653,15 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Mar 1, 2020",Melbourne,Australia,-0.01
 "Mar 1, 2020",Zapopan,Mexico,-0.01
 "Mar 1, 2020",Austin,United States,-0.01
-"Mar 1, 2020",Brno,Czechia,0
-"Mar 1, 2020",Tangerang,Indonesia,0
-"Mar 1, 2020",Irvine,United States,0
-"Mar 1, 2020",Bristol,United Kingdom,0
-"Mar 1, 2020",Washington,United States,0
-"Mar 1, 2020",Miami Beach,United States,0
-"Mar 1, 2020",Bekasi,Indonesia,0
-"Mar 1, 2020",South Tangerang,Indonesia,0
-"Mar 1, 2020",Puchong,Malaysia,0
+"Mar 1, 2020",Brno,Czechia,0.0
+"Mar 1, 2020",Tangerang,Indonesia,0.0
+"Mar 1, 2020",Irvine,United States,0.0
+"Mar 1, 2020",Bristol,United Kingdom,0.0
+"Mar 1, 2020",Washington,United States,0.0
+"Mar 1, 2020",Miami Beach,United States,0.0
+"Mar 1, 2020",Bekasi,Indonesia,0.0
+"Mar 1, 2020",South Tangerang,Indonesia,0.0
+"Mar 1, 2020",Puchong,Malaysia,0.0
 "Mar 1, 2020",Baltimore,United States,0.01
 "Mar 1, 2020",Marseille,France,0.01
 "Mar 1, 2020",Bratislava,Slovakia,0.01
