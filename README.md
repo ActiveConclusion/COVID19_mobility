@@ -92,7 +92,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 4. [Balefire COVID-19 USA Data Explorer](http://balefire.info/)
 5. [Pandemic Traffic in Ireland](https://public.tableau.com/profile/docinsight#!/vizhome/COVIDtrafficinIrelandrepoint/MobilityDashboard) by David ó Cinnéide
 6. [New South Wales COVID Tracking Dashboard](https://public.tableau.com/profile/damjan.vlastelica#!/vizhome/CovidNSWTracker/HomeDash?publish=yes) by Damjan Vlastelica
-7. [Here can be your great dashboard/visualization]
+7. [Global COVID Vital Signs](https://eastnileuc.shinyapps.io/global_covidts/)
+8. [Here can be your great dashboard/visualization]
 
 ## Articles
 1. [Is Your Community Doing Enough To Fight COVID-19?](https://towardsdatascience.com/is-your-community-doing-enough-to-fight-covid-19-aa745b424eb1) by [Molly Liebeskind](https://towardsdatascience.com/@molly.liebeskind)
