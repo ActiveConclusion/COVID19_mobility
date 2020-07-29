@@ -88,13 +88,22 @@ def build_google_report(
         Returns:
            google (DataFrame): generated Google report
     '''
+    # read the raw report
     google = pd.read_csv(source, low_memory=False)
+    # shorten value column names
     google.columns = google.columns.str.replace(
         r'_percent_change_from_baseline', '')
+    # remove underscores from column names
     google.columns = google.columns.str.replace(r'_', ' ')
+    # rename country column
     google = google.rename(columns={'country region': 'country'})
     if report_type == "regions":
+        # note: temp solution
+        # remove data of subregions of the second level
         google = google[google['sub region 2'].isnull()]
+        # remove metropolitan data
+        google = google[google['metro area'].isnull()]
+        # rename region column
         google = google.rename(columns={'sub region 1': 'region'})
         google = google.loc[:,
                             ['country',
