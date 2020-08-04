@@ -19,6 +19,7 @@ import re
 import json
 
 import pandas as pd
+import zipfile as zp
 
 
 def get_google_link():
@@ -48,31 +49,24 @@ def download_google_report(directory="google_reports"):
     new_files = False
 
     # create directory if it don't exist
-    if not os.path.exists(directory):
+    if not os.path.exists(directory) and directory!='':
         os.makedirs(directory)
 
     # download CSV file
     link = get_google_link()
     file_name = "Global_Mobility_Report.csv"
     path = os.path.join(directory, file_name)
-    if not os.path.isfile(path):
+    old_size = os.path.getsize(path) if os.path.isfile(path) else 0
+    urllib.request.urlretrieve(link, path)
+    new_size = os.path.getsize(path)
+    if old_size!=new_size:
         new_files = True
-        urllib.request.urlretrieve(link, path)
-    else:
-        path_new = os.path.join(directory, file_name + "_new")
-        urllib.request.urlretrieve(link, path_new)
-        if os.path.getsize(path) == os.path.getsize(path_new):
-            os.remove(path_new)
-        else:
-            new_files = True
-            os.remove(path)
-            os.rename(path_new, path)
 
     if not new_files:
         print('Google: No updates')
     else:
         print('Google: Update available')
-
+    
     return new_files
 
 
@@ -162,31 +156,26 @@ def download_apple_report(directory="apple_reports"):
             new_files (bool): flag indicating whether or not a new file has been downloaded
     '''
     new_files = False
-
-    if not os.path.exists(directory):
+    
+    # create directory if it don't exist
+    if not os.path.exists(directory) and directory!='':
         os.makedirs(directory)
-
+    
     link = get_apple_link()
     file_name = "applemobilitytrends.csv"
     path = os.path.join(directory, file_name)
-    if not os.path.isfile(path):
+    path = os.path.join(directory, file_name)
+    old_size = os.path.getsize(path) if os.path.isfile(path) else 0
+    urllib.request.urlretrieve(link, path)
+    new_size = os.path.getsize(path)
+    if old_size!=new_size:
         new_files = True
-        urllib.request.urlretrieve(link, path)
-    else:
-        path_new = os.path.join(directory, file_name + "_new")
-        urllib.request.urlretrieve(link, path_new)
-        if os.path.getsize(path) == os.path.getsize(path_new):
-            os.remove(path_new)
-        else:
-            new_files = True
-            os.remove(path)
-            os.rename(path_new, path)
 
     if not new_files:
         print('Apple: No updates')
     else:
         print('Apple: Update available')
-
+    
     return new_files
 
 
@@ -317,7 +306,7 @@ def download_waze_reports(directory="waze_reports"):
     new_files = False
     
     # create directory if it don't exist
-    if not os.path.exists(directory):
+    if not os.path.exists(directory) and directory!='':
         os.makedirs(directory)
     
     links = get_waze_links()
@@ -326,18 +315,11 @@ def download_waze_reports(directory="waze_reports"):
     for file_name in file_names: 
         path = os.path.join(directory, file_name)
         link = file_links[file_name]
-        if not os.path.isfile(path):
+        old_size = os.path.getsize(path) if os.path.isfile(path) else 0
+        urllib.request.urlretrieve(link, path)
+        new_size = os.path.getsize(path)
+        if old_size!=new_size:
             new_files = True
-            urllib.request.urlretrieve(link, path)
-        else:
-            path_new = os.path.join(directory, file_name + "_new")
-            urllib.request.urlretrieve(link, path_new)
-            if os.path.getsize(path) == os.path.getsize(path_new):
-                os.remove(path_new)
-            else:
-                new_files = True
-                os.remove(path)
-                os.rename(path_new, path)
 
     if not new_files:
         print('Waze: No updates')
@@ -440,6 +422,13 @@ def build_summary_report(apple_source, google_source, report_type="regions"):
 def run():
     """Run parse flow and build reports"""
     # process Google reports
+    GOOGLE_ZIP_PATH = os.path.join("google_reports", "Global_Mobility_Report.zip")
+    GOOGLE_CSV_PATH = os.path.join("google_reports", "Global_Mobility_Report.csv")
+    # unzip existing report
+    if os.path.exists(GOOGLE_ZIP_PATH):
+        with zp.ZipFile(GOOGLE_ZIP_PATH, 'r') as zf:
+            zf.extract('Global_Mobility_Report.csv', "google_reports")
+    # download new report
     new_files_status_google = download_google_report()
     if new_files_status_google:
         # build reports
@@ -452,6 +441,11 @@ def run():
         google_US.to_csv(os.path.join("google_reports", "mobility_report_US.csv"), index=False)
         google_US.to_excel(os.path.join("google_reports", "mobility_report_US.xlsx"), 
                             index=False, sheet_name='Data', engine = 'xlsxwriter')
+        # zip raw report
+        with zp.ZipFile(GOOGLE_ZIP_PATH, 'w', zp.ZIP_DEFLATED) as zf:
+            zf.write(GOOGLE_CSV_PATH,"Global_Mobility_Report.csv")
+    # delete raw CSV report
+    os.remove(GOOGLE_CSV_PATH)
     # process Apple reports
     new_files_status_apple = download_apple_report()
     if new_files_status_apple:
