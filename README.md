@@ -36,7 +36,7 @@ As with all samples, this may or may not represent the exact behavior of a wider
 ## Data explorer
 ### Google reports:
 
-[Raw CSV file](google_reports/Global_Mobility_Report.csv)
+[Raw CSV file](google_reports/Global_Mobility_Report.zip) (in ZIP archive). Direct link to the original CSV: https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv
 
 Data for the worldwide: [CSV](google_reports/mobility_report_countries.csv), [Excel](google_reports/mobility_report_countries.xlsx)
 
