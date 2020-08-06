@@ -2,8 +2,6 @@
 This is a repository with a data scraper of Mobility Reports and reports in different formats.
 
 ## Table of contents
-<br>
-
 1. [ About data ](#About_data)
     * [ 1. About Google COVID-19 Community Mobility Reports](#about_google_data)
     * [ 2. About Apple COVID-19 Mobility Trends Reports](#about_apple_data)
