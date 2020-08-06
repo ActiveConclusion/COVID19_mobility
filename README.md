@@ -2,8 +2,6 @@
 This is a repository with a data scraper of Mobility Reports and reports in different formats.
 
 ## Table of contents
-<details open>
-<summary>Show/Hide</summary>
 <br>
 
 1. [ About data ](#About_data)
@@ -20,12 +18,9 @@ This is a repository with a data scraper of Mobility Reports and reports in diff
 5. [ Showcases ](#showcases)
     * [ 1. Dashboards and visualizations based on these data](#visualisations)
     * [ 2. Articles and research publications](#articles)
-</details>
 
 ## About data
-<details open>
 <a name="About_data"></a>
-<summary>Show/Hide</summary>
 
 ### About [Google COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/)
 <a name="about_google_data"></a>
@@ -61,10 +56,8 @@ These reports show the increase or decrease in driven kilometers/miles as a perc
 As with all samples, this may or may not represent the exact behavior of a wider population.
 
 **Update interval:** ?
-</details>
 
 ## Data explorer
-<details open>
 <a name="data_explorer"></a>
 
 ### Google reports:
@@ -75,15 +68,15 @@ Data for the worldwide (only 1st level of subregions): [CSV](google_reports/mobi
 
 **Detailed reports:**
 
-Data for the US: [CSV](google_reports/mobility_report_US.csv), [Excel](google_reports/mobility_report_US.csv)
+Data for the US: [CSV](google_reports/mobility_report_US.csv), [Excel](google_reports/mobility_report_US.xlsx)
 
-Data for Brazil: [CSV](google_reports/mobility_report_brazil.csv), [Excel](google_reports/mobility_report_brazil.csv)
+Data for Brazil: [CSV](google_reports/mobility_report_brazil.csv), [Excel](google_reports/mobility_report_brazil.xlsx)
 
-Data for Europe: [CSV](google_reports/mobility_report_europe.csv), [Excel](google_reports/mobility_report_europe.csv)
+Data for Europe: [CSV](google_reports/mobility_report_europe.csv), [Excel](google_reports/mobility_report_europe.xlsx)
 
-Data for Asia + Africa: [CSV](google_reports/mobility_report_asia_africa.csv), [Excel](google_reports/mobility_report_asia_africa.csv)
+Data for Asia + Africa: [CSV](google_reports/mobility_report_asia_africa.csv), [Excel](google_reports/mobility_report_asia_africa.xlsx)
 
-Data for North and South America + Oceania (Brazil and US excluded): [CSV](google_reports/mobility_report_america_oceania.csv), [Excel](google_reports/mobility_report_america_oceania.csv)
+Data for North and South America + Oceania (Brazil and US excluded): [CSV](google_reports/mobility_report_america_oceania.csv), [Excel](google_reports/mobility_report_america_oceania.xlsx)
 
 ### Apple reports:
 <a name="apple_reports"></a>
@@ -116,7 +109,6 @@ Report by regions: [CSV](summary_reports/summary_report_regions.csv), [Excel](su
 Report by countries: [Google Sheets](https://docs.google.com/spreadsheets/d/1d9t7xg-lUPEUArTsc_wMOGl1XfzpXmeWcALx7v58KcU), [CSV](summary_reports/summary_report_countries.csv), [Excel](summary_reports/summary_report_countries.xlsx)
 
 Report for the US: [CSV](summary_reports/summary_report_US.csv), [Excel](summary_reports/summary_report_US.csv)
-</details>
 
 ## How to run script
 <a name="how_to_run_script"></a>
