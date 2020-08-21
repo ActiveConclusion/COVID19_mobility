@@ -10,10 +10,10 @@ Original data:
 
 import os
 import datetime
+import time
 
 import requests
 import urllib.request
-import time
 from bs4 import BeautifulSoup
 import re
 import json
