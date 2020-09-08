@@ -230,7 +230,7 @@ def build_apple_report(
         Returns:
            apple (DataFrame): generated Apple report
     '''
-    apple = pd.read_csv(source)
+    apple = pd.read_csv(source, low_memory=False)
     apple = apple.drop(columns=['alternative_name'])
     apple['country'] = apple.apply(
         lambda x: x['region'] if x['geo_type'] == 'country/region' else x['country'],
