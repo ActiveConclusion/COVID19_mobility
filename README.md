@@ -141,4 +141,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 1. [Is Your Community Doing Enough To Fight COVID-19?](https://towardsdatascience.com/is-your-community-doing-enough-to-fight-covid-19-aa745b424eb1) by [Molly Liebeskind](https://towardsdatascience.com/@molly.liebeskind)
 2. [Project US Mobility and Fuel Demand Under COVID-19](https://covid19-mobility.com)
 3. [COVID-19: Country progress tracker and forward projections](https://www.agility.asia/covid) 
-4. [Here can be your great article/research publication]
+4. [Krekel, C., Swanke, S., De Neve, J., & Fancourt, D. (2020). Are Happier People More Compliant? Global Evidence From Three Large-Scale Surveys During Covid-19 Lockdowns](http://ftp.iza.org/dp13690.pdf)
+5. [Here can be your great article/research publication]
