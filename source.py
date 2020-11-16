@@ -742,6 +742,7 @@ def run():
             sheet_name="Data",
             engine="xlsxwriter",
         )
+
     # process TomTom reports
     new_files_status_tomtom = check_tomtom_update()
     if new_files_status_tomtom:
@@ -756,6 +757,7 @@ def run():
             sheet_name="Data",
             engine="xlsxwriter",
         )
+
     # build summary reports
     if new_files_status_apple or new_files_status_google:
         print("Merging reports...")
