@@ -110,7 +110,7 @@ Raw CSV files: [Country-level](waze_reports/Waze_Country-Level_Data.csv), [City-
 Preprocessed report: [Google Sheets](https://docs.google.com/spreadsheets/d/1prxgtL1s8AvJDQb0hF2_g8rswwZElKQc2K79-FOmmt8/edit?usp=sharing), [CSV](waze_reports/waze_mobility.csv), [Excel](waze_reports/waze_mobility.xlsx)
 
 ### TomTom reports:
-Scraped reports: [CSV](tomtom_reports/tomtom_trafic_index.csv), [Excel](tomtom_reports/tomtom_trafic_index.xlsx)
+Scraped reports: [Google Sheets](https://docs.google.com/spreadsheets/d/1aAdXeAhu3Mx9dbFQN_mgc2bXSV61jFbgGzcF_oAUK5Q/edit#gid=0), [CSV](tomtom_reports/tomtom_trafic_index.csv), [Excel](tomtom_reports/tomtom_trafic_index.xlsx)
 
 diffRatio attribute shows relative difference of average congestion levels in 2020 from standard congestion levels in 2019.
 
