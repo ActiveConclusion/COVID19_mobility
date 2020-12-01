@@ -152,4 +152,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 2. [Project US Mobility and Fuel Demand Under COVID-19](https://covid19-mobility.com)
 3. [COVID-19: Country progress tracker and forward projections](https://www.agility.asia/covid) 
 4. [Krekel, C., Swanke, S., De Neve, J., & Fancourt, D. (2020). Are Happier People More Compliant? Global Evidence From Three Large-Scale Surveys During Covid-19 Lockdowns](http://ftp.iza.org/dp13690.pdf)
-5. [Here can be your great article/research publication]
+5. [Green shoots and mobility: Philippine economic prospects By Diwa C. Guinigundo](https://www.bworldonline.com/green-shoots-and-mobility-philippine-economic-prospects/)
+6. [Here can be your great article/research publication]
