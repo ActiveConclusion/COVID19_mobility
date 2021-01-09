@@ -2,8 +2,10 @@ from pathlib import Path
 
 # URLs
 GOOGLE_URL = "https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv"
-WAZE_URLS = ("https://raw.githubusercontent.com/ActiveConclusion/waze_mobility_scraper/master/Waze_Country-Level_Data.csv", 
-             "https://raw.githubusercontent.com/ActiveConclusion/waze_mobility_scraper/master/Waze_City-Level_Data.csv")
+WAZE_URLS = (
+    "https://raw.githubusercontent.com/ActiveConclusion/waze_mobility_scraper/master/Waze_Country-Level_Data.csv",
+    "https://raw.githubusercontent.com/ActiveConclusion/waze_mobility_scraper/master/Waze_City-Level_Data.csv",
+)
 # Directories
 GOOGLE_DIR = "google_reports"
 APPLE_DIR = "apple_reports"
@@ -28,13 +30,37 @@ GOOGLE_EUROPE_FILE = "mobility_report_europe"
 GOOGLE_ASIA_AFRICA_FILE = "mobility_report_asia_africa"
 GOOGLE_AMERICA_OCEANIA_FILE = "mobility_report_america_oceania"
 
-GOOGLE_REGIONS_PATHS = {ext:Path(GOOGLE_DIR, GOOGLE_REGIONS_FILE).with_suffix(ext) for ext in EXTENSIONS}
-GOOGLE_US_PATHS = {ext:Path(GOOGLE_DIR, GOOGLE_US_FILE).with_suffix(ext) for ext in EXTENSIONS}
-GOOGLE_BRAZIL_PATHS = {ext:Path(GOOGLE_DIR, GOOGLE_BRAZIL_FILE).with_suffix(ext) for ext in EXTENSIONS}
-GOOGLE_EUROPE_PATHS = {ext:Path(GOOGLE_DIR, GOOGLE_EUROPE_FILE).with_suffix(ext) for ext in EXTENSIONS}
-GOOGLE_ASIA_AFRICA_PATHS = {ext:Path(GOOGLE_DIR, GOOGLE_ASIA_AFRICA_FILE).with_suffix(ext) for ext in EXTENSIONS}
-GOOGLE_AMERICA_OCEANIA_PATHS = {ext:Path(GOOGLE_DIR, GOOGLE_AMERICA_OCEANIA_FILE).with_suffix(ext) for ext in EXTENSIONS}
+GOOGLE_REGIONS_PATHS = {
+    ext: Path(GOOGLE_DIR, GOOGLE_REGIONS_FILE).with_suffix(ext) for ext in EXTENSIONS
+}
+GOOGLE_US_PATHS = {
+    ext: Path(GOOGLE_DIR, GOOGLE_US_FILE).with_suffix(ext) for ext in EXTENSIONS
+}
+GOOGLE_BRAZIL_PATHS = {
+    ext: Path(GOOGLE_DIR, GOOGLE_BRAZIL_FILE).with_suffix(ext) for ext in EXTENSIONS
+}
+GOOGLE_EUROPE_PATHS = {
+    ext: Path(GOOGLE_DIR, GOOGLE_EUROPE_FILE).with_suffix(ext) for ext in EXTENSIONS
+}
+GOOGLE_ASIA_AFRICA_PATHS = {
+    ext: Path(GOOGLE_DIR, GOOGLE_ASIA_AFRICA_FILE).with_suffix(ext)
+    for ext in EXTENSIONS
+}
+GOOGLE_AMERICA_OCEANIA_PATHS = {
+    ext: Path(GOOGLE_DIR, GOOGLE_AMERICA_OCEANIA_FILE).with_suffix(ext)
+    for ext in EXTENSIONS
+}
+# Apple paths
+APPLE_CSV_PATH = Path(APPLE_DIR, APPLE_RAW_FILE)
+APPLE_WORLD_FILE = "apple_mobility_report"
+APPLE_US_FILE = "apple_mobility_report_US"
 
+APPLE_WORLD_PATHS = {
+    ext: Path(APPLE_DIR, APPLE_WORLD_FILE).with_suffix(ext) for ext in EXTENSIONS
+}
+APPLE_US_PATHS = {
+    ext: Path(APPLE_DIR, APPLE_US_FILE).with_suffix(ext) for ext in EXTENSIONS
+}
 # Auxiliary data paths
 AUXILIARY_DIR = "auxiliary_data"
 COUNTRY_WORLD_REGIONS_FILE = "country_worldregions.csv"

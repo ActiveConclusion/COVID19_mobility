@@ -1,6 +1,8 @@
 from pathlib import Path
+
 import requests
 import urllib.request
+
 
 def download_files(directory, URLs, file_names):
     """Download files from URLs
@@ -22,9 +24,9 @@ def download_files(directory, URLs, file_names):
             directory_path.mkdir()
     # if URLs and filenames have an str type, convert them to tuples
     if isinstance(URLs, str):
-        URLs = (URLs, )
+        URLs = (URLs,)
     if isinstance(file_names, str):
-        file_names = (file_names, )
+        file_names = (file_names,)
     # build a dictionary with matching file names and URLs
     file_links = dict(zip(file_names, URLs))
     # update all files
@@ -46,7 +48,7 @@ def update_status_message(name, status):
 
     Args:
         name (str): name of data provider
-        status (bool): flag indicating whether or not new files have been downloaded 
+        status (bool): flag indicating whether or not new files have been downloaded
 
     Returns:
         str: update_status_message
@@ -55,4 +57,3 @@ def update_status_message(name, status):
         return name + ": Update available"
     else:
         return name + ": No updates"
-    

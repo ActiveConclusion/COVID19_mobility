@@ -13,9 +13,11 @@ import zipfile as zp
 from mobility_scraper.paths_and_URLs import *
 from mobility_scraper.download_files import *
 from mobility_scraper.write_df_to_csv_and_excel import *
-from mobility_scraper import google_mobility
+from mobility_scraper import google_mobility, apple_mobility
 
-if __name__ == "__main__":
+
+def run():
+    """Run parse flow and build reports"""
     # process Google reports
     # unzip existing report
     if GOOGLE_ZIP_PATH.is_file():
@@ -64,5 +66,18 @@ if __name__ == "__main__":
     # delete raw CSV report
     GOOGLE_CSV_PATH.unlink()
     # process Apple reports
-    # new_files_status_apple = download_files(APPLE_DIR, get_apple_link(), APPLE_RAW_FILE)
-    # print(update_status_message('Apple', new_files_status_apple))
+    new_files_status_apple = download_files(
+        APPLE_DIR, apple_mobility.get_link(), APPLE_RAW_FILE
+    )
+    print(update_status_message("Apple", new_files_status_apple))
+    if new_files_status_apple:
+        # build reports
+        apple_world = apple_mobility.build_report(APPLE_CSV_PATH)
+        apple_US = apple_mobility.build_report(APPLE_CSV_PATH, report_type="US")
+        # write reports to CSV and Excel
+        write_df_to_csv_and_excel(apple_world, APPLE_WORLD_PATHS)
+        write_df_to_csv_and_excel(apple_US, APPLE_US_PATHS)
+
+
+if __name__ == "__main__":
+    run()
