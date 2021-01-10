@@ -74,6 +74,21 @@ TOMTOM_REPORT_FILE = "tomtom_trafic_index"
 TOMTOM_REPORT_PATHS = {
     ext: Path(TOMTOM_DIR, TOMTOM_REPORT_FILE).with_suffix(ext) for ext in EXTENSIONS
 }
+# Merged reports
+SUMMARY_REGIONS_FILE = "summary_report_regions"
+SUMMARY_US_FILE = "summary_report_US"
+SUMMARY_COUNTRIES_FILE = "summary_report_countries"
+
+SUMMARY_REGIONS_PATHS = {
+    ext: Path(SUMMARY_DIR, SUMMARY_REGIONS_FILE).with_suffix(ext) for ext in EXTENSIONS
+}
+SUMMARY_US_PATHS = {
+    ext: Path(SUMMARY_DIR, SUMMARY_US_FILE).with_suffix(ext) for ext in EXTENSIONS
+}
+SUMMARY_COUNTRIES_PATHS = {
+    ext: Path(SUMMARY_DIR, SUMMARY_COUNTRIES_FILE).with_suffix(ext)
+    for ext in EXTENSIONS
+}
 
 # Auxiliary data paths
 AUXILIARY_DIR = "auxiliary_data"

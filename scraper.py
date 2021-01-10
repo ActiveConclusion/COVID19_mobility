@@ -18,6 +18,7 @@ from mobility_scraper import (
     apple_mobility,
     waze_mobility,
     tomtom_mobility,
+    merge_reports,
 )
 
 
@@ -99,6 +100,31 @@ def run():
         # scrape new data
         tomtom = tomtom_mobility.download_report(COUNTRY_ALPHA_CODES_PATH)
         write_df_to_csv_and_excel(tomtom, TOMTOM_REPORT_PATHS)
+
+    # build merged reports
+    if new_files_status_apple or new_files_status_google:
+        print("Merging reports...")
+        summary_regions = merge_reports.build_summary_report(
+            APPLE_WORLD_PATHS[".csv"],
+            GOOGLE_REGIONS_PATHS[".csv"],
+            COUNTRY_APPLE_TO_GOOGLE_PATH,
+            SUBREGIONS_APPLE_TO_GOOGLE_PATH,
+        )
+        summary_US = merge_reports.build_summary_report(
+            APPLE_US_PATHS[".csv"],
+            GOOGLE_US_PATHS[".csv"],
+            COUNTRY_APPLE_TO_GOOGLE_PATH,
+            SUBREGIONS_APPLE_TO_GOOGLE_PATH,
+            "US",
+        )
+        summary_countries = summary_regions[summary_regions["region"] == "Total"].drop(
+            columns=["region"]
+        )
+
+        print("Writing merged reports to files...")
+        write_df_to_csv_and_excel(summary_regions, SUMMARY_REGIONS_PATHS)
+        write_df_to_csv_and_excel(summary_US, SUMMARY_US_PATHS)
+        write_df_to_csv_and_excel(summary_countries, SUMMARY_COUNTRIES_PATHS)
 
 
 if __name__ == "__main__":
