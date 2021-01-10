@@ -22,6 +22,7 @@ from mobility_scraper import (
 )
 
 
+@exception_handler("Google")
 def process_google_data():
     """Process Google mobility data
 
@@ -77,6 +78,7 @@ def process_google_data():
     return new_files_status_google
 
 
+@exception_handler("Apple")
 def process_apple_data():
     """Process Apple mobility data
 
@@ -98,6 +100,7 @@ def process_apple_data():
     return new_files_status_apple
 
 
+@exception_handler("Waze")
 def process_waze_data():
     """Process Waze mobility data
 
@@ -115,6 +118,7 @@ def process_waze_data():
     return new_files_status_waze
 
 
+@exception_handler("TomTom")
 def process_tomtom_data():
     """Process TomTom mobility data
 
@@ -132,6 +136,7 @@ def process_tomtom_data():
     return new_files_status_tomtom
 
 
+@exception_handler("Merging")
 def merge_data():
     """Merge Google and Apple reports"""
     print("Merging reports...")
