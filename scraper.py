@@ -22,9 +22,12 @@ from mobility_scraper import (
 )
 
 
-def run():
-    """Run parse flow and build reports"""
-    # process Google reports
+def process_google_data():
+    """Process Google mobility data
+
+    Returns:
+        bool: flag indicating whether or not new files have been downloaded
+    """
     # unzip existing report
     if GOOGLE_ZIP_PATH.is_file():
         with zp.ZipFile(GOOGLE_ZIP_PATH, "r") as zf:
@@ -71,7 +74,15 @@ def run():
             zf.write(GOOGLE_CSV_PATH, GOOGLE_RAW_FILE)
     # delete raw CSV report
     GOOGLE_CSV_PATH.unlink()
-    # process Apple reports
+    return new_files_status_google
+
+
+def process_apple_data():
+    """Process Apple mobility data
+
+    Returns:
+        bool: flag indicating whether or not new files have been downloaded
+    """
     new_files_status_apple = download_files(
         APPLE_DIR, apple_mobility.get_link(), APPLE_RAW_FILE
     )
@@ -84,7 +95,15 @@ def run():
         write_df_to_csv_and_excel(apple_world, APPLE_WORLD_PATHS)
         write_df_to_csv_and_excel(apple_US, APPLE_US_PATHS)
 
-    # process Waze reports
+    return new_files_status_apple
+
+
+def process_waze_data():
+    """Process Waze mobility data
+
+    Returns:
+        bool: flag indicating whether or not new files have been downloaded
+    """
     new_files_status_waze = download_files(WAZE_DIR, WAZE_URLS, WAZE_RAW_FILES)
     print(update_status_message("Waze", new_files_status_waze))
     if new_files_status_waze:
@@ -93,6 +112,15 @@ def run():
         # write report to CSV and Excel
         write_df_to_csv_and_excel(waze, WAZE_REPORT_PATHS)
 
+    return new_files_status_waze
+
+
+def process_tomtom_data():
+    """Process TomTom mobility data
+
+    Returns:
+        bool: flag indicating whether or not new files have been downloaded
+    """
     # process TomTom reports
     new_files_status_tomtom = tomtom_mobility.check_update(TOMTOM_REPORT_PATHS[".csv"])
     print(update_status_message("TomTom", new_files_status_tomtom))
@@ -101,31 +129,49 @@ def run():
         tomtom = tomtom_mobility.download_report(COUNTRY_ALPHA_CODES_PATH)
         write_df_to_csv_and_excel(tomtom, TOMTOM_REPORT_PATHS)
 
+    return new_files_status_tomtom
+
+
+def merge_data():
+    """Merge Google and Apple reports"""
+    print("Merging reports...")
+    summary_regions = merge_reports.build_summary_report(
+        APPLE_WORLD_PATHS[".csv"],
+        GOOGLE_REGIONS_PATHS[".csv"],
+        COUNTRY_APPLE_TO_GOOGLE_PATH,
+        SUBREGIONS_APPLE_TO_GOOGLE_PATH,
+    )
+    summary_US = merge_reports.build_summary_report(
+        APPLE_US_PATHS[".csv"],
+        GOOGLE_US_PATHS[".csv"],
+        COUNTRY_APPLE_TO_GOOGLE_PATH,
+        SUBREGIONS_APPLE_TO_GOOGLE_PATH,
+        "US",
+    )
+    summary_countries = summary_regions[summary_regions["region"] == "Total"].drop(
+        columns=["region"]
+    )
+
+    print("Writing merged reports to files...")
+    write_df_to_csv_and_excel(summary_regions, SUMMARY_REGIONS_PATHS)
+    write_df_to_csv_and_excel(summary_US, SUMMARY_US_PATHS)
+    write_df_to_csv_and_excel(summary_countries, SUMMARY_COUNTRIES_PATHS)
+
+
+def run_all():
+    """Run parse flow and build reports"""
+    # process Google reports
+    new_files_status_google = process_google_data()
+    # process Apple reports
+    new_files_status_apple = process_apple_data()
+    # process Waze reports
+    new_files_status_waze = process_waze_data()
+    # process TomTom reports
+    new_files_status_tomtom = process_tomtom_data()
     # build merged reports
     if new_files_status_apple or new_files_status_google:
-        print("Merging reports...")
-        summary_regions = merge_reports.build_summary_report(
-            APPLE_WORLD_PATHS[".csv"],
-            GOOGLE_REGIONS_PATHS[".csv"],
-            COUNTRY_APPLE_TO_GOOGLE_PATH,
-            SUBREGIONS_APPLE_TO_GOOGLE_PATH,
-        )
-        summary_US = merge_reports.build_summary_report(
-            APPLE_US_PATHS[".csv"],
-            GOOGLE_US_PATHS[".csv"],
-            COUNTRY_APPLE_TO_GOOGLE_PATH,
-            SUBREGIONS_APPLE_TO_GOOGLE_PATH,
-            "US",
-        )
-        summary_countries = summary_regions[summary_regions["region"] == "Total"].drop(
-            columns=["region"]
-        )
-
-        print("Writing merged reports to files...")
-        write_df_to_csv_and_excel(summary_regions, SUMMARY_REGIONS_PATHS)
-        write_df_to_csv_and_excel(summary_US, SUMMARY_US_PATHS)
-        write_df_to_csv_and_excel(summary_countries, SUMMARY_COUNTRIES_PATHS)
+        merge_data()
 
 
 if __name__ == "__main__":
-    run()
+    run_all()
