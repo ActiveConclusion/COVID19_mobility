@@ -13,7 +13,12 @@ import zipfile as zp
 from mobility_scraper.paths_and_URLs import *
 from mobility_scraper.download_files import *
 from mobility_scraper.utils import *
-from mobility_scraper import google_mobility, apple_mobility, waze_mobility
+from mobility_scraper import (
+    google_mobility,
+    apple_mobility,
+    waze_mobility,
+    tomtom_mobility,
+)
 
 
 def run():
@@ -86,6 +91,14 @@ def run():
         waze = waze_mobility.build_report(WAZE_COUNTRY_LEVEL_PATH, WAZE_CITY_LEVEL_PATH)
         # write report to CSV and Excel
         write_df_to_csv_and_excel(waze, WAZE_REPORT_PATHS)
+
+    # process TomTom reports
+    new_files_status_tomtom = tomtom_mobility.check_update(TOMTOM_REPORT_PATHS[".csv"])
+    print(update_status_message("TomTom", new_files_status_tomtom))
+    if new_files_status_tomtom:
+        # scrape new data
+        tomtom = tomtom_mobility.download_report(COUNTRY_ALPHA_CODES_PATH)
+        write_df_to_csv_and_excel(tomtom, TOMTOM_REPORT_PATHS)
 
 
 if __name__ == "__main__":

@@ -69,6 +69,11 @@ WAZE_REPORT_FILE = "waze_mobility"
 WAZE_REPORT_PATHS = {
     ext: Path(WAZE_DIR, WAZE_REPORT_FILE).with_suffix(ext) for ext in EXTENSIONS
 }
+# TomTom paths
+TOMTOM_REPORT_FILE = "tomtom_trafic_index"
+TOMTOM_REPORT_PATHS = {
+    ext: Path(TOMTOM_DIR, TOMTOM_REPORT_FILE).with_suffix(ext) for ext in EXTENSIONS
+}
 
 # Auxiliary data paths
 AUXILIARY_DIR = "auxiliary_data"
