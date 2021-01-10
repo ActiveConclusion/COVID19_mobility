@@ -61,6 +61,15 @@ APPLE_WORLD_PATHS = {
 APPLE_US_PATHS = {
     ext: Path(APPLE_DIR, APPLE_US_FILE).with_suffix(ext) for ext in EXTENSIONS
 }
+# Waze paths
+WAZE_COUNTRY_LEVEL_PATH = Path(WAZE_DIR, WAZE_RAW_FILES[0])
+WAZE_CITY_LEVEL_PATH = Path(WAZE_DIR, WAZE_RAW_FILES[1])
+WAZE_REPORT_FILE = "waze_mobility"
+
+WAZE_REPORT_PATHS = {
+    ext: Path(WAZE_DIR, WAZE_REPORT_FILE).with_suffix(ext) for ext in EXTENSIONS
+}
+
 # Auxiliary data paths
 AUXILIARY_DIR = "auxiliary_data"
 COUNTRY_WORLD_REGIONS_FILE = "country_worldregions.csv"

@@ -12,8 +12,8 @@ import zipfile as zp
 
 from mobility_scraper.paths_and_URLs import *
 from mobility_scraper.download_files import *
-from mobility_scraper.write_df_to_csv_and_excel import *
-from mobility_scraper import google_mobility, apple_mobility
+from mobility_scraper.utils import *
+from mobility_scraper import google_mobility, apple_mobility, waze_mobility
 
 
 def run():
@@ -77,6 +77,15 @@ def run():
         # write reports to CSV and Excel
         write_df_to_csv_and_excel(apple_world, APPLE_WORLD_PATHS)
         write_df_to_csv_and_excel(apple_US, APPLE_US_PATHS)
+
+    # process Waze reports
+    new_files_status_waze = download_files(WAZE_DIR, WAZE_URLS, WAZE_RAW_FILES)
+    print(update_status_message("Waze", new_files_status_waze))
+    if new_files_status_waze:
+        # build report
+        waze = waze_mobility.build_report(WAZE_COUNTRY_LEVEL_PATH, WAZE_CITY_LEVEL_PATH)
+        # write report to CSV and Excel
+        write_df_to_csv_and_excel(waze, WAZE_REPORT_PATHS)
 
 
 if __name__ == "__main__":
