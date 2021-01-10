@@ -127,7 +127,7 @@ Report for the US: [CSV](summary_reports/summary_report_US.csv), [Excel](summary
 ```bash
 git clone https://github.com/ActiveConclusion/COVID19_mobility
 pip install -r requirements.txt
-python source.py
+python scraper.py
 ```
 Also, available [Jupyter notebook](notebooks/Scraper%202.0.ipynb) mirror of this script
 
