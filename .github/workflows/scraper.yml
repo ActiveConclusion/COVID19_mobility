@@ -16,7 +16,7 @@ jobs:
       - name: Install requirements
         run: pip install -r requirements.txt 
       - name: Download and build reports 
-        run: python scraper.py
+        run: python scraper.py run-all
       - name: Commit changes
         run: |
           git config --local user.name github-actions
