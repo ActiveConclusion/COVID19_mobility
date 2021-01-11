@@ -14,6 +14,8 @@ This is a repository with a data scraper of Mobility Reports and reports in diff
     * [ 4. TomTom Reports](#tomtom-reports)
     * [ 5. Summary Reports](#summary-reports)
 3. [ How to run script ](#how-to-run-script)
+    * [ 1. Installation](#installation)
+    * [ 2. Usage](#usage)
 4. [ Contributing ](#contributing)
 5. [ Showcases ](#showcases)
     * [ 1. Dashboards and visualizations based on these data](#dashboards-and-visualizations-based-on-these-data)
@@ -124,10 +126,21 @@ Report by countries: [Google Sheets](https://docs.google.com/spreadsheets/d/1d9t
 Report for the US: [CSV](summary_reports/summary_report_US.csv), [Excel](summary_reports/summary_report_US.csv)
 
 ## How to run script
+### Installation
 ```bash
 git clone https://github.com/ActiveConclusion/COVID19_mobility
 pip install -r requirements.txt
-python scraper.py
+```
+### Usage
+```bash
+# scrape data from specified sources. If no sources are provided, data will be scraped from all available sources
+python scraper.py <SOURCES>
+
+# merge mobility reports (Apple and Google)
+python scraper.py merge
+
+# Scrape data from all sources and merge reports
+python scraper.py run-all
 ```
 Also, available [Jupyter notebook](notebooks/Scraper%202.0.ipynb) mirror of this script
 

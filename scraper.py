@@ -21,6 +21,8 @@ from mobility_scraper import (
     merge_reports,
 )
 
+import click
+
 
 @exception_handler("Google")
 def process_google_data():
@@ -136,6 +138,42 @@ def process_tomtom_data():
     return new_files_status_tomtom
 
 
+@click.group(help="Scraper for mobility data")
+def cli():
+    pass
+
+
+@cli.command(help="Scrape mobility data from specified sources")
+@click.argument("sources", nargs=-1)
+def scrape(sources):
+    """Scrape mobility data from specified sources
+
+    Args:
+        sources (tuple, optional): Mobility data sources
+
+    Returns:
+        tuple: status of update for all sources (Google, Apple, Waze and TomTom)
+    """
+    # if no parameters are provided, scrape data from all sources
+    if len(sources) == 0:
+        sources = ("google", "apple", "waze", "tomtom")
+    # process Google reports
+    new_files_status_google = process_google_data() if "google" in sources else False
+    # process Apple reports
+    new_files_status_apple = process_apple_data() if "apple" in sources else False
+    # process Waze reports
+    new_files_status_waze = process_waze_data() if "waze" in sources else False
+    # process TomTom reports
+    new_files_status_tomtom = process_tomtom_data() if "tomtom" in sources else False
+    return (
+        new_files_status_google,
+        new_files_status_apple,
+        new_files_status_waze,
+        new_files_status_tomtom,
+    )
+
+
+@cli.command("merge", help="Merge mobility reports (Apple and Google)")
 @exception_handler("Merging")
 def merge_data():
     """Merge Google and Apple reports"""
@@ -163,20 +201,19 @@ def merge_data():
     write_df_to_csv_and_excel(summary_countries, SUMMARY_COUNTRIES_PATHS)
 
 
+@cli.command(help="Scrape data from all sources and merge reports")
 def run_all():
     """Run parse flow and build reports"""
-    # process Google reports
-    new_files_status_google = process_google_data()
-    # process Apple reports
-    new_files_status_apple = process_apple_data()
-    # process Waze reports
-    new_files_status_waze = process_waze_data()
-    # process TomTom reports
-    new_files_status_tomtom = process_tomtom_data()
+    (
+        new_files_status_google,
+        new_files_status_apple,
+        new_files_status_waze,
+        new_files_status_tomtom,
+    ) = scrape(())
     # build merged reports
     if new_files_status_apple or new_files_status_google:
         merge_data()
 
 
 if __name__ == "__main__":
-    run_all()
+    cli()
