@@ -152,25 +152,22 @@ def scrape(sources):
         sources (tuple, optional): Mobility data sources
 
     Returns:
-        tuple: status of update for all sources (Google, Apple, Waze and TomTom)
+        dict: status of update for all sources (Google, Apple, Waze and TomTom)
     """
+    all_sources = ("google", "apple", "waze", "tomtom")
+    new_files_status = {source: False for source in all_sources}
     # if no parameters are provided, scrape data from all sources
     if len(sources) == 0:
-        sources = ("google", "apple", "waze", "tomtom")
+        sources = all_sources
     # process Google reports
-    new_files_status_google = process_google_data() if "google" in sources else False
+    new_files_status["google"] = process_google_data() if "google" in sources else False
     # process Apple reports
-    new_files_status_apple = process_apple_data() if "apple" in sources else False
+    new_files_status["apple"] = process_apple_data() if "apple" in sources else False
     # process Waze reports
-    new_files_status_waze = process_waze_data() if "waze" in sources else False
+    new_files_status["waze"] = process_waze_data() if "waze" in sources else False
     # process TomTom reports
-    new_files_status_tomtom = process_tomtom_data() if "tomtom" in sources else False
-    return (
-        new_files_status_google,
-        new_files_status_apple,
-        new_files_status_waze,
-        new_files_status_tomtom,
-    )
+    new_files_status["tomtom"] = process_tomtom_data() if "tomtom" in sources else False
+    return new_files_status
 
 
 @cli.command("merge", help="Merge mobility reports (Apple and Google)")
@@ -202,17 +199,13 @@ def merge_data():
 
 
 @cli.command(help="Scrape data from all sources and merge reports")
-def run_all():
+@click.pass_context
+def run_all(ctx):
     """Run parse flow and build reports"""
-    (
-        new_files_status_google,
-        new_files_status_apple,
-        new_files_status_waze,
-        new_files_status_tomtom,
-    ) = scrape(())
+    new_files_status = ctx.invoke(scrape)
     # build merged reports
-    if new_files_status_apple or new_files_status_google:
-        merge_data()
+    if new_files_status["apple"] or new_files_status["google"]:
+        ctx.invoke(merge_data)
 
 
 if __name__ == "__main__":

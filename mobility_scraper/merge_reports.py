@@ -31,11 +31,11 @@ def build_summary_report(
             :, ["country", "region", "date", "driving", "transit", "walking"]
         ]
         # convert Apple country and sub-region names as in Google
-        if country_AtoG_file.is_file():
+        if Path(country_AtoG_file).is_file():
             country_AtoG = pd.read_csv(country_AtoG_file, index_col=0)
         else:
             country_AtoG = None
-        if subregions_AtoG_file.is_file():
+        if Path(subregions_AtoG_file).is_file():
             subregions_AtoG = pd.read_csv(subregions_AtoG_file, index_col=0)
         else:
             subregions_AtoG = None
