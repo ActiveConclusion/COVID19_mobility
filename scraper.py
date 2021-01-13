@@ -10,16 +10,7 @@ Original data:
 """
 import zipfile as zp
 
-from mobility_scraper.paths_and_URLs import *
-from mobility_scraper.download_files import *
-from mobility_scraper.utils import *
-from mobility_scraper import (
-    google_mobility,
-    apple_mobility,
-    waze_mobility,
-    tomtom_mobility,
-    merge_reports,
-)
+from mobility_scraper import *
 
 import click
 
