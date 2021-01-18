@@ -60,9 +60,19 @@ def process_google_data():
         write_df_to_csv_and_excel(google_world, GOOGLE_REGIONS_PATHS)
         write_df_to_csv_and_excel(google_US, GOOGLE_US_PATHS)
         write_df_to_csv_and_excel(google_brazil, GOOGLE_BRAZIL_PATHS)
-        write_df_to_csv_and_excel(google_europe, GOOGLE_EUROPE_PATHS)
+        # write_df_to_csv_and_excel(google_europe, GOOGLE_EUROPE_PATHS)
         write_df_to_csv_and_excel(google_asia_africa, GOOGLE_ASIA_AFRICA_PATHS)
         write_df_to_csv_and_excel(google_america_oceania, GOOGLE_AMERICA_OCEANIA_PATHS)
+        # write Europe data (temp solution)
+        google_europe.to_csv(GOOGLE_EUROPE_PATHS[".csv"], index=False)
+        for year in (2020, 2021):
+            google_europe[google_europe["date"].dt.year == year].to_excel(
+                GOOGLE_EUROPE_FILE + "_" + str(year) + ".xlsx",
+                index=False,
+                sheet_name=str(year),
+                engine="xlsxwriter",
+            )
+
         # zip raw report
         with zp.ZipFile(GOOGLE_ZIP_PATH, "w", zp.ZIP_DEFLATED) as zf:
             zf.write(GOOGLE_CSV_PATH, GOOGLE_RAW_FILE)
