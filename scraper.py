@@ -202,8 +202,23 @@ def merge_data():
 
     print("Writing merged reports to files...")
     write_df_to_csv_and_excel(summary_regions, SUMMARY_REGIONS_PATHS)
-    write_df_to_csv_and_excel(summary_US, SUMMARY_US_PATHS)
     write_df_to_csv_and_excel(summary_countries, SUMMARY_COUNTRIES_PATHS)
+    # write US data (temp solution)
+    summary_US.to_csv(SUMMARY_US_PATHS[".csv"], index=False)
+    summary_US.loc[:, "date"] = pd.to_datetime(summary_US.loc[:, "date"])
+    writer = pd.ExcelWriter(  # pylint: disable=abstract-class-instantiated
+        SUMMARY_US_PATHS[".xlsx"],
+        engine="xlsxwriter",
+        datetime_format="yyyy-mm-dd",
+    )
+    for year in (2020, 2021):
+        summary_US[summary_US.date.dt.year == year].to_excel(
+            writer,
+            index=False,
+            sheet_name=str(year),
+        )
+    writer.save()
+    # write_df_to_csv_and_excel(summary_US, SUMMARY_US_PATHS)
 
 
 @cli.command(help="Scrape data from all sources and merge reports")
