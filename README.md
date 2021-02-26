@@ -134,7 +134,7 @@ pip install -r requirements.txt
 ### Usage
 ```bash
 # scrape data from specified sources. If no sources are provided, data will be scraped from all available sources
-python scraper.py <SOURCES>
+python scraper.py scrape <SOURCES>
 
 # merge mobility reports (Apple and Google)
 python scraper.py merge
