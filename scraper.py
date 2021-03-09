@@ -140,7 +140,10 @@ def process_tomtom_data():
     print(update_status_message("TomTom", new_files_status_tomtom))
     if new_files_status_tomtom:
         # scrape new data
-        tomtom = tomtom_mobility.download_report(COUNTRY_ALPHA_CODES_PATH)
+        tomtom_new = tomtom_mobility.download_report(COUNTRY_ALPHA_CODES_PATH)
+        tomtom = tomtom_mobility.merge_with_historical_data(
+            tomtom_new, TOMTOM_HISTORICAL_DATA_PATH
+        )
         write_df_to_csv_and_excel(tomtom, TOMTOM_REPORT_PATHS)
 
     return new_files_status_tomtom

@@ -71,9 +71,11 @@ WAZE_REPORT_PATHS = {
 }
 # TomTom paths
 TOMTOM_REPORT_FILE = "tomtom_trafic_index"
+TOMTOM_HISTORICAL_DATA_FILE = "tomtom_trafic_index_historical.csv"
 TOMTOM_REPORT_PATHS = {
     ext: Path(TOMTOM_DIR, TOMTOM_REPORT_FILE).with_suffix(ext) for ext in EXTENSIONS
 }
+TOMTOM_HISTORICAL_DATA_PATH = Path(TOMTOM_DIR, TOMTOM_HISTORICAL_DATA_FILE)
 # Merged reports
 SUMMARY_REGIONS_FILE = "summary_report_regions"
 SUMMARY_US_FILE = "summary_report_US"
