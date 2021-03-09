@@ -42,7 +42,7 @@ def download_report(alpha_codes_filename):
     """Download TomTom Traffic Index
 
     Args:
-        iso_codes_filename: path to alpha country codes file
+        iso_codes_filename: path to country alpha codes file
 
     Returns:
         tomtom_data (DataFrame): scraped TomTom report
@@ -98,4 +98,23 @@ def download_report(alpha_codes_filename):
     tomtom_data = tomtom_data.sort_values(by=["country", "city", "date"]).reset_index(
         drop=True
     )
+    return tomtom_data
+
+
+def merge_with_historical_data(tomtom_new, historical_path):
+    """Merge new scraped data with historical
+
+    Args:
+        tomtom_new (DataFrame): new scraped data
+        historical_path: location of the historical TomTom data in CSV format
+
+    Returns:
+        DataFrame: merged DataFrame
+    """
+    tomtom_historical = pd.read_csv(historical_path, low_memory=False)
+    tomtom_data = tomtom_historical.append(tomtom_new)
+    tomtom_data = tomtom_data.sort_values(by=["country", "city", "date"]).reset_index(
+        drop=True
+    )
+
     return tomtom_data
