@@ -104,7 +104,7 @@ The following transformations have been made here:
 * transformed transportation types from rows to columns
 * subtracted 100 from values (such as in Google Mobility Reports)
 
-**Note: Data for May 11-12 is not available**
+**Note: Data for May 11-12, 2020 and March 12, 2021 is not available**
 
 ### Waze reports:
 Raw CSV files: [Country-level](waze_reports/Waze_Country-Level_Data.csv), [City-level](waze_reports/Waze_City-Level_Data.csv)
