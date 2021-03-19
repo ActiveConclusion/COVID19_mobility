@@ -665,8 +665,6 @@ Argentina,Total,country,2020-12-08,-20.0
 Argentina,Total,country,2020-12-09,0.0
 Argentina,Total,country,2020-12-10,-20.0
 Argentina,Total,country,2020-12-11,-32.0
-Argentina,Total,country,2020-12-11,-32.0
-Argentina,Total,country,2020-12-12,-44.0
 Argentina,Total,country,2020-12-12,-44.0
 Argentina,Total,country,2020-12-13,-38.0
 Argentina,Total,country,2020-12-14,-28.000000000000004
@@ -759,6 +757,8 @@ Argentina,Total,country,2021-03-10,-13.0
 Argentina,Total,country,2021-03-11,-16.0
 Argentina,Total,country,2021-03-12,-26.0
 Argentina,Total,country,2021-03-13,-37.0
+Argentina,Total,country,2021-03-14,-24.0
+Argentina,Total,country,2021-03-15,-20.0
 Australia,Brisbane,city,2020-03-01,5.0
 Australia,Brisbane,city,2020-03-02,3.0
 Australia,Brisbane,city,2020-03-03,3.0
@@ -2945,8 +2945,6 @@ Australia,Total,country,2020-12-09,21.0
 Australia,Total,country,2020-12-10,21.0
 Australia,Total,country,2020-12-11,22.0
 Australia,Total,country,2020-12-12,26.0
-Australia,Total,country,2020-12-12,26.0
-Australia,Total,country,2020-12-13,16.0
 Australia,Total,country,2020-12-13,16.0
 Australia,Total,country,2020-12-14,21.0
 Australia,Total,country,2020-12-15,21.0
@@ -3038,6 +3036,8 @@ Australia,Total,country,2021-03-10,31.0
 Australia,Total,country,2021-03-11,31.0
 Australia,Total,country,2021-03-12,34.0
 Australia,Total,country,2021-03-13,33.0
+Australia,Total,country,2021-03-14,28.999999999999996
+Australia,Total,country,2021-03-15,30.0
 Austria,Total,country,2020-03-01,-18.0
 Austria,Total,country,2020-03-02,-14.000000000000002
 Austria,Total,country,2020-03-03,-6.0
@@ -3324,8 +3324,6 @@ Austria,Total,country,2020-12-08,-34.0
 Austria,Total,country,2020-12-09,-50.0
 Austria,Total,country,2020-12-10,-49.0
 Austria,Total,country,2020-12-11,-53.0
-Austria,Total,country,2020-12-11,-53.0
-Austria,Total,country,2020-12-12,-77.0
 Austria,Total,country,2020-12-12,-77.0
 Austria,Total,country,2020-12-13,-59.0
 Austria,Total,country,2020-12-14,-38.0
@@ -3418,6 +3416,8 @@ Austria,Total,country,2021-03-10,-47.0
 Austria,Total,country,2021-03-11,-51.0
 Austria,Total,country,2021-03-12,-61.0
 Austria,Total,country,2021-03-13,-81.0
+Austria,Total,country,2021-03-14,-64.0
+Austria,Total,country,2021-03-15,-35.0
 Belgium,Antwerp,city,2020-03-01,8.0
 Belgium,Antwerp,city,2020-03-02,-3.0
 Belgium,Antwerp,city,2020-03-03,7.000000000000001
@@ -4844,8 +4844,6 @@ Belgium,Total,country,2020-12-08,-26.0
 Belgium,Total,country,2020-12-09,-25.0
 Belgium,Total,country,2020-12-10,-28.000000000000004
 Belgium,Total,country,2020-12-11,-27.0
-Belgium,Total,country,2020-12-11,-27.0
-Belgium,Total,country,2020-12-12,-26.0
 Belgium,Total,country,2020-12-12,-26.0
 Belgium,Total,country,2020-12-13,-28.000000000000004
 Belgium,Total,country,2020-12-14,-25.0
@@ -4938,6 +4936,8 @@ Belgium,Total,country,2021-03-10,-20.0
 Belgium,Total,country,2021-03-11,-23.0
 Belgium,Total,country,2021-03-12,-20.0
 Belgium,Total,country,2021-03-13,-19.0
+Belgium,Total,country,2021-03-14,-23.0
+Belgium,Total,country,2021-03-15,-19.0
 Brazil,Belo Horizonte,city,2020-03-01,-21.0
 Brazil,Belo Horizonte,city,2020-03-02,6.0
 Brazil,Belo Horizonte,city,2020-03-03,4.0
@@ -9405,8 +9405,6 @@ Brazil,Total,country,2020-12-09,1.0
 Brazil,Total,country,2020-12-10,-1.0
 Brazil,Total,country,2020-12-11,-5.0
 Brazil,Total,country,2020-12-12,-10.0
-Brazil,Total,country,2020-12-12,-10.0
-Brazil,Total,country,2020-12-13,4.0
 Brazil,Total,country,2020-12-13,4.0
 Brazil,Total,country,2020-12-14,13.0
 Brazil,Total,country,2020-12-15,5.0
@@ -9498,6 +9496,8 @@ Brazil,Total,country,2021-03-10,-16.0
 Brazil,Total,country,2021-03-11,-18.0
 Brazil,Total,country,2021-03-12,-21.0
 Brazil,Total,country,2021-03-13,-35.0
+Brazil,Total,country,2021-03-14,-27.0
+Brazil,Total,country,2021-03-15,-9.0
 Brazil,Vitoria,city,2020-03-01,-56.00000000000001
 Brazil,Vitoria,city,2020-03-02,13.0
 Brazil,Vitoria,city,2020-03-03,-8.0
@@ -12819,8 +12819,6 @@ Canada,Total,country,2020-12-08,-25.0
 Canada,Total,country,2020-12-09,-25.0
 Canada,Total,country,2020-12-10,-25.0
 Canada,Total,country,2020-12-11,-28.000000000000004
-Canada,Total,country,2020-12-11,-28.000000000000004
-Canada,Total,country,2020-12-12,-32.0
 Canada,Total,country,2020-12-12,-32.0
 Canada,Total,country,2020-12-13,-33.0
 Canada,Total,country,2020-12-14,-24.0
@@ -12913,6 +12911,8 @@ Canada,Total,country,2021-03-10,-25.0
 Canada,Total,country,2021-03-11,-26.0
 Canada,Total,country,2021-03-12,-25.0
 Canada,Total,country,2021-03-13,-21.0
+Canada,Total,country,2021-03-14,-20.0
+Canada,Total,country,2021-03-15,-26.0
 Canada,Vaughan,city,2020-03-01,9.0
 Canada,Vaughan,city,2020-03-02,11.0
 Canada,Vaughan,city,2020-03-03,0.0
@@ -14719,8 +14719,6 @@ Chile,Total,country,2020-12-08,-11.0
 Chile,Total,country,2020-12-09,6.0
 Chile,Total,country,2020-12-10,-14.000000000000002
 Chile,Total,country,2020-12-11,-27.0
-Chile,Total,country,2020-12-11,-27.0
-Chile,Total,country,2020-12-12,-49.0
 Chile,Total,country,2020-12-12,-49.0
 Chile,Total,country,2020-12-13,-57.99999999999999
 Chile,Total,country,2020-12-14,-37.0
@@ -14813,6 +14811,8 @@ Chile,Total,country,2021-03-10,-12.0
 Chile,Total,country,2021-03-11,-17.0
 Chile,Total,country,2021-03-12,-17.0
 Chile,Total,country,2021-03-13,-41.0
+Chile,Total,country,2021-03-14,-50.0
+Chile,Total,country,2021-03-15,-28.999999999999996
 Colombia,Bogota,city,2020-03-01,9.0
 Colombia,Bogota,city,2020-03-02,3.0
 Colombia,Bogota,city,2020-03-03,6.0
@@ -16239,8 +16239,6 @@ Colombia,Total,country,2020-12-09,0.0
 Colombia,Total,country,2020-12-10,-3.0
 Colombia,Total,country,2020-12-11,-2.0
 Colombia,Total,country,2020-12-12,0.0
-Colombia,Total,country,2020-12-12,0.0
-Colombia,Total,country,2020-12-13,5.0
 Colombia,Total,country,2020-12-13,5.0
 Colombia,Total,country,2020-12-14,0.0
 Colombia,Total,country,2020-12-15,-1.0
@@ -16332,6 +16330,8 @@ Colombia,Total,country,2021-03-10,-7.000000000000001
 Colombia,Total,country,2021-03-11,-6.0
 Colombia,Total,country,2021-03-12,-3.0
 Colombia,Total,country,2021-03-13,0.0
+Colombia,Total,country,2021-03-14,6.0
+Colombia,Total,country,2021-03-15,-1.0
 Costa Rica,San Jose,city,2020-03-01,7.000000000000001
 Costa Rica,San Jose,city,2020-03-02,0.0
 Costa Rica,San Jose,city,2020-03-03,5.0
@@ -16999,8 +16999,6 @@ Costa Rica,Total,country,2020-12-09,-7.000000000000001
 Costa Rica,Total,country,2020-12-10,-7.000000000000001
 Costa Rica,Total,country,2020-12-11,-4.0
 Costa Rica,Total,country,2020-12-12,-2.0
-Costa Rica,Total,country,2020-12-12,-2.0
-Costa Rica,Total,country,2020-12-13,1.0
 Costa Rica,Total,country,2020-12-13,1.0
 Costa Rica,Total,country,2020-12-14,-5.0
 Costa Rica,Total,country,2020-12-15,-2.0
@@ -17092,6 +17090,8 @@ Costa Rica,Total,country,2021-03-10,-13.0
 Costa Rica,Total,country,2021-03-11,-12.0
 Costa Rica,Total,country,2021-03-12,-7.000000000000001
 Costa Rica,Total,country,2021-03-13,5.0
+Costa Rica,Total,country,2021-03-14,5.0
+Costa Rica,Total,country,2021-03-15,0.0
 Czechia,Brno,city,2020-03-01,0.0
 Czechia,Brno,city,2020-03-02,2.0
 Czechia,Brno,city,2020-03-03,4.0
@@ -18139,7 +18139,6 @@ Czechia,Total,country,2020-12-09,3.0
 Czechia,Total,country,2020-12-10,3.0
 Czechia,Total,country,2020-12-11,-2.0
 Czechia,Total,country,2020-12-12,-22.0
-Czechia,Total,country,2020-12-12,-22.0
 Czechia,Total,country,2020-12-13,-14.000000000000002
 Czechia,Total,country,2020-12-14,10.0
 Czechia,Total,country,2020-12-15,11.0
@@ -18231,6 +18230,8 @@ Czechia,Total,country,2021-03-10,-26.0
 Czechia,Total,country,2021-03-11,-28.999999999999996
 Czechia,Total,country,2021-03-12,-36.0
 Czechia,Total,country,2021-03-13,-57.99999999999999
+Czechia,Total,country,2021-03-14,-56.99999999999999
+Czechia,Total,country,2021-03-15,-21.0
 Ecuador,Quito,city,2020-03-01,2.0
 Ecuador,Quito,city,2020-03-02,30.0
 Ecuador,Quito,city,2020-03-03,19.0
@@ -18897,8 +18898,6 @@ Ecuador,Total,country,2020-12-08,-20.0
 Ecuador,Total,country,2020-12-09,-22.0
 Ecuador,Total,country,2020-12-10,-24.0
 Ecuador,Total,country,2020-12-11,-24.0
-Ecuador,Total,country,2020-12-11,-24.0
-Ecuador,Total,country,2020-12-12,-21.0
 Ecuador,Total,country,2020-12-12,-21.0
 Ecuador,Total,country,2020-12-13,-12.0
 Ecuador,Total,country,2020-12-14,-17.0
@@ -18991,6 +18990,8 @@ Ecuador,Total,country,2021-03-10,-20.0
 Ecuador,Total,country,2021-03-11,-21.0
 Ecuador,Total,country,2021-03-12,-39.0
 Ecuador,Total,country,2021-03-13,-23.0
+Ecuador,Total,country,2021-03-14,-7.000000000000001
+Ecuador,Total,country,2021-03-15,-9.0
 Estonia,Total,country,2020-03-01,-7.000000000000001
 Estonia,Total,country,2020-03-02,-10.0
 Estonia,Total,country,2020-03-03,-5.0
@@ -19277,8 +19278,6 @@ Estonia,Total,country,2020-12-09,15.0
 Estonia,Total,country,2020-12-10,12.0
 Estonia,Total,country,2020-12-11,3.0
 Estonia,Total,country,2020-12-12,1.0
-Estonia,Total,country,2020-12-12,1.0
-Estonia,Total,country,2020-12-13,0.0
 Estonia,Total,country,2020-12-13,0.0
 Estonia,Total,country,2020-12-14,8.0
 Estonia,Total,country,2020-12-15,8.0
@@ -19370,6 +19369,8 @@ Estonia,Total,country,2021-03-10,4.0
 Estonia,Total,country,2021-03-11,-7.000000000000001
 Estonia,Total,country,2021-03-12,-16.0
 Estonia,Total,country,2021-03-13,-16.0
+Estonia,Total,country,2021-03-14,-15.0
+Estonia,Total,country,2021-03-15,-15.0
 France,Bordeaux,city,2020-03-01,-7.000000000000001
 France,Bordeaux,city,2020-03-02,-14.000000000000002
 France,Bordeaux,city,2020-03-03,-8.0
@@ -21556,8 +21557,6 @@ France,Total,country,2020-12-08,-13.0
 France,Total,country,2020-12-09,-15.0
 France,Total,country,2020-12-10,-17.0
 France,Total,country,2020-12-11,-33.0
-France,Total,country,2020-12-11,-33.0
-France,Total,country,2020-12-12,-53.0
 France,Total,country,2020-12-12,-53.0
 France,Total,country,2020-12-13,-51.0
 France,Total,country,2020-12-14,-15.0
@@ -21650,6 +21649,8 @@ France,Total,country,2021-03-10,-2.0
 France,Total,country,2021-03-11,-4.0
 France,Total,country,2021-03-12,-15.0
 France,Total,country,2021-03-13,-31.0
+France,Total,country,2021-03-14,-22.0
+France,Total,country,2021-03-15,-1.0
 France,Toulouse,city,2020-03-01,-16.0
 France,Toulouse,city,2020-03-02,6.0
 France,Toulouse,city,2020-03-03,9.0
@@ -22692,8 +22693,6 @@ Germany,Total,country,2020-12-08,-24.0
 Germany,Total,country,2020-12-09,-25.0
 Germany,Total,country,2020-12-10,-25.0
 Germany,Total,country,2020-12-11,-41.0
-Germany,Total,country,2020-12-11,-41.0
-Germany,Total,country,2020-12-12,-50.0
 Germany,Total,country,2020-12-12,-50.0
 Germany,Total,country,2020-12-13,-43.0
 Germany,Total,country,2020-12-14,-21.0
@@ -22786,6 +22785,8 @@ Germany,Total,country,2021-03-10,-28.000000000000004
 Germany,Total,country,2021-03-11,-28.000000000000004
 Germany,Total,country,2021-03-12,-42.0
 Germany,Total,country,2021-03-13,-53.0
+Germany,Total,country,2021-03-14,-36.0
+Germany,Total,country,2021-03-15,-28.000000000000004
 Guatemala,Total,country,2020-03-01,9.0
 Guatemala,Total,country,2020-03-02,5.0
 Guatemala,Total,country,2020-03-03,1.0
@@ -23073,8 +23074,6 @@ Guatemala,Total,country,2020-12-09,-3.0
 Guatemala,Total,country,2020-12-10,3.0
 Guatemala,Total,country,2020-12-11,4.0
 Guatemala,Total,country,2020-12-12,7.000000000000001
-Guatemala,Total,country,2020-12-12,7.000000000000001
-Guatemala,Total,country,2020-12-13,16.0
 Guatemala,Total,country,2020-12-13,16.0
 Guatemala,Total,country,2020-12-14,8.0
 Guatemala,Total,country,2020-12-15,10.0
@@ -23166,6 +23165,8 @@ Guatemala,Total,country,2021-03-10,-11.0
 Guatemala,Total,country,2021-03-11,-14.000000000000002
 Guatemala,Total,country,2021-03-12,-5.0
 Guatemala,Total,country,2021-03-13,-6.0
+Guatemala,Total,country,2021-03-14,2.0
+Guatemala,Total,country,2021-03-15,1.0
 Hungary,Budapest,city,2020-03-01,-3.0
 Hungary,Budapest,city,2020-03-02,1.0
 Hungary,Budapest,city,2020-03-03,1.0
@@ -23832,8 +23833,6 @@ Hungary,Total,country,2020-12-08,-7.000000000000001
 Hungary,Total,country,2020-12-09,-7.000000000000001
 Hungary,Total,country,2020-12-10,-9.0
 Hungary,Total,country,2020-12-11,-17.0
-Hungary,Total,country,2020-12-11,-17.0
-Hungary,Total,country,2020-12-12,-20.0
 Hungary,Total,country,2020-12-12,-20.0
 Hungary,Total,country,2020-12-13,-27.0
 Hungary,Total,country,2020-12-14,-4.0
@@ -23926,6 +23925,8 @@ Hungary,Total,country,2021-03-10,-16.0
 Hungary,Total,country,2021-03-11,-19.0
 Hungary,Total,country,2021-03-12,-18.0
 Hungary,Total,country,2021-03-13,-5.0
+Hungary,Total,country,2021-03-14,-37.0
+Hungary,Total,country,2021-03-15,-15.0
 Indonesia,Bekasi,city,2020-03-01,0.0
 Indonesia,Bekasi,city,2020-03-02,-5.0
 Indonesia,Bekasi,city,2020-03-03,8.0
@@ -25715,8 +25716,6 @@ Indonesia,Total,country,2020-12-08,-25.0
 Indonesia,Total,country,2020-12-09,-34.0
 Indonesia,Total,country,2020-12-10,-30.0
 Indonesia,Total,country,2020-12-11,-31.0
-Indonesia,Total,country,2020-12-11,-31.0
-Indonesia,Total,country,2020-12-12,-28.000000000000004
 Indonesia,Total,country,2020-12-12,-28.000000000000004
 Indonesia,Total,country,2020-12-13,-27.0
 Indonesia,Total,country,2020-12-14,-26.0
@@ -25809,6 +25808,8 @@ Indonesia,Total,country,2021-03-10,-21.0
 Indonesia,Total,country,2021-03-11,-17.0
 Indonesia,Total,country,2021-03-12,-34.0
 Indonesia,Total,country,2021-03-13,-32.0
+Indonesia,Total,country,2021-03-14,-26.0
+Indonesia,Total,country,2021-03-15,-33.0
 Israel,Be'er Sheva,city,2020-03-01,16.0
 Israel,Be'er Sheva,city,2020-03-02,-14.000000000000002
 Israel,Be'er Sheva,city,2020-03-03,6.0
@@ -28755,8 +28756,6 @@ Israel,Total,country,2020-12-09,-5.0
 Israel,Total,country,2020-12-10,-5.0
 Israel,Total,country,2020-12-11,-2.0
 Israel,Total,country,2020-12-12,2.0
-Israel,Total,country,2020-12-12,2.0
-Israel,Total,country,2020-12-13,11.0
 Israel,Total,country,2020-12-13,11.0
 Israel,Total,country,2020-12-14,2.0
 Israel,Total,country,2020-12-15,-1.0
@@ -28848,6 +28847,8 @@ Israel,Total,country,2021-03-10,10.0
 Israel,Total,country,2021-03-11,10.0
 Israel,Total,country,2021-03-12,6.0
 Israel,Total,country,2021-03-13,19.0
+Israel,Total,country,2021-03-14,14.000000000000002
+Israel,Total,country,2021-03-15,9.0
 Italy,Milan,city,2020-03-01,-14.000000000000002
 Italy,Milan,city,2020-03-02,-22.0
 Italy,Milan,city,2020-03-03,-28.000000000000004
@@ -29891,8 +29892,6 @@ Italy,Total,country,2020-12-08,-57.99999999999999
 Italy,Total,country,2020-12-09,-26.0
 Italy,Total,country,2020-12-10,-33.0
 Italy,Total,country,2020-12-11,-39.0
-Italy,Total,country,2020-12-11,-39.0
-Italy,Total,country,2020-12-12,-52.0
 Italy,Total,country,2020-12-12,-52.0
 Italy,Total,country,2020-12-13,-44.0
 Italy,Total,country,2020-12-14,-20.0
@@ -29985,6 +29984,8 @@ Italy,Total,country,2021-03-10,-28.000000000000004
 Italy,Total,country,2021-03-11,-30.0
 Italy,Total,country,2021-03-12,-35.0
 Italy,Total,country,2021-03-13,-47.0
+Italy,Total,country,2021-03-14,-55.00000000000001
+Italy,Total,country,2021-03-15,-37.0
 Latvia,Riga,city,2020-03-01,-4.0
 Latvia,Riga,city,2020-03-02,-3.0
 Latvia,Riga,city,2020-03-03,-1.0
@@ -30650,8 +30651,6 @@ Latvia,Total,country,2020-12-09,1.0
 Latvia,Total,country,2020-12-10,-2.0
 Latvia,Total,country,2020-12-11,-4.0
 Latvia,Total,country,2020-12-12,-13.0
-Latvia,Total,country,2020-12-12,-13.0
-Latvia,Total,country,2020-12-13,-6.0
 Latvia,Total,country,2020-12-13,-6.0
 Latvia,Total,country,2020-12-14,6.0
 Latvia,Total,country,2020-12-15,8.0
@@ -30743,6 +30742,8 @@ Latvia,Total,country,2021-03-10,-3.0
 Latvia,Total,country,2021-03-11,0.0
 Latvia,Total,country,2021-03-12,-7.000000000000001
 Latvia,Total,country,2021-03-13,-6.0
+Latvia,Total,country,2021-03-14,2.0
+Latvia,Total,country,2021-03-15,1.0
 Lithuania,Kaunas,city,2020-03-01,-14.000000000000002
 Lithuania,Kaunas,city,2020-03-02,0.0
 Lithuania,Kaunas,city,2020-03-03,-2.0
@@ -31404,8 +31405,6 @@ Lithuania,Total,country,2020-12-09,19.0
 Lithuania,Total,country,2020-12-10,23.0
 Lithuania,Total,country,2020-12-11,10.0
 Lithuania,Total,country,2020-12-12,1.0
-Lithuania,Total,country,2020-12-12,1.0
-Lithuania,Total,country,2020-12-13,1.0
 Lithuania,Total,country,2020-12-13,1.0
 Lithuania,Total,country,2020-12-14,48.0
 Lithuania,Total,country,2020-12-15,74.0
@@ -31497,6 +31496,8 @@ Lithuania,Total,country,2021-03-10,65.0
 Lithuania,Total,country,2021-03-11,24.0
 Lithuania,Total,country,2021-03-12,26.0
 Lithuania,Total,country,2021-03-13,7.000000000000001
+Lithuania,Total,country,2021-03-14,27.0
+Lithuania,Total,country,2021-03-15,45.0
 Lithuania,Vilnius,city,2020-03-01,-7.000000000000001
 Lithuania,Vilnius,city,2020-03-02,-2.0
 Lithuania,Vilnius,city,2020-03-03,-4.0
@@ -32163,8 +32164,6 @@ Luxembourg,Total,country,2020-12-08,-27.0
 Luxembourg,Total,country,2020-12-09,-22.0
 Luxembourg,Total,country,2020-12-10,-31.0
 Luxembourg,Total,country,2020-12-11,-21.0
-Luxembourg,Total,country,2020-12-11,-21.0
-Luxembourg,Total,country,2020-12-12,-38.0
 Luxembourg,Total,country,2020-12-12,-38.0
 Luxembourg,Total,country,2020-12-13,-43.0
 Luxembourg,Total,country,2020-12-14,-19.0
@@ -32257,6 +32256,8 @@ Luxembourg,Total,country,2021-03-10,-22.0
 Luxembourg,Total,country,2021-03-11,-17.0
 Luxembourg,Total,country,2021-03-12,-28.000000000000004
 Luxembourg,Total,country,2021-03-13,-39.0
+Luxembourg,Total,country,2021-03-14,-41.0
+Luxembourg,Total,country,2021-03-15,-22.0
 Malaysia,Ipoh,city,2020-03-01,24.0
 Malaysia,Ipoh,city,2020-03-02,10.0
 Malaysia,Ipoh,city,2020-03-03,-2.0
@@ -34820,7 +34821,6 @@ Malaysia,Total,country,2020-12-09,-11.0
 Malaysia,Total,country,2020-12-10,-5.0
 Malaysia,Total,country,2020-12-11,-12.0
 Malaysia,Total,country,2020-12-12,-19.0
-Malaysia,Total,country,2020-12-12,-19.0
 Malaysia,Total,country,2020-12-13,-7.000000000000001
 Malaysia,Total,country,2020-12-14,-5.0
 Malaysia,Total,country,2020-12-15,-5.0
@@ -34912,6 +34912,8 @@ Malaysia,Total,country,2021-03-10,-6.0
 Malaysia,Total,country,2021-03-11,-11.0
 Malaysia,Total,country,2021-03-12,-14.000000000000002
 Malaysia,Total,country,2021-03-13,-15.0
+Malaysia,Total,country,2021-03-14,-15.0
+Malaysia,Total,country,2021-03-15,-5.0
 Mexico,Guadalajara,city,2020-03-01,1.0
 Mexico,Guadalajara,city,2020-03-02,1.0
 Mexico,Guadalajara,city,2020-03-03,2.0
@@ -37098,8 +37100,6 @@ Mexico,Total,country,2020-12-08,-28.000000000000004
 Mexico,Total,country,2020-12-09,-26.0
 Mexico,Total,country,2020-12-10,-24.0
 Mexico,Total,country,2020-12-11,-24.0
-Mexico,Total,country,2020-12-11,-24.0
-Mexico,Total,country,2020-12-12,-24.0
 Mexico,Total,country,2020-12-12,-24.0
 Mexico,Total,country,2020-12-13,-22.0
 Mexico,Total,country,2020-12-14,-23.0
@@ -37192,6 +37192,8 @@ Mexico,Total,country,2021-03-10,-25.0
 Mexico,Total,country,2021-03-11,-24.0
 Mexico,Total,country,2021-03-12,-21.0
 Mexico,Total,country,2021-03-13,-15.0
+Mexico,Total,country,2021-03-14,-15.0
+Mexico,Total,country,2021-03-15,-24.0
 Mexico,Zapopan,city,2020-03-01,-1.0
 Mexico,Zapopan,city,2020-03-02,-2.0
 Mexico,Zapopan,city,2020-03-03,-4.0
@@ -37859,7 +37861,6 @@ Morocco,Total,country,2020-12-09,-5.0
 Morocco,Total,country,2020-12-10,-11.0
 Morocco,Total,country,2020-12-11,-9.0
 Morocco,Total,country,2020-12-12,-3.0
-Morocco,Total,country,2020-12-12,-3.0
 Morocco,Total,country,2020-12-13,-16.0
 Morocco,Total,country,2020-12-14,-6.0
 Morocco,Total,country,2020-12-15,-8.0
@@ -37951,6 +37952,8 @@ Morocco,Total,country,2021-03-10,9.0
 Morocco,Total,country,2021-03-11,8.0
 Morocco,Total,country,2021-03-12,15.0
 Morocco,Total,country,2021-03-13,31.0
+Morocco,Total,country,2021-03-14,32.0
+Morocco,Total,country,2021-03-15,30.0
 Netherlands,Amsterdam,city,2020-03-01,-7.000000000000001
 Netherlands,Amsterdam,city,2020-03-02,-1.0
 Netherlands,Amsterdam,city,2020-03-03,-6.0
@@ -38997,8 +39000,6 @@ Netherlands,Total,country,2020-12-08,-33.0
 Netherlands,Total,country,2020-12-09,-32.0
 Netherlands,Total,country,2020-12-10,-35.0
 Netherlands,Total,country,2020-12-11,-28.000000000000004
-Netherlands,Total,country,2020-12-11,-28.000000000000004
-Netherlands,Total,country,2020-12-12,-27.0
 Netherlands,Total,country,2020-12-12,-27.0
 Netherlands,Total,country,2020-12-13,-23.0
 Netherlands,Total,country,2020-12-14,-28.999999999999996
@@ -39091,6 +39092,8 @@ Netherlands,Total,country,2021-03-10,-38.0
 Netherlands,Total,country,2021-03-11,-40.0
 Netherlands,Total,country,2021-03-12,-36.0
 Netherlands,Total,country,2021-03-13,-37.0
+Netherlands,Total,country,2021-03-14,-28.000000000000004
+Netherlands,Total,country,2021-03-15,-37.0
 Peru,Lima,city,2020-03-01,6.0
 Peru,Lima,city,2020-03-02,-2.0
 Peru,Lima,city,2020-03-03,2.0
@@ -39757,8 +39760,6 @@ Peru,Total,country,2020-12-08,-26.0
 Peru,Total,country,2020-12-09,-20.0
 Peru,Total,country,2020-12-10,-18.0
 Peru,Total,country,2020-12-11,-21.0
-Peru,Total,country,2020-12-11,-21.0
-Peru,Total,country,2020-12-12,-17.0
 Peru,Total,country,2020-12-12,-17.0
 Peru,Total,country,2020-12-13,-26.0
 Peru,Total,country,2020-12-14,-17.0
@@ -39851,6 +39852,8 @@ Peru,Total,country,2021-03-10,-27.0
 Peru,Total,country,2021-03-11,-28.000000000000004
 Peru,Total,country,2021-03-12,-31.0
 Peru,Total,country,2021-03-13,-25.0
+Peru,Total,country,2021-03-14,-60.0
+Peru,Total,country,2021-03-15,-30.0
 Philippines,Makati,city,2020-03-01,-5.0
 Philippines,Makati,city,2020-03-02,5.0
 Philippines,Makati,city,2020-03-03,10.0
@@ -41277,8 +41280,6 @@ Philippines,Total,country,2020-12-08,-22.0
 Philippines,Total,country,2020-12-09,-27.0
 Philippines,Total,country,2020-12-10,-27.0
 Philippines,Total,country,2020-12-11,-28.000000000000004
-Philippines,Total,country,2020-12-11,-28.000000000000004
-Philippines,Total,country,2020-12-12,-24.0
 Philippines,Total,country,2020-12-12,-24.0
 Philippines,Total,country,2020-12-13,-22.0
 Philippines,Total,country,2020-12-14,-26.0
@@ -41371,6 +41372,8 @@ Philippines,Total,country,2021-03-10,-26.0
 Philippines,Total,country,2021-03-11,-31.0
 Philippines,Total,country,2021-03-12,-30.0
 Philippines,Total,country,2021-03-13,-26.0
+Philippines,Total,country,2021-03-14,-24.0
+Philippines,Total,country,2021-03-15,-32.0
 Poland,Krakow,city,2020-03-01,-15.0
 Poland,Krakow,city,2020-03-02,-13.0
 Poland,Krakow,city,2020-03-03,4.0
@@ -42030,8 +42033,6 @@ Poland,Total,country,2020-12-08,-23.0
 Poland,Total,country,2020-12-09,-28.999999999999996
 Poland,Total,country,2020-12-10,-25.0
 Poland,Total,country,2020-12-11,-40.0
-Poland,Total,country,2020-12-11,-40.0
-Poland,Total,country,2020-12-12,-28.999999999999996
 Poland,Total,country,2020-12-12,-28.999999999999996
 Poland,Total,country,2020-12-13,-25.0
 Poland,Total,country,2020-12-14,-23.0
@@ -42124,6 +42125,8 @@ Poland,Total,country,2021-03-10,-9.0
 Poland,Total,country,2021-03-11,-13.0
 Poland,Total,country,2021-03-12,-18.0
 Poland,Total,country,2021-03-13,-21.0
+Poland,Total,country,2021-03-14,-22.0
+Poland,Total,country,2021-03-15,-14.000000000000002
 Poland,Warsaw,city,2020-03-01,-5.0
 Poland,Warsaw,city,2020-03-02,2.0
 Poland,Warsaw,city,2020-03-03,-2.0
@@ -43170,8 +43173,6 @@ Portugal,Total,country,2020-12-08,-57.99999999999999
 Portugal,Total,country,2020-12-09,2.0
 Portugal,Total,country,2020-12-10,-14.000000000000002
 Portugal,Total,country,2020-12-11,-23.0
-Portugal,Total,country,2020-12-11,-23.0
-Portugal,Total,country,2020-12-12,-46.0
 Portugal,Total,country,2020-12-12,-46.0
 Portugal,Total,country,2020-12-13,-46.0
 Portugal,Total,country,2020-12-14,-13.0
@@ -43264,6 +43265,8 @@ Portugal,Total,country,2021-03-10,-28.999999999999996
 Portugal,Total,country,2021-03-11,-31.0
 Portugal,Total,country,2021-03-12,-32.0
 Portugal,Total,country,2021-03-13,-56.99999999999999
+Portugal,Total,country,2021-03-14,-51.0
+Portugal,Total,country,2021-03-15,-23.0
 Puerto Rico,Total,country,2020-03-01,-2.0
 Puerto Rico,Total,country,2020-03-02,-2.0
 Puerto Rico,Total,country,2020-03-03,4.0
@@ -43550,8 +43553,6 @@ Puerto Rico,Total,country,2020-12-08,-38.0
 Puerto Rico,Total,country,2020-12-09,-25.0
 Puerto Rico,Total,country,2020-12-10,-41.0
 Puerto Rico,Total,country,2020-12-11,-26.0
-Puerto Rico,Total,country,2020-12-11,-26.0
-Puerto Rico,Total,country,2020-12-12,-28.000000000000004
 Puerto Rico,Total,country,2020-12-12,-28.000000000000004
 Puerto Rico,Total,country,2020-12-13,-66.0
 Puerto Rico,Total,country,2020-12-14,-26.0
@@ -43644,6 +43645,8 @@ Puerto Rico,Total,country,2021-03-10,-15.0
 Puerto Rico,Total,country,2021-03-11,-12.0
 Puerto Rico,Total,country,2021-03-12,-12.0
 Puerto Rico,Total,country,2021-03-13,-19.0
+Puerto Rico,Total,country,2021-03-14,-1.0
+Puerto Rico,Total,country,2021-03-15,-8.0
 Qatar,Doha,city,2020-03-01,4.0
 Qatar,Doha,city,2020-03-02,5.0
 Qatar,Doha,city,2020-03-03,11.0
@@ -44311,8 +44314,6 @@ Qatar,Total,country,2020-12-09,11.0
 Qatar,Total,country,2020-12-10,13.0
 Qatar,Total,country,2020-12-11,13.0
 Qatar,Total,country,2020-12-12,18.0
-Qatar,Total,country,2020-12-12,18.0
-Qatar,Total,country,2020-12-13,10.0
 Qatar,Total,country,2020-12-13,10.0
 Qatar,Total,country,2020-12-14,12.0
 Qatar,Total,country,2020-12-15,18.0
@@ -44404,6 +44405,8 @@ Qatar,Total,country,2021-03-10,20.0
 Qatar,Total,country,2021-03-11,21.0
 Qatar,Total,country,2021-03-12,15.0
 Qatar,Total,country,2021-03-13,16.0
+Qatar,Total,country,2021-03-14,22.0
+Qatar,Total,country,2021-03-15,20.0
 Romania,Bucharest,city,2020-03-01,-3.0
 Romania,Bucharest,city,2020-03-02,0.0
 Romania,Bucharest,city,2020-03-03,2.0
@@ -45070,8 +45073,6 @@ Romania,Total,country,2020-12-08,-10.0
 Romania,Total,country,2020-12-09,-13.0
 Romania,Total,country,2020-12-10,-13.0
 Romania,Total,country,2020-12-11,-21.0
-Romania,Total,country,2020-12-11,-21.0
-Romania,Total,country,2020-12-12,-17.0
 Romania,Total,country,2020-12-12,-17.0
 Romania,Total,country,2020-12-13,-26.0
 Romania,Total,country,2020-12-14,-4.0
@@ -45164,6 +45165,8 @@ Romania,Total,country,2021-03-10,0.0
 Romania,Total,country,2021-03-11,0.0
 Romania,Total,country,2021-03-12,-3.0
 Romania,Total,country,2021-03-13,-3.0
+Romania,Total,country,2021-03-14,0.0
+Romania,Total,country,2021-03-15,3.0
 Russia,Total,country,2020-03-01,-12.0
 Russia,Total,country,2020-03-02,-4.0
 Russia,Total,country,2020-03-03,-3.0
@@ -45449,10 +45452,7 @@ Russia,Total,country,2020-12-08,7.000000000000001
 Russia,Total,country,2020-12-09,34.0
 Russia,Total,country,2020-12-10,3.0
 Russia,Total,country,2020-12-11,-15.0
-Russia,Total,country,2020-12-11,-15.0
 Russia,Total,country,2020-12-12,-4.0
-Russia,Total,country,2020-12-12,-4.0
-Russia,Total,country,2020-12-13,72.0
 Russia,Total,country,2020-12-13,72.0
 Russia,Total,country,2020-12-14,-18.0
 Russia,Total,country,2020-12-15,2.0
@@ -45544,6 +45544,8 @@ Russia,Total,country,2021-03-10,37.0
 Russia,Total,country,2021-03-11,5.0
 Russia,Total,country,2021-03-12,55.00000000000001
 Russia,Total,country,2021-03-13,-1.0
+Russia,Total,country,2021-03-14,3.0
+Russia,Total,country,2021-03-15,7.000000000000001
 Singapore,Singapore,city,2020-03-01,7.000000000000001
 Singapore,Singapore,city,2020-03-02,4.0
 Singapore,Singapore,city,2020-03-03,3.0
@@ -46211,8 +46213,6 @@ Singapore,Total,country,2020-12-09,4.0
 Singapore,Total,country,2020-12-10,5.0
 Singapore,Total,country,2020-12-11,4.0
 Singapore,Total,country,2020-12-12,12.0
-Singapore,Total,country,2020-12-12,12.0
-Singapore,Total,country,2020-12-13,12.0
 Singapore,Total,country,2020-12-13,12.0
 Singapore,Total,country,2020-12-14,3.0
 Singapore,Total,country,2020-12-15,3.0
@@ -46304,6 +46304,8 @@ Singapore,Total,country,2021-03-10,6.0
 Singapore,Total,country,2021-03-11,4.0
 Singapore,Total,country,2021-03-12,3.0
 Singapore,Total,country,2021-03-13,15.0
+Singapore,Total,country,2021-03-14,14.000000000000002
+Singapore,Total,country,2021-03-15,4.0
 Slovakia,Bratislava,city,2020-03-01,1.0
 Slovakia,Bratislava,city,2020-03-02,10.0
 Slovakia,Bratislava,city,2020-03-03,1.0
@@ -46970,8 +46972,6 @@ Slovakia,Total,country,2020-12-08,-14.000000000000002
 Slovakia,Total,country,2020-12-09,-18.0
 Slovakia,Total,country,2020-12-10,-21.0
 Slovakia,Total,country,2020-12-11,-22.0
-Slovakia,Total,country,2020-12-11,-22.0
-Slovakia,Total,country,2020-12-12,-33.0
 Slovakia,Total,country,2020-12-12,-33.0
 Slovakia,Total,country,2020-12-13,-35.0
 Slovakia,Total,country,2020-12-14,-10.0
@@ -47064,6 +47064,8 @@ Slovakia,Total,country,2021-03-10,-41.0
 Slovakia,Total,country,2021-03-11,-40.0
 Slovakia,Total,country,2021-03-12,-44.0
 Slovakia,Total,country,2021-03-13,-55.00000000000001
+Slovakia,Total,country,2021-03-14,-54.0
+Slovakia,Total,country,2021-03-15,-36.0
 South Africa,Cape Town,city,2020-03-01,35.0
 South Africa,Cape Town,city,2020-03-02,6.0
 South Africa,Cape Town,city,2020-03-03,4.0
@@ -47731,8 +47733,6 @@ South Africa,Total,country,2020-12-09,1.0
 South Africa,Total,country,2020-12-10,-2.0
 South Africa,Total,country,2020-12-11,5.0
 South Africa,Total,country,2020-12-12,36.0
-South Africa,Total,country,2020-12-12,36.0
-South Africa,Total,country,2020-12-13,35.0
 South Africa,Total,country,2020-12-13,35.0
 South Africa,Total,country,2020-12-14,5.0
 South Africa,Total,country,2020-12-15,18.0
@@ -47824,6 +47824,8 @@ South Africa,Total,country,2021-03-10,-18.0
 South Africa,Total,country,2021-03-11,-11.0
 South Africa,Total,country,2021-03-12,-7.000000000000001
 South Africa,Total,country,2021-03-13,15.0
+South Africa,Total,country,2021-03-14,15.0
+South Africa,Total,country,2021-03-15,-9.0
 Spain,Barcelona,city,2020-03-01,-4.0
 Spain,Barcelona,city,2020-03-02,-8.0
 Spain,Barcelona,city,2020-03-03,-1.0
@@ -48870,8 +48872,6 @@ Spain,Total,country,2020-12-08,-37.0
 Spain,Total,country,2020-12-09,-19.0
 Spain,Total,country,2020-12-10,-27.0
 Spain,Total,country,2020-12-11,-43.0
-Spain,Total,country,2020-12-11,-43.0
-Spain,Total,country,2020-12-12,-47.0
 Spain,Total,country,2020-12-12,-47.0
 Spain,Total,country,2020-12-13,-59.0
 Spain,Total,country,2020-12-14,-22.0
@@ -48964,6 +48964,8 @@ Spain,Total,country,2021-03-10,-18.0
 Spain,Total,country,2021-03-11,-20.0
 Spain,Total,country,2021-03-12,-31.0
 Spain,Total,country,2021-03-13,-32.0
+Spain,Total,country,2021-03-14,-43.0
+Spain,Total,country,2021-03-15,-20.0
 Sweden,Stockholm,city,2020-03-01,37.0
 Sweden,Stockholm,city,2020-03-02,3.0
 Sweden,Stockholm,city,2020-03-03,9.0
@@ -49629,8 +49631,6 @@ Sweden,Total,country,2020-12-08,-32.0
 Sweden,Total,country,2020-12-09,-25.0
 Sweden,Total,country,2020-12-10,-26.0
 Sweden,Total,country,2020-12-11,-26.0
-Sweden,Total,country,2020-12-11,-26.0
-Sweden,Total,country,2020-12-12,-40.0
 Sweden,Total,country,2020-12-12,-40.0
 Sweden,Total,country,2020-12-13,-46.0
 Sweden,Total,country,2020-12-14,-25.0
@@ -49723,6 +49723,8 @@ Sweden,Total,country,2021-03-10,-19.0
 Sweden,Total,country,2021-03-11,-24.0
 Sweden,Total,country,2021-03-12,-28.000000000000004
 Sweden,Total,country,2021-03-13,-27.0
+Sweden,Total,country,2021-03-14,-23.0
+Sweden,Total,country,2021-03-15,-22.0
 Switzerland,Total,country,2020-03-01,-13.0
 Switzerland,Total,country,2020-03-02,-10.0
 Switzerland,Total,country,2020-03-03,-7.000000000000001
@@ -50009,8 +50011,6 @@ Switzerland,Total,country,2020-12-08,-23.0
 Switzerland,Total,country,2020-12-09,-40.0
 Switzerland,Total,country,2020-12-10,-23.0
 Switzerland,Total,country,2020-12-11,-28.999999999999996
-Switzerland,Total,country,2020-12-11,-28.999999999999996
-Switzerland,Total,country,2020-12-12,-56.00000000000001
 Switzerland,Total,country,2020-12-12,-56.00000000000001
 Switzerland,Total,country,2020-12-13,-41.0
 Switzerland,Total,country,2020-12-14,-13.0
@@ -50103,6 +50103,8 @@ Switzerland,Total,country,2021-03-10,-14.000000000000002
 Switzerland,Total,country,2021-03-11,-24.0
 Switzerland,Total,country,2021-03-12,-12.0
 Switzerland,Total,country,2021-03-13,-50.0
+Switzerland,Total,country,2021-03-14,-37.0
+Switzerland,Total,country,2021-03-15,-37.0
 Ukraine,Kyiv,city,2020-03-01,1.0
 Ukraine,Kyiv,city,2020-03-02,5.0
 Ukraine,Kyiv,city,2020-03-03,5.0
@@ -50918,8 +50920,6 @@ Ukraine,Total,country,2020-11-22,98.0
 Ukraine,Total,country,2020-11-28,93.0
 Ukraine,Total,country,2020-12-11,82.0
 Ukraine,Total,country,2020-12-12,89.0
-Ukraine,Total,country,2020-12-12,89.0
-Ukraine,Total,country,2020-12-13,94.0
 Ukraine,Total,country,2020-12-13,94.0
 Ukraine,Total,country,2021-01-01,27.0
 Ukraine,Total,country,2021-01-08,89.0
@@ -51230,8 +51230,6 @@ United Arab Emirates,Total,country,2020-12-09,-1.0
 United Arab Emirates,Total,country,2020-12-10,-6.0
 United Arab Emirates,Total,country,2020-12-11,-7.000000000000001
 United Arab Emirates,Total,country,2020-12-12,5.0
-United Arab Emirates,Total,country,2020-12-12,5.0
-United Arab Emirates,Total,country,2020-12-13,7.000000000000001
 United Arab Emirates,Total,country,2020-12-13,7.000000000000001
 United Arab Emirates,Total,country,2020-12-14,5.0
 United Arab Emirates,Total,country,2020-12-15,6.0
@@ -51323,6 +51321,8 @@ United Arab Emirates,Total,country,2021-03-10,5.0
 United Arab Emirates,Total,country,2021-03-11,2.0
 United Arab Emirates,Total,country,2021-03-12,6.0
 United Arab Emirates,Total,country,2021-03-13,10.0
+United Arab Emirates,Total,country,2021-03-14,10.0
+United Arab Emirates,Total,country,2021-03-15,6.0
 United Kingdom,Birmingham,city,2020-03-01,2.0
 United Kingdom,Birmingham,city,2020-03-02,0.0
 United Kingdom,Birmingham,city,2020-03-03,-5.0
@@ -53880,8 +53880,6 @@ United Kingdom,Total,country,2020-12-08,-17.0
 United Kingdom,Total,country,2020-12-09,-17.0
 United Kingdom,Total,country,2020-12-10,-18.0
 United Kingdom,Total,country,2020-12-11,-16.0
-United Kingdom,Total,country,2020-12-11,-16.0
-United Kingdom,Total,country,2020-12-12,-11.0
 United Kingdom,Total,country,2020-12-12,-11.0
 United Kingdom,Total,country,2020-12-13,-24.0
 United Kingdom,Total,country,2020-12-14,-17.0
@@ -53974,6 +53972,8 @@ United Kingdom,Total,country,2021-03-10,-30.0
 United Kingdom,Total,country,2021-03-11,-30.0
 United Kingdom,Total,country,2021-03-12,-28.000000000000004
 United Kingdom,Total,country,2021-03-13,-30.0
+United Kingdom,Total,country,2021-03-14,-38.0
+United Kingdom,Total,country,2021-03-15,-28.999999999999996
 United States,Atlanta,city,2020-03-01,5.0
 United States,Atlanta,city,2020-03-02,2.0
 United States,Atlanta,city,2020-03-03,-6.0
@@ -69061,8 +69061,6 @@ United States,Total,country,2020-12-08,-32.0
 United States,Total,country,2020-12-09,-28.999999999999996
 United States,Total,country,2020-12-10,-28.000000000000004
 United States,Total,country,2020-12-11,-32.0
-United States,Total,country,2020-12-11,-32.0
-United States,Total,country,2020-12-12,-31.0
 United States,Total,country,2020-12-12,-31.0
 United States,Total,country,2020-12-13,-26.0
 United States,Total,country,2020-12-14,-32.0
@@ -69155,6 +69153,8 @@ United States,Total,country,2021-03-10,-19.0
 United States,Total,country,2021-03-11,-17.0
 United States,Total,country,2021-03-12,-15.0
 United States,Total,country,2021-03-13,-10.0
+United States,Total,country,2021-03-14,-4.0
+United States,Total,country,2021-03-15,-20.0
 United States,Washington,city,2020-03-01,0.0
 United States,Washington,city,2020-03-02,12.0
 United States,Washington,city,2020-03-03,-2.0
@@ -70581,8 +70581,6 @@ Uruguay,Total,country,2020-12-08,-20.0
 Uruguay,Total,country,2020-12-09,-12.0
 Uruguay,Total,country,2020-12-10,-13.0
 Uruguay,Total,country,2020-12-11,-24.0
-Uruguay,Total,country,2020-12-11,-24.0
-Uruguay,Total,country,2020-12-12,-41.0
 Uruguay,Total,country,2020-12-12,-41.0
 Uruguay,Total,country,2020-12-13,-28.000000000000004
 Uruguay,Total,country,2020-12-14,-21.0
@@ -70675,3 +70673,5 @@ Uruguay,Total,country,2021-03-10,1.0
 Uruguay,Total,country,2021-03-11,-18.0
 Uruguay,Total,country,2021-03-12,-14.000000000000002
 Uruguay,Total,country,2021-03-13,-37.0
+Uruguay,Total,country,2021-03-14,-19.0
+Uruguay,Total,country,2021-03-15,-15.0
