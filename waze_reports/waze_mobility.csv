@@ -18,7 +18,6 @@ Argentina,Buenos Aires,city,2020-03-16,-10.0
 Argentina,Buenos Aires,city,2020-03-17,-26.0
 Argentina,Buenos Aires,city,2020-03-18,-35.0
 Argentina,Buenos Aires,city,2020-03-19,-35.0
-Argentina,Buenos Aires,city,2020-03-19,-35.0
 Argentina,Buenos Aires,city,2020-03-20,-76.0
 Argentina,Buenos Aires,city,2020-03-21,-91.0
 Argentina,Buenos Aires,city,2020-03-22,-94.0
@@ -393,6 +392,7 @@ Argentina,Buenos Aires,city,2021-03-25,-4.0
 Argentina,Buenos Aires,city,2021-03-26,-9.0
 Argentina,Buenos Aires,city,2021-03-27,-8.0
 Argentina,Buenos Aires,city,2021-03-28,-15.0
+Argentina,Buenos Aires,city,2021-03-29,1.0
 Argentina,Total,country,2020-03-01,-11.0
 Argentina,Total,country,2020-03-02,-11.0
 Argentina,Total,country,2020-03-03,-21.0
@@ -786,6 +786,7 @@ Argentina,Total,country,2021-03-25,-24.0
 Argentina,Total,country,2021-03-26,-33.0
 Argentina,Total,country,2021-03-27,-46.0
 Argentina,Total,country,2021-03-28,-37.0
+Argentina,Total,country,2021-03-29,-32.0
 Australia,Brisbane,city,2020-03-01,5.0
 Australia,Brisbane,city,2020-03-02,3.0
 Australia,Brisbane,city,2020-03-03,3.0
@@ -804,7 +805,6 @@ Australia,Brisbane,city,2020-03-15,-5.0
 Australia,Brisbane,city,2020-03-16,-11.0
 Australia,Brisbane,city,2020-03-17,-11.0
 Australia,Brisbane,city,2020-03-18,-17.0
-Australia,Brisbane,city,2020-03-19,-17.0
 Australia,Brisbane,city,2020-03-19,-17.0
 Australia,Brisbane,city,2020-03-20,-19.0
 Australia,Brisbane,city,2020-03-21,-25.0
@@ -1180,6 +1180,7 @@ Australia,Brisbane,city,2021-03-25,57.99999999999999
 Australia,Brisbane,city,2021-03-26,50.0
 Australia,Brisbane,city,2021-03-27,48.0
 Australia,Brisbane,city,2021-03-28,44.0
+Australia,Brisbane,city,2021-03-29,20.0
 Australia,Gold Coast,city,2020-03-01,26.0
 Australia,Gold Coast,city,2020-03-02,0.0
 Australia,Gold Coast,city,2020-03-03,0.0
@@ -1198,7 +1199,6 @@ Australia,Gold Coast,city,2020-03-15,-5.0
 Australia,Gold Coast,city,2020-03-16,-10.0
 Australia,Gold Coast,city,2020-03-17,-9.0
 Australia,Gold Coast,city,2020-03-18,-22.0
-Australia,Gold Coast,city,2020-03-19,-17.0
 Australia,Gold Coast,city,2020-03-19,-17.0
 Australia,Gold Coast,city,2020-03-20,-15.0
 Australia,Gold Coast,city,2020-03-21,-24.0
@@ -1573,6 +1573,7 @@ Australia,Gold Coast,city,2021-03-25,51.0
 Australia,Gold Coast,city,2021-03-26,65.0
 Australia,Gold Coast,city,2021-03-27,77.0
 Australia,Gold Coast,city,2021-03-28,20.0
+Australia,Gold Coast,city,2021-03-29,93.0
 Australia,Melbourne,city,2020-03-01,-1.0
 Australia,Melbourne,city,2020-03-02,-3.0
 Australia,Melbourne,city,2020-03-03,1.0
@@ -1591,7 +1592,6 @@ Australia,Melbourne,city,2020-03-15,-18.0
 Australia,Melbourne,city,2020-03-16,-18.0
 Australia,Melbourne,city,2020-03-17,-16.0
 Australia,Melbourne,city,2020-03-18,-25.0
-Australia,Melbourne,city,2020-03-19,-28.000000000000004
 Australia,Melbourne,city,2020-03-19,-28.000000000000004
 Australia,Melbourne,city,2020-03-20,-28.999999999999996
 Australia,Melbourne,city,2020-03-21,-33.0
@@ -1967,6 +1967,7 @@ Australia,Melbourne,city,2021-03-25,3.0
 Australia,Melbourne,city,2021-03-26,1.0
 Australia,Melbourne,city,2021-03-27,12.0
 Australia,Melbourne,city,2021-03-28,-21.0
+Australia,Melbourne,city,2021-03-29,-6.0
 Australia,Perth,city,2020-03-01,-14.000000000000002
 Australia,Perth,city,2020-03-02,0.0
 Australia,Perth,city,2020-03-03,11.0
@@ -1985,7 +1986,6 @@ Australia,Perth,city,2020-03-15,-21.0
 Australia,Perth,city,2020-03-16,-14.000000000000002
 Australia,Perth,city,2020-03-17,-2.0
 Australia,Perth,city,2020-03-18,-15.0
-Australia,Perth,city,2020-03-19,-18.0
 Australia,Perth,city,2020-03-19,-18.0
 Australia,Perth,city,2020-03-20,-20.0
 Australia,Perth,city,2020-03-21,-21.0
@@ -2361,6 +2361,7 @@ Australia,Perth,city,2021-03-25,38.0
 Australia,Perth,city,2021-03-26,56.00000000000001
 Australia,Perth,city,2021-03-27,28.000000000000004
 Australia,Perth,city,2021-03-28,46.0
+Australia,Perth,city,2021-03-29,17.0
 Australia,Sydney,city,2020-03-01,8.0
 Australia,Sydney,city,2020-03-02,-3.0
 Australia,Sydney,city,2020-03-03,-9.0
@@ -2379,7 +2380,6 @@ Australia,Sydney,city,2020-03-15,-8.0
 Australia,Sydney,city,2020-03-16,-15.0
 Australia,Sydney,city,2020-03-17,-15.0
 Australia,Sydney,city,2020-03-18,-18.0
-Australia,Sydney,city,2020-03-19,-28.000000000000004
 Australia,Sydney,city,2020-03-19,-28.000000000000004
 Australia,Sydney,city,2020-03-20,-37.0
 Australia,Sydney,city,2020-03-21,-39.0
@@ -2755,6 +2755,7 @@ Australia,Sydney,city,2021-03-25,28.999999999999996
 Australia,Sydney,city,2021-03-26,25.0
 Australia,Sydney,city,2021-03-27,18.0
 Australia,Sydney,city,2021-03-28,38.0
+Australia,Sydney,city,2021-03-29,30.0
 Australia,Total,country,2020-03-01,4.0
 Australia,Total,country,2020-03-02,2.0
 Australia,Total,country,2020-03-03,1.0
@@ -3148,6 +3149,7 @@ Australia,Total,country,2021-03-25,34.0
 Australia,Total,country,2021-03-26,35.0
 Australia,Total,country,2021-03-27,37.0
 Australia,Total,country,2021-03-28,33.0
+Australia,Total,country,2021-03-29,33.0
 Austria,Total,country,2020-03-01,-18.0
 Austria,Total,country,2020-03-02,-14.000000000000002
 Austria,Total,country,2020-03-03,-6.0
@@ -3541,6 +3543,7 @@ Austria,Total,country,2021-03-25,-56.00000000000001
 Austria,Total,country,2021-03-26,-55.00000000000001
 Austria,Total,country,2021-03-27,-79.0
 Austria,Total,country,2021-03-28,-64.0
+Austria,Total,country,2021-03-29,-46.0
 Belgium,Antwerp,city,2020-03-01,8.0
 Belgium,Antwerp,city,2020-03-02,-3.0
 Belgium,Antwerp,city,2020-03-03,7.000000000000001
@@ -3558,7 +3561,6 @@ Belgium,Antwerp,city,2020-03-14,-48.0
 Belgium,Antwerp,city,2020-03-15,-43.0
 Belgium,Antwerp,city,2020-03-16,-45.0
 Belgium,Antwerp,city,2020-03-17,-53.0
-Belgium,Antwerp,city,2020-03-18,-61.0
 Belgium,Antwerp,city,2020-03-18,-61.0
 Belgium,Antwerp,city,2020-03-19,-77.0
 Belgium,Antwerp,city,2020-03-20,-73.0
@@ -3935,6 +3937,7 @@ Belgium,Antwerp,city,2021-03-25,-39.0
 Belgium,Antwerp,city,2021-03-26,-21.0
 Belgium,Antwerp,city,2021-03-27,-35.0
 Belgium,Antwerp,city,2021-03-28,-26.0
+Belgium,Antwerp,city,2021-03-29,-27.0
 Belgium,Brussels,city,2020-03-01,3.0
 Belgium,Brussels,city,2020-03-02,0.0
 Belgium,Brussels,city,2020-03-03,-1.0
@@ -3952,7 +3955,6 @@ Belgium,Brussels,city,2020-03-14,-53.0
 Belgium,Brussels,city,2020-03-15,-54.0
 Belgium,Brussels,city,2020-03-16,-50.0
 Belgium,Brussels,city,2020-03-17,-56.99999999999999
-Belgium,Brussels,city,2020-03-18,-74.0
 Belgium,Brussels,city,2020-03-18,-74.0
 Belgium,Brussels,city,2020-03-19,-85.0
 Belgium,Brussels,city,2020-03-20,-81.0
@@ -4329,6 +4331,7 @@ Belgium,Brussels,city,2021-03-25,-32.0
 Belgium,Brussels,city,2021-03-26,-13.0
 Belgium,Brussels,city,2021-03-27,-32.0
 Belgium,Brussels,city,2021-03-28,-61.0
+Belgium,Brussels,city,2021-03-29,-33.0
 Belgium,Ghent,city,2020-03-01,5.0
 Belgium,Ghent,city,2020-03-02,0.0
 Belgium,Ghent,city,2020-03-03,2.0
@@ -4346,7 +4349,6 @@ Belgium,Ghent,city,2020-03-14,-56.99999999999999
 Belgium,Ghent,city,2020-03-15,-38.0
 Belgium,Ghent,city,2020-03-16,-52.0
 Belgium,Ghent,city,2020-03-17,-54.0
-Belgium,Ghent,city,2020-03-18,-69.0
 Belgium,Ghent,city,2020-03-18,-69.0
 Belgium,Ghent,city,2020-03-19,-79.0
 Belgium,Ghent,city,2020-03-20,-79.0
@@ -4723,6 +4725,7 @@ Belgium,Ghent,city,2021-03-25,-35.0
 Belgium,Ghent,city,2021-03-26,-26.0
 Belgium,Ghent,city,2021-03-27,-25.0
 Belgium,Ghent,city,2021-03-28,-27.0
+Belgium,Ghent,city,2021-03-29,-20.0
 Belgium,Total,country,2020-03-01,13.0
 Belgium,Total,country,2020-03-02,-1.0
 Belgium,Total,country,2020-03-03,1.0
@@ -5116,6 +5119,7 @@ Belgium,Total,country,2021-03-25,-19.0
 Belgium,Total,country,2021-03-26,-16.0
 Belgium,Total,country,2021-03-27,-20.0
 Belgium,Total,country,2021-03-28,-16.0
+Belgium,Total,country,2021-03-29,-16.0
 Brazil,Belo Horizonte,city,2020-03-01,-21.0
 Brazil,Belo Horizonte,city,2020-03-02,6.0
 Brazil,Belo Horizonte,city,2020-03-03,4.0
@@ -5134,7 +5138,6 @@ Brazil,Belo Horizonte,city,2020-03-15,-7.000000000000001
 Brazil,Belo Horizonte,city,2020-03-16,-1.0
 Brazil,Belo Horizonte,city,2020-03-17,-13.0
 Brazil,Belo Horizonte,city,2020-03-18,-32.0
-Brazil,Belo Horizonte,city,2020-03-19,-42.0
 Brazil,Belo Horizonte,city,2020-03-19,-42.0
 Brazil,Belo Horizonte,city,2020-03-20,-52.0
 Brazil,Belo Horizonte,city,2020-03-21,-70.0
@@ -5510,6 +5513,7 @@ Brazil,Belo Horizonte,city,2021-03-25,-36.0
 Brazil,Belo Horizonte,city,2021-03-26,-35.0
 Brazil,Belo Horizonte,city,2021-03-27,-48.0
 Brazil,Belo Horizonte,city,2021-03-28,-54.0
+Brazil,Belo Horizonte,city,2021-03-29,-25.0
 Brazil,Brasilia,city,2020-03-01,-27.0
 Brazil,Brasilia,city,2020-03-02,44.0
 Brazil,Brasilia,city,2020-03-03,33.0
@@ -5527,7 +5531,6 @@ Brazil,Brasilia,city,2020-03-14,-26.0
 Brazil,Brasilia,city,2020-03-15,-39.0
 Brazil,Brasilia,city,2020-03-16,-6.0
 Brazil,Brasilia,city,2020-03-17,-28.000000000000004
-Brazil,Brasilia,city,2020-03-18,-52.0
 Brazil,Brasilia,city,2020-03-18,-52.0
 Brazil,Brasilia,city,2020-03-19,-62.0
 Brazil,Brasilia,city,2020-03-20,-71.0
@@ -5904,6 +5907,7 @@ Brazil,Brasilia,city,2021-03-25,-62.0
 Brazil,Brasilia,city,2021-03-26,-65.0
 Brazil,Brasilia,city,2021-03-27,-56.00000000000001
 Brazil,Brasilia,city,2021-03-28,-64.0
+Brazil,Brasilia,city,2021-03-29,-38.0
 Brazil,Curitiba,city,2020-03-01,4.0
 Brazil,Curitiba,city,2020-03-02,26.0
 Brazil,Curitiba,city,2020-03-03,24.0
@@ -5922,7 +5926,6 @@ Brazil,Curitiba,city,2020-03-15,11.0
 Brazil,Curitiba,city,2020-03-16,26.0
 Brazil,Curitiba,city,2020-03-17,-1.0
 Brazil,Curitiba,city,2020-03-18,-26.0
-Brazil,Curitiba,city,2020-03-19,-35.0
 Brazil,Curitiba,city,2020-03-19,-35.0
 Brazil,Curitiba,city,2020-03-20,-42.0
 Brazil,Curitiba,city,2020-03-21,-59.0
@@ -6298,6 +6301,7 @@ Brazil,Curitiba,city,2021-03-25,-32.0
 Brazil,Curitiba,city,2021-03-26,-32.0
 Brazil,Curitiba,city,2021-03-27,-32.0
 Brazil,Curitiba,city,2021-03-28,-49.0
+Brazil,Curitiba,city,2021-03-29,-14.000000000000002
 Brazil,Florianopolis,city,2020-03-01,-35.0
 Brazil,Florianopolis,city,2020-03-02,-22.0
 Brazil,Florianopolis,city,2020-03-03,-22.0
@@ -6315,7 +6319,6 @@ Brazil,Florianopolis,city,2020-03-14,-37.0
 Brazil,Florianopolis,city,2020-03-15,-31.0
 Brazil,Florianopolis,city,2020-03-16,-33.0
 Brazil,Florianopolis,city,2020-03-17,-49.0
-Brazil,Florianopolis,city,2020-03-18,-45.0
 Brazil,Florianopolis,city,2020-03-18,-45.0
 Brazil,Florianopolis,city,2020-03-19,-66.0
 Brazil,Florianopolis,city,2020-03-20,-77.0
@@ -6692,6 +6695,7 @@ Brazil,Florianopolis,city,2021-03-25,-33.0
 Brazil,Florianopolis,city,2021-03-26,-45.0
 Brazil,Florianopolis,city,2021-03-27,-56.00000000000001
 Brazil,Florianopolis,city,2021-03-28,-59.0
+Brazil,Florianopolis,city,2021-03-29,-44.0
 Brazil,Fortaleza,city,2020-03-01,-5.0
 Brazil,Fortaleza,city,2020-03-02,22.0
 Brazil,Fortaleza,city,2020-03-03,14.000000000000002
@@ -7085,6 +7089,7 @@ Brazil,Fortaleza,city,2021-03-25,-55.00000000000001
 Brazil,Fortaleza,city,2021-03-26,-38.0
 Brazil,Fortaleza,city,2021-03-27,-37.0
 Brazil,Fortaleza,city,2021-03-28,-43.0
+Brazil,Fortaleza,city,2021-03-29,-22.0
 Brazil,Guarulhos,city,2020-03-01,7.000000000000001
 Brazil,Guarulhos,city,2020-03-02,11.0
 Brazil,Guarulhos,city,2020-03-03,2.0
@@ -7103,7 +7108,6 @@ Brazil,Guarulhos,city,2020-03-15,5.0
 Brazil,Guarulhos,city,2020-03-16,7.000000000000001
 Brazil,Guarulhos,city,2020-03-17,-12.0
 Brazil,Guarulhos,city,2020-03-18,-23.0
-Brazil,Guarulhos,city,2020-03-19,-28.000000000000004
 Brazil,Guarulhos,city,2020-03-19,-28.000000000000004
 Brazil,Guarulhos,city,2020-03-20,-34.0
 Brazil,Guarulhos,city,2020-03-21,-47.0
@@ -7479,6 +7483,7 @@ Brazil,Guarulhos,city,2021-03-25,-20.0
 Brazil,Guarulhos,city,2021-03-26,-21.0
 Brazil,Guarulhos,city,2021-03-27,-31.0
 Brazil,Guarulhos,city,2021-03-28,-25.0
+Brazil,Guarulhos,city,2021-03-29,-9.0
 Brazil,Porto Alegre,city,2020-03-01,28.999999999999996
 Brazil,Porto Alegre,city,2020-03-02,31.0
 Brazil,Porto Alegre,city,2020-03-03,17.0
@@ -7497,7 +7502,6 @@ Brazil,Porto Alegre,city,2020-03-15,32.0
 Brazil,Porto Alegre,city,2020-03-16,20.0
 Brazil,Porto Alegre,city,2020-03-17,-15.0
 Brazil,Porto Alegre,city,2020-03-18,-34.0
-Brazil,Porto Alegre,city,2020-03-19,-45.0
 Brazil,Porto Alegre,city,2020-03-19,-45.0
 Brazil,Porto Alegre,city,2020-03-20,-49.0
 Brazil,Porto Alegre,city,2020-03-21,-56.99999999999999
@@ -7873,6 +7877,7 @@ Brazil,Porto Alegre,city,2021-03-25,-22.0
 Brazil,Porto Alegre,city,2021-03-26,-19.0
 Brazil,Porto Alegre,city,2021-03-27,-21.0
 Brazil,Porto Alegre,city,2021-03-28,-26.0
+Brazil,Porto Alegre,city,2021-03-29,-15.0
 Brazil,Recife,city,2020-03-01,8.0
 Brazil,Recife,city,2020-03-02,11.0
 Brazil,Recife,city,2020-03-03,8.0
@@ -7890,7 +7895,6 @@ Brazil,Recife,city,2020-03-14,-18.0
 Brazil,Recife,city,2020-03-15,-13.0
 Brazil,Recife,city,2020-03-16,-7.000000000000001
 Brazil,Recife,city,2020-03-17,-23.0
-Brazil,Recife,city,2020-03-18,-45.0
 Brazil,Recife,city,2020-03-18,-45.0
 Brazil,Recife,city,2020-03-19,-54.0
 Brazil,Recife,city,2020-03-20,-57.99999999999999
@@ -8267,6 +8271,7 @@ Brazil,Recife,city,2021-03-25,-42.0
 Brazil,Recife,city,2021-03-26,-36.0
 Brazil,Recife,city,2021-03-27,-47.0
 Brazil,Recife,city,2021-03-28,-44.0
+Brazil,Recife,city,2021-03-29,-23.0
 Brazil,Rio De Janeiro,city,2020-03-01,-15.0
 Brazil,Rio De Janeiro,city,2020-03-02,-4.0
 Brazil,Rio De Janeiro,city,2020-03-03,-1.0
@@ -8284,7 +8289,6 @@ Brazil,Rio De Janeiro,city,2020-03-14,-11.0
 Brazil,Rio De Janeiro,city,2020-03-15,-12.0
 Brazil,Rio De Janeiro,city,2020-03-16,-6.0
 Brazil,Rio De Janeiro,city,2020-03-17,-28.000000000000004
-Brazil,Rio De Janeiro,city,2020-03-18,-44.0
 Brazil,Rio De Janeiro,city,2020-03-18,-44.0
 Brazil,Rio De Janeiro,city,2020-03-19,-52.0
 Brazil,Rio De Janeiro,city,2020-03-20,-55.00000000000001
@@ -8661,6 +8665,7 @@ Brazil,Rio De Janeiro,city,2021-03-25,-14.000000000000002
 Brazil,Rio De Janeiro,city,2021-03-26,-31.0
 Brazil,Rio De Janeiro,city,2021-03-27,-42.0
 Brazil,Rio De Janeiro,city,2021-03-28,-42.0
+Brazil,Rio De Janeiro,city,2021-03-29,-28.000000000000004
 Brazil,Salvador,city,2020-03-01,-18.0
 Brazil,Salvador,city,2020-03-02,2.0
 Brazil,Salvador,city,2020-03-03,2.0
@@ -9054,6 +9059,7 @@ Brazil,Salvador,city,2021-03-25,-36.0
 Brazil,Salvador,city,2021-03-26,-39.0
 Brazil,Salvador,city,2021-03-27,-36.0
 Brazil,Salvador,city,2021-03-28,-41.0
+Brazil,Salvador,city,2021-03-29,-21.0
 Brazil,Sao Paulo,city,2020-03-01,7.000000000000001
 Brazil,Sao Paulo,city,2020-03-02,12.0
 Brazil,Sao Paulo,city,2020-03-03,9.0
@@ -9072,7 +9078,6 @@ Brazil,Sao Paulo,city,2020-03-15,-1.0
 Brazil,Sao Paulo,city,2020-03-16,7.000000000000001
 Brazil,Sao Paulo,city,2020-03-17,-14.000000000000002
 Brazil,Sao Paulo,city,2020-03-18,-32.0
-Brazil,Sao Paulo,city,2020-03-19,-38.0
 Brazil,Sao Paulo,city,2020-03-19,-38.0
 Brazil,Sao Paulo,city,2020-03-20,-44.0
 Brazil,Sao Paulo,city,2020-03-21,-61.0
@@ -9448,6 +9453,7 @@ Brazil,Sao Paulo,city,2021-03-25,-30.0
 Brazil,Sao Paulo,city,2021-03-26,-35.0
 Brazil,Sao Paulo,city,2021-03-27,-39.0
 Brazil,Sao Paulo,city,2021-03-28,-41.0
+Brazil,Sao Paulo,city,2021-03-29,-27.0
 Brazil,Total,country,2020-03-01,-7.000000000000001
 Brazil,Total,country,2020-03-02,4.0
 Brazil,Total,country,2020-03-03,-2.0
@@ -9841,6 +9847,7 @@ Brazil,Total,country,2021-03-25,-25.0
 Brazil,Total,country,2021-03-26,-31.0
 Brazil,Total,country,2021-03-27,-44.0
 Brazil,Total,country,2021-03-28,-40.0
+Brazil,Total,country,2021-03-29,-22.0
 Brazil,Vitoria,city,2020-03-01,-56.00000000000001
 Brazil,Vitoria,city,2020-03-02,13.0
 Brazil,Vitoria,city,2020-03-03,-8.0
@@ -9858,7 +9865,6 @@ Brazil,Vitoria,city,2020-03-14,13.0
 Brazil,Vitoria,city,2020-03-15,11.0
 Brazil,Vitoria,city,2020-03-16,13.0
 Brazil,Vitoria,city,2020-03-17,-19.0
-Brazil,Vitoria,city,2020-03-18,-47.0
 Brazil,Vitoria,city,2020-03-18,-47.0
 Brazil,Vitoria,city,2020-03-19,-55.00000000000001
 Brazil,Vitoria,city,2020-03-20,-48.0
@@ -10233,6 +10239,7 @@ Brazil,Vitoria,city,2021-03-25,-41.0
 Brazil,Vitoria,city,2021-03-26,-32.0
 Brazil,Vitoria,city,2021-03-27,5.0
 Brazil,Vitoria,city,2021-03-28,-48.0
+Brazil,Vitoria,city,2021-03-29,6.0
 Canada,Calgary,city,2020-03-01,5.0
 Canada,Calgary,city,2020-03-02,4.0
 Canada,Calgary,city,2020-03-03,-6.0
@@ -10251,8 +10258,6 @@ Canada,Calgary,city,2020-03-15,-37.0
 Canada,Calgary,city,2020-03-16,-22.0
 Canada,Calgary,city,2020-03-17,-31.0
 Canada,Calgary,city,2020-03-18,-68.0
-Canada,Calgary,city,2020-03-18,-68.0
-Canada,Calgary,city,2020-03-19,-48.0
 Canada,Calgary,city,2020-03-19,-48.0
 Canada,Calgary,city,2020-03-20,-69.0
 Canada,Calgary,city,2020-03-21,-64.0
@@ -10626,6 +10631,7 @@ Canada,Calgary,city,2021-03-25,-27.0
 Canada,Calgary,city,2021-03-26,16.0
 Canada,Calgary,city,2021-03-27,7.000000000000001
 Canada,Calgary,city,2021-03-28,-82.0
+Canada,Calgary,city,2021-03-29,-35.0
 Canada,Hamilton,city,2020-03-01,3.0
 Canada,Hamilton,city,2020-03-02,8.0
 Canada,Hamilton,city,2020-03-03,5.0
@@ -11019,6 +11025,7 @@ Canada,Hamilton,city,2021-03-25,-16.0
 Canada,Hamilton,city,2021-03-26,-30.0
 Canada,Hamilton,city,2021-03-27,-13.0
 Canada,Hamilton,city,2021-03-28,-15.0
+Canada,Hamilton,city,2021-03-29,46.0
 Canada,Mississauga,city,2020-03-01,4.0
 Canada,Mississauga,city,2020-03-02,23.0
 Canada,Mississauga,city,2020-03-03,-1.0
@@ -11036,7 +11043,6 @@ Canada,Mississauga,city,2020-03-14,-31.0
 Canada,Mississauga,city,2020-03-15,-38.0
 Canada,Mississauga,city,2020-03-16,-32.0
 Canada,Mississauga,city,2020-03-17,-49.0
-Canada,Mississauga,city,2020-03-18,-52.0
 Canada,Mississauga,city,2020-03-18,-52.0
 Canada,Mississauga,city,2020-03-19,-57.99999999999999
 Canada,Mississauga,city,2020-03-20,-62.0
@@ -11413,6 +11419,7 @@ Canada,Mississauga,city,2021-03-25,-39.0
 Canada,Mississauga,city,2021-03-26,-44.0
 Canada,Mississauga,city,2021-03-27,-34.0
 Canada,Mississauga,city,2021-03-28,-36.0
+Canada,Mississauga,city,2021-03-29,-34.0
 Canada,Montreal,city,2020-03-01,-9.0
 Canada,Montreal,city,2020-03-02,-8.0
 Canada,Montreal,city,2020-03-03,-9.0
@@ -11430,7 +11437,6 @@ Canada,Montreal,city,2020-03-14,-35.0
 Canada,Montreal,city,2020-03-15,-35.0
 Canada,Montreal,city,2020-03-16,-35.0
 Canada,Montreal,city,2020-03-17,-46.0
-Canada,Montreal,city,2020-03-18,-50.0
 Canada,Montreal,city,2020-03-18,-50.0
 Canada,Montreal,city,2020-03-19,-55.00000000000001
 Canada,Montreal,city,2020-03-20,-57.99999999999999
@@ -11807,6 +11813,7 @@ Canada,Montreal,city,2021-03-25,-20.0
 Canada,Montreal,city,2021-03-26,-24.0
 Canada,Montreal,city,2021-03-27,-23.0
 Canada,Montreal,city,2021-03-28,-28.999999999999996
+Canada,Montreal,city,2021-03-29,-31.0
 Canada,Ottawa,city,2020-03-01,-6.0
 Canada,Ottawa,city,2020-03-02,10.0
 Canada,Ottawa,city,2020-03-03,-1.0
@@ -11824,7 +11831,6 @@ Canada,Ottawa,city,2020-03-14,-42.0
 Canada,Ottawa,city,2020-03-15,-32.0
 Canada,Ottawa,city,2020-03-16,-42.0
 Canada,Ottawa,city,2020-03-17,-56.00000000000001
-Canada,Ottawa,city,2020-03-18,-54.0
 Canada,Ottawa,city,2020-03-18,-54.0
 Canada,Ottawa,city,2020-03-19,-59.0
 Canada,Ottawa,city,2020-03-20,-66.0
@@ -12201,6 +12207,7 @@ Canada,Ottawa,city,2021-03-25,-32.0
 Canada,Ottawa,city,2021-03-26,-44.0
 Canada,Ottawa,city,2021-03-27,-42.0
 Canada,Ottawa,city,2021-03-28,-31.0
+Canada,Ottawa,city,2021-03-29,-44.0
 Canada,Quebec City,city,2020-03-01,-4.0
 Canada,Quebec City,city,2020-03-02,7.000000000000001
 Canada,Quebec City,city,2020-03-03,10.0
@@ -12218,7 +12225,6 @@ Canada,Quebec City,city,2020-03-14,-33.0
 Canada,Quebec City,city,2020-03-15,-33.0
 Canada,Quebec City,city,2020-03-16,-47.0
 Canada,Quebec City,city,2020-03-17,-71.0
-Canada,Quebec City,city,2020-03-18,-66.0
 Canada,Quebec City,city,2020-03-18,-66.0
 Canada,Quebec City,city,2020-03-19,-68.0
 Canada,Quebec City,city,2020-03-20,-68.0
@@ -12593,6 +12599,7 @@ Canada,Quebec City,city,2021-03-25,-33.0
 Canada,Quebec City,city,2021-03-26,-39.0
 Canada,Quebec City,city,2021-03-27,-89.0
 Canada,Quebec City,city,2021-03-28,-17.0
+Canada,Quebec City,city,2021-03-29,-50.0
 Canada,Toronto,city,2020-03-01,4.0
 Canada,Toronto,city,2020-03-02,14.000000000000002
 Canada,Toronto,city,2020-03-03,1.0
@@ -12610,7 +12617,6 @@ Canada,Toronto,city,2020-03-14,-34.0
 Canada,Toronto,city,2020-03-15,-38.0
 Canada,Toronto,city,2020-03-16,-27.0
 Canada,Toronto,city,2020-03-17,-48.0
-Canada,Toronto,city,2020-03-18,-53.0
 Canada,Toronto,city,2020-03-18,-53.0
 Canada,Toronto,city,2020-03-19,-59.0
 Canada,Toronto,city,2020-03-20,-61.0
@@ -12987,6 +12993,7 @@ Canada,Toronto,city,2021-03-25,-32.0
 Canada,Toronto,city,2021-03-26,-31.0
 Canada,Toronto,city,2021-03-27,-31.0
 Canada,Toronto,city,2021-03-28,-35.0
+Canada,Toronto,city,2021-03-29,-27.0
 Canada,Total,country,2020-03-01,-3.0
 Canada,Total,country,2020-03-02,1.0
 Canada,Total,country,2020-03-03,0.0
@@ -13380,6 +13387,7 @@ Canada,Total,country,2021-03-25,-21.0
 Canada,Total,country,2021-03-26,-26.0
 Canada,Total,country,2021-03-27,-26.0
 Canada,Total,country,2021-03-28,-30.0
+Canada,Total,country,2021-03-29,-24.0
 Canada,Vaughan,city,2020-03-01,9.0
 Canada,Vaughan,city,2020-03-02,11.0
 Canada,Vaughan,city,2020-03-03,0.0
@@ -13397,7 +13405,6 @@ Canada,Vaughan,city,2020-03-14,-32.0
 Canada,Vaughan,city,2020-03-15,-26.0
 Canada,Vaughan,city,2020-03-16,-28.999999999999996
 Canada,Vaughan,city,2020-03-17,-40.0
-Canada,Vaughan,city,2020-03-18,-50.0
 Canada,Vaughan,city,2020-03-18,-50.0
 Canada,Vaughan,city,2020-03-19,-54.0
 Canada,Vaughan,city,2020-03-20,-64.0
@@ -13774,6 +13781,7 @@ Canada,Vaughan,city,2021-03-25,-38.0
 Canada,Vaughan,city,2021-03-26,-23.0
 Canada,Vaughan,city,2021-03-27,-12.0
 Canada,Vaughan,city,2021-03-28,-12.0
+Canada,Vaughan,city,2021-03-29,-2.0
 Chile,Las Condes,city,2020-03-01,17.0
 Chile,Las Condes,city,2020-03-02,3.0
 Chile,Las Condes,city,2020-03-03,23.0
@@ -13792,7 +13800,6 @@ Chile,Las Condes,city,2020-03-15,-8.0
 Chile,Las Condes,city,2020-03-16,-21.0
 Chile,Las Condes,city,2020-03-17,-32.0
 Chile,Las Condes,city,2020-03-18,-30.0
-Chile,Las Condes,city,2020-03-19,-47.0
 Chile,Las Condes,city,2020-03-19,-47.0
 Chile,Las Condes,city,2020-03-20,-50.0
 Chile,Las Condes,city,2020-03-21,-64.0
@@ -14168,6 +14175,7 @@ Chile,Las Condes,city,2021-03-25,6.0
 Chile,Las Condes,city,2021-03-26,38.0
 Chile,Las Condes,city,2021-03-27,-52.0
 Chile,Las Condes,city,2021-03-28,-77.0
+Chile,Las Condes,city,2021-03-29,-49.0
 Chile,Maipu,city,2020-03-01,7.000000000000001
 Chile,Maipu,city,2020-03-02,-9.0
 Chile,Maipu,city,2020-03-03,11.0
@@ -14186,7 +14194,6 @@ Chile,Maipu,city,2020-03-15,-16.0
 Chile,Maipu,city,2020-03-16,-18.0
 Chile,Maipu,city,2020-03-17,-15.0
 Chile,Maipu,city,2020-03-18,-27.0
-Chile,Maipu,city,2020-03-19,-24.0
 Chile,Maipu,city,2020-03-19,-24.0
 Chile,Maipu,city,2020-03-20,-31.0
 Chile,Maipu,city,2020-03-21,-54.0
@@ -14562,6 +14569,7 @@ Chile,Maipu,city,2021-03-25,38.0
 Chile,Maipu,city,2021-03-26,12.0
 Chile,Maipu,city,2021-03-27,-42.0
 Chile,Maipu,city,2021-03-28,-63.0
+Chile,Maipu,city,2021-03-29,8.0
 Chile,Santiago,city,2020-03-01,7.000000000000001
 Chile,Santiago,city,2020-03-02,-5.0
 Chile,Santiago,city,2020-03-03,7.000000000000001
@@ -14580,7 +14588,6 @@ Chile,Santiago,city,2020-03-15,-11.0
 Chile,Santiago,city,2020-03-16,-19.0
 Chile,Santiago,city,2020-03-17,-24.0
 Chile,Santiago,city,2020-03-18,-28.000000000000004
-Chile,Santiago,city,2020-03-19,-42.0
 Chile,Santiago,city,2020-03-19,-42.0
 Chile,Santiago,city,2020-03-20,-46.0
 Chile,Santiago,city,2020-03-21,-65.0
@@ -14956,6 +14963,7 @@ Chile,Santiago,city,2021-03-25,-6.0
 Chile,Santiago,city,2021-03-26,9.0
 Chile,Santiago,city,2021-03-27,-54.0
 Chile,Santiago,city,2021-03-28,-68.0
+Chile,Santiago,city,2021-03-29,-28.999999999999996
 Chile,Total,country,2020-03-01,-16.0
 Chile,Total,country,2020-03-02,-24.0
 Chile,Total,country,2020-03-03,-20.0
@@ -15349,6 +15357,7 @@ Chile,Total,country,2021-03-25,-22.0
 Chile,Total,country,2021-03-26,-25.0
 Chile,Total,country,2021-03-27,-64.0
 Chile,Total,country,2021-03-28,-74.0
+Chile,Total,country,2021-03-29,-40.0
 Colombia,Bogota,city,2020-03-01,9.0
 Colombia,Bogota,city,2020-03-02,3.0
 Colombia,Bogota,city,2020-03-03,6.0
@@ -15367,7 +15376,6 @@ Colombia,Bogota,city,2020-03-15,-13.0
 Colombia,Bogota,city,2020-03-16,-17.0
 Colombia,Bogota,city,2020-03-17,-22.0
 Colombia,Bogota,city,2020-03-18,-32.0
-Colombia,Bogota,city,2020-03-19,-32.0
 Colombia,Bogota,city,2020-03-19,-32.0
 Colombia,Bogota,city,2020-03-20,-72.0
 Colombia,Bogota,city,2020-03-21,-91.0
@@ -15743,6 +15751,7 @@ Colombia,Bogota,city,2021-03-25,-11.0
 Colombia,Bogota,city,2021-03-26,-7.000000000000001
 Colombia,Bogota,city,2021-03-27,-11.0
 Colombia,Bogota,city,2021-03-28,-15.0
+Colombia,Bogota,city,2021-03-29,-13.0
 Colombia,Cali,city,2020-03-01,2.0
 Colombia,Cali,city,2020-03-02,-2.0
 Colombia,Cali,city,2020-03-03,6.0
@@ -15761,8 +15770,6 @@ Colombia,Cali,city,2020-03-15,-14.000000000000002
 Colombia,Cali,city,2020-03-16,-19.0
 Colombia,Cali,city,2020-03-17,-34.0
 Colombia,Cali,city,2020-03-18,-45.0
-Colombia,Cali,city,2020-03-18,-45.0
-Colombia,Cali,city,2020-03-19,-41.0
 Colombia,Cali,city,2020-03-19,-41.0
 Colombia,Cali,city,2020-03-20,-56.00000000000001
 Colombia,Cali,city,2020-03-21,-90.0
@@ -16137,6 +16144,7 @@ Colombia,Cali,city,2021-03-25,-9.0
 Colombia,Cali,city,2021-03-26,-19.0
 Colombia,Cali,city,2021-03-27,-14.000000000000002
 Colombia,Cali,city,2021-03-28,-9.0
+Colombia,Cali,city,2021-03-29,-17.0
 Colombia,Medellin,city,2020-03-01,3.0
 Colombia,Medellin,city,2020-03-02,2.0
 Colombia,Medellin,city,2020-03-03,0.0
@@ -16154,7 +16162,6 @@ Colombia,Medellin,city,2020-03-14,-7.000000000000001
 Colombia,Medellin,city,2020-03-15,-13.0
 Colombia,Medellin,city,2020-03-16,-28.999999999999996
 Colombia,Medellin,city,2020-03-17,-41.0
-Colombia,Medellin,city,2020-03-18,-50.0
 Colombia,Medellin,city,2020-03-18,-50.0
 Colombia,Medellin,city,2020-03-19,-55.00000000000001
 Colombia,Medellin,city,2020-03-20,-53.0
@@ -16531,6 +16538,7 @@ Colombia,Medellin,city,2021-03-25,9.0
 Colombia,Medellin,city,2021-03-26,8.0
 Colombia,Medellin,city,2021-03-27,14.000000000000002
 Colombia,Medellin,city,2021-03-28,7.000000000000001
+Colombia,Medellin,city,2021-03-29,-1.0
 Colombia,Total,country,2020-03-01,8.0
 Colombia,Total,country,2020-03-02,2.0
 Colombia,Total,country,2020-03-03,3.0
@@ -16924,6 +16932,7 @@ Colombia,Total,country,2021-03-25,-4.0
 Colombia,Total,country,2021-03-26,4.0
 Colombia,Total,country,2021-03-27,9.0
 Colombia,Total,country,2021-03-28,8.0
+Colombia,Total,country,2021-03-29,3.0
 Costa Rica,San Jose,city,2020-03-01,7.000000000000001
 Costa Rica,San Jose,city,2020-03-02,0.0
 Costa Rica,San Jose,city,2020-03-03,5.0
@@ -16942,7 +16951,6 @@ Costa Rica,San Jose,city,2020-03-15,-25.0
 Costa Rica,San Jose,city,2020-03-16,-24.0
 Costa Rica,San Jose,city,2020-03-17,-34.0
 Costa Rica,San Jose,city,2020-03-18,-43.0
-Costa Rica,San Jose,city,2020-03-19,-47.0
 Costa Rica,San Jose,city,2020-03-19,-47.0
 Costa Rica,San Jose,city,2020-03-20,-56.99999999999999
 Costa Rica,San Jose,city,2020-03-21,-70.0
@@ -17318,6 +17326,7 @@ Costa Rica,San Jose,city,2021-03-25,-20.0
 Costa Rica,San Jose,city,2021-03-26,-14.000000000000002
 Costa Rica,San Jose,city,2021-03-27,-14.000000000000002
 Costa Rica,San Jose,city,2021-03-28,-23.0
+Costa Rica,San Jose,city,2021-03-29,-26.0
 Costa Rica,Total,country,2020-03-01,2.0
 Costa Rica,Total,country,2020-03-02,-1.0
 Costa Rica,Total,country,2020-03-03,2.0
@@ -17711,6 +17720,7 @@ Costa Rica,Total,country,2021-03-25,-7.000000000000001
 Costa Rica,Total,country,2021-03-26,-1.0
 Costa Rica,Total,country,2021-03-27,12.0
 Costa Rica,Total,country,2021-03-28,16.0
+Costa Rica,Total,country,2021-03-29,6.0
 Czechia,Brno,city,2020-03-01,0.0
 Czechia,Brno,city,2020-03-02,2.0
 Czechia,Brno,city,2020-03-03,4.0
@@ -17728,7 +17738,6 @@ Czechia,Brno,city,2020-03-14,-44.0
 Czechia,Brno,city,2020-03-15,-42.0
 Czechia,Brno,city,2020-03-16,-49.0
 Czechia,Brno,city,2020-03-17,-60.0
-Czechia,Brno,city,2020-03-18,-55.00000000000001
 Czechia,Brno,city,2020-03-18,-55.00000000000001
 Czechia,Brno,city,2020-03-19,-62.0
 Czechia,Brno,city,2020-03-20,-63.0
@@ -18105,6 +18114,7 @@ Czechia,Brno,city,2021-03-25,-37.0
 Czechia,Brno,city,2021-03-26,-28.999999999999996
 Czechia,Brno,city,2021-03-27,-32.0
 Czechia,Brno,city,2021-03-28,-54.0
+Czechia,Brno,city,2021-03-29,-43.0
 Czechia,Prague,city,2020-03-01,6.0
 Czechia,Prague,city,2020-03-02,1.0
 Czechia,Prague,city,2020-03-03,1.0
@@ -18122,7 +18132,6 @@ Czechia,Prague,city,2020-03-14,-47.0
 Czechia,Prague,city,2020-03-15,-39.0
 Czechia,Prague,city,2020-03-16,-46.0
 Czechia,Prague,city,2020-03-17,-56.00000000000001
-Czechia,Prague,city,2020-03-18,-59.0
 Czechia,Prague,city,2020-03-18,-59.0
 Czechia,Prague,city,2020-03-19,-61.0
 Czechia,Prague,city,2020-03-20,-59.0
@@ -18499,6 +18508,7 @@ Czechia,Prague,city,2021-03-25,-20.0
 Czechia,Prague,city,2021-03-26,-22.0
 Czechia,Prague,city,2021-03-27,-40.0
 Czechia,Prague,city,2021-03-28,-42.0
+Czechia,Prague,city,2021-03-29,-17.0
 Czechia,Total,country,2020-03-01,2.0
 Czechia,Total,country,2020-03-02,0.0
 Czechia,Total,country,2020-03-03,-1.0
@@ -18892,6 +18902,7 @@ Czechia,Total,country,2021-03-25,-19.0
 Czechia,Total,country,2021-03-26,-25.0
 Czechia,Total,country,2021-03-27,-50.0
 Czechia,Total,country,2021-03-28,-45.0
+Czechia,Total,country,2021-03-29,-13.0
 Ecuador,Quito,city,2020-03-01,2.0
 Ecuador,Quito,city,2020-03-02,30.0
 Ecuador,Quito,city,2020-03-03,19.0
@@ -18909,7 +18920,6 @@ Ecuador,Quito,city,2020-03-14,-27.0
 Ecuador,Quito,city,2020-03-15,-31.0
 Ecuador,Quito,city,2020-03-16,-16.0
 Ecuador,Quito,city,2020-03-17,-60.0
-Ecuador,Quito,city,2020-03-18,-84.0
 Ecuador,Quito,city,2020-03-18,-84.0
 Ecuador,Quito,city,2020-03-19,-88.0
 Ecuador,Quito,city,2020-03-20,-96.0
@@ -19286,6 +19296,7 @@ Ecuador,Quito,city,2021-03-25,-30.0
 Ecuador,Quito,city,2021-03-26,-32.0
 Ecuador,Quito,city,2021-03-27,-17.0
 Ecuador,Quito,city,2021-03-28,4.0
+Ecuador,Quito,city,2021-03-29,2.0
 Ecuador,Total,country,2020-03-01,-15.0
 Ecuador,Total,country,2020-03-02,-4.0
 Ecuador,Total,country,2020-03-03,-2.0
@@ -19679,6 +19690,7 @@ Ecuador,Total,country,2021-03-25,-19.0
 Ecuador,Total,country,2021-03-26,-22.0
 Ecuador,Total,country,2021-03-27,-27.0
 Ecuador,Total,country,2021-03-28,-12.0
+Ecuador,Total,country,2021-03-29,-14.000000000000002
 Estonia,Total,country,2020-03-01,-7.000000000000001
 Estonia,Total,country,2020-03-02,-10.0
 Estonia,Total,country,2020-03-03,-5.0
@@ -20071,6 +20083,7 @@ Estonia,Total,country,2021-03-25,2.0
 Estonia,Total,country,2021-03-26,-6.0
 Estonia,Total,country,2021-03-27,1.0
 Estonia,Total,country,2021-03-28,1.0
+Estonia,Total,country,2021-03-29,3.0
 France,Bordeaux,city,2020-03-01,-7.000000000000001
 France,Bordeaux,city,2020-03-02,-14.000000000000002
 France,Bordeaux,city,2020-03-03,-8.0
@@ -20088,7 +20101,6 @@ France,Bordeaux,city,2020-03-14,-28.000000000000004
 France,Bordeaux,city,2020-03-15,-28.000000000000004
 France,Bordeaux,city,2020-03-16,-28.999999999999996
 France,Bordeaux,city,2020-03-17,-54.0
-France,Bordeaux,city,2020-03-18,-81.0
 France,Bordeaux,city,2020-03-18,-81.0
 France,Bordeaux,city,2020-03-19,-87.0
 France,Bordeaux,city,2020-03-20,-88.0
@@ -20465,6 +20477,7 @@ France,Bordeaux,city,2021-03-25,-10.0
 France,Bordeaux,city,2021-03-26,-16.0
 France,Bordeaux,city,2021-03-27,-24.0
 France,Bordeaux,city,2021-03-28,5.0
+France,Bordeaux,city,2021-03-29,0.0
 France,Lille,city,2020-03-01,21.0
 France,Lille,city,2020-03-02,7.000000000000001
 France,Lille,city,2020-03-03,4.0
@@ -20482,7 +20495,6 @@ France,Lille,city,2020-03-14,-19.0
 France,Lille,city,2020-03-15,-28.000000000000004
 France,Lille,city,2020-03-16,-21.0
 France,Lille,city,2020-03-17,-60.0
-France,Lille,city,2020-03-18,-80.0
 France,Lille,city,2020-03-18,-80.0
 France,Lille,city,2020-03-19,-88.0
 France,Lille,city,2020-03-20,-90.0
@@ -20859,6 +20871,7 @@ France,Lille,city,2021-03-25,-30.0
 France,Lille,city,2021-03-26,-25.0
 France,Lille,city,2021-03-27,-49.0
 France,Lille,city,2021-03-28,-42.0
+France,Lille,city,2021-03-29,-8.0
 France,Lyon,city,2020-03-01,-4.0
 France,Lyon,city,2020-03-02,-9.0
 France,Lyon,city,2020-03-03,-8.0
@@ -20876,7 +20889,6 @@ France,Lyon,city,2020-03-14,-33.0
 France,Lyon,city,2020-03-15,-18.0
 France,Lyon,city,2020-03-16,-20.0
 France,Lyon,city,2020-03-17,-50.0
-France,Lyon,city,2020-03-18,-83.0
 France,Lyon,city,2020-03-18,-83.0
 France,Lyon,city,2020-03-19,-86.0
 France,Lyon,city,2020-03-20,-89.0
@@ -21253,6 +21265,7 @@ France,Lyon,city,2021-03-25,-7.000000000000001
 France,Lyon,city,2021-03-26,-31.0
 France,Lyon,city,2021-03-27,-54.0
 France,Lyon,city,2021-03-28,-19.0
+France,Lyon,city,2021-03-29,-10.0
 France,Marseille,city,2020-03-01,1.0
 France,Marseille,city,2020-03-02,11.0
 France,Marseille,city,2020-03-03,9.0
@@ -21270,7 +21283,6 @@ France,Marseille,city,2020-03-14,-33.0
 France,Marseille,city,2020-03-15,-25.0
 France,Marseille,city,2020-03-16,-28.999999999999996
 France,Marseille,city,2020-03-17,-52.0
-France,Marseille,city,2020-03-18,-79.0
 France,Marseille,city,2020-03-18,-79.0
 France,Marseille,city,2020-03-19,-79.0
 France,Marseille,city,2020-03-20,-82.0
@@ -21647,6 +21659,7 @@ France,Marseille,city,2021-03-25,11.0
 France,Marseille,city,2021-03-26,0.0
 France,Marseille,city,2021-03-27,-2.0
 France,Marseille,city,2021-03-28,13.0
+France,Marseille,city,2021-03-29,21.0
 France,Paris,city,2020-03-01,-11.0
 France,Paris,city,2020-03-02,-3.0
 France,Paris,city,2020-03-03,0.0
@@ -21664,7 +21677,6 @@ France,Paris,city,2020-03-14,-31.0
 France,Paris,city,2020-03-15,-39.0
 France,Paris,city,2020-03-16,-20.0
 France,Paris,city,2020-03-17,-59.0
-France,Paris,city,2020-03-18,-79.0
 France,Paris,city,2020-03-18,-79.0
 France,Paris,city,2020-03-19,-81.0
 France,Paris,city,2020-03-20,-83.0
@@ -22041,6 +22053,7 @@ France,Paris,city,2021-03-25,-24.0
 France,Paris,city,2021-03-26,-31.0
 France,Paris,city,2021-03-27,-47.0
 France,Paris,city,2021-03-28,-49.0
+France,Paris,city,2021-03-29,-24.0
 France,Total,country,2020-03-01,-8.0
 France,Total,country,2020-03-02,-4.0
 France,Total,country,2020-03-03,-2.0
@@ -22434,6 +22447,7 @@ France,Total,country,2021-03-25,-5.0
 France,Total,country,2021-03-26,-18.0
 France,Total,country,2021-03-27,-39.0
 France,Total,country,2021-03-28,-26.0
+France,Total,country,2021-03-29,-3.0
 France,Toulouse,city,2020-03-01,-16.0
 France,Toulouse,city,2020-03-02,6.0
 France,Toulouse,city,2020-03-03,9.0
@@ -22451,7 +22465,6 @@ France,Toulouse,city,2020-03-14,-28.999999999999996
 France,Toulouse,city,2020-03-15,-36.0
 France,Toulouse,city,2020-03-16,-28.999999999999996
 France,Toulouse,city,2020-03-17,-54.0
-France,Toulouse,city,2020-03-18,-81.0
 France,Toulouse,city,2020-03-18,-81.0
 France,Toulouse,city,2020-03-19,-86.0
 France,Toulouse,city,2020-03-20,-84.0
@@ -22828,6 +22841,7 @@ France,Toulouse,city,2021-03-25,-3.0
 France,Toulouse,city,2021-03-26,0.0
 France,Toulouse,city,2021-03-27,-13.0
 France,Toulouse,city,2021-03-28,-3.0
+France,Toulouse,city,2021-03-29,-2.0
 Germany,Berlin,city,2020-03-01,-6.0
 Germany,Berlin,city,2020-03-02,-38.0
 Germany,Berlin,city,2020-03-03,-13.0
@@ -22845,7 +22859,6 @@ Germany,Berlin,city,2020-03-14,-38.0
 Germany,Berlin,city,2020-03-15,-28.999999999999996
 Germany,Berlin,city,2020-03-16,-25.0
 Germany,Berlin,city,2020-03-17,-25.0
-Germany,Berlin,city,2020-03-18,-50.0
 Germany,Berlin,city,2020-03-18,-50.0
 Germany,Berlin,city,2020-03-19,-63.0
 Germany,Berlin,city,2020-03-20,-47.0
@@ -23218,6 +23231,7 @@ Germany,Berlin,city,2021-03-25,-9.0
 Germany,Berlin,city,2021-03-26,-3.0
 Germany,Berlin,city,2021-03-27,-78.0
 Germany,Berlin,city,2021-03-28,-44.0
+Germany,Berlin,city,2021-03-29,-12.0
 Germany,Total,country,2020-03-01,1.0
 Germany,Total,country,2020-03-02,-11.0
 Germany,Total,country,2020-03-03,-11.0
@@ -23611,6 +23625,7 @@ Germany,Total,country,2021-03-25,-23.0
 Germany,Total,country,2021-03-26,-36.0
 Germany,Total,country,2021-03-27,-47.0
 Germany,Total,country,2021-03-28,-32.0
+Germany,Total,country,2021-03-29,-24.0
 Guatemala,Total,country,2020-03-01,9.0
 Guatemala,Total,country,2020-03-02,5.0
 Guatemala,Total,country,2020-03-03,1.0
@@ -24004,6 +24019,7 @@ Guatemala,Total,country,2021-03-25,2.0
 Guatemala,Total,country,2021-03-26,3.0
 Guatemala,Total,country,2021-03-27,4.0
 Guatemala,Total,country,2021-03-28,17.0
+Guatemala,Total,country,2021-03-29,9.0
 Hungary,Budapest,city,2020-03-01,-3.0
 Hungary,Budapest,city,2020-03-02,1.0
 Hungary,Budapest,city,2020-03-03,1.0
@@ -24022,7 +24038,6 @@ Hungary,Budapest,city,2020-03-15,-30.0
 Hungary,Budapest,city,2020-03-16,-24.0
 Hungary,Budapest,city,2020-03-17,-35.0
 Hungary,Budapest,city,2020-03-18,-41.0
-Hungary,Budapest,city,2020-03-19,-47.0
 Hungary,Budapest,city,2020-03-19,-47.0
 Hungary,Budapest,city,2020-03-20,-46.0
 Hungary,Budapest,city,2020-03-21,-60.0
@@ -24398,6 +24413,7 @@ Hungary,Budapest,city,2021-03-25,-28.000000000000004
 Hungary,Budapest,city,2021-03-26,-24.0
 Hungary,Budapest,city,2021-03-27,-18.0
 Hungary,Budapest,city,2021-03-28,-31.0
+Hungary,Budapest,city,2021-03-29,-18.0
 Hungary,Total,country,2020-03-01,-7.000000000000001
 Hungary,Total,country,2020-03-02,-2.0
 Hungary,Total,country,2020-03-03,-1.0
@@ -24791,6 +24807,7 @@ Hungary,Total,country,2021-03-25,-20.0
 Hungary,Total,country,2021-03-26,-21.0
 Hungary,Total,country,2021-03-27,-13.0
 Hungary,Total,country,2021-03-28,-27.0
+Hungary,Total,country,2021-03-29,-14.000000000000002
 Indonesia,Bekasi,city,2020-03-01,0.0
 Indonesia,Bekasi,city,2020-03-02,-5.0
 Indonesia,Bekasi,city,2020-03-03,8.0
@@ -24809,7 +24826,6 @@ Indonesia,Bekasi,city,2020-03-15,-15.0
 Indonesia,Bekasi,city,2020-03-16,-14.000000000000002
 Indonesia,Bekasi,city,2020-03-17,8.0
 Indonesia,Bekasi,city,2020-03-18,-20.0
-Indonesia,Bekasi,city,2020-03-19,-24.0
 Indonesia,Bekasi,city,2020-03-19,-24.0
 Indonesia,Bekasi,city,2020-03-20,-27.0
 Indonesia,Bekasi,city,2020-03-21,-66.0
@@ -25181,6 +25197,7 @@ Indonesia,Bekasi,city,2021-03-25,-44.0
 Indonesia,Bekasi,city,2021-03-26,-61.0
 Indonesia,Bekasi,city,2021-03-27,12.0
 Indonesia,Bekasi,city,2021-03-28,-20.0
+Indonesia,Bekasi,city,2021-03-29,-37.0
 Indonesia,Jakarta,city,2020-03-01,9.0
 Indonesia,Jakarta,city,2020-03-02,-1.0
 Indonesia,Jakarta,city,2020-03-03,10.0
@@ -25574,6 +25591,7 @@ Indonesia,Jakarta,city,2021-03-25,-45.0
 Indonesia,Jakarta,city,2021-03-26,-44.0
 Indonesia,Jakarta,city,2021-03-27,-41.0
 Indonesia,Jakarta,city,2021-03-28,-38.0
+Indonesia,Jakarta,city,2021-03-29,-43.0
 Indonesia,South Tangerang,city,2020-03-01,0.0
 Indonesia,South Tangerang,city,2020-03-02,7.000000000000001
 Indonesia,South Tangerang,city,2020-03-03,-28.000000000000004
@@ -25962,6 +25980,7 @@ Indonesia,South Tangerang,city,2021-03-25,8.0
 Indonesia,South Tangerang,city,2021-03-26,-28.000000000000004
 Indonesia,South Tangerang,city,2021-03-27,-32.0
 Indonesia,South Tangerang,city,2021-03-28,-43.0
+Indonesia,South Tangerang,city,2021-03-29,-26.0
 Indonesia,Tangerang,city,2020-03-01,0.0
 Indonesia,Tangerang,city,2020-03-02,5.0
 Indonesia,Tangerang,city,2020-03-03,-14.000000000000002
@@ -25980,7 +25999,6 @@ Indonesia,Tangerang,city,2020-03-15,-20.0
 Indonesia,Tangerang,city,2020-03-16,5.0
 Indonesia,Tangerang,city,2020-03-17,-4.0
 Indonesia,Tangerang,city,2020-03-18,-28.999999999999996
-Indonesia,Tangerang,city,2020-03-19,-37.0
 Indonesia,Tangerang,city,2020-03-19,-37.0
 Indonesia,Tangerang,city,2020-03-20,-43.0
 Indonesia,Tangerang,city,2020-03-21,-64.0
@@ -26348,6 +26366,7 @@ Indonesia,Tangerang,city,2021-03-25,-51.0
 Indonesia,Tangerang,city,2021-03-26,-42.0
 Indonesia,Tangerang,city,2021-03-27,-47.0
 Indonesia,Tangerang,city,2021-03-28,-31.0
+Indonesia,Tangerang,city,2021-03-29,-6.0
 Indonesia,Total,country,2020-03-01,5.0
 Indonesia,Total,country,2020-03-02,-1.0
 Indonesia,Total,country,2020-03-03,3.0
@@ -26741,6 +26760,7 @@ Indonesia,Total,country,2021-03-25,-31.0
 Indonesia,Total,country,2021-03-26,-32.0
 Indonesia,Total,country,2021-03-27,-27.0
 Indonesia,Total,country,2021-03-28,-22.0
+Indonesia,Total,country,2021-03-29,-28.000000000000004
 Israel,Be'er Sheva,city,2020-03-01,16.0
 Israel,Be'er Sheva,city,2020-03-02,-14.000000000000002
 Israel,Be'er Sheva,city,2020-03-03,6.0
@@ -26759,8 +26779,6 @@ Israel,Be'er Sheva,city,2020-03-15,-16.0
 Israel,Be'er Sheva,city,2020-03-16,-19.0
 Israel,Be'er Sheva,city,2020-03-17,-34.0
 Israel,Be'er Sheva,city,2020-03-18,-46.0
-Israel,Be'er Sheva,city,2020-03-18,-46.0
-Israel,Be'er Sheva,city,2020-03-19,-43.0
 Israel,Be'er Sheva,city,2020-03-19,-43.0
 Israel,Be'er Sheva,city,2020-03-20,-50.0
 Israel,Be'er Sheva,city,2020-03-21,-76.0
@@ -27135,6 +27153,7 @@ Israel,Be'er Sheva,city,2021-03-25,10.0
 Israel,Be'er Sheva,city,2021-03-26,8.0
 Israel,Be'er Sheva,city,2021-03-27,-1.0
 Israel,Be'er Sheva,city,2021-03-28,-24.0
+Israel,Be'er Sheva,city,2021-03-29,16.0
 Israel,Haifa,city,2020-03-01,6.0
 Israel,Haifa,city,2020-03-02,-25.0
 Israel,Haifa,city,2020-03-03,1.0
@@ -27152,7 +27171,6 @@ Israel,Haifa,city,2020-03-14,-42.0
 Israel,Haifa,city,2020-03-15,-30.0
 Israel,Haifa,city,2020-03-16,-33.0
 Israel,Haifa,city,2020-03-17,-43.0
-Israel,Haifa,city,2020-03-18,-50.0
 Israel,Haifa,city,2020-03-18,-50.0
 Israel,Haifa,city,2020-03-19,-56.00000000000001
 Israel,Haifa,city,2020-03-20,-70.0
@@ -27529,6 +27547,7 @@ Israel,Haifa,city,2021-03-25,6.0
 Israel,Haifa,city,2021-03-26,-3.0
 Israel,Haifa,city,2021-03-27,12.0
 Israel,Haifa,city,2021-03-28,-23.0
+Israel,Haifa,city,2021-03-29,-2.0
 Israel,Jerusalem,city,2020-03-01,4.0
 Israel,Jerusalem,city,2020-03-02,-18.0
 Israel,Jerusalem,city,2020-03-03,4.0
@@ -27546,7 +27565,6 @@ Israel,Jerusalem,city,2020-03-14,-41.0
 Israel,Jerusalem,city,2020-03-15,-33.0
 Israel,Jerusalem,city,2020-03-16,-39.0
 Israel,Jerusalem,city,2020-03-17,-41.0
-Israel,Jerusalem,city,2020-03-18,-54.0
 Israel,Jerusalem,city,2020-03-18,-54.0
 Israel,Jerusalem,city,2020-03-19,-55.00000000000001
 Israel,Jerusalem,city,2020-03-20,-70.0
@@ -27923,6 +27941,7 @@ Israel,Jerusalem,city,2021-03-25,-17.0
 Israel,Jerusalem,city,2021-03-26,6.0
 Israel,Jerusalem,city,2021-03-27,-35.0
 Israel,Jerusalem,city,2021-03-28,-50.0
+Israel,Jerusalem,city,2021-03-29,3.0
 Israel,Petah Tikva,city,2020-03-01,6.0
 Israel,Petah Tikva,city,2020-03-02,-32.0
 Israel,Petah Tikva,city,2020-03-03,-1.0
@@ -27941,8 +27960,6 @@ Israel,Petah Tikva,city,2020-03-15,-25.0
 Israel,Petah Tikva,city,2020-03-16,-32.0
 Israel,Petah Tikva,city,2020-03-17,-37.0
 Israel,Petah Tikva,city,2020-03-18,-46.0
-Israel,Petah Tikva,city,2020-03-18,-46.0
-Israel,Petah Tikva,city,2020-03-19,-48.0
 Israel,Petah Tikva,city,2020-03-19,-48.0
 Israel,Petah Tikva,city,2020-03-20,-65.0
 Israel,Petah Tikva,city,2020-03-21,-73.0
@@ -28318,6 +28335,7 @@ Israel,Petah Tikva,city,2021-03-25,4.0
 Israel,Petah Tikva,city,2021-03-26,-11.0
 Israel,Petah Tikva,city,2021-03-27,-9.0
 Israel,Petah Tikva,city,2021-03-28,-49.0
+Israel,Petah Tikva,city,2021-03-29,-10.0
 Israel,Ramat Gan,city,2020-03-01,7.000000000000001
 Israel,Ramat Gan,city,2020-03-02,-14.000000000000002
 Israel,Ramat Gan,city,2020-03-03,4.0
@@ -28336,7 +28354,6 @@ Israel,Ramat Gan,city,2020-03-15,-18.0
 Israel,Ramat Gan,city,2020-03-16,-24.0
 Israel,Ramat Gan,city,2020-03-17,-26.0
 Israel,Ramat Gan,city,2020-03-18,-41.0
-Israel,Ramat Gan,city,2020-03-19,-47.0
 Israel,Ramat Gan,city,2020-03-19,-47.0
 Israel,Ramat Gan,city,2020-03-20,-66.0
 Israel,Ramat Gan,city,2020-03-21,-73.0
@@ -28712,6 +28729,7 @@ Israel,Ramat Gan,city,2021-03-25,6.0
 Israel,Ramat Gan,city,2021-03-26,-20.0
 Israel,Ramat Gan,city,2021-03-27,0.0
 Israel,Ramat Gan,city,2021-03-28,-4.0
+Israel,Ramat Gan,city,2021-03-29,12.0
 Israel,Rishon Letsiyon,city,2020-03-01,9.0
 Israel,Rishon Letsiyon,city,2020-03-02,-4.0
 Israel,Rishon Letsiyon,city,2020-03-03,0.0
@@ -28729,7 +28747,6 @@ Israel,Rishon Letsiyon,city,2020-03-14,-45.0
 Israel,Rishon Letsiyon,city,2020-03-15,-23.0
 Israel,Rishon Letsiyon,city,2020-03-16,-27.0
 Israel,Rishon Letsiyon,city,2020-03-17,-38.0
-Israel,Rishon Letsiyon,city,2020-03-18,-46.0
 Israel,Rishon Letsiyon,city,2020-03-18,-46.0
 Israel,Rishon Letsiyon,city,2020-03-19,-51.0
 Israel,Rishon Letsiyon,city,2020-03-20,-67.0
@@ -29106,6 +29123,7 @@ Israel,Rishon Letsiyon,city,2021-03-25,16.0
 Israel,Rishon Letsiyon,city,2021-03-26,6.0
 Israel,Rishon Letsiyon,city,2021-03-27,-11.0
 Israel,Rishon Letsiyon,city,2021-03-28,-20.0
+Israel,Rishon Letsiyon,city,2021-03-29,30.0
 Israel,Tel Aviv-Yafo,city,2020-03-01,7.000000000000001
 Israel,Tel Aviv-Yafo,city,2020-03-02,-18.0
 Israel,Tel Aviv-Yafo,city,2020-03-03,0.0
@@ -29123,7 +29141,6 @@ Israel,Tel Aviv-Yafo,city,2020-03-14,-47.0
 Israel,Tel Aviv-Yafo,city,2020-03-15,-27.0
 Israel,Tel Aviv-Yafo,city,2020-03-16,-35.0
 Israel,Tel Aviv-Yafo,city,2020-03-17,-43.0
-Israel,Tel Aviv-Yafo,city,2020-03-18,-54.0
 Israel,Tel Aviv-Yafo,city,2020-03-18,-54.0
 Israel,Tel Aviv-Yafo,city,2020-03-19,-59.0
 Israel,Tel Aviv-Yafo,city,2020-03-20,-75.0
@@ -29500,6 +29517,7 @@ Israel,Tel Aviv-Yafo,city,2021-03-25,1.0
 Israel,Tel Aviv-Yafo,city,2021-03-26,-18.0
 Israel,Tel Aviv-Yafo,city,2021-03-27,-19.0
 Israel,Tel Aviv-Yafo,city,2021-03-28,-15.0
+Israel,Tel Aviv-Yafo,city,2021-03-29,6.0
 Israel,Total,country,2020-03-01,8.0
 Israel,Total,country,2020-03-02,-4.0
 Israel,Total,country,2020-03-03,2.0
@@ -29893,6 +29911,7 @@ Israel,Total,country,2021-03-25,2.0
 Israel,Total,country,2021-03-26,4.0
 Israel,Total,country,2021-03-27,-9.0
 Israel,Total,country,2021-03-28,-8.0
+Israel,Total,country,2021-03-29,38.0
 Italy,Milan,city,2020-03-01,-14.000000000000002
 Italy,Milan,city,2020-03-02,-22.0
 Italy,Milan,city,2020-03-03,-28.000000000000004
@@ -29910,7 +29929,6 @@ Italy,Milan,city,2020-03-14,-91.0
 Italy,Milan,city,2020-03-15,-92.0
 Italy,Milan,city,2020-03-16,-81.0
 Italy,Milan,city,2020-03-17,-83.0
-Italy,Milan,city,2020-03-18,-91.0
 Italy,Milan,city,2020-03-18,-91.0
 Italy,Milan,city,2020-03-19,-89.0
 Italy,Milan,city,2020-03-20,-89.0
@@ -30286,6 +30304,7 @@ Italy,Milan,city,2021-03-25,-51.0
 Italy,Milan,city,2021-03-26,-39.0
 Italy,Milan,city,2021-03-27,-52.0
 Italy,Milan,city,2021-03-28,-61.0
+Italy,Milan,city,2021-03-29,-32.0
 Italy,Rome,city,2020-03-01,-21.0
 Italy,Rome,city,2020-03-02,-6.0
 Italy,Rome,city,2020-03-03,-2.0
@@ -30303,7 +30322,6 @@ Italy,Rome,city,2020-03-14,-89.0
 Italy,Rome,city,2020-03-15,-93.0
 Italy,Rome,city,2020-03-16,-84.0
 Italy,Rome,city,2020-03-17,-87.0
-Italy,Rome,city,2020-03-18,-86.0
 Italy,Rome,city,2020-03-18,-86.0
 Italy,Rome,city,2020-03-19,-88.0
 Italy,Rome,city,2020-03-20,-88.0
@@ -30680,6 +30698,7 @@ Italy,Rome,city,2021-03-25,-37.0
 Italy,Rome,city,2021-03-26,-44.0
 Italy,Rome,city,2021-03-27,-55.00000000000001
 Italy,Rome,city,2021-03-28,-65.0
+Italy,Rome,city,2021-03-29,-48.0
 Italy,Total,country,2020-03-01,-28.000000000000004
 Italy,Total,country,2020-03-02,-17.0
 Italy,Total,country,2020-03-03,-15.0
@@ -31071,6 +31090,7 @@ Italy,Total,country,2021-03-25,-36.0
 Italy,Total,country,2021-03-26,-41.0
 Italy,Total,country,2021-03-27,-57.99999999999999
 Italy,Total,country,2021-03-28,-67.0
+Italy,Total,country,2021-03-29,-33.0
 Latvia,Riga,city,2020-03-01,-4.0
 Latvia,Riga,city,2020-03-02,-3.0
 Latvia,Riga,city,2020-03-03,-1.0
@@ -31089,7 +31109,6 @@ Latvia,Riga,city,2020-03-15,-24.0
 Latvia,Riga,city,2020-03-16,-22.0
 Latvia,Riga,city,2020-03-17,-28.999999999999996
 Latvia,Riga,city,2020-03-18,-36.0
-Latvia,Riga,city,2020-03-19,-38.0
 Latvia,Riga,city,2020-03-19,-38.0
 Latvia,Riga,city,2020-03-20,-45.0
 Latvia,Riga,city,2020-03-21,-42.0
@@ -31465,6 +31484,7 @@ Latvia,Riga,city,2021-03-25,-5.0
 Latvia,Riga,city,2021-03-26,-11.0
 Latvia,Riga,city,2021-03-27,13.0
 Latvia,Riga,city,2021-03-28,-2.0
+Latvia,Riga,city,2021-03-29,-1.0
 Latvia,Total,country,2020-03-01,0.0
 Latvia,Total,country,2020-03-02,-2.0
 Latvia,Total,country,2020-03-03,0.0
@@ -31856,6 +31876,7 @@ Latvia,Total,country,2021-03-25,1.0
 Latvia,Total,country,2021-03-26,-1.0
 Latvia,Total,country,2021-03-27,28.000000000000004
 Latvia,Total,country,2021-03-28,12.0
+Latvia,Total,country,2021-03-29,9.0
 Lithuania,Kaunas,city,2020-03-01,-14.000000000000002
 Lithuania,Kaunas,city,2020-03-02,0.0
 Lithuania,Kaunas,city,2020-03-03,-2.0
@@ -31873,7 +31894,6 @@ Lithuania,Kaunas,city,2020-03-14,-28.999999999999996
 Lithuania,Kaunas,city,2020-03-15,-43.0
 Lithuania,Kaunas,city,2020-03-16,-50.0
 Lithuania,Kaunas,city,2020-03-17,-51.0
-Lithuania,Kaunas,city,2020-03-18,-52.0
 Lithuania,Kaunas,city,2020-03-18,-52.0
 Lithuania,Kaunas,city,2020-03-19,-59.0
 Lithuania,Kaunas,city,2020-03-20,-61.0
@@ -32247,6 +32267,7 @@ Lithuania,Kaunas,city,2021-03-25,56.00000000000001
 Lithuania,Kaunas,city,2021-03-26,65.0
 Lithuania,Kaunas,city,2021-03-27,49.0
 Lithuania,Kaunas,city,2021-03-28,42.0
+Lithuania,Kaunas,city,2021-03-29,93.0
 Lithuania,Total,country,2020-03-01,-9.0
 Lithuania,Total,country,2020-03-02,-3.0
 Lithuania,Total,country,2020-03-03,4.0
@@ -32637,6 +32658,7 @@ Lithuania,Total,country,2021-03-25,47.0
 Lithuania,Total,country,2021-03-26,61.0
 Lithuania,Total,country,2021-03-27,24.0
 Lithuania,Total,country,2021-03-28,30.0
+Lithuania,Total,country,2021-03-29,50.0
 Lithuania,Vilnius,city,2020-03-01,-7.000000000000001
 Lithuania,Vilnius,city,2020-03-02,-2.0
 Lithuania,Vilnius,city,2020-03-03,-4.0
@@ -32654,7 +32676,6 @@ Lithuania,Vilnius,city,2020-03-14,-39.0
 Lithuania,Vilnius,city,2020-03-15,-26.0
 Lithuania,Vilnius,city,2020-03-16,-53.0
 Lithuania,Vilnius,city,2020-03-17,-52.0
-Lithuania,Vilnius,city,2020-03-18,-53.0
 Lithuania,Vilnius,city,2020-03-18,-53.0
 Lithuania,Vilnius,city,2020-03-19,-61.0
 Lithuania,Vilnius,city,2020-03-20,-57.99999999999999
@@ -33031,6 +33052,7 @@ Lithuania,Vilnius,city,2021-03-25,52.0
 Lithuania,Vilnius,city,2021-03-26,41.0
 Lithuania,Vilnius,city,2021-03-27,32.0
 Lithuania,Vilnius,city,2021-03-28,21.0
+Lithuania,Vilnius,city,2021-03-29,28.000000000000004
 Luxembourg,Total,country,2020-03-01,4.0
 Luxembourg,Total,country,2020-03-02,-2.0
 Luxembourg,Total,country,2020-03-03,8.0
@@ -33424,6 +33446,7 @@ Luxembourg,Total,country,2021-03-25,-26.0
 Luxembourg,Total,country,2021-03-26,-12.0
 Luxembourg,Total,country,2021-03-27,-51.0
 Luxembourg,Total,country,2021-03-28,-21.0
+Luxembourg,Total,country,2021-03-29,-6.0
 Malaysia,Ipoh,city,2020-03-01,24.0
 Malaysia,Ipoh,city,2020-03-02,10.0
 Malaysia,Ipoh,city,2020-03-03,-2.0
@@ -33441,7 +33464,6 @@ Malaysia,Ipoh,city,2020-03-14,20.0
 Malaysia,Ipoh,city,2020-03-15,30.0
 Malaysia,Ipoh,city,2020-03-16,28.999999999999996
 Malaysia,Ipoh,city,2020-03-17,30.0
-Malaysia,Ipoh,city,2020-03-18,-45.0
 Malaysia,Ipoh,city,2020-03-18,-45.0
 Malaysia,Ipoh,city,2020-03-19,-63.0
 Malaysia,Ipoh,city,2020-03-20,-76.0
@@ -33814,6 +33836,7 @@ Malaysia,Ipoh,city,2021-03-25,25.0
 Malaysia,Ipoh,city,2021-03-26,-22.0
 Malaysia,Ipoh,city,2021-03-27,-32.0
 Malaysia,Ipoh,city,2021-03-28,-5.0
+Malaysia,Ipoh,city,2021-03-29,24.0
 Malaysia,Johor Bahru,city,2020-03-01,11.0
 Malaysia,Johor Bahru,city,2020-03-02,6.0
 Malaysia,Johor Bahru,city,2020-03-03,5.0
@@ -33831,7 +33854,6 @@ Malaysia,Johor Bahru,city,2020-03-14,1.0
 Malaysia,Johor Bahru,city,2020-03-15,14.000000000000002
 Malaysia,Johor Bahru,city,2020-03-16,1.0
 Malaysia,Johor Bahru,city,2020-03-17,32.0
-Malaysia,Johor Bahru,city,2020-03-18,-52.0
 Malaysia,Johor Bahru,city,2020-03-18,-52.0
 Malaysia,Johor Bahru,city,2020-03-19,-70.0
 Malaysia,Johor Bahru,city,2020-03-20,-76.0
@@ -34208,6 +34230,7 @@ Malaysia,Johor Bahru,city,2021-03-25,-14.000000000000002
 Malaysia,Johor Bahru,city,2021-03-26,-21.0
 Malaysia,Johor Bahru,city,2021-03-27,-21.0
 Malaysia,Johor Bahru,city,2021-03-28,-17.0
+Malaysia,Johor Bahru,city,2021-03-29,-4.0
 Malaysia,Kuala Lumpur,city,2020-03-01,7.000000000000001
 Malaysia,Kuala Lumpur,city,2020-03-02,2.0
 Malaysia,Kuala Lumpur,city,2020-03-03,0.0
@@ -34225,7 +34248,6 @@ Malaysia,Kuala Lumpur,city,2020-03-14,-16.0
 Malaysia,Kuala Lumpur,city,2020-03-15,-12.0
 Malaysia,Kuala Lumpur,city,2020-03-16,-12.0
 Malaysia,Kuala Lumpur,city,2020-03-17,-5.0
-Malaysia,Kuala Lumpur,city,2020-03-18,-64.0
 Malaysia,Kuala Lumpur,city,2020-03-18,-64.0
 Malaysia,Kuala Lumpur,city,2020-03-19,-75.0
 Malaysia,Kuala Lumpur,city,2020-03-20,-80.0
@@ -34602,6 +34624,7 @@ Malaysia,Kuala Lumpur,city,2021-03-25,-14.000000000000002
 Malaysia,Kuala Lumpur,city,2021-03-26,-13.0
 Malaysia,Kuala Lumpur,city,2021-03-27,-7.000000000000001
 Malaysia,Kuala Lumpur,city,2021-03-28,-6.0
+Malaysia,Kuala Lumpur,city,2021-03-29,-5.0
 Malaysia,Petaling Jaya,city,2020-03-01,4.0
 Malaysia,Petaling Jaya,city,2020-03-02,1.0
 Malaysia,Petaling Jaya,city,2020-03-03,-1.0
@@ -34619,7 +34642,6 @@ Malaysia,Petaling Jaya,city,2020-03-14,-14.000000000000002
 Malaysia,Petaling Jaya,city,2020-03-15,-10.0
 Malaysia,Petaling Jaya,city,2020-03-16,-11.0
 Malaysia,Petaling Jaya,city,2020-03-17,-6.0
-Malaysia,Petaling Jaya,city,2020-03-18,-63.0
 Malaysia,Petaling Jaya,city,2020-03-18,-63.0
 Malaysia,Petaling Jaya,city,2020-03-19,-74.0
 Malaysia,Petaling Jaya,city,2020-03-20,-78.0
@@ -34996,6 +35018,7 @@ Malaysia,Petaling Jaya,city,2021-03-25,-8.0
 Malaysia,Petaling Jaya,city,2021-03-26,-12.0
 Malaysia,Petaling Jaya,city,2021-03-27,5.0
 Malaysia,Petaling Jaya,city,2021-03-28,-4.0
+Malaysia,Petaling Jaya,city,2021-03-29,-6.0
 Malaysia,Puchong,city,2020-03-01,0.0
 Malaysia,Puchong,city,2020-03-02,3.0
 Malaysia,Puchong,city,2020-03-03,3.0
@@ -35013,7 +35036,6 @@ Malaysia,Puchong,city,2020-03-14,-11.0
 Malaysia,Puchong,city,2020-03-15,-3.0
 Malaysia,Puchong,city,2020-03-16,-6.0
 Malaysia,Puchong,city,2020-03-17,6.0
-Malaysia,Puchong,city,2020-03-18,-47.0
 Malaysia,Puchong,city,2020-03-18,-47.0
 Malaysia,Puchong,city,2020-03-19,-66.0
 Malaysia,Puchong,city,2020-03-20,-67.0
@@ -35390,6 +35412,7 @@ Malaysia,Puchong,city,2021-03-25,5.0
 Malaysia,Puchong,city,2021-03-26,7.000000000000001
 Malaysia,Puchong,city,2021-03-27,8.0
 Malaysia,Puchong,city,2021-03-28,-4.0
+Malaysia,Puchong,city,2021-03-29,3.0
 Malaysia,Shah Alam,city,2020-03-01,11.0
 Malaysia,Shah Alam,city,2020-03-02,4.0
 Malaysia,Shah Alam,city,2020-03-03,9.0
@@ -35407,7 +35430,6 @@ Malaysia,Shah Alam,city,2020-03-14,-19.0
 Malaysia,Shah Alam,city,2020-03-15,-4.0
 Malaysia,Shah Alam,city,2020-03-16,-5.0
 Malaysia,Shah Alam,city,2020-03-17,8.0
-Malaysia,Shah Alam,city,2020-03-18,-55.00000000000001
 Malaysia,Shah Alam,city,2020-03-18,-55.00000000000001
 Malaysia,Shah Alam,city,2020-03-19,-69.0
 Malaysia,Shah Alam,city,2020-03-20,-77.0
@@ -35784,6 +35806,7 @@ Malaysia,Shah Alam,city,2021-03-25,2.0
 Malaysia,Shah Alam,city,2021-03-26,0.0
 Malaysia,Shah Alam,city,2021-03-27,1.0
 Malaysia,Shah Alam,city,2021-03-28,9.0
+Malaysia,Shah Alam,city,2021-03-29,15.0
 Malaysia,Total,country,2020-03-01,9.0
 Malaysia,Total,country,2020-03-02,3.0
 Malaysia,Total,country,2020-03-03,2.0
@@ -36177,6 +36200,7 @@ Malaysia,Total,country,2021-03-25,-7.000000000000001
 Malaysia,Total,country,2021-03-26,-9.0
 Malaysia,Total,country,2021-03-27,-8.0
 Malaysia,Total,country,2021-03-28,-5.0
+Malaysia,Total,country,2021-03-29,1.0
 Mexico,Guadalajara,city,2020-03-01,1.0
 Mexico,Guadalajara,city,2020-03-02,1.0
 Mexico,Guadalajara,city,2020-03-03,2.0
@@ -36195,7 +36219,6 @@ Mexico,Guadalajara,city,2020-03-15,-11.0
 Mexico,Guadalajara,city,2020-03-16,-38.0
 Mexico,Guadalajara,city,2020-03-17,-10.0
 Mexico,Guadalajara,city,2020-03-18,-28.000000000000004
-Mexico,Guadalajara,city,2020-03-19,-35.0
 Mexico,Guadalajara,city,2020-03-19,-35.0
 Mexico,Guadalajara,city,2020-03-20,-45.0
 Mexico,Guadalajara,city,2020-03-21,-55.00000000000001
@@ -36571,6 +36594,7 @@ Mexico,Guadalajara,city,2021-03-25,-20.0
 Mexico,Guadalajara,city,2021-03-26,-26.0
 Mexico,Guadalajara,city,2021-03-27,-13.0
 Mexico,Guadalajara,city,2021-03-28,-20.0
+Mexico,Guadalajara,city,2021-03-29,-20.0
 Mexico,Mexico City,city,2020-03-01,2.0
 Mexico,Mexico City,city,2020-03-02,2.0
 Mexico,Mexico City,city,2020-03-03,-1.0
@@ -36589,7 +36613,6 @@ Mexico,Mexico City,city,2020-03-15,-15.0
 Mexico,Mexico City,city,2020-03-16,-38.0
 Mexico,Mexico City,city,2020-03-17,-14.000000000000002
 Mexico,Mexico City,city,2020-03-18,-27.0
-Mexico,Mexico City,city,2020-03-19,-35.0
 Mexico,Mexico City,city,2020-03-19,-35.0
 Mexico,Mexico City,city,2020-03-20,-40.0
 Mexico,Mexico City,city,2020-03-21,-49.0
@@ -36965,6 +36988,7 @@ Mexico,Mexico City,city,2021-03-25,-31.0
 Mexico,Mexico City,city,2021-03-26,-32.0
 Mexico,Mexico City,city,2021-03-27,-32.0
 Mexico,Mexico City,city,2021-03-28,-33.0
+Mexico,Mexico City,city,2021-03-29,-32.0
 Mexico,Monterrey,city,2020-03-01,8.0
 Mexico,Monterrey,city,2020-03-02,8.0
 Mexico,Monterrey,city,2020-03-03,2.0
@@ -36983,8 +37007,6 @@ Mexico,Monterrey,city,2020-03-15,-10.0
 Mexico,Monterrey,city,2020-03-16,-49.0
 Mexico,Monterrey,city,2020-03-17,-33.0
 Mexico,Monterrey,city,2020-03-18,-44.0
-Mexico,Monterrey,city,2020-03-18,-44.0
-Mexico,Monterrey,city,2020-03-19,-49.0
 Mexico,Monterrey,city,2020-03-19,-49.0
 Mexico,Monterrey,city,2020-03-20,-54.0
 Mexico,Monterrey,city,2020-03-21,-60.0
@@ -37360,6 +37382,7 @@ Mexico,Monterrey,city,2021-03-25,-44.0
 Mexico,Monterrey,city,2021-03-26,-41.0
 Mexico,Monterrey,city,2021-03-27,-30.0
 Mexico,Monterrey,city,2021-03-28,-34.0
+Mexico,Monterrey,city,2021-03-29,-40.0
 Mexico,Puebla City,city,2020-03-01,5.0
 Mexico,Puebla City,city,2020-03-02,2.0
 Mexico,Puebla City,city,2020-03-03,-1.0
@@ -37378,7 +37401,6 @@ Mexico,Puebla City,city,2020-03-15,5.0
 Mexico,Puebla City,city,2020-03-16,-25.0
 Mexico,Puebla City,city,2020-03-17,-1.0
 Mexico,Puebla City,city,2020-03-18,-17.0
-Mexico,Puebla City,city,2020-03-19,-23.0
 Mexico,Puebla City,city,2020-03-19,-23.0
 Mexico,Puebla City,city,2020-03-20,-36.0
 Mexico,Puebla City,city,2020-03-21,-45.0
@@ -37754,6 +37776,7 @@ Mexico,Puebla City,city,2021-03-25,-21.0
 Mexico,Puebla City,city,2021-03-26,-25.0
 Mexico,Puebla City,city,2021-03-27,-28.000000000000004
 Mexico,Puebla City,city,2021-03-28,-38.0
+Mexico,Puebla City,city,2021-03-29,-23.0
 Mexico,Santiago De Queretaro,city,2020-03-01,8.0
 Mexico,Santiago De Queretaro,city,2020-03-02,1.0
 Mexico,Santiago De Queretaro,city,2020-03-03,2.0
@@ -37772,7 +37795,6 @@ Mexico,Santiago De Queretaro,city,2020-03-15,2.0
 Mexico,Santiago De Queretaro,city,2020-03-16,-36.0
 Mexico,Santiago De Queretaro,city,2020-03-17,-4.0
 Mexico,Santiago De Queretaro,city,2020-03-18,-24.0
-Mexico,Santiago De Queretaro,city,2020-03-19,-34.0
 Mexico,Santiago De Queretaro,city,2020-03-19,-34.0
 Mexico,Santiago De Queretaro,city,2020-03-20,-42.0
 Mexico,Santiago De Queretaro,city,2020-03-21,-44.0
@@ -38148,6 +38170,7 @@ Mexico,Santiago De Queretaro,city,2021-03-25,-41.0
 Mexico,Santiago De Queretaro,city,2021-03-26,-25.0
 Mexico,Santiago De Queretaro,city,2021-03-27,-33.0
 Mexico,Santiago De Queretaro,city,2021-03-28,-23.0
+Mexico,Santiago De Queretaro,city,2021-03-29,-37.0
 Mexico,Total,country,2020-03-01,3.0
 Mexico,Total,country,2020-03-02,1.0
 Mexico,Total,country,2020-03-03,-1.0
@@ -38541,6 +38564,7 @@ Mexico,Total,country,2021-03-25,-24.0
 Mexico,Total,country,2021-03-26,-23.0
 Mexico,Total,country,2021-03-27,-18.0
 Mexico,Total,country,2021-03-28,-16.0
+Mexico,Total,country,2021-03-29,-20.0
 Mexico,Zapopan,city,2020-03-01,-1.0
 Mexico,Zapopan,city,2020-03-02,-2.0
 Mexico,Zapopan,city,2020-03-03,-4.0
@@ -38559,7 +38583,6 @@ Mexico,Zapopan,city,2020-03-15,-20.0
 Mexico,Zapopan,city,2020-03-16,-41.0
 Mexico,Zapopan,city,2020-03-17,-22.0
 Mexico,Zapopan,city,2020-03-18,-38.0
-Mexico,Zapopan,city,2020-03-19,-43.0
 Mexico,Zapopan,city,2020-03-19,-43.0
 Mexico,Zapopan,city,2020-03-20,-53.0
 Mexico,Zapopan,city,2020-03-21,-62.0
@@ -38935,6 +38958,7 @@ Mexico,Zapopan,city,2021-03-25,-28.000000000000004
 Mexico,Zapopan,city,2021-03-26,-28.999999999999996
 Mexico,Zapopan,city,2021-03-27,-26.0
 Mexico,Zapopan,city,2021-03-28,-28.999999999999996
+Mexico,Zapopan,city,2021-03-29,-31.0
 Morocco,Total,country,2020-03-01,15.0
 Morocco,Total,country,2020-03-02,1.0
 Morocco,Total,country,2020-03-03,-1.0
@@ -39328,6 +39352,7 @@ Morocco,Total,country,2021-03-25,10.0
 Morocco,Total,country,2021-03-26,16.0
 Morocco,Total,country,2021-03-27,17.0
 Morocco,Total,country,2021-03-28,15.0
+Morocco,Total,country,2021-03-29,12.0
 Netherlands,Amsterdam,city,2020-03-01,-7.000000000000001
 Netherlands,Amsterdam,city,2020-03-02,-1.0
 Netherlands,Amsterdam,city,2020-03-03,-6.0
@@ -39345,7 +39370,6 @@ Netherlands,Amsterdam,city,2020-03-14,-40.0
 Netherlands,Amsterdam,city,2020-03-15,-50.0
 Netherlands,Amsterdam,city,2020-03-16,-55.00000000000001
 Netherlands,Amsterdam,city,2020-03-17,-56.99999999999999
-Netherlands,Amsterdam,city,2020-03-18,-62.0
 Netherlands,Amsterdam,city,2020-03-18,-62.0
 Netherlands,Amsterdam,city,2020-03-19,-68.0
 Netherlands,Amsterdam,city,2020-03-20,-68.0
@@ -39722,6 +39746,7 @@ Netherlands,Amsterdam,city,2021-03-25,-35.0
 Netherlands,Amsterdam,city,2021-03-26,-31.0
 Netherlands,Amsterdam,city,2021-03-27,-48.0
 Netherlands,Amsterdam,city,2021-03-28,-41.0
+Netherlands,Amsterdam,city,2021-03-29,-53.0
 Netherlands,Rotterdam,city,2020-03-01,13.0
 Netherlands,Rotterdam,city,2020-03-02,7.000000000000001
 Netherlands,Rotterdam,city,2020-03-03,7.000000000000001
@@ -39739,7 +39764,6 @@ Netherlands,Rotterdam,city,2020-03-14,-33.0
 Netherlands,Rotterdam,city,2020-03-15,-39.0
 Netherlands,Rotterdam,city,2020-03-16,-36.0
 Netherlands,Rotterdam,city,2020-03-17,-53.0
-Netherlands,Rotterdam,city,2020-03-18,-52.0
 Netherlands,Rotterdam,city,2020-03-18,-52.0
 Netherlands,Rotterdam,city,2020-03-19,-56.00000000000001
 Netherlands,Rotterdam,city,2020-03-20,-61.0
@@ -40116,6 +40140,7 @@ Netherlands,Rotterdam,city,2021-03-25,-67.0
 Netherlands,Rotterdam,city,2021-03-26,-43.0
 Netherlands,Rotterdam,city,2021-03-27,-24.0
 Netherlands,Rotterdam,city,2021-03-28,-7.000000000000001
+Netherlands,Rotterdam,city,2021-03-29,-28.000000000000004
 Netherlands,Total,country,2020-03-01,11.0
 Netherlands,Total,country,2020-03-02,2.0
 Netherlands,Total,country,2020-03-03,2.0
@@ -40509,6 +40534,7 @@ Netherlands,Total,country,2021-03-25,-36.0
 Netherlands,Total,country,2021-03-26,-31.0
 Netherlands,Total,country,2021-03-27,-30.0
 Netherlands,Total,country,2021-03-28,-24.0
+Netherlands,Total,country,2021-03-29,-31.0
 Peru,Lima,city,2020-03-01,6.0
 Peru,Lima,city,2020-03-02,-2.0
 Peru,Lima,city,2020-03-03,2.0
@@ -40526,7 +40552,6 @@ Peru,Lima,city,2020-03-14,-18.0
 Peru,Lima,city,2020-03-15,-23.0
 Peru,Lima,city,2020-03-16,-47.0
 Peru,Lima,city,2020-03-17,-84.0
-Peru,Lima,city,2020-03-18,-90.0
 Peru,Lima,city,2020-03-18,-90.0
 Peru,Lima,city,2020-03-19,-94.0
 Peru,Lima,city,2020-03-20,-94.0
@@ -40903,6 +40928,7 @@ Peru,Lima,city,2021-03-25,-30.0
 Peru,Lima,city,2021-03-26,-31.0
 Peru,Lima,city,2021-03-27,-20.0
 Peru,Lima,city,2021-03-28,-48.0
+Peru,Lima,city,2021-03-29,-26.0
 Peru,Total,country,2020-03-01,4.0
 Peru,Total,country,2020-03-02,-3.0
 Peru,Total,country,2020-03-03,0.0
@@ -41296,6 +41322,7 @@ Peru,Total,country,2021-03-25,-27.0
 Peru,Total,country,2021-03-26,-28.999999999999996
 Peru,Total,country,2021-03-27,-22.0
 Peru,Total,country,2021-03-28,-49.0
+Peru,Total,country,2021-03-29,-26.0
 Philippines,Makati,city,2020-03-01,-5.0
 Philippines,Makati,city,2020-03-02,5.0
 Philippines,Makati,city,2020-03-03,10.0
@@ -41313,7 +41340,6 @@ Philippines,Makati,city,2020-03-14,-36.0
 Philippines,Makati,city,2020-03-15,-54.0
 Philippines,Makati,city,2020-03-16,-59.0
 Philippines,Makati,city,2020-03-17,-86.0
-Philippines,Makati,city,2020-03-18,-88.0
 Philippines,Makati,city,2020-03-18,-88.0
 Philippines,Makati,city,2020-03-19,-90.0
 Philippines,Makati,city,2020-03-20,-90.0
@@ -41690,6 +41716,7 @@ Philippines,Makati,city,2021-03-25,-68.0
 Philippines,Makati,city,2021-03-26,-62.0
 Philippines,Makati,city,2021-03-27,-66.0
 Philippines,Makati,city,2021-03-28,-62.0
+Philippines,Makati,city,2021-03-29,-75.0
 Philippines,Manila,city,2020-03-01,-3.0
 Philippines,Manila,city,2020-03-02,-5.0
 Philippines,Manila,city,2020-03-03,0.0
@@ -41707,7 +41734,6 @@ Philippines,Manila,city,2020-03-14,-33.0
 Philippines,Manila,city,2020-03-15,-71.0
 Philippines,Manila,city,2020-03-16,-59.0
 Philippines,Manila,city,2020-03-17,-81.0
-Philippines,Manila,city,2020-03-18,-88.0
 Philippines,Manila,city,2020-03-18,-88.0
 Philippines,Manila,city,2020-03-19,-88.0
 Philippines,Manila,city,2020-03-20,-91.0
@@ -42084,6 +42110,7 @@ Philippines,Manila,city,2021-03-25,-52.0
 Philippines,Manila,city,2021-03-26,-60.0
 Philippines,Manila,city,2021-03-27,-57.99999999999999
 Philippines,Manila,city,2021-03-28,-61.0
+Philippines,Manila,city,2021-03-29,-67.0
 Philippines,Quezon City,city,2020-03-01,2.0
 Philippines,Quezon City,city,2020-03-02,-4.0
 Philippines,Quezon City,city,2020-03-03,1.0
@@ -42101,7 +42128,6 @@ Philippines,Quezon City,city,2020-03-14,-33.0
 Philippines,Quezon City,city,2020-03-15,-71.0
 Philippines,Quezon City,city,2020-03-16,-54.0
 Philippines,Quezon City,city,2020-03-17,-81.0
-Philippines,Quezon City,city,2020-03-18,-82.0
 Philippines,Quezon City,city,2020-03-18,-82.0
 Philippines,Quezon City,city,2020-03-19,-87.0
 Philippines,Quezon City,city,2020-03-20,-89.0
@@ -42478,6 +42504,7 @@ Philippines,Quezon City,city,2021-03-25,-55.00000000000001
 Philippines,Quezon City,city,2021-03-26,-56.99999999999999
 Philippines,Quezon City,city,2021-03-27,-55.00000000000001
 Philippines,Quezon City,city,2021-03-28,-59.0
+Philippines,Quezon City,city,2021-03-29,-70.0
 Philippines,Total,country,2020-03-01,-2.0
 Philippines,Total,country,2020-03-02,-7.000000000000001
 Philippines,Total,country,2020-03-03,-2.0
@@ -42871,6 +42898,7 @@ Philippines,Total,country,2021-03-25,-48.0
 Philippines,Total,country,2021-03-26,-51.0
 Philippines,Total,country,2021-03-27,-54.0
 Philippines,Total,country,2021-03-28,-56.00000000000001
+Philippines,Total,country,2021-03-29,-63.0
 Poland,Krakow,city,2020-03-01,-15.0
 Poland,Krakow,city,2020-03-02,-13.0
 Poland,Krakow,city,2020-03-03,4.0
@@ -42888,7 +42916,6 @@ Poland,Krakow,city,2020-03-14,-48.0
 Poland,Krakow,city,2020-03-15,-69.0
 Poland,Krakow,city,2020-03-16,-63.0
 Poland,Krakow,city,2020-03-17,-48.0
-Poland,Krakow,city,2020-03-18,-63.0
 Poland,Krakow,city,2020-03-18,-63.0
 Poland,Krakow,city,2020-03-19,-67.0
 Poland,Krakow,city,2020-03-20,-70.0
@@ -43258,6 +43285,7 @@ Poland,Krakow,city,2021-03-25,-9.0
 Poland,Krakow,city,2021-03-26,14.000000000000002
 Poland,Krakow,city,2021-03-27,-14.000000000000002
 Poland,Krakow,city,2021-03-28,-20.0
+Poland,Krakow,city,2021-03-29,-17.0
 Poland,Total,country,2020-03-01,-11.0
 Poland,Total,country,2020-03-02,-3.0
 Poland,Total,country,2020-03-03,-4.0
@@ -43651,6 +43679,7 @@ Poland,Total,country,2021-03-25,-17.0
 Poland,Total,country,2021-03-26,-18.0
 Poland,Total,country,2021-03-27,-25.0
 Poland,Total,country,2021-03-28,-31.0
+Poland,Total,country,2021-03-29,-23.0
 Poland,Warsaw,city,2020-03-01,-5.0
 Poland,Warsaw,city,2020-03-02,2.0
 Poland,Warsaw,city,2020-03-03,-2.0
@@ -43668,7 +43697,6 @@ Poland,Warsaw,city,2020-03-14,-48.0
 Poland,Warsaw,city,2020-03-15,-57.99999999999999
 Poland,Warsaw,city,2020-03-16,-44.0
 Poland,Warsaw,city,2020-03-17,-49.0
-Poland,Warsaw,city,2020-03-18,-54.0
 Poland,Warsaw,city,2020-03-18,-54.0
 Poland,Warsaw,city,2020-03-19,-59.0
 Poland,Warsaw,city,2020-03-20,-63.0
@@ -44045,6 +44073,7 @@ Poland,Warsaw,city,2021-03-25,-7.000000000000001
 Poland,Warsaw,city,2021-03-26,-16.0
 Poland,Warsaw,city,2021-03-27,-17.0
 Poland,Warsaw,city,2021-03-28,-35.0
+Poland,Warsaw,city,2021-03-29,-20.0
 Portugal,Lisbon,city,2020-03-01,-1.0
 Portugal,Lisbon,city,2020-03-02,13.0
 Portugal,Lisbon,city,2020-03-03,9.0
@@ -44062,7 +44091,6 @@ Portugal,Lisbon,city,2020-03-14,-64.0
 Portugal,Lisbon,city,2020-03-15,-65.0
 Portugal,Lisbon,city,2020-03-16,-60.0
 Portugal,Lisbon,city,2020-03-17,-66.0
-Portugal,Lisbon,city,2020-03-18,-68.0
 Portugal,Lisbon,city,2020-03-18,-68.0
 Portugal,Lisbon,city,2020-03-19,-81.0
 Portugal,Lisbon,city,2020-03-20,-86.0
@@ -44439,6 +44467,7 @@ Portugal,Lisbon,city,2021-03-25,-45.0
 Portugal,Lisbon,city,2021-03-26,-44.0
 Portugal,Lisbon,city,2021-03-27,-60.0
 Portugal,Lisbon,city,2021-03-28,-56.99999999999999
+Portugal,Lisbon,city,2021-03-29,-32.0
 Portugal,Total,country,2020-03-01,-12.0
 Portugal,Total,country,2020-03-02,-3.0
 Portugal,Total,country,2020-03-03,-2.0
@@ -44832,6 +44861,7 @@ Portugal,Total,country,2021-03-25,-3.0
 Portugal,Total,country,2021-03-26,-23.0
 Portugal,Total,country,2021-03-27,-49.0
 Portugal,Total,country,2021-03-28,-49.0
+Portugal,Total,country,2021-03-29,-19.0
 Puerto Rico,Total,country,2020-03-01,-2.0
 Puerto Rico,Total,country,2020-03-02,-2.0
 Puerto Rico,Total,country,2020-03-03,4.0
@@ -45225,6 +45255,7 @@ Puerto Rico,Total,country,2021-03-25,-7.000000000000001
 Puerto Rico,Total,country,2021-03-26,-7.000000000000001
 Puerto Rico,Total,country,2021-03-27,0.0
 Puerto Rico,Total,country,2021-03-28,12.0
+Puerto Rico,Total,country,2021-03-29,0.0
 Qatar,Doha,city,2020-03-01,4.0
 Qatar,Doha,city,2020-03-02,5.0
 Qatar,Doha,city,2020-03-03,11.0
@@ -45242,7 +45273,6 @@ Qatar,Doha,city,2020-03-14,-26.0
 Qatar,Doha,city,2020-03-15,-31.0
 Qatar,Doha,city,2020-03-16,-35.0
 Qatar,Doha,city,2020-03-17,-37.0
-Qatar,Doha,city,2020-03-18,-48.0
 Qatar,Doha,city,2020-03-18,-48.0
 Qatar,Doha,city,2020-03-19,-52.0
 Qatar,Doha,city,2020-03-20,-64.0
@@ -45619,6 +45649,7 @@ Qatar,Doha,city,2021-03-25,12.0
 Qatar,Doha,city,2021-03-26,1.0
 Qatar,Doha,city,2021-03-27,18.0
 Qatar,Doha,city,2021-03-28,12.0
+Qatar,Doha,city,2021-03-29,10.0
 Qatar,Total,country,2020-03-01,4.0
 Qatar,Total,country,2020-03-02,5.0
 Qatar,Total,country,2020-03-03,8.0
@@ -46012,6 +46043,7 @@ Qatar,Total,country,2021-03-25,17.0
 Qatar,Total,country,2021-03-26,2.0
 Qatar,Total,country,2021-03-27,16.0
 Qatar,Total,country,2021-03-28,14.000000000000002
+Qatar,Total,country,2021-03-29,19.0
 Romania,Bucharest,city,2020-03-01,-3.0
 Romania,Bucharest,city,2020-03-02,0.0
 Romania,Bucharest,city,2020-03-03,2.0
@@ -46029,7 +46061,6 @@ Romania,Bucharest,city,2020-03-14,-44.0
 Romania,Bucharest,city,2020-03-15,-53.0
 Romania,Bucharest,city,2020-03-16,-44.0
 Romania,Bucharest,city,2020-03-17,-44.0
-Romania,Bucharest,city,2020-03-18,-48.0
 Romania,Bucharest,city,2020-03-18,-48.0
 Romania,Bucharest,city,2020-03-19,-52.0
 Romania,Bucharest,city,2020-03-20,-51.0
@@ -46406,6 +46437,7 @@ Romania,Bucharest,city,2021-03-25,2.0
 Romania,Bucharest,city,2021-03-26,7.000000000000001
 Romania,Bucharest,city,2021-03-27,0.0
 Romania,Bucharest,city,2021-03-28,0.0
+Romania,Bucharest,city,2021-03-29,8.0
 Romania,Total,country,2020-03-01,-8.0
 Romania,Total,country,2020-03-02,-4.0
 Romania,Total,country,2020-03-03,-2.0
@@ -46799,6 +46831,7 @@ Romania,Total,country,2021-03-25,3.0
 Romania,Total,country,2021-03-26,1.0
 Romania,Total,country,2021-03-27,6.0
 Romania,Total,country,2021-03-28,1.0
+Romania,Total,country,2021-03-29,3.0
 Russia,Total,country,2020-03-01,-12.0
 Russia,Total,country,2020-03-02,-4.0
 Russia,Total,country,2020-03-03,-3.0
@@ -47191,6 +47224,7 @@ Russia,Total,country,2021-03-25,0.0
 Russia,Total,country,2021-03-26,-7.000000000000001
 Russia,Total,country,2021-03-27,27.0
 Russia,Total,country,2021-03-28,12.0
+Russia,Total,country,2021-03-29,49.0
 Singapore,Singapore,city,2020-03-01,7.000000000000001
 Singapore,Singapore,city,2020-03-02,4.0
 Singapore,Singapore,city,2020-03-03,3.0
@@ -47209,7 +47243,6 @@ Singapore,Singapore,city,2020-03-15,2.0
 Singapore,Singapore,city,2020-03-16,-5.0
 Singapore,Singapore,city,2020-03-17,1.0
 Singapore,Singapore,city,2020-03-18,-5.0
-Singapore,Singapore,city,2020-03-19,-9.0
 Singapore,Singapore,city,2020-03-19,-9.0
 Singapore,Singapore,city,2020-03-20,-11.0
 Singapore,Singapore,city,2020-03-21,-11.0
@@ -47585,6 +47618,7 @@ Singapore,Singapore,city,2021-03-25,5.0
 Singapore,Singapore,city,2021-03-26,5.0
 Singapore,Singapore,city,2021-03-27,14.000000000000002
 Singapore,Singapore,city,2021-03-28,16.0
+Singapore,Singapore,city,2021-03-29,4.0
 Singapore,Total,country,2020-03-01,6.0
 Singapore,Total,country,2020-03-02,3.0
 Singapore,Total,country,2020-03-03,4.0
@@ -47978,6 +48012,7 @@ Singapore,Total,country,2021-03-25,5.0
 Singapore,Total,country,2021-03-26,4.0
 Singapore,Total,country,2021-03-27,14.000000000000002
 Singapore,Total,country,2021-03-28,15.0
+Singapore,Total,country,2021-03-29,4.0
 Slovakia,Bratislava,city,2020-03-01,1.0
 Slovakia,Bratislava,city,2020-03-02,10.0
 Slovakia,Bratislava,city,2020-03-03,1.0
@@ -47995,7 +48030,6 @@ Slovakia,Bratislava,city,2020-03-14,-69.0
 Slovakia,Bratislava,city,2020-03-15,-75.0
 Slovakia,Bratislava,city,2020-03-16,-68.0
 Slovakia,Bratislava,city,2020-03-17,-78.0
-Slovakia,Bratislava,city,2020-03-18,-73.0
 Slovakia,Bratislava,city,2020-03-18,-73.0
 Slovakia,Bratislava,city,2020-03-19,-76.0
 Slovakia,Bratislava,city,2020-03-20,-73.0
@@ -48372,6 +48406,7 @@ Slovakia,Bratislava,city,2021-03-25,-33.0
 Slovakia,Bratislava,city,2021-03-26,-28.000000000000004
 Slovakia,Bratislava,city,2021-03-27,-49.0
 Slovakia,Bratislava,city,2021-03-28,-47.0
+Slovakia,Bratislava,city,2021-03-29,-28.000000000000004
 Slovakia,Total,country,2020-03-01,-15.0
 Slovakia,Total,country,2020-03-02,1.0
 Slovakia,Total,country,2020-03-03,-3.0
@@ -48765,6 +48800,7 @@ Slovakia,Total,country,2021-03-25,-31.0
 Slovakia,Total,country,2021-03-26,-43.0
 Slovakia,Total,country,2021-03-27,-46.0
 Slovakia,Total,country,2021-03-28,-50.0
+Slovakia,Total,country,2021-03-29,-27.0
 South Africa,Cape Town,city,2020-03-01,35.0
 South Africa,Cape Town,city,2020-03-02,6.0
 South Africa,Cape Town,city,2020-03-03,4.0
@@ -48783,7 +48819,6 @@ South Africa,Cape Town,city,2020-03-15,-9.0
 South Africa,Cape Town,city,2020-03-16,-20.0
 South Africa,Cape Town,city,2020-03-17,-22.0
 South Africa,Cape Town,city,2020-03-18,-35.0
-South Africa,Cape Town,city,2020-03-19,-43.0
 South Africa,Cape Town,city,2020-03-19,-43.0
 South Africa,Cape Town,city,2020-03-20,-42.0
 South Africa,Cape Town,city,2020-03-21,-46.0
@@ -49159,6 +49194,7 @@ South Africa,Cape Town,city,2021-03-25,5.0
 South Africa,Cape Town,city,2021-03-26,-1.0
 South Africa,Cape Town,city,2021-03-27,19.0
 South Africa,Cape Town,city,2021-03-28,18.0
+South Africa,Cape Town,city,2021-03-29,-4.0
 South Africa,Total,country,2020-03-01,24.0
 South Africa,Total,country,2020-03-02,10.0
 South Africa,Total,country,2020-03-03,5.0
@@ -49552,6 +49588,7 @@ South Africa,Total,country,2021-03-25,-4.0
 South Africa,Total,country,2021-03-26,7.000000000000001
 South Africa,Total,country,2021-03-27,33.0
 South Africa,Total,country,2021-03-28,33.0
+South Africa,Total,country,2021-03-29,-4.0
 Spain,Barcelona,city,2020-03-01,-4.0
 Spain,Barcelona,city,2020-03-02,-8.0
 Spain,Barcelona,city,2020-03-03,-1.0
@@ -49569,7 +49606,6 @@ Spain,Barcelona,city,2020-03-14,-59.0
 Spain,Barcelona,city,2020-03-15,-77.0
 Spain,Barcelona,city,2020-03-16,-71.0
 Spain,Barcelona,city,2020-03-17,-82.0
-Spain,Barcelona,city,2020-03-18,-75.0
 Spain,Barcelona,city,2020-03-18,-75.0
 Spain,Barcelona,city,2020-03-19,-83.0
 Spain,Barcelona,city,2020-03-20,-85.0
@@ -49946,6 +49982,7 @@ Spain,Barcelona,city,2021-03-25,-14.000000000000002
 Spain,Barcelona,city,2021-03-26,-30.0
 Spain,Barcelona,city,2021-03-27,-25.0
 Spain,Barcelona,city,2021-03-28,-30.0
+Spain,Barcelona,city,2021-03-29,-16.0
 Spain,Madrid,city,2020-03-01,2.0
 Spain,Madrid,city,2020-03-02,11.0
 Spain,Madrid,city,2020-03-03,-2.0
@@ -49963,7 +50000,6 @@ Spain,Madrid,city,2020-03-14,-68.0
 Spain,Madrid,city,2020-03-15,-83.0
 Spain,Madrid,city,2020-03-16,-79.0
 Spain,Madrid,city,2020-03-17,-82.0
-Spain,Madrid,city,2020-03-18,-84.0
 Spain,Madrid,city,2020-03-18,-84.0
 Spain,Madrid,city,2020-03-19,-86.0
 Spain,Madrid,city,2020-03-20,-86.0
@@ -50340,6 +50376,7 @@ Spain,Madrid,city,2021-03-25,-23.0
 Spain,Madrid,city,2021-03-26,-24.0
 Spain,Madrid,city,2021-03-27,-22.0
 Spain,Madrid,city,2021-03-28,-50.0
+Spain,Madrid,city,2021-03-29,-31.0
 Spain,Total,country,2020-03-01,3.0
 Spain,Total,country,2020-03-02,13.0
 Spain,Total,country,2020-03-03,-2.0
@@ -50733,6 +50770,7 @@ Spain,Total,country,2021-03-25,-4.0
 Spain,Total,country,2021-03-26,-25.0
 Spain,Total,country,2021-03-27,-19.0
 Spain,Total,country,2021-03-28,-37.0
+Spain,Total,country,2021-03-29,-16.0
 Sweden,Stockholm,city,2020-03-01,37.0
 Sweden,Stockholm,city,2020-03-02,3.0
 Sweden,Stockholm,city,2020-03-03,9.0
@@ -50751,7 +50789,6 @@ Sweden,Stockholm,city,2020-03-15,-14.000000000000002
 Sweden,Stockholm,city,2020-03-16,-24.0
 Sweden,Stockholm,city,2020-03-17,-28.999999999999996
 Sweden,Stockholm,city,2020-03-18,-35.0
-Sweden,Stockholm,city,2020-03-19,-30.0
 Sweden,Stockholm,city,2020-03-19,-30.0
 Sweden,Stockholm,city,2020-03-20,-38.0
 Sweden,Stockholm,city,2020-03-21,-41.0
@@ -51126,6 +51163,7 @@ Sweden,Stockholm,city,2021-03-25,-9.0
 Sweden,Stockholm,city,2021-03-26,-1.0
 Sweden,Stockholm,city,2021-03-27,10.0
 Sweden,Stockholm,city,2021-03-28,9.0
+Sweden,Stockholm,city,2021-03-29,-10.0
 Sweden,Total,country,2020-03-01,10.0
 Sweden,Total,country,2020-03-02,1.0
 Sweden,Total,country,2020-03-03,-1.0
@@ -51519,6 +51557,7 @@ Sweden,Total,country,2021-03-25,-17.0
 Sweden,Total,country,2021-03-26,-15.0
 Sweden,Total,country,2021-03-27,-11.0
 Sweden,Total,country,2021-03-28,-18.0
+Sweden,Total,country,2021-03-29,-12.0
 Switzerland,Total,country,2020-03-01,-13.0
 Switzerland,Total,country,2020-03-02,-10.0
 Switzerland,Total,country,2020-03-03,-7.000000000000001
@@ -51912,6 +51951,7 @@ Switzerland,Total,country,2021-03-25,-14.000000000000002
 Switzerland,Total,country,2021-03-26,-28.999999999999996
 Switzerland,Total,country,2021-03-27,-47.0
 Switzerland,Total,country,2021-03-28,-31.0
+Switzerland,Total,country,2021-03-29,-5.0
 Ukraine,Kyiv,city,2020-03-01,1.0
 Ukraine,Kyiv,city,2020-03-02,5.0
 Ukraine,Kyiv,city,2020-03-03,5.0
@@ -51930,7 +51970,6 @@ Ukraine,Kyiv,city,2020-03-15,-12.0
 Ukraine,Kyiv,city,2020-03-16,1.0
 Ukraine,Kyiv,city,2020-03-17,-6.0
 Ukraine,Kyiv,city,2020-03-18,-14.000000000000002
-Ukraine,Kyiv,city,2020-03-19,-18.0
 Ukraine,Kyiv,city,2020-03-19,-18.0
 Ukraine,Kyiv,city,2020-03-20,-25.0
 Ukraine,Kyiv,city,2020-03-21,-42.0
@@ -52287,6 +52326,7 @@ Ukraine,Kyiv,city,2021-03-25,73.0
 Ukraine,Kyiv,city,2021-03-26,66.0
 Ukraine,Kyiv,city,2021-03-27,72.0
 Ukraine,Kyiv,city,2021-03-28,96.0
+Ukraine,Kyiv,city,2021-03-29,77.0
 Ukraine,Lviv,city,2020-03-01,13.0
 Ukraine,Lviv,city,2020-03-02,0.0
 Ukraine,Lviv,city,2020-03-03,-5.0
@@ -52305,8 +52345,6 @@ Ukraine,Lviv,city,2020-03-15,-25.0
 Ukraine,Lviv,city,2020-03-16,-13.0
 Ukraine,Lviv,city,2020-03-17,-32.0
 Ukraine,Lviv,city,2020-03-18,-63.0
-Ukraine,Lviv,city,2020-03-18,-63.0
-Ukraine,Lviv,city,2020-03-19,-38.0
 Ukraine,Lviv,city,2020-03-19,-38.0
 Ukraine,Lviv,city,2020-03-20,-60.0
 Ukraine,Lviv,city,2020-03-21,-41.0
@@ -52630,6 +52668,7 @@ Ukraine,Lviv,city,2021-03-25,49.0
 Ukraine,Lviv,city,2021-03-26,52.0
 Ukraine,Lviv,city,2021-03-27,64.0
 Ukraine,Lviv,city,2021-03-28,57.99999999999999
+Ukraine,Lviv,city,2021-03-29,71.0
 Ukraine,Total,country,2020-03-01,2.0
 Ukraine,Total,country,2020-03-02,3.0
 Ukraine,Total,country,2020-03-03,5.0
@@ -53169,6 +53208,7 @@ United Arab Emirates,Total,country,2021-03-25,3.0
 United Arab Emirates,Total,country,2021-03-26,10.0
 United Arab Emirates,Total,country,2021-03-27,17.0
 United Arab Emirates,Total,country,2021-03-28,16.0
+United Arab Emirates,Total,country,2021-03-29,19.0
 United Kingdom,Birmingham,city,2020-03-01,2.0
 United Kingdom,Birmingham,city,2020-03-02,0.0
 United Kingdom,Birmingham,city,2020-03-03,-5.0
@@ -53187,7 +53227,6 @@ United Kingdom,Birmingham,city,2020-03-15,-17.0
 United Kingdom,Birmingham,city,2020-03-16,-22.0
 United Kingdom,Birmingham,city,2020-03-17,-21.0
 United Kingdom,Birmingham,city,2020-03-18,-31.0
-United Kingdom,Birmingham,city,2020-03-19,-31.0
 United Kingdom,Birmingham,city,2020-03-19,-31.0
 United Kingdom,Birmingham,city,2020-03-20,-40.0
 United Kingdom,Birmingham,city,2020-03-21,-48.0
@@ -53562,6 +53601,7 @@ United Kingdom,Birmingham,city,2021-03-25,-24.0
 United Kingdom,Birmingham,city,2021-03-26,-24.0
 United Kingdom,Birmingham,city,2021-03-27,-37.0
 United Kingdom,Birmingham,city,2021-03-28,-33.0
+United Kingdom,Birmingham,city,2021-03-29,-23.0
 United Kingdom,Bristol,city,2020-03-01,0.0
 United Kingdom,Bristol,city,2020-03-02,-11.0
 United Kingdom,Bristol,city,2020-03-03,-12.0
@@ -53580,7 +53620,6 @@ United Kingdom,Bristol,city,2020-03-15,-8.0
 United Kingdom,Bristol,city,2020-03-16,-19.0
 United Kingdom,Bristol,city,2020-03-17,-12.0
 United Kingdom,Bristol,city,2020-03-18,-41.0
-United Kingdom,Bristol,city,2020-03-19,-46.0
 United Kingdom,Bristol,city,2020-03-19,-46.0
 United Kingdom,Bristol,city,2020-03-20,-36.0
 United Kingdom,Bristol,city,2020-03-21,-62.0
@@ -53956,6 +53995,7 @@ United Kingdom,Bristol,city,2021-03-25,-23.0
 United Kingdom,Bristol,city,2021-03-26,-12.0
 United Kingdom,Bristol,city,2021-03-27,-20.0
 United Kingdom,Bristol,city,2021-03-28,-27.0
+United Kingdom,Bristol,city,2021-03-29,-27.0
 United Kingdom,Liverpool,city,2020-03-01,14.000000000000002
 United Kingdom,Liverpool,city,2020-03-02,0.0
 United Kingdom,Liverpool,city,2020-03-03,15.0
@@ -53974,7 +54014,6 @@ United Kingdom,Liverpool,city,2020-03-15,-14.000000000000002
 United Kingdom,Liverpool,city,2020-03-16,-27.0
 United Kingdom,Liverpool,city,2020-03-17,4.0
 United Kingdom,Liverpool,city,2020-03-18,-20.0
-United Kingdom,Liverpool,city,2020-03-19,-36.0
 United Kingdom,Liverpool,city,2020-03-19,-36.0
 United Kingdom,Liverpool,city,2020-03-20,-33.0
 United Kingdom,Liverpool,city,2020-03-21,-22.0
@@ -54346,6 +54385,7 @@ United Kingdom,Liverpool,city,2021-03-25,-37.0
 United Kingdom,Liverpool,city,2021-03-26,-1.0
 United Kingdom,Liverpool,city,2021-03-27,-4.0
 United Kingdom,Liverpool,city,2021-03-28,-38.0
+United Kingdom,Liverpool,city,2021-03-29,-4.0
 United Kingdom,London,city,2020-03-01,5.0
 United Kingdom,London,city,2020-03-02,-1.0
 United Kingdom,London,city,2020-03-03,0.0
@@ -54364,7 +54404,6 @@ United Kingdom,London,city,2020-03-15,-17.0
 United Kingdom,London,city,2020-03-16,-16.0
 United Kingdom,London,city,2020-03-17,-14.000000000000002
 United Kingdom,London,city,2020-03-18,-20.0
-United Kingdom,London,city,2020-03-19,-21.0
 United Kingdom,London,city,2020-03-19,-21.0
 United Kingdom,London,city,2020-03-20,-32.0
 United Kingdom,London,city,2020-03-21,-52.0
@@ -54740,6 +54779,7 @@ United Kingdom,London,city,2021-03-25,-14.000000000000002
 United Kingdom,London,city,2021-03-26,-11.0
 United Kingdom,London,city,2021-03-27,-21.0
 United Kingdom,London,city,2021-03-28,-32.0
+United Kingdom,London,city,2021-03-29,-10.0
 United Kingdom,Luton,city,2020-03-01,14.000000000000002
 United Kingdom,Luton,city,2020-03-02,-8.0
 United Kingdom,Luton,city,2020-03-03,-3.0
@@ -54758,7 +54798,6 @@ United Kingdom,Luton,city,2020-03-15,-24.0
 United Kingdom,Luton,city,2020-03-16,-33.0
 United Kingdom,Luton,city,2020-03-17,-32.0
 United Kingdom,Luton,city,2020-03-18,-36.0
-United Kingdom,Luton,city,2020-03-19,-36.0
 United Kingdom,Luton,city,2020-03-19,-36.0
 United Kingdom,Luton,city,2020-03-20,-48.0
 United Kingdom,Luton,city,2020-03-21,-37.0
@@ -55130,6 +55169,7 @@ United Kingdom,Luton,city,2021-03-25,-25.0
 United Kingdom,Luton,city,2021-03-26,-36.0
 United Kingdom,Luton,city,2021-03-27,-28.999999999999996
 United Kingdom,Luton,city,2021-03-28,-45.0
+United Kingdom,Luton,city,2021-03-29,-31.0
 United Kingdom,Manchester,city,2020-03-01,9.0
 United Kingdom,Manchester,city,2020-03-02,0.0
 United Kingdom,Manchester,city,2020-03-03,2.0
@@ -55148,7 +55188,6 @@ United Kingdom,Manchester,city,2020-03-15,-9.0
 United Kingdom,Manchester,city,2020-03-16,-20.0
 United Kingdom,Manchester,city,2020-03-17,-32.0
 United Kingdom,Manchester,city,2020-03-18,-31.0
-United Kingdom,Manchester,city,2020-03-19,-17.0
 United Kingdom,Manchester,city,2020-03-19,-17.0
 United Kingdom,Manchester,city,2020-03-20,-49.0
 United Kingdom,Manchester,city,2020-03-21,-56.00000000000001
@@ -55524,6 +55563,7 @@ United Kingdom,Manchester,city,2021-03-25,-45.0
 United Kingdom,Manchester,city,2021-03-26,-43.0
 United Kingdom,Manchester,city,2021-03-27,-41.0
 United Kingdom,Manchester,city,2021-03-28,-11.0
+United Kingdom,Manchester,city,2021-03-29,-45.0
 United Kingdom,Total,country,2020-03-01,2.0
 United Kingdom,Total,country,2020-03-02,-3.0
 United Kingdom,Total,country,2020-03-03,-1.0
@@ -55917,6 +55957,7 @@ United Kingdom,Total,country,2021-03-25,-26.0
 United Kingdom,Total,country,2021-03-26,-24.0
 United Kingdom,Total,country,2021-03-27,-25.0
 United Kingdom,Total,country,2021-03-28,-38.0
+United Kingdom,Total,country,2021-03-29,-22.0
 United States,Atlanta,city,2020-03-01,5.0
 United States,Atlanta,city,2020-03-02,2.0
 United States,Atlanta,city,2020-03-03,-6.0
@@ -55934,7 +55975,6 @@ United States,Atlanta,city,2020-03-14,-32.0
 United States,Atlanta,city,2020-03-15,-36.0
 United States,Atlanta,city,2020-03-16,-36.0
 United States,Atlanta,city,2020-03-17,-49.0
-United States,Atlanta,city,2020-03-18,-53.0
 United States,Atlanta,city,2020-03-18,-53.0
 United States,Atlanta,city,2020-03-19,-56.00000000000001
 United States,Atlanta,city,2020-03-20,-60.0
@@ -56311,6 +56351,7 @@ United States,Atlanta,city,2021-03-25,-26.0
 United States,Atlanta,city,2021-03-26,-26.0
 United States,Atlanta,city,2021-03-27,-20.0
 United States,Atlanta,city,2021-03-28,-19.0
+United States,Atlanta,city,2021-03-29,-26.0
 United States,Austin,city,2020-03-01,-1.0
 United States,Austin,city,2020-03-02,3.0
 United States,Austin,city,2020-03-03,1.0
@@ -56328,7 +56369,6 @@ United States,Austin,city,2020-03-14,-37.0
 United States,Austin,city,2020-03-15,-38.0
 United States,Austin,city,2020-03-16,-40.0
 United States,Austin,city,2020-03-17,-48.0
-United States,Austin,city,2020-03-18,-53.0
 United States,Austin,city,2020-03-18,-53.0
 United States,Austin,city,2020-03-19,-56.99999999999999
 United States,Austin,city,2020-03-20,-62.0
@@ -56705,6 +56745,7 @@ United States,Austin,city,2021-03-25,-39.0
 United States,Austin,city,2021-03-26,-38.0
 United States,Austin,city,2021-03-27,-33.0
 United States,Austin,city,2021-03-28,-27.0
+United States,Austin,city,2021-03-29,-43.0
 United States,Baltimore,city,2020-03-01,1.0
 United States,Baltimore,city,2020-03-02,2.0
 United States,Baltimore,city,2020-03-03,0.0
@@ -56722,7 +56763,6 @@ United States,Baltimore,city,2020-03-14,-31.0
 United States,Baltimore,city,2020-03-15,-38.0
 United States,Baltimore,city,2020-03-16,-34.0
 United States,Baltimore,city,2020-03-17,-44.0
-United States,Baltimore,city,2020-03-18,-48.0
 United States,Baltimore,city,2020-03-18,-48.0
 United States,Baltimore,city,2020-03-19,-50.0
 United States,Baltimore,city,2020-03-20,-50.0
@@ -57099,6 +57139,7 @@ United States,Baltimore,city,2021-03-25,-22.0
 United States,Baltimore,city,2021-03-26,-24.0
 United States,Baltimore,city,2021-03-27,-17.0
 United States,Baltimore,city,2021-03-28,-19.0
+United States,Baltimore,city,2021-03-29,-28.999999999999996
 United States,Boston,city,2020-03-01,9.0
 United States,Boston,city,2020-03-02,8.0
 United States,Boston,city,2020-03-03,-4.0
@@ -57116,7 +57157,6 @@ United States,Boston,city,2020-03-14,-35.0
 United States,Boston,city,2020-03-15,-30.0
 United States,Boston,city,2020-03-16,-38.0
 United States,Boston,city,2020-03-17,-49.0
-United States,Boston,city,2020-03-18,-55.00000000000001
 United States,Boston,city,2020-03-18,-55.00000000000001
 United States,Boston,city,2020-03-19,-59.0
 United States,Boston,city,2020-03-20,-61.0
@@ -57493,6 +57533,7 @@ United States,Boston,city,2021-03-25,-36.0
 United States,Boston,city,2021-03-26,-34.0
 United States,Boston,city,2021-03-27,-33.0
 United States,Boston,city,2021-03-28,-32.0
+United States,Boston,city,2021-03-29,-36.0
 United States,Cambridge,city,2020-03-01,20.0
 United States,Cambridge,city,2020-03-02,3.0
 United States,Cambridge,city,2020-03-03,14.000000000000002
@@ -57510,7 +57551,6 @@ United States,Cambridge,city,2020-03-14,-25.0
 United States,Cambridge,city,2020-03-15,-20.0
 United States,Cambridge,city,2020-03-16,-31.0
 United States,Cambridge,city,2020-03-17,-43.0
-United States,Cambridge,city,2020-03-18,-56.00000000000001
 United States,Cambridge,city,2020-03-18,-56.00000000000001
 United States,Cambridge,city,2020-03-19,-63.0
 United States,Cambridge,city,2020-03-20,-56.99999999999999
@@ -57884,6 +57924,7 @@ United States,Cambridge,city,2021-03-25,-43.0
 United States,Cambridge,city,2021-03-26,-8.0
 United States,Cambridge,city,2021-03-27,-33.0
 United States,Cambridge,city,2021-03-28,-5.0
+United States,Cambridge,city,2021-03-29,-12.0
 United States,Charlotte,city,2020-03-01,19.0
 United States,Charlotte,city,2020-03-02,6.0
 United States,Charlotte,city,2020-03-03,-3.0
@@ -57902,8 +57943,6 @@ United States,Charlotte,city,2020-03-15,-23.0
 United States,Charlotte,city,2020-03-16,-30.0
 United States,Charlotte,city,2020-03-17,-41.0
 United States,Charlotte,city,2020-03-18,-47.0
-United States,Charlotte,city,2020-03-18,-47.0
-United States,Charlotte,city,2020-03-19,-46.0
 United States,Charlotte,city,2020-03-19,-46.0
 United States,Charlotte,city,2020-03-20,-47.0
 United States,Charlotte,city,2020-03-21,-52.0
@@ -58279,6 +58318,7 @@ United States,Charlotte,city,2021-03-25,-25.0
 United States,Charlotte,city,2021-03-26,-11.0
 United States,Charlotte,city,2021-03-27,-11.0
 United States,Charlotte,city,2021-03-28,-2.0
+United States,Charlotte,city,2021-03-29,-31.0
 United States,Chicago,city,2020-03-01,2.0
 United States,Chicago,city,2020-03-02,-2.0
 United States,Chicago,city,2020-03-03,-1.0
@@ -58296,7 +58336,6 @@ United States,Chicago,city,2020-03-14,-23.0
 United States,Chicago,city,2020-03-15,-31.0
 United States,Chicago,city,2020-03-16,-27.0
 United States,Chicago,city,2020-03-17,-38.0
-United States,Chicago,city,2020-03-18,-48.0
 United States,Chicago,city,2020-03-18,-48.0
 United States,Chicago,city,2020-03-19,-52.0
 United States,Chicago,city,2020-03-20,-56.00000000000001
@@ -58673,6 +58712,7 @@ United States,Chicago,city,2021-03-25,-31.0
 United States,Chicago,city,2021-03-26,-32.0
 United States,Chicago,city,2021-03-27,-27.0
 United States,Chicago,city,2021-03-28,-25.0
+United States,Chicago,city,2021-03-29,-30.0
 United States,Cincinnati,city,2020-03-01,5.0
 United States,Cincinnati,city,2020-03-02,6.0
 United States,Cincinnati,city,2020-03-03,-1.0
@@ -58690,7 +58730,6 @@ United States,Cincinnati,city,2020-03-14,-42.0
 United States,Cincinnati,city,2020-03-15,-16.0
 United States,Cincinnati,city,2020-03-16,-32.0
 United States,Cincinnati,city,2020-03-17,-49.0
-United States,Cincinnati,city,2020-03-18,-49.0
 United States,Cincinnati,city,2020-03-18,-49.0
 United States,Cincinnati,city,2020-03-19,-57.99999999999999
 United States,Cincinnati,city,2020-03-20,-54.0
@@ -59067,6 +59106,7 @@ United States,Cincinnati,city,2021-03-25,-31.0
 United States,Cincinnati,city,2021-03-26,-22.0
 United States,Cincinnati,city,2021-03-27,0.0
 United States,Cincinnati,city,2021-03-28,39.0
+United States,Cincinnati,city,2021-03-29,-18.0
 United States,Dallas,city,2020-03-01,10.0
 United States,Dallas,city,2020-03-02,4.0
 United States,Dallas,city,2020-03-03,-2.0
@@ -59084,7 +59124,6 @@ United States,Dallas,city,2020-03-14,-31.0
 United States,Dallas,city,2020-03-15,-30.0
 United States,Dallas,city,2020-03-16,-28.999999999999996
 United States,Dallas,city,2020-03-17,-43.0
-United States,Dallas,city,2020-03-18,-48.0
 United States,Dallas,city,2020-03-18,-48.0
 United States,Dallas,city,2020-03-19,-53.0
 United States,Dallas,city,2020-03-20,-55.00000000000001
@@ -59461,6 +59500,7 @@ United States,Dallas,city,2021-03-25,-26.0
 United States,Dallas,city,2021-03-26,-23.0
 United States,Dallas,city,2021-03-27,-16.0
 United States,Dallas,city,2021-03-28,-5.0
+United States,Dallas,city,2021-03-29,-28.000000000000004
 United States,Denver,city,2020-03-01,8.0
 United States,Denver,city,2020-03-02,3.0
 United States,Denver,city,2020-03-03,-5.0
@@ -59478,7 +59518,6 @@ United States,Denver,city,2020-03-14,-32.0
 United States,Denver,city,2020-03-15,-30.0
 United States,Denver,city,2020-03-16,-37.0
 United States,Denver,city,2020-03-17,-55.00000000000001
-United States,Denver,city,2020-03-18,-60.0
 United States,Denver,city,2020-03-18,-60.0
 United States,Denver,city,2020-03-19,-69.0
 United States,Denver,city,2020-03-20,-74.0
@@ -59855,6 +59894,7 @@ United States,Denver,city,2021-03-25,-43.0
 United States,Denver,city,2021-03-26,-36.0
 United States,Denver,city,2021-03-27,-36.0
 United States,Denver,city,2021-03-28,-28.999999999999996
+United States,Denver,city,2021-03-29,-35.0
 United States,Detroit,city,2020-03-01,10.0
 United States,Detroit,city,2020-03-02,19.0
 United States,Detroit,city,2020-03-03,6.0
@@ -59872,7 +59912,6 @@ United States,Detroit,city,2020-03-14,-47.0
 United States,Detroit,city,2020-03-15,-38.0
 United States,Detroit,city,2020-03-16,-37.0
 United States,Detroit,city,2020-03-17,-43.0
-United States,Detroit,city,2020-03-18,-53.0
 United States,Detroit,city,2020-03-18,-53.0
 United States,Detroit,city,2020-03-19,-50.0
 United States,Detroit,city,2020-03-20,-56.00000000000001
@@ -60249,6 +60288,7 @@ United States,Detroit,city,2021-03-25,-45.0
 United States,Detroit,city,2021-03-26,-34.0
 United States,Detroit,city,2021-03-27,-39.0
 United States,Detroit,city,2021-03-28,-25.0
+United States,Detroit,city,2021-03-29,-23.0
 United States,Fort Lauderdale,city,2020-03-01,-9.0
 United States,Fort Lauderdale,city,2020-03-02,0.0
 United States,Fort Lauderdale,city,2020-03-03,0.0
@@ -60266,7 +60306,6 @@ United States,Fort Lauderdale,city,2020-03-14,-32.0
 United States,Fort Lauderdale,city,2020-03-15,-26.0
 United States,Fort Lauderdale,city,2020-03-16,-32.0
 United States,Fort Lauderdale,city,2020-03-17,-42.0
-United States,Fort Lauderdale,city,2020-03-18,-49.0
 United States,Fort Lauderdale,city,2020-03-18,-49.0
 United States,Fort Lauderdale,city,2020-03-19,-56.00000000000001
 United States,Fort Lauderdale,city,2020-03-20,-57.99999999999999
@@ -60643,6 +60682,7 @@ United States,Fort Lauderdale,city,2021-03-25,-11.0
 United States,Fort Lauderdale,city,2021-03-26,-30.0
 United States,Fort Lauderdale,city,2021-03-27,-5.0
 United States,Fort Lauderdale,city,2021-03-28,-2.0
+United States,Fort Lauderdale,city,2021-03-29,-16.0
 United States,Fort Worth,city,2020-03-01,6.0
 United States,Fort Worth,city,2020-03-02,4.0
 United States,Fort Worth,city,2020-03-03,-1.0
@@ -60661,7 +60701,6 @@ United States,Fort Worth,city,2020-03-15,-24.0
 United States,Fort Worth,city,2020-03-16,-20.0
 United States,Fort Worth,city,2020-03-17,-30.0
 United States,Fort Worth,city,2020-03-18,-35.0
-United States,Fort Worth,city,2020-03-19,-38.0
 United States,Fort Worth,city,2020-03-19,-38.0
 United States,Fort Worth,city,2020-03-20,-45.0
 United States,Fort Worth,city,2020-03-21,-55.00000000000001
@@ -61037,6 +61076,7 @@ United States,Fort Worth,city,2021-03-25,-10.0
 United States,Fort Worth,city,2021-03-26,-5.0
 United States,Fort Worth,city,2021-03-27,-2.0
 United States,Fort Worth,city,2021-03-28,2.0
+United States,Fort Worth,city,2021-03-29,-9.0
 United States,Hartford,city,2020-03-01,-13.0
 United States,Hartford,city,2020-03-02,15.0
 United States,Hartford,city,2020-03-03,-3.0
@@ -61054,7 +61094,6 @@ United States,Hartford,city,2020-03-14,-41.0
 United States,Hartford,city,2020-03-15,-48.0
 United States,Hartford,city,2020-03-16,-23.0
 United States,Hartford,city,2020-03-17,-43.0
-United States,Hartford,city,2020-03-18,-54.0
 United States,Hartford,city,2020-03-18,-54.0
 United States,Hartford,city,2020-03-19,-56.00000000000001
 United States,Hartford,city,2020-03-20,-59.0
@@ -61425,6 +61464,7 @@ United States,Hartford,city,2021-03-25,-40.0
 United States,Hartford,city,2021-03-26,-9.0
 United States,Hartford,city,2021-03-27,7.000000000000001
 United States,Hartford,city,2021-03-28,-50.0
+United States,Hartford,city,2021-03-29,-16.0
 United States,Houston,city,2020-03-01,6.0
 United States,Houston,city,2020-03-02,1.0
 United States,Houston,city,2020-03-03,2.0
@@ -61442,7 +61482,6 @@ United States,Houston,city,2020-03-14,-28.999999999999996
 United States,Houston,city,2020-03-15,-27.0
 United States,Houston,city,2020-03-16,-28.999999999999996
 United States,Houston,city,2020-03-17,-42.0
-United States,Houston,city,2020-03-18,-48.0
 United States,Houston,city,2020-03-18,-48.0
 United States,Houston,city,2020-03-19,-52.0
 United States,Houston,city,2020-03-20,-56.00000000000001
@@ -61819,6 +61858,7 @@ United States,Houston,city,2021-03-25,-30.0
 United States,Houston,city,2021-03-26,-25.0
 United States,Houston,city,2021-03-27,-20.0
 United States,Houston,city,2021-03-28,-16.0
+United States,Houston,city,2021-03-29,-31.0
 United States,Irvine,city,2020-03-01,0.0
 United States,Irvine,city,2020-03-02,5.0
 United States,Irvine,city,2020-03-03,-7.000000000000001
@@ -61836,7 +61876,6 @@ United States,Irvine,city,2020-03-14,-42.0
 United States,Irvine,city,2020-03-15,-38.0
 United States,Irvine,city,2020-03-16,-32.0
 United States,Irvine,city,2020-03-17,-46.0
-United States,Irvine,city,2020-03-18,-59.0
 United States,Irvine,city,2020-03-18,-59.0
 United States,Irvine,city,2020-03-19,-59.0
 United States,Irvine,city,2020-03-20,-63.0
@@ -62213,6 +62252,7 @@ United States,Irvine,city,2021-03-25,-40.0
 United States,Irvine,city,2021-03-26,-47.0
 United States,Irvine,city,2021-03-27,-20.0
 United States,Irvine,city,2021-03-28,-22.0
+United States,Irvine,city,2021-03-29,-20.0
 United States,Jersey City,city,2020-03-01,5.0
 United States,Jersey City,city,2020-03-02,-4.0
 United States,Jersey City,city,2020-03-03,-6.0
@@ -62230,7 +62270,6 @@ United States,Jersey City,city,2020-03-14,-18.0
 United States,Jersey City,city,2020-03-15,-18.0
 United States,Jersey City,city,2020-03-16,-40.0
 United States,Jersey City,city,2020-03-17,-36.0
-United States,Jersey City,city,2020-03-18,-45.0
 United States,Jersey City,city,2020-03-18,-45.0
 United States,Jersey City,city,2020-03-19,-51.0
 United States,Jersey City,city,2020-03-20,-47.0
@@ -62606,6 +62645,7 @@ United States,Jersey City,city,2021-03-25,-13.0
 United States,Jersey City,city,2021-03-26,-12.0
 United States,Jersey City,city,2021-03-27,-11.0
 United States,Jersey City,city,2021-03-28,-21.0
+United States,Jersey City,city,2021-03-29,-21.0
 United States,Los Angeles,city,2020-03-01,4.0
 United States,Los Angeles,city,2020-03-02,2.0
 United States,Los Angeles,city,2020-03-03,-4.0
@@ -62623,7 +62663,6 @@ United States,Los Angeles,city,2020-03-14,-36.0
 United States,Los Angeles,city,2020-03-15,-44.0
 United States,Los Angeles,city,2020-03-16,-38.0
 United States,Los Angeles,city,2020-03-17,-49.0
-United States,Los Angeles,city,2020-03-18,-53.0
 United States,Los Angeles,city,2020-03-18,-53.0
 United States,Los Angeles,city,2020-03-19,-57.99999999999999
 United States,Los Angeles,city,2020-03-20,-62.0
@@ -63000,6 +63039,7 @@ United States,Los Angeles,city,2021-03-25,-42.0
 United States,Los Angeles,city,2021-03-26,-41.0
 United States,Los Angeles,city,2021-03-27,-36.0
 United States,Los Angeles,city,2021-03-28,-32.0
+United States,Los Angeles,city,2021-03-29,-32.0
 United States,Miami,city,2020-03-01,-3.0
 United States,Miami,city,2020-03-02,7.000000000000001
 United States,Miami,city,2020-03-03,-5.0
@@ -63017,7 +63057,6 @@ United States,Miami,city,2020-03-14,-30.0
 United States,Miami,city,2020-03-15,-35.0
 United States,Miami,city,2020-03-16,-28.000000000000004
 United States,Miami,city,2020-03-17,-46.0
-United States,Miami,city,2020-03-18,-55.00000000000001
 United States,Miami,city,2020-03-18,-55.00000000000001
 United States,Miami,city,2020-03-19,-63.0
 United States,Miami,city,2020-03-20,-67.0
@@ -63394,6 +63433,7 @@ United States,Miami,city,2021-03-25,-37.0
 United States,Miami,city,2021-03-26,-42.0
 United States,Miami,city,2021-03-27,-35.0
 United States,Miami,city,2021-03-28,-28.999999999999996
+United States,Miami,city,2021-03-29,-44.0
 United States,Miami Beach,city,2020-03-01,0.0
 United States,Miami Beach,city,2020-03-02,-13.0
 United States,Miami Beach,city,2020-03-03,-11.0
@@ -63411,7 +63451,6 @@ United States,Miami Beach,city,2020-03-14,-13.0
 United States,Miami Beach,city,2020-03-15,-28.999999999999996
 United States,Miami Beach,city,2020-03-16,-33.0
 United States,Miami Beach,city,2020-03-17,-35.0
-United States,Miami Beach,city,2020-03-18,-56.99999999999999
 United States,Miami Beach,city,2020-03-18,-56.99999999999999
 United States,Miami Beach,city,2020-03-19,-59.0
 United States,Miami Beach,city,2020-03-20,-71.0
@@ -63783,6 +63822,7 @@ United States,Miami Beach,city,2021-03-25,-35.0
 United States,Miami Beach,city,2021-03-26,9.0
 United States,Miami Beach,city,2021-03-27,-37.0
 United States,Miami Beach,city,2021-03-28,-46.0
+United States,Miami Beach,city,2021-03-29,-50.0
 United States,Minneapolis,city,2020-03-01,26.0
 United States,Minneapolis,city,2020-03-02,-9.0
 United States,Minneapolis,city,2020-03-03,-11.0
@@ -63800,7 +63840,6 @@ United States,Minneapolis,city,2020-03-14,-27.0
 United States,Minneapolis,city,2020-03-15,-5.0
 United States,Minneapolis,city,2020-03-16,-18.0
 United States,Minneapolis,city,2020-03-17,-51.0
-United States,Minneapolis,city,2020-03-18,-60.0
 United States,Minneapolis,city,2020-03-18,-60.0
 United States,Minneapolis,city,2020-03-19,-52.0
 United States,Minneapolis,city,2020-03-20,-62.0
@@ -64173,6 +64212,7 @@ United States,Minneapolis,city,2021-03-25,-59.0
 United States,Minneapolis,city,2021-03-26,-41.0
 United States,Minneapolis,city,2021-03-27,-31.0
 United States,Minneapolis,city,2021-03-28,-55.00000000000001
+United States,Minneapolis,city,2021-03-29,-17.0
 United States,Nashville,city,2020-03-01,7.000000000000001
 United States,Nashville,city,2020-03-02,4.0
 United States,Nashville,city,2020-03-03,-7.000000000000001
@@ -64190,7 +64230,6 @@ United States,Nashville,city,2020-03-14,-27.0
 United States,Nashville,city,2020-03-15,-26.0
 United States,Nashville,city,2020-03-16,-28.000000000000004
 United States,Nashville,city,2020-03-17,-39.0
-United States,Nashville,city,2020-03-18,-44.0
 United States,Nashville,city,2020-03-18,-44.0
 United States,Nashville,city,2020-03-19,-50.0
 United States,Nashville,city,2020-03-20,-56.00000000000001
@@ -64567,6 +64606,7 @@ United States,Nashville,city,2021-03-25,-30.0
 United States,Nashville,city,2021-03-26,-17.0
 United States,Nashville,city,2021-03-27,-16.0
 United States,Nashville,city,2021-03-28,-9.0
+United States,Nashville,city,2021-03-29,-17.0
 United States,New Orleans,city,2020-03-01,-25.0
 United States,New Orleans,city,2020-03-02,-13.0
 United States,New Orleans,city,2020-03-03,-24.0
@@ -64584,7 +64624,6 @@ United States,New Orleans,city,2020-03-14,-61.0
 United States,New Orleans,city,2020-03-15,-51.0
 United States,New Orleans,city,2020-03-16,-44.0
 United States,New Orleans,city,2020-03-17,-53.0
-United States,New Orleans,city,2020-03-18,-59.0
 United States,New Orleans,city,2020-03-18,-59.0
 United States,New Orleans,city,2020-03-19,-66.0
 United States,New Orleans,city,2020-03-20,-81.0
@@ -64961,6 +65000,7 @@ United States,New Orleans,city,2021-03-25,-37.0
 United States,New Orleans,city,2021-03-26,-48.0
 United States,New Orleans,city,2021-03-27,-61.0
 United States,New Orleans,city,2021-03-28,-43.0
+United States,New Orleans,city,2021-03-29,-34.0
 United States,New York,city,2020-03-01,4.0
 United States,New York,city,2020-03-02,4.0
 United States,New York,city,2020-03-03,-1.0
@@ -64979,7 +65019,6 @@ United States,New York,city,2020-03-15,-30.0
 United States,New York,city,2020-03-16,-23.0
 United States,New York,city,2020-03-17,-31.0
 United States,New York,city,2020-03-18,-35.0
-United States,New York,city,2020-03-19,-43.0
 United States,New York,city,2020-03-19,-43.0
 United States,New York,city,2020-03-20,-49.0
 United States,New York,city,2020-03-21,-57.99999999999999
@@ -65355,6 +65394,7 @@ United States,New York,city,2021-03-25,-7.000000000000001
 United States,New York,city,2021-03-26,-10.0
 United States,New York,city,2021-03-27,-6.0
 United States,New York,city,2021-03-28,-17.0
+United States,New York,city,2021-03-29,-15.0
 United States,Oakland,city,2020-03-01,-11.0
 United States,Oakland,city,2020-03-02,11.0
 United States,Oakland,city,2020-03-03,-9.0
@@ -65372,7 +65412,6 @@ United States,Oakland,city,2020-03-14,-31.0
 United States,Oakland,city,2020-03-15,-43.0
 United States,Oakland,city,2020-03-16,-32.0
 United States,Oakland,city,2020-03-17,-50.0
-United States,Oakland,city,2020-03-18,-50.0
 United States,Oakland,city,2020-03-18,-50.0
 United States,Oakland,city,2020-03-19,-56.99999999999999
 United States,Oakland,city,2020-03-20,-54.0
@@ -65749,6 +65788,7 @@ United States,Oakland,city,2021-03-25,-38.0
 United States,Oakland,city,2021-03-26,-34.0
 United States,Oakland,city,2021-03-27,-51.0
 United States,Oakland,city,2021-03-28,-38.0
+United States,Oakland,city,2021-03-29,-27.0
 United States,Orlando,city,2020-03-01,-1.0
 United States,Orlando,city,2020-03-02,0.0
 United States,Orlando,city,2020-03-03,-4.0
@@ -65766,7 +65806,6 @@ United States,Orlando,city,2020-03-14,-25.0
 United States,Orlando,city,2020-03-15,-30.0
 United States,Orlando,city,2020-03-16,-31.0
 United States,Orlando,city,2020-03-17,-39.0
-United States,Orlando,city,2020-03-18,-47.0
 United States,Orlando,city,2020-03-18,-47.0
 United States,Orlando,city,2020-03-19,-55.00000000000001
 United States,Orlando,city,2020-03-20,-56.99999999999999
@@ -66143,6 +66182,7 @@ United States,Orlando,city,2021-03-25,-21.0
 United States,Orlando,city,2021-03-26,-11.0
 United States,Orlando,city,2021-03-27,-23.0
 United States,Orlando,city,2021-03-28,-14.000000000000002
+United States,Orlando,city,2021-03-29,-25.0
 United States,Philadelphia,city,2020-03-01,-1.0
 United States,Philadelphia,city,2020-03-02,0.0
 United States,Philadelphia,city,2020-03-03,-2.0
@@ -66160,7 +66200,6 @@ United States,Philadelphia,city,2020-03-14,-31.0
 United States,Philadelphia,city,2020-03-15,-33.0
 United States,Philadelphia,city,2020-03-16,-33.0
 United States,Philadelphia,city,2020-03-17,-47.0
-United States,Philadelphia,city,2020-03-18,-48.0
 United States,Philadelphia,city,2020-03-18,-48.0
 United States,Philadelphia,city,2020-03-19,-53.0
 United States,Philadelphia,city,2020-03-20,-55.00000000000001
@@ -66537,6 +66576,7 @@ United States,Philadelphia,city,2021-03-25,-25.0
 United States,Philadelphia,city,2021-03-26,-19.0
 United States,Philadelphia,city,2021-03-27,-21.0
 United States,Philadelphia,city,2021-03-28,-21.0
+United States,Philadelphia,city,2021-03-29,-24.0
 United States,Phoenix,city,2020-03-01,11.0
 United States,Phoenix,city,2020-03-02,7.000000000000001
 United States,Phoenix,city,2020-03-03,1.0
@@ -66930,6 +66970,7 @@ United States,Phoenix,city,2021-03-25,-28.999999999999996
 United States,Phoenix,city,2021-03-26,-20.0
 United States,Phoenix,city,2021-03-27,-6.0
 United States,Phoenix,city,2021-03-28,-3.0
+United States,Phoenix,city,2021-03-29,-17.0
 United States,Pittsburgh,city,2020-03-01,-4.0
 United States,Pittsburgh,city,2020-03-02,-7.000000000000001
 United States,Pittsburgh,city,2020-03-03,-12.0
@@ -66947,7 +66988,6 @@ United States,Pittsburgh,city,2020-03-14,-21.0
 United States,Pittsburgh,city,2020-03-15,-22.0
 United States,Pittsburgh,city,2020-03-16,-30.0
 United States,Pittsburgh,city,2020-03-17,-42.0
-United States,Pittsburgh,city,2020-03-18,-51.0
 United States,Pittsburgh,city,2020-03-18,-51.0
 United States,Pittsburgh,city,2020-03-19,-51.0
 United States,Pittsburgh,city,2020-03-20,-68.0
@@ -67324,6 +67364,7 @@ United States,Pittsburgh,city,2021-03-25,-32.0
 United States,Pittsburgh,city,2021-03-26,-31.0
 United States,Pittsburgh,city,2021-03-27,-32.0
 United States,Pittsburgh,city,2021-03-28,-28.999999999999996
+United States,Pittsburgh,city,2021-03-29,-17.0
 United States,Portland,city,2020-03-01,-3.0
 United States,Portland,city,2020-03-02,0.0
 United States,Portland,city,2020-03-03,-5.0
@@ -67341,7 +67382,6 @@ United States,Portland,city,2020-03-14,-42.0
 United States,Portland,city,2020-03-15,-38.0
 United States,Portland,city,2020-03-16,-36.0
 United States,Portland,city,2020-03-17,-47.0
-United States,Portland,city,2020-03-18,-49.0
 United States,Portland,city,2020-03-18,-49.0
 United States,Portland,city,2020-03-19,-56.99999999999999
 United States,Portland,city,2020-03-20,-60.0
@@ -67718,6 +67758,7 @@ United States,Portland,city,2021-03-25,-34.0
 United States,Portland,city,2021-03-26,-35.0
 United States,Portland,city,2021-03-27,-36.0
 United States,Portland,city,2021-03-28,-36.0
+United States,Portland,city,2021-03-29,-24.0
 United States,Raleigh,city,2020-03-01,-5.0
 United States,Raleigh,city,2020-03-02,-5.0
 United States,Raleigh,city,2020-03-03,-1.0
@@ -67736,7 +67777,6 @@ United States,Raleigh,city,2020-03-15,-26.0
 United States,Raleigh,city,2020-03-16,-32.0
 United States,Raleigh,city,2020-03-17,-35.0
 United States,Raleigh,city,2020-03-18,-38.0
-United States,Raleigh,city,2020-03-19,-38.0
 United States,Raleigh,city,2020-03-19,-38.0
 United States,Raleigh,city,2020-03-20,-39.0
 United States,Raleigh,city,2020-03-21,-53.0
@@ -68112,6 +68152,7 @@ United States,Raleigh,city,2021-03-25,-10.0
 United States,Raleigh,city,2021-03-26,-6.0
 United States,Raleigh,city,2021-03-27,-12.0
 United States,Raleigh,city,2021-03-28,-8.0
+United States,Raleigh,city,2021-03-29,-27.0
 United States,Sacramento,city,2020-03-01,-4.0
 United States,Sacramento,city,2020-03-02,16.0
 United States,Sacramento,city,2020-03-03,-5.0
@@ -68129,7 +68170,6 @@ United States,Sacramento,city,2020-03-14,-24.0
 United States,Sacramento,city,2020-03-15,-44.0
 United States,Sacramento,city,2020-03-16,-31.0
 United States,Sacramento,city,2020-03-17,-40.0
-United States,Sacramento,city,2020-03-18,-50.0
 United States,Sacramento,city,2020-03-18,-50.0
 United States,Sacramento,city,2020-03-19,-61.0
 United States,Sacramento,city,2020-03-20,-52.0
@@ -68506,6 +68546,7 @@ United States,Sacramento,city,2021-03-25,-34.0
 United States,Sacramento,city,2021-03-26,-39.0
 United States,Sacramento,city,2021-03-27,-6.0
 United States,Sacramento,city,2021-03-28,-23.0
+United States,Sacramento,city,2021-03-29,-28.999999999999996
 United States,San Antonio,city,2020-03-01,2.0
 United States,San Antonio,city,2020-03-02,7.000000000000001
 United States,San Antonio,city,2020-03-03,0.0
@@ -68523,7 +68564,6 @@ United States,San Antonio,city,2020-03-14,-31.0
 United States,San Antonio,city,2020-03-15,-19.0
 United States,San Antonio,city,2020-03-16,-21.0
 United States,San Antonio,city,2020-03-17,-37.0
-United States,San Antonio,city,2020-03-18,-45.0
 United States,San Antonio,city,2020-03-18,-45.0
 United States,San Antonio,city,2020-03-19,-51.0
 United States,San Antonio,city,2020-03-20,-54.0
@@ -68900,6 +68940,7 @@ United States,San Antonio,city,2021-03-25,-27.0
 United States,San Antonio,city,2021-03-26,-22.0
 United States,San Antonio,city,2021-03-27,-21.0
 United States,San Antonio,city,2021-03-28,-12.0
+United States,San Antonio,city,2021-03-29,-20.0
 United States,San Diego,city,2020-03-01,-3.0
 United States,San Diego,city,2020-03-02,5.0
 United States,San Diego,city,2020-03-03,-2.0
@@ -68917,7 +68958,6 @@ United States,San Diego,city,2020-03-14,-36.0
 United States,San Diego,city,2020-03-15,-37.0
 United States,San Diego,city,2020-03-16,-33.0
 United States,San Diego,city,2020-03-17,-44.0
-United States,San Diego,city,2020-03-18,-53.0
 United States,San Diego,city,2020-03-18,-53.0
 United States,San Diego,city,2020-03-19,-59.0
 United States,San Diego,city,2020-03-20,-65.0
@@ -69294,6 +69334,7 @@ United States,San Diego,city,2021-03-25,-43.0
 United States,San Diego,city,2021-03-26,-43.0
 United States,San Diego,city,2021-03-27,-26.0
 United States,San Diego,city,2021-03-28,-23.0
+United States,San Diego,city,2021-03-29,-27.0
 United States,San Francisco,city,2020-03-01,-6.0
 United States,San Francisco,city,2020-03-02,8.0
 United States,San Francisco,city,2020-03-03,-7.000000000000001
@@ -69311,7 +69352,6 @@ United States,San Francisco,city,2020-03-14,-48.0
 United States,San Francisco,city,2020-03-15,-50.0
 United States,San Francisco,city,2020-03-16,-42.0
 United States,San Francisco,city,2020-03-17,-66.0
-United States,San Francisco,city,2020-03-18,-69.0
 United States,San Francisco,city,2020-03-18,-69.0
 United States,San Francisco,city,2020-03-19,-67.0
 United States,San Francisco,city,2020-03-20,-74.0
@@ -69688,6 +69728,7 @@ United States,San Francisco,city,2021-03-25,-43.0
 United States,San Francisco,city,2021-03-26,-44.0
 United States,San Francisco,city,2021-03-27,-41.0
 United States,San Francisco,city,2021-03-28,-38.0
+United States,San Francisco,city,2021-03-29,-28.999999999999996
 United States,San Jose,city,2020-03-01,-2.0
 United States,San Jose,city,2020-03-02,8.0
 United States,San Jose,city,2020-03-03,-4.0
@@ -69705,7 +69746,6 @@ United States,San Jose,city,2020-03-14,-35.0
 United States,San Jose,city,2020-03-15,-40.0
 United States,San Jose,city,2020-03-16,-34.0
 United States,San Jose,city,2020-03-17,-55.00000000000001
-United States,San Jose,city,2020-03-18,-67.0
 United States,San Jose,city,2020-03-18,-67.0
 United States,San Jose,city,2020-03-19,-63.0
 United States,San Jose,city,2020-03-20,-66.0
@@ -70082,6 +70122,7 @@ United States,San Jose,city,2021-03-25,-51.0
 United States,San Jose,city,2021-03-26,-41.0
 United States,San Jose,city,2021-03-27,-32.0
 United States,San Jose,city,2021-03-28,-17.0
+United States,San Jose,city,2021-03-29,-27.0
 United States,Seattle,city,2020-03-01,9.0
 United States,Seattle,city,2020-03-02,6.0
 United States,Seattle,city,2020-03-03,-6.0
@@ -70099,7 +70140,6 @@ United States,Seattle,city,2020-03-14,-49.0
 United States,Seattle,city,2020-03-15,-42.0
 United States,Seattle,city,2020-03-16,-40.0
 United States,Seattle,city,2020-03-17,-56.00000000000001
-United States,Seattle,city,2020-03-18,-56.99999999999999
 United States,Seattle,city,2020-03-18,-56.99999999999999
 United States,Seattle,city,2020-03-19,-62.0
 United States,Seattle,city,2020-03-20,-57.99999999999999
@@ -70476,6 +70516,7 @@ United States,Seattle,city,2021-03-25,-42.0
 United States,Seattle,city,2021-03-26,-43.0
 United States,Seattle,city,2021-03-27,-38.0
 United States,Seattle,city,2021-03-28,-34.0
+United States,Seattle,city,2021-03-29,-39.0
 United States,Stamford,city,2020-03-01,-9.0
 United States,Stamford,city,2020-03-02,7.000000000000001
 United States,Stamford,city,2020-03-03,-5.0
@@ -70869,6 +70910,7 @@ United States,Stamford,city,2021-03-25,-31.0
 United States,Stamford,city,2021-03-26,-21.0
 United States,Stamford,city,2021-03-27,-13.0
 United States,Stamford,city,2021-03-28,-39.0
+United States,Stamford,city,2021-03-29,-32.0
 United States,Tampa,city,2020-03-01,9.0
 United States,Tampa,city,2020-03-02,-5.0
 United States,Tampa,city,2020-03-03,4.0
@@ -70886,7 +70928,6 @@ United States,Tampa,city,2020-03-14,-36.0
 United States,Tampa,city,2020-03-15,-28.000000000000004
 United States,Tampa,city,2020-03-16,-33.0
 United States,Tampa,city,2020-03-17,-43.0
-United States,Tampa,city,2020-03-18,-46.0
 United States,Tampa,city,2020-03-18,-46.0
 United States,Tampa,city,2020-03-19,-53.0
 United States,Tampa,city,2020-03-20,-56.99999999999999
@@ -71263,6 +71304,7 @@ United States,Tampa,city,2021-03-25,-24.0
 United States,Tampa,city,2021-03-26,-22.0
 United States,Tampa,city,2021-03-27,-21.0
 United States,Tampa,city,2021-03-28,-14.000000000000002
+United States,Tampa,city,2021-03-29,-22.0
 United States,Total,country,2020-03-01,3.0
 United States,Total,country,2020-03-02,-2.0
 United States,Total,country,2020-03-03,-2.0
@@ -71656,6 +71698,7 @@ United States,Total,country,2021-03-25,-13.0
 United States,Total,country,2021-03-26,-9.0
 United States,Total,country,2021-03-27,-4.0
 United States,Total,country,2021-03-28,-3.0
+United States,Total,country,2021-03-29,-15.0
 United States,Washington,city,2020-03-01,0.0
 United States,Washington,city,2020-03-02,12.0
 United States,Washington,city,2020-03-03,-2.0
@@ -71673,7 +71716,6 @@ United States,Washington,city,2020-03-14,-35.0
 United States,Washington,city,2020-03-15,-35.0
 United States,Washington,city,2020-03-16,-27.0
 United States,Washington,city,2020-03-17,-44.0
-United States,Washington,city,2020-03-18,-45.0
 United States,Washington,city,2020-03-18,-45.0
 United States,Washington,city,2020-03-19,-49.0
 United States,Washington,city,2020-03-20,-52.0
@@ -72050,6 +72092,7 @@ United States,Washington,city,2021-03-25,-35.0
 United States,Washington,city,2021-03-26,-30.0
 United States,Washington,city,2021-03-27,-26.0
 United States,Washington,city,2021-03-28,-30.0
+United States,Washington,city,2021-03-29,-28.999999999999996
 United States,Yonkers,city,2020-03-01,3.0
 United States,Yonkers,city,2020-03-02,-5.0
 United States,Yonkers,city,2020-03-03,-7.000000000000001
@@ -72068,7 +72111,6 @@ United States,Yonkers,city,2020-03-15,-23.0
 United States,Yonkers,city,2020-03-16,-23.0
 United States,Yonkers,city,2020-03-17,-36.0
 United States,Yonkers,city,2020-03-18,-30.0
-United States,Yonkers,city,2020-03-19,-42.0
 United States,Yonkers,city,2020-03-19,-42.0
 United States,Yonkers,city,2020-03-20,-44.0
 United States,Yonkers,city,2020-03-21,-51.0
@@ -72444,6 +72486,7 @@ United States,Yonkers,city,2021-03-25,-20.0
 United States,Yonkers,city,2021-03-26,-5.0
 United States,Yonkers,city,2021-03-27,-6.0
 United States,Yonkers,city,2021-03-28,30.0
+United States,Yonkers,city,2021-03-29,-11.0
 Uruguay,Montevideo,city,2020-03-01,13.0
 Uruguay,Montevideo,city,2020-03-02,16.0
 Uruguay,Montevideo,city,2020-03-03,3.0
@@ -72461,7 +72504,6 @@ Uruguay,Montevideo,city,2020-03-14,-10.0
 Uruguay,Montevideo,city,2020-03-15,-31.0
 Uruguay,Montevideo,city,2020-03-16,-28.999999999999996
 Uruguay,Montevideo,city,2020-03-17,-45.0
-Uruguay,Montevideo,city,2020-03-18,-51.0
 Uruguay,Montevideo,city,2020-03-18,-51.0
 Uruguay,Montevideo,city,2020-03-19,-59.0
 Uruguay,Montevideo,city,2020-03-20,-60.0
@@ -72838,6 +72880,7 @@ Uruguay,Montevideo,city,2021-03-25,-19.0
 Uruguay,Montevideo,city,2021-03-26,-17.0
 Uruguay,Montevideo,city,2021-03-27,-31.0
 Uruguay,Montevideo,city,2021-03-28,-38.0
+Uruguay,Montevideo,city,2021-03-29,-24.0
 Uruguay,Total,country,2020-03-01,-2.0
 Uruguay,Total,country,2020-03-02,-12.0
 Uruguay,Total,country,2020-03-03,-21.0
@@ -73231,3 +73274,4 @@ Uruguay,Total,country,2021-03-25,-26.0
 Uruguay,Total,country,2021-03-26,-31.0
 Uruguay,Total,country,2021-03-27,-48.0
 Uruguay,Total,country,2021-03-28,-51.0
+Uruguay,Total,country,2021-03-29,-36.0
