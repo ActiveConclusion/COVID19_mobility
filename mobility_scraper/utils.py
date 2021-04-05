@@ -1,3 +1,6 @@
+import zipfile as zp
+
+
 def write_df_to_csv_and_excel(df, paths):
     """Write Pandas Dataframe to CSV and Excel
 
@@ -28,3 +31,15 @@ def exception_handler(name):
         return wrapper
 
     return decorator
+
+
+def convert_file_to_zip(zip_path, file_path, file_name):
+    """Convert file to zip archive and delete it
+
+    Args:
+        zip_path: path to the resulting zip file
+        file_path: path to the file
+        file_name: filename (with extension)
+    """
+    with zp.ZipFile(zip_path, "w", zp.ZIP_DEFLATED) as zf:
+        zf.write(file_path, file_name)

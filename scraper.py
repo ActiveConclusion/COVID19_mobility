@@ -66,6 +66,14 @@ def process_google_data():
         write_df_to_csv_and_excel(google_america_oceania, GOOGLE_AMERICA_OCEANIA_PATHS)
         # write Europe data (temp solution)
         google_europe.to_csv(GOOGLE_EUROPE_PATHS[".csv"], index=False)
+        # convert to zip
+        convert_file_to_zip(
+            GOOGLE_EUROPE_ZIP_PATH,
+            GOOGLE_EUROPE_PATHS[".csv"],
+            GOOGLE_EUROPE_FILE + ".csv",
+        )
+        GOOGLE_EUROPE_PATHS[".csv"].unlink()
+
         google_europe.loc[:, "date"] = pd.to_datetime(google_europe.loc[:, "date"])
         writer = pd.ExcelWriter(  # pylint: disable=abstract-class-instantiated
             GOOGLE_EUROPE_PATHS[".xlsx"],
@@ -81,8 +89,7 @@ def process_google_data():
         writer.save()
 
         # zip raw report
-        with zp.ZipFile(GOOGLE_ZIP_PATH, "w", zp.ZIP_DEFLATED) as zf:
-            zf.write(GOOGLE_CSV_PATH, GOOGLE_RAW_FILE)
+        convert_file_to_zip(GOOGLE_ZIP_PATH, GOOGLE_CSV_PATH, GOOGLE_RAW_FILE)
     # delete raw CSV report
     GOOGLE_CSV_PATH.unlink()
     return new_files_status_google

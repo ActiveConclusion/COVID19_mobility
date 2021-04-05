@@ -85,7 +85,7 @@ Data for the US: [CSV](google_reports/mobility_report_US.csv), [Excel](google_re
 
 Data for Brazil: [CSV](google_reports/mobility_report_brazil.csv), [Excel](google_reports/mobility_report_brazil.xlsx)
 
-Data for Europe: [CSV](google_reports/mobility_report_europe.csv), [Excel](google_reports/mobility_report_europe.xlsx)
+Data for Europe: [CSV](google_reports/mobility_report_europe.zip) (in ZIP archive), [Excel](google_reports/mobility_report_europe.xlsx)
 
 Data for Asia + Africa: [CSV](google_reports/mobility_report_asia_africa.csv), [Excel](google_reports/mobility_report_asia_africa.xlsx)
 

@@ -42,6 +42,7 @@ GOOGLE_BRAZIL_PATHS = {
 GOOGLE_EUROPE_PATHS = {
     ext: Path(GOOGLE_DIR, GOOGLE_EUROPE_FILE).with_suffix(ext) for ext in EXTENSIONS
 }
+GOOGLE_EUROPE_ZIP_PATH = Path(GOOGLE_DIR, GOOGLE_EUROPE_FILE).with_suffix(".zip")
 GOOGLE_ASIA_AFRICA_PATHS = {
     ext: Path(GOOGLE_DIR, GOOGLE_ASIA_AFRICA_FILE).with_suffix(ext)
     for ext in EXTENSIONS
