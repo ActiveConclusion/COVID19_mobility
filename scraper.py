@@ -61,33 +61,17 @@ def process_google_data():
         write_df_to_csv_and_excel(google_world, GOOGLE_REGIONS_PATHS)
         write_df_to_csv_and_excel(google_US, GOOGLE_US_PATHS)
         write_df_to_csv_and_excel(google_brazil, GOOGLE_BRAZIL_PATHS)
-        # write_df_to_csv_and_excel(google_europe, GOOGLE_EUROPE_PATHS)
         write_df_to_csv_and_excel(google_asia_africa, GOOGLE_ASIA_AFRICA_PATHS)
         write_df_to_csv_and_excel(google_america_oceania, GOOGLE_AMERICA_OCEANIA_PATHS)
-        # write Europe data (temp solution)
-        google_europe.to_csv(GOOGLE_EUROPE_PATHS[".csv"], index=False)
-        # convert to zip
+        # write Europe data
+        write_df_to_csv_and_excel(google_europe, GOOGLE_EUROPE_PATHS)
+        # convert csv to zip
         convert_file_to_zip(
             GOOGLE_EUROPE_ZIP_PATH,
             GOOGLE_EUROPE_PATHS[".csv"],
             GOOGLE_EUROPE_FILE + ".csv",
         )
         GOOGLE_EUROPE_PATHS[".csv"].unlink()
-
-        google_europe.loc[:, "date"] = pd.to_datetime(google_europe.loc[:, "date"])
-        writer = pd.ExcelWriter(  # pylint: disable=abstract-class-instantiated
-            GOOGLE_EUROPE_PATHS[".xlsx"],
-            engine="xlsxwriter",
-            datetime_format="yyyy-mm-dd",
-        )
-        for year in (2020, 2021):
-            google_europe[google_europe.date.dt.year == year].to_excel(
-                writer,
-                index=False,
-                sheet_name=str(year),
-            )
-        writer.save()
-
         # zip raw report
         convert_file_to_zip(GOOGLE_ZIP_PATH, GOOGLE_CSV_PATH, GOOGLE_RAW_FILE)
     # delete raw CSV report
@@ -213,22 +197,7 @@ def merge_data():
     print("Writing merged reports to files...")
     write_df_to_csv_and_excel(summary_regions, SUMMARY_REGIONS_PATHS)
     write_df_to_csv_and_excel(summary_countries, SUMMARY_COUNTRIES_PATHS)
-    # write US data (temp solution)
-    summary_US.to_csv(SUMMARY_US_PATHS[".csv"], index=False)
-    summary_US.loc[:, "date"] = pd.to_datetime(summary_US.loc[:, "date"])
-    writer = pd.ExcelWriter(  # pylint: disable=abstract-class-instantiated
-        SUMMARY_US_PATHS[".xlsx"],
-        engine="xlsxwriter",
-        datetime_format="yyyy-mm-dd",
-    )
-    for year in (2020, 2021):
-        summary_US[summary_US.date.dt.year == year].to_excel(
-            writer,
-            index=False,
-            sheet_name=str(year),
-        )
-    writer.save()
-    # write_df_to_csv_and_excel(summary_US, SUMMARY_US_PATHS)
+    write_df_to_csv_and_excel(summary_US, SUMMARY_US_PATHS)
 
 
 @cli.command(help="Scrape data from all sources and merge reports")
