@@ -1,4 +1,564 @@
 Date,City,Country,% Change In Waze Driven Miles/KMs
+"May 6, 2021",Cali,Colombia,-0.79
+"May 6, 2021",Minneapolis,United States,-0.7
+"May 6, 2021",Makati,Philippines,-0.68
+"May 6, 2021",Bekasi,Indonesia,-0.55
+"May 6, 2021",Quezon City,Philippines,-0.52
+"May 6, 2021",Tangerang,Indonesia,-0.52
+"May 6, 2021",Mississauga,Canada,-0.5
+"May 6, 2021",Brasilia,Brazil,-0.47
+"May 6, 2021",Manila,Philippines,-0.47
+"May 6, 2021",Ottawa,Canada,-0.46
+"May 6, 2021",Luton,United Kingdom,-0.43
+"May 6, 2021",Monterrey,Mexico,-0.43
+"May 6, 2021",Jakarta,Indonesia,-0.42
+"May 6, 2021",Seattle,United States,-0.42
+"May 6, 2021",Rotterdam,Netherlands,-0.42
+"May 6, 2021",San Diego,United States,-0.4
+"May 6, 2021",Hartford,United States,-0.4
+"May 6, 2021",San Francisco,United States,-0.4
+"May 6, 2021",Irvine,United States,-0.39
+"May 6, 2021",San Jose,United States,-0.39
+"May 6, 2021",Brussels,Belgium,-0.39
+"May 6, 2021",Petaling Jaya,Malaysia,-0.38
+"May 6, 2021",Denver,United States,-0.37
+"May 6, 2021",Los Angeles,United States,-0.36
+"May 6, 2021",Amsterdam,Netherlands,-0.36
+"May 6, 2021",Toronto,Canada,-0.35
+"May 6, 2021",Portland,United States,-0.35
+"May 6, 2021",San Jose,Costa Rica,-0.35
+"May 6, 2021",Austin,United States,-0.33
+"May 6, 2021",Stamford,United States,-0.33
+"May 6, 2021",Bogota,Colombia,-0.32
+"May 6, 2021",Sacramento,United States,-0.32
+"May 6, 2021",Zapopan,Mexico,-0.32
+"May 6, 2021",Quebec City,Canada,-0.31
+"May 6, 2021",Hamilton,Canada,-0.31
+"May 6, 2021",Phoenix,United States,-0.3
+"May 6, 2021",Boston,United States,-0.29
+"May 6, 2021",Tampa,United States,-0.29
+"May 6, 2021",Mexico City,Mexico,-0.29
+"May 6, 2021",Cincinnati,United States,-0.29
+"May 6, 2021",Washington,United States,-0.29
+"May 6, 2021",Milan,Italy,-0.28
+"May 6, 2021",Florianopolis,Brazil,-0.28
+"May 6, 2021",Oakland,United States,-0.28
+"May 6, 2021",Lima,Peru,-0.27
+"May 6, 2021",Vaughan,Canada,-0.26
+"May 6, 2021",Miami,United States,-0.26
+"May 6, 2021",Houston,United States,-0.25
+"May 6, 2021",Puebla City,Mexico,-0.24
+"May 6, 2021",San Antonio,United States,-0.23
+"May 6, 2021",Chicago,United States,-0.23
+"May 6, 2021",Madrid,Spain,-0.21
+"May 6, 2021",Ghent,Belgium,-0.21
+"May 6, 2021",Dallas,United States,-0.21
+"May 6, 2021",Kuala Lumpur,Malaysia,-0.2
+"May 6, 2021",Pittsburgh,United States,-0.19
+"May 6, 2021",Orlando,United States,-0.18
+"May 6, 2021",Montreal,Canada,-0.18
+"May 6, 2021",Lille,France,-0.18
+"May 6, 2021",Jersey City,United States,-0.18
+"May 6, 2021",New Orleans,United States,-0.17
+"May 6, 2021",Nashville,United States,-0.17
+"May 6, 2021",Atlanta,United States,-0.17
+"May 6, 2021",Fortaleza,Brazil,-0.17
+"May 6, 2021",Lisbon,Portugal,-0.17
+"May 6, 2021",South Tangerang,Indonesia,-0.17
+"May 6, 2021",Belo Horizonte,Brazil,-0.17
+"May 6, 2021",Sao Paulo,Brazil,-0.16
+"May 6, 2021",Lyon,France,-0.16
+"May 6, 2021",Fort Lauderdale,United States,-0.15
+"May 6, 2021",Miami Beach,United States,-0.15
+"May 6, 2021",Santiago De Queretaro,Mexico,-0.14
+"May 6, 2021",Charlotte,United States,-0.14
+"May 6, 2021",Detroit,United States,-0.14
+"May 6, 2021",Buenos Aires,Argentina,-0.13
+"May 6, 2021",Liverpool,United Kingdom,-0.13
+"May 6, 2021",Paris,France,-0.13
+"May 6, 2021",Cambridge,United States,-0.12
+"May 6, 2021",Baltimore,United States,-0.12
+"May 6, 2021",Montevideo,Uruguay,-0.11
+"May 6, 2021",Rome,Italy,-0.11
+"May 6, 2021",Warsaw,Poland,-0.11
+"May 6, 2021",Quito,Ecuador,-0.11
+"May 6, 2021",Bordeaux,France,-0.11
+"May 6, 2021",Cape Town,South Africa,-0.11
+"May 6, 2021",Rio De Janeiro,Brazil,-0.11
+"May 6, 2021",Curitiba,Brazil,-0.11
+"May 6, 2021",Guadalajara,Mexico,-0.11
+"May 6, 2021",Ipoh,Malaysia,-0.1
+"May 6, 2021",Guarulhos,Brazil,-0.1
+"May 6, 2021",Barcelona,Spain,-0.1
+"May 6, 2021",Philadelphia,United States,-0.09
+"May 6, 2021",Salvador,Brazil,-0.09
+"May 6, 2021",Recife,Brazil,-0.09
+"May 6, 2021",Puchong,Malaysia,-0.09
+"May 6, 2021",Porto Alegre,Brazil,-0.09
+"May 6, 2021",Shah Alam,Malaysia,-0.08
+"May 6, 2021",Raleigh,United States,-0.08
+"May 6, 2021",Antwerp,Belgium,-0.07
+"May 6, 2021",Calgary,Canada,-0.07
+"May 6, 2021",Bratislava,Slovakia,-0.05
+"May 6, 2021",Prague,Czechia,-0.05
+"May 6, 2021",Vitoria,Brazil,-0.03
+"May 6, 2021",Melbourne,Australia,-0.03
+"May 6, 2021",Budapest,Hungary,-0.02
+"May 6, 2021",Medellin,Colombia,-0.02
+"May 6, 2021",Toulouse,France,-0.02
+"May 6, 2021",Stockholm,Sweden,-0.02
+"May 6, 2021",Fort Worth,United States,-0.01
+"May 6, 2021",London,United Kingdom,-0.01
+"May 6, 2021",New York,United States,0.0
+"May 6, 2021",Birmingham,United Kingdom,0.01
+"May 6, 2021",Krakow,Poland,0.02
+"May 6, 2021",Bristol,United Kingdom,0.02
+"May 6, 2021",Doha,Qatar,0.04
+"May 6, 2021",Singapore,Singapore,0.04
+"May 6, 2021",Ramat Gan,Israel,0.07
+"May 6, 2021",Manchester,United Kingdom,0.07
+"May 6, 2021",Petah Tikva,Israel,0.08
+"May 6, 2021",Tel Aviv-Yafo,Israel,0.08
+"May 6, 2021",Riga,Latvia,0.08
+"May 6, 2021",Bucharest,Romania,0.1
+"May 6, 2021",Berlin,Germany,0.12
+"May 6, 2021",Jerusalem,Israel,0.13
+"May 6, 2021",Marseille,France,0.13
+"May 6, 2021",Haifa,Israel,0.15
+"May 6, 2021",Santiago,Chile,0.17
+"May 6, 2021",Rishon Letsiyon,Israel,0.19
+"May 6, 2021",Be'er Sheva,Israel,0.22
+"May 6, 2021",Las Condes,Chile,0.22
+"May 6, 2021",Johor Bahru,Malaysia,0.22
+"May 6, 2021",Sydney,Australia,0.24
+"May 6, 2021",Brno,Czechia,0.25
+"May 6, 2021",Yonkers,United States,0.27
+"May 6, 2021",Perth,Australia,0.27
+"May 6, 2021",Maipu,Chile,0.44
+"May 6, 2021",Vilnius,Lithuania,0.54
+"May 6, 2021",Brisbane,Australia,0.63
+"May 6, 2021",Gold Coast,Australia,0.76
+"May 5, 2021",Cali,Colombia,-0.83
+"May 5, 2021",Makati,Philippines,-0.75
+"May 5, 2021",Mississauga,Canada,-0.58
+"May 5, 2021",Rotterdam,Netherlands,-0.58
+"May 5, 2021",Sacramento,United States,-0.54
+"May 5, 2021",Minneapolis,United States,-0.54
+"May 5, 2021",Luton,United Kingdom,-0.53
+"May 5, 2021",Brasilia,Brazil,-0.5
+"May 5, 2021",Ottawa,Canada,-0.49
+"May 5, 2021",Irvine,United States,-0.48
+"May 5, 2021",San Francisco,United States,-0.47
+"May 5, 2021",Quezon City,Philippines,-0.44
+"May 5, 2021",Monterrey,Mexico,-0.44
+"May 5, 2021",San Jose,United States,-0.43
+"May 5, 2021",Seattle,United States,-0.42
+"May 5, 2021",San Diego,United States,-0.41
+"May 5, 2021",Amsterdam,Netherlands,-0.4
+"May 5, 2021",Toronto,Canada,-0.39
+"May 5, 2021",Denver,United States,-0.38
+"May 5, 2021",Los Angeles,United States,-0.38
+"May 5, 2021",Portland,United States,-0.38
+"May 5, 2021",Austin,United States,-0.37
+"May 5, 2021",Oakland,United States,-0.37
+"May 5, 2021",Manila,Philippines,-0.34
+"May 5, 2021",Cambridge,United States,-0.33
+"May 5, 2021",Florianopolis,Brazil,-0.32
+"May 5, 2021",Bristol,United Kingdom,-0.31
+"May 5, 2021",San Jose,Costa Rica,-0.31
+"May 5, 2021",Phoenix,United States,-0.31
+"May 5, 2021",Mexico City,Mexico,-0.31
+"May 5, 2021",Bogota,Colombia,-0.31
+"May 5, 2021",Jakarta,Indonesia,-0.31
+"May 5, 2021",Hartford,United States,-0.3
+"May 5, 2021",Zapopan,Mexico,-0.3
+"May 5, 2021",Dallas,United States,-0.3
+"May 5, 2021",Washington,United States,-0.3
+"May 5, 2021",Berlin,Germany,-0.29
+"May 5, 2021",Houston,United States,-0.28
+"May 5, 2021",Miami,United States,-0.28
+"May 5, 2021",Nashville,United States,-0.27
+"May 5, 2021",New Orleans,United States,-0.26
+"May 5, 2021",Stockholm,Sweden,-0.26
+"May 5, 2021",Lima,Peru,-0.26
+"May 5, 2021",Ghent,Belgium,-0.26
+"May 5, 2021",Vitoria,Brazil,-0.26
+"May 5, 2021",Boston,United States,-0.26
+"May 5, 2021",Detroit,United States,-0.26
+"May 5, 2021",Chicago,United States,-0.25
+"May 5, 2021",Santiago De Queretaro,Mexico,-0.25
+"May 5, 2021",Quebec City,Canada,-0.25
+"May 5, 2021",Vaughan,Canada,-0.24
+"May 5, 2021",Medellin,Colombia,-0.24
+"May 5, 2021",Orlando,United States,-0.24
+"May 5, 2021",Pittsburgh,United States,-0.24
+"May 5, 2021",San Antonio,United States,-0.23
+"May 5, 2021",Manchester,United Kingdom,-0.23
+"May 5, 2021",Baltimore,United States,-0.22
+"May 5, 2021",Guadalajara,Mexico,-0.22
+"May 5, 2021",Bekasi,Indonesia,-0.22
+"May 5, 2021",Madrid,Spain,-0.21
+"May 5, 2021",Antwerp,Belgium,-0.21
+"May 5, 2021",Montreal,Canada,-0.21
+"May 5, 2021",Miami Beach,United States,-0.21
+"May 5, 2021",Milan,Italy,-0.21
+"May 5, 2021",Lisbon,Portugal,-0.19
+"May 5, 2021",Liverpool,United Kingdom,-0.19
+"May 5, 2021",Tampa,United States,-0.19
+"May 5, 2021",Jersey City,United States,-0.18
+"May 5, 2021",Sao Paulo,Brazil,-0.17
+"May 5, 2021",Quito,Ecuador,-0.17
+"May 5, 2021",Tangerang,Indonesia,-0.17
+"May 5, 2021",Puebla City,Mexico,-0.16
+"May 5, 2021",Barcelona,Spain,-0.16
+"May 5, 2021",Charlotte,United States,-0.16
+"May 5, 2021",Salvador,Brazil,-0.16
+"May 5, 2021",Atlanta,United States,-0.16
+"May 5, 2021",Toulouse,France,-0.15
+"May 5, 2021",Belo Horizonte,Brazil,-0.15
+"May 5, 2021",Lille,France,-0.15
+"May 5, 2021",Buenos Aires,Argentina,-0.14
+"May 5, 2021",Fortaleza,Brazil,-0.14
+"May 5, 2021",Raleigh,United States,-0.14
+"May 5, 2021",Cincinnati,United States,-0.14
+"May 5, 2021",Philadelphia,United States,-0.14
+"May 5, 2021",Rio De Janeiro,Brazil,-0.14
+"May 5, 2021",Recife,Brazil,-0.12
+"May 5, 2021",Fort Lauderdale,United States,-0.12
+"May 5, 2021",Calgary,Canada,-0.11
+"May 5, 2021",Lyon,France,-0.11
+"May 5, 2021",Paris,France,-0.1
+"May 5, 2021",Cape Town,South Africa,-0.1
+"May 5, 2021",Guarulhos,Brazil,-0.1
+"May 5, 2021",Montevideo,Uruguay,-0.1
+"May 5, 2021",Rome,Italy,-0.09
+"May 5, 2021",Hamilton,Canada,-0.08
+"May 5, 2021",Birmingham,United Kingdom,-0.08
+"May 5, 2021",Brussels,Belgium,-0.08
+"May 5, 2021",Curitiba,Brazil,-0.08
+"May 5, 2021",Johor Bahru,Malaysia,-0.05
+"May 5, 2021",Fort Worth,United States,-0.05
+"May 5, 2021",Bordeaux,France,-0.04
+"May 5, 2021",Bratislava,Slovakia,-0.04
+"May 5, 2021",Stamford,United States,-0.04
+"May 5, 2021",New York,United States,-0.02
+"May 5, 2021",Budapest,Hungary,-0.02
+"May 5, 2021",Warsaw,Poland,-0.01
+"May 5, 2021",Porto Alegre,Brazil,-0.01
+"May 5, 2021",London,United Kingdom,-0.01
+"May 5, 2021",Melbourne,Australia,0.03
+"May 5, 2021",Prague,Czechia,0.04
+"May 5, 2021",Kuala Lumpur,Malaysia,0.05
+"May 5, 2021",Yonkers,United States,0.07
+"May 5, 2021",Singapore,Singapore,0.07
+"May 5, 2021",Doha,Qatar,0.08
+"May 5, 2021",Petaling Jaya,Malaysia,0.09
+"May 5, 2021",Marseille,France,0.09
+"May 5, 2021",Las Condes,Chile,0.11
+"May 5, 2021",Tel Aviv-Yafo,Israel,0.11
+"May 5, 2021",Riga,Latvia,0.12
+"May 5, 2021",Ramat Gan,Israel,0.12
+"May 5, 2021",Petah Tikva,Israel,0.12
+"May 5, 2021",Bucharest,Romania,0.13
+"May 5, 2021",Krakow,Poland,0.14
+"May 5, 2021",Haifa,Israel,0.14
+"May 5, 2021",Jerusalem,Israel,0.15
+"May 5, 2021",Santiago,Chile,0.16
+"May 5, 2021",Be'er Sheva,Israel,0.17
+"May 5, 2021",Brno,Czechia,0.18
+"May 5, 2021",Sydney,Australia,0.21
+"May 5, 2021",Perth,Australia,0.22
+"May 5, 2021",South Tangerang,Indonesia,0.22
+"May 5, 2021",Puchong,Malaysia,0.23
+"May 5, 2021",Rishon Letsiyon,Israel,0.23
+"May 5, 2021",Ipoh,Malaysia,0.39
+"May 5, 2021",Maipu,Chile,0.45
+"May 5, 2021",Shah Alam,Malaysia,0.48
+"May 5, 2021",Brisbane,Australia,0.55
+"May 5, 2021",Vilnius,Lithuania,0.56
+"May 5, 2021",Gold Coast,Australia,0.61
+"May 5, 2021",Kaunas,Lithuania,0.9
+"May 4, 2021",Cali,Colombia,-0.74
+"May 4, 2021",Hartford,United States,-0.6
+"May 4, 2021",Makati,Philippines,-0.55
+"May 4, 2021",Ottawa,Canada,-0.53
+"May 4, 2021",Mississauga,Canada,-0.53
+"May 4, 2021",Jersey City,United States,-0.53
+"May 4, 2021",Minneapolis,United States,-0.52
+"May 4, 2021",Seattle,United States,-0.51
+"May 4, 2021",San Francisco,United States,-0.48
+"May 4, 2021",New Orleans,United States,-0.48
+"May 4, 2021",Cambridge,United States,-0.47
+"May 4, 2021",Denver,United States,-0.46
+"May 4, 2021",Irvine,United States,-0.45
+"May 4, 2021",San Jose,United States,-0.45
+"May 4, 2021",Vitoria,Brazil,-0.44
+"May 4, 2021",Quezon City,Philippines,-0.44
+"May 4, 2021",San Diego,United States,-0.43
+"May 4, 2021",Miami,United States,-0.41
+"May 4, 2021",Monterrey,Mexico,-0.4
+"May 4, 2021",Manila,Philippines,-0.39
+"May 4, 2021",Austin,United States,-0.39
+"May 4, 2021",Los Angeles,United States,-0.38
+"May 4, 2021",Toronto,Canada,-0.37
+"May 4, 2021",Tampa,United States,-0.36
+"May 4, 2021",Oakland,United States,-0.36
+"May 4, 2021",Portland,United States,-0.36
+"May 4, 2021",Washington,United States,-0.35
+"May 4, 2021",Florianopolis,Brazil,-0.34
+"May 4, 2021",Boston,United States,-0.34
+"May 4, 2021",Amsterdam,Netherlands,-0.34
+"May 4, 2021",Sacramento,United States,-0.33
+"May 4, 2021",Vaughan,Canada,-0.33
+"May 4, 2021",Santiago De Queretaro,Mexico,-0.33
+"May 4, 2021",Jakarta,Indonesia,-0.32
+"May 4, 2021",Detroit,United States,-0.32
+"May 4, 2021",Atlanta,United States,-0.31
+"May 4, 2021",Miami Beach,United States,-0.31
+"May 4, 2021",Mexico City,Mexico,-0.31
+"May 4, 2021",Phoenix,United States,-0.31
+"May 4, 2021",Brussels,Belgium,-0.3
+"May 4, 2021",Dallas,United States,-0.3
+"May 4, 2021",Cincinnati,United States,-0.29
+"May 4, 2021",Rotterdam,Netherlands,-0.29
+"May 4, 2021",Pittsburgh,United States,-0.29
+"May 4, 2021",Chicago,United States,-0.28
+"May 4, 2021",Houston,United States,-0.28
+"May 4, 2021",Orlando,United States,-0.27
+"May 4, 2021",San Antonio,United States,-0.27
+"May 4, 2021",Antwerp,Belgium,-0.26
+"May 4, 2021",Zapopan,Mexico,-0.25
+"May 4, 2021",San Jose,Costa Rica,-0.25
+"May 4, 2021",Lima,Peru,-0.25
+"May 4, 2021",Nashville,United States,-0.25
+"May 4, 2021",Guadalajara,Mexico,-0.24
+"May 4, 2021",Charlotte,United States,-0.24
+"May 4, 2021",Brasilia,Brazil,-0.24
+"May 4, 2021",Fort Lauderdale,United States,-0.23
+"May 4, 2021",Baltimore,United States,-0.23
+"May 4, 2021",Quebec City,Canada,-0.23
+"May 4, 2021",Raleigh,United States,-0.22
+"May 4, 2021",Tangerang,Indonesia,-0.2
+"May 4, 2021",Hamilton,Canada,-0.2
+"May 4, 2021",Calgary,Canada,-0.18
+"May 4, 2021",Philadelphia,United States,-0.18
+"May 4, 2021",Madrid,Spain,-0.18
+"May 4, 2021",Barcelona,Spain,-0.17
+"May 4, 2021",Montreal,Canada,-0.17
+"May 4, 2021",Stockholm,Sweden,-0.17
+"May 4, 2021",Petaling Jaya,Malaysia,-0.16
+"May 4, 2021",Montevideo,Uruguay,-0.16
+"May 4, 2021",Johor Bahru,Malaysia,-0.16
+"May 4, 2021",Bratislava,Slovakia,-0.15
+"May 4, 2021",Bogota,Colombia,-0.15
+"May 4, 2021",Fort Worth,United States,-0.15
+"May 4, 2021",Buenos Aires,Argentina,-0.15
+"May 4, 2021",Belo Horizonte,Brazil,-0.15
+"May 4, 2021",Paris,France,-0.14
+"May 4, 2021",Stamford,United States,-0.14
+"May 4, 2021",Lisbon,Portugal,-0.11
+"May 4, 2021",Manchester,United Kingdom,-0.1
+"May 4, 2021",Kuala Lumpur,Malaysia,-0.1
+"May 4, 2021",Puebla City,Mexico,-0.1
+"May 4, 2021",Rome,Italy,-0.1
+"May 4, 2021",Sao Paulo,Brazil,-0.09
+"May 4, 2021",Lyon,France,-0.08
+"May 4, 2021",Salvador,Brazil,-0.08
+"May 4, 2021",Ghent,Belgium,-0.07
+"May 4, 2021",South Tangerang,Indonesia,-0.06
+"May 4, 2021",Birmingham,United Kingdom,-0.06
+"May 4, 2021",Toulouse,France,-0.05
+"May 4, 2021",Milan,Italy,-0.05
+"May 4, 2021",New York,United States,-0.05
+"May 4, 2021",Lille,France,-0.04
+"May 4, 2021",Rio De Janeiro,Brazil,-0.03
+"May 4, 2021",Budapest,Hungary,-0.03
+"May 4, 2021",Guarulhos,Brazil,-0.03
+"May 4, 2021",Cape Town,South Africa,-0.02
+"May 4, 2021",Riga,Latvia,-0.01
+"May 4, 2021",Recife,Brazil,-0.01
+"May 4, 2021",Bristol,United Kingdom,-0.01
+"May 4, 2021",Luton,United Kingdom,0.01
+"May 4, 2021",Fortaleza,Brazil,0.01
+"May 4, 2021",Las Condes,Chile,0.02
+"May 4, 2021",Porto Alegre,Brazil,0.02
+"May 4, 2021",Bordeaux,France,0.03
+"May 4, 2021",Quito,Ecuador,0.03
+"May 4, 2021",London,United Kingdom,0.03
+"May 4, 2021",Liverpool,United Kingdom,0.04
+"May 4, 2021",Melbourne,Australia,0.05
+"May 4, 2021",Curitiba,Brazil,0.06
+"May 4, 2021",Singapore,Singapore,0.06
+"May 4, 2021",Bekasi,Indonesia,0.06
+"May 4, 2021",Yonkers,United States,0.07
+"May 4, 2021",Warsaw,Poland,0.07
+"May 4, 2021",Prague,Czechia,0.07
+"May 4, 2021",Medellin,Colombia,0.07
+"May 4, 2021",Doha,Qatar,0.07
+"May 4, 2021",Haifa,Israel,0.08
+"May 4, 2021",Ramat Gan,Israel,0.08
+"May 4, 2021",Puchong,Malaysia,0.09
+"May 4, 2021",Shah Alam,Malaysia,0.09
+"May 4, 2021",Marseille,France,0.09
+"May 4, 2021",Tel Aviv-Yafo,Israel,0.1
+"May 4, 2021",Santiago,Chile,0.1
+"May 4, 2021",Brno,Czechia,0.1
+"May 4, 2021",Jerusalem,Israel,0.11
+"May 4, 2021",Petah Tikva,Israel,0.12
+"May 4, 2021",Rishon Letsiyon,Israel,0.17
+"May 4, 2021",Krakow,Poland,0.17
+"May 4, 2021",Berlin,Germany,0.28
+"May 4, 2021",Sydney,Australia,0.28
+"May 4, 2021",Perth,Australia,0.3
+"May 4, 2021",Ipoh,Malaysia,0.32
+"May 4, 2021",Be'er Sheva,Israel,0.34
+"May 4, 2021",Bucharest,Romania,0.39
+"May 4, 2021",Maipu,Chile,0.44
+"May 4, 2021",Gold Coast,Australia,0.44
+"May 4, 2021",Brisbane,Australia,0.56
+"May 4, 2021",Vilnius,Lithuania,0.6
+"May 4, 2021",Kaunas,Lithuania,0.88
+"May 3, 2021",Cali,Colombia,-0.69
+"May 3, 2021",Luton,United Kingdom,-0.63
+"May 3, 2021",Makati,Philippines,-0.61
+"May 3, 2021",Cambridge,United States,-0.56
+"May 3, 2021",San Jose,Costa Rica,-0.53
+"May 3, 2021",Minneapolis,United States,-0.52
+"May 3, 2021",Mississauga,Canada,-0.43
+"May 3, 2021",Manila,Philippines,-0.43
+"May 3, 2021",Vitoria,Brazil,-0.43
+"May 3, 2021",Denver,United States,-0.41
+"May 3, 2021",Rotterdam,Netherlands,-0.4
+"May 3, 2021",Ottawa,Canada,-0.38
+"May 3, 2021",Quezon City,Philippines,-0.38
+"May 3, 2021",Amsterdam,Netherlands,-0.38
+"May 3, 2021",Florianopolis,Brazil,-0.37
+"May 3, 2021",Irvine,United States,-0.37
+"May 3, 2021",Portland,United States,-0.35
+"May 3, 2021",Monterrey,Mexico,-0.35
+"May 3, 2021",Bekasi,Indonesia,-0.35
+"May 3, 2021",San Francisco,United States,-0.34
+"May 3, 2021",Antwerp,Belgium,-0.34
+"May 3, 2021",Detroit,United States,-0.34
+"May 3, 2021",San Diego,United States,-0.33
+"May 3, 2021",San Jose,United States,-0.33
+"May 3, 2021",Jakarta,Indonesia,-0.33
+"May 3, 2021",Austin,United States,-0.32
+"May 3, 2021",Tampa,United States,-0.32
+"May 3, 2021",New Orleans,United States,-0.32
+"May 3, 2021",Santiago De Queretaro,Mexico,-0.31
+"May 3, 2021",Mexico City,Mexico,-0.31
+"May 3, 2021",Vaughan,Canada,-0.31
+"May 3, 2021",Seattle,United States,-0.3
+"May 3, 2021",Los Angeles,United States,-0.3
+"May 3, 2021",Toronto,Canada,-0.29
+"May 3, 2021",Lima,Peru,-0.29
+"May 3, 2021",Boston,United States,-0.28
+"May 3, 2021",Pittsburgh,United States,-0.28
+"May 3, 2021",Washington,United States,-0.28
+"May 3, 2021",Atlanta,United States,-0.27
+"May 3, 2021",Liverpool,United Kingdom,-0.27
+"May 3, 2021",Baltimore,United States,-0.26
+"May 3, 2021",Houston,United States,-0.26
+"May 3, 2021",Sacramento,United States,-0.26
+"May 3, 2021",Fort Lauderdale,United States,-0.26
+"May 3, 2021",Miami,United States,-0.25
+"May 3, 2021",Dallas,United States,-0.25
+"May 3, 2021",Zapopan,Mexico,-0.25
+"May 3, 2021",Brasilia,Brazil,-0.25
+"May 3, 2021",Hartford,United States,-0.25
+"May 3, 2021",Nashville,United States,-0.24
+"May 3, 2021",Raleigh,United States,-0.24
+"May 3, 2021",Charlotte,United States,-0.24
+"May 3, 2021",Madrid,Spain,-0.24
+"May 3, 2021",Ghent,Belgium,-0.24
+"May 3, 2021",Orlando,United States,-0.23
+"May 3, 2021",Oakland,United States,-0.23
+"May 3, 2021",Chicago,United States,-0.23
+"May 3, 2021",San Antonio,United States,-0.23
+"May 3, 2021",South Tangerang,Indonesia,-0.23
+"May 3, 2021",Phoenix,United States,-0.21
+"May 3, 2021",Tangerang,Indonesia,-0.2
+"May 3, 2021",Montreal,Canada,-0.19
+"May 3, 2021",Bogota,Colombia,-0.19
+"May 3, 2021",Guadalajara,Mexico,-0.19
+"May 3, 2021",Las Condes,Chile,-0.19
+"May 3, 2021",Bristol,United Kingdom,-0.18
+"May 3, 2021",Puebla City,Mexico,-0.18
+"May 3, 2021",Barcelona,Spain,-0.18
+"May 3, 2021",Birmingham,United Kingdom,-0.18
+"May 3, 2021",Philadelphia,United States,-0.17
+"May 3, 2021",Miami Beach,United States,-0.16
+"May 3, 2021",Calgary,Canada,-0.16
+"May 3, 2021",Yonkers,United States,-0.16
+"May 3, 2021",Brussels,Belgium,-0.16
+"May 3, 2021",Fort Worth,United States,-0.15
+"May 3, 2021",Rome,Italy,-0.15
+"May 3, 2021",Paris,France,-0.14
+"May 3, 2021",Riga,Latvia,-0.14
+"May 3, 2021",Stamford,United States,-0.13
+"May 3, 2021",Petaling Jaya,Malaysia,-0.12
+"May 3, 2021",Lisbon,Portugal,-0.12
+"May 3, 2021",Johor Bahru,Malaysia,-0.11
+"May 3, 2021",Cincinnati,United States,-0.11
+"May 3, 2021",Buenos Aires,Argentina,-0.11
+"May 3, 2021",Kuala Lumpur,Malaysia,-0.1
+"May 3, 2021",Jersey City,United States,-0.1
+"May 3, 2021",Santiago,Chile,-0.1
+"May 3, 2021",Warsaw,Poland,-0.09
+"May 3, 2021",Milan,Italy,-0.07
+"May 3, 2021",Belo Horizonte,Brazil,-0.07
+"May 3, 2021",Lyon,France,-0.05
+"May 3, 2021",Quebec City,Canada,-0.05
+"May 3, 2021",Maipu,Chile,-0.04
+"May 3, 2021",Cape Town,South Africa,-0.04
+"May 3, 2021",Salvador,Brazil,-0.04
+"May 3, 2021",Berlin,Germany,-0.03
+"May 3, 2021",Lille,France,-0.03
+"May 3, 2021",Hamilton,Canada,-0.03
+"May 3, 2021",Budapest,Hungary,-0.03
+"May 3, 2021",Krakow,Poland,-0.02
+"May 3, 2021",Toulouse,France,-0.01
+"May 3, 2021",New York,United States,0.0
+"May 3, 2021",Stockholm,Sweden,0.01
+"May 3, 2021",Rio De Janeiro,Brazil,0.01
+"May 3, 2021",Sydney,Australia,0.02
+"May 3, 2021",London,United Kingdom,0.03
+"May 3, 2021",Bordeaux,France,0.04
+"May 3, 2021",Bratislava,Slovakia,0.04
+"May 3, 2021",Singapore,Singapore,0.04
+"May 3, 2021",Sao Paulo,Brazil,0.04
+"May 3, 2021",Melbourne,Australia,0.05
+"May 3, 2021",Montevideo,Uruguay,0.05
+"May 3, 2021",Puchong,Malaysia,0.06
+"May 3, 2021",Doha,Qatar,0.06
+"May 3, 2021",Recife,Brazil,0.06
+"May 3, 2021",Manchester,United Kingdom,0.06
+"May 3, 2021",Jerusalem,Israel,0.07
+"May 3, 2021",Haifa,Israel,0.07
+"May 3, 2021",Tel Aviv-Yafo,Israel,0.08
+"May 3, 2021",Quito,Ecuador,0.08
+"May 3, 2021",Prague,Czechia,0.09
+"May 3, 2021",Guarulhos,Brazil,0.09
+"May 3, 2021",Fortaleza,Brazil,0.1
+"May 3, 2021",Medellin,Colombia,0.11
+"May 3, 2021",Brno,Czechia,0.12
+"May 3, 2021",Marseille,France,0.12
+"May 3, 2021",Shah Alam,Malaysia,0.12
+"May 3, 2021",Rishon Letsiyon,Israel,0.14
+"May 3, 2021",Curitiba,Brazil,0.14
+"May 3, 2021",Porto Alegre,Brazil,0.18
+"May 3, 2021",Ramat Gan,Israel,0.19
+"May 3, 2021",Petah Tikva,Israel,0.21
+"May 3, 2021",Be'er Sheva,Israel,0.26
+"May 3, 2021",Ipoh,Malaysia,0.3
+"May 3, 2021",Perth,Australia,0.44
+"May 3, 2021",Brisbane,Australia,0.47
+"May 3, 2021",Kaunas,Lithuania,0.47
+"May 3, 2021",Vilnius,Lithuania,0.63
+"May 3, 2021",Kyiv,Ukraine,0.73
+"May 3, 2021",Bucharest,Romania,0.74
+"May 3, 2021",Gold Coast,Australia,0.95
 "May 2, 2021",Quito,Ecuador,-0.88
 "May 2, 2021",Krakow,Poland,-0.86
 "May 2, 2021",Cali,Colombia,-0.76
@@ -14,104 +574,104 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "May 2, 2021",Las Condes,Chile,-0.44
 "May 2, 2021",Bucharest,Romania,-0.43
 "May 2, 2021",Brasilia,Brazil,-0.43
-"May 2, 2021",Florianopolis,Brazil,-0.42
 "May 2, 2021",Luton,United Kingdom,-0.42
+"May 2, 2021",Florianopolis,Brazil,-0.42
 "May 2, 2021",Madrid,Spain,-0.41
-"May 2, 2021",Jakarta,Indonesia,-0.41
 "May 2, 2021",New Orleans,United States,-0.41
+"May 2, 2021",Jakarta,Indonesia,-0.41
 "May 2, 2021",Santiago,Chile,-0.39
 "May 2, 2021",Makati,Philippines,-0.39
 "May 2, 2021",Sacramento,United States,-0.38
 "May 2, 2021",Toronto,Canada,-0.38
-"May 2, 2021",Mississauga,Canada,-0.37
 "May 2, 2021",San Francisco,United States,-0.37
+"May 2, 2021",Mississauga,Canada,-0.37
 "May 2, 2021",Paris,France,-0.36
 "May 2, 2021",Minneapolis,United States,-0.36
-"May 2, 2021",Vaughan,Canada,-0.34
 "May 2, 2021",Lyon,France,-0.34
-"May 2, 2021",Birmingham,United Kingdom,-0.34
 "May 2, 2021",Belo Horizonte,Brazil,-0.34
-"May 2, 2021",Warsaw,Poland,-0.33
+"May 2, 2021",Vaughan,Canada,-0.34
+"May 2, 2021",Birmingham,United Kingdom,-0.34
 "May 2, 2021",Seattle,United States,-0.33
-"May 2, 2021",Tangerang,Indonesia,-0.32
+"May 2, 2021",Warsaw,Poland,-0.33
 "May 2, 2021",San Jose,Costa Rica,-0.32
+"May 2, 2021",Tangerang,Indonesia,-0.32
 "May 2, 2021",Cambridge,United States,-0.31
-"May 2, 2021",Lille,France,-0.3
 "May 2, 2021",Mexico City,Mexico,-0.3
-"May 2, 2021",Bekasi,Indonesia,-0.3
 "May 2, 2021",Brussels,Belgium,-0.3
-"May 2, 2021",Los Angeles,United States,-0.28
+"May 2, 2021",Bekasi,Indonesia,-0.3
+"May 2, 2021",Lille,France,-0.3
 "May 2, 2021",Oakland,United States,-0.28
-"May 2, 2021",Boston,United States,-0.27
+"May 2, 2021",Los Angeles,United States,-0.28
 "May 2, 2021",Denver,United States,-0.27
 "May 2, 2021",Salvador,Brazil,-0.27
+"May 2, 2021",Boston,United States,-0.27
 "May 2, 2021",Toulouse,France,-0.26
-"May 2, 2021",Berlin,Germany,-0.25
 "May 2, 2021",Austin,United States,-0.25
-"May 2, 2021",South Tangerang,Indonesia,-0.25
 "May 2, 2021",Portland,United States,-0.25
-"May 2, 2021",Hamilton,Canada,-0.24
-"May 2, 2021",Bordeaux,France,-0.24
-"May 2, 2021",San Jose,United States,-0.24
+"May 2, 2021",South Tangerang,Indonesia,-0.25
+"May 2, 2021",Berlin,Germany,-0.25
 "May 2, 2021",Buenos Aires,Argentina,-0.24
+"May 2, 2021",Bordeaux,France,-0.24
 "May 2, 2021",Quebec City,Canada,-0.24
 "May 2, 2021",Fortaleza,Brazil,-0.24
-"May 2, 2021",Puebla City,Mexico,-0.23
-"May 2, 2021",Johor Bahru,Malaysia,-0.23
+"May 2, 2021",Hamilton,Canada,-0.24
+"May 2, 2021",San Jose,United States,-0.24
 "May 2, 2021",Washington,United States,-0.23
+"May 2, 2021",Johor Bahru,Malaysia,-0.23
+"May 2, 2021",Puebla City,Mexico,-0.23
 "May 2, 2021",San Diego,United States,-0.23
 "May 2, 2021",Montevideo,Uruguay,-0.22
 "May 2, 2021",Guadalajara,Mexico,-0.21
 "May 2, 2021",Miami,United States,-0.2
 "May 2, 2021",Kuala Lumpur,Malaysia,-0.19
 "May 2, 2021",Houston,United States,-0.19
-"May 2, 2021",Ipoh,Malaysia,-0.18
-"May 2, 2021",Miami Beach,United States,-0.18
 "May 2, 2021",Petaling Jaya,Malaysia,-0.18
-"May 2, 2021",Milan,Italy,-0.17
-"May 2, 2021",Maipu,Chile,-0.17
+"May 2, 2021",Miami Beach,United States,-0.18
+"May 2, 2021",Ipoh,Malaysia,-0.18
+"May 2, 2021",Jersey City,United States,-0.17
 "May 2, 2021",Irvine,United States,-0.17
+"May 2, 2021",Maipu,Chile,-0.17
+"May 2, 2021",Detroit,United States,-0.17
 "May 2, 2021",Rio De Janeiro,Brazil,-0.17
 "May 2, 2021",Orlando,United States,-0.17
-"May 2, 2021",Detroit,United States,-0.17
-"May 2, 2021",Jersey City,United States,-0.17
+"May 2, 2021",Milan,Italy,-0.17
 "May 2, 2021",Bratislava,Slovakia,-0.16
-"May 2, 2021",San Antonio,United States,-0.16
 "May 2, 2021",Tampa,United States,-0.16
+"May 2, 2021",San Antonio,United States,-0.16
+"May 2, 2021",Santiago De Queretaro,Mexico,-0.15
 "May 2, 2021",Montreal,Canada,-0.15
 "May 2, 2021",Lisbon,Portugal,-0.15
-"May 2, 2021",Santiago De Queretaro,Mexico,-0.15
 "May 2, 2021",Recife,Brazil,-0.14
 "May 2, 2021",Chicago,United States,-0.13
 "May 2, 2021",Barcelona,Spain,-0.12
 "May 2, 2021",Sao Paulo,Brazil,-0.11
 "May 2, 2021",Marseille,France,-0.11
 "May 2, 2021",Zapopan,Mexico,-0.11
-"May 2, 2021",Phoenix,United States,-0.1
 "May 2, 2021",Ghent,Belgium,-0.1
-"May 2, 2021",Dallas,United States,-0.09
+"May 2, 2021",Phoenix,United States,-0.1
 "May 2, 2021",Atlanta,United States,-0.09
+"May 2, 2021",Dallas,United States,-0.09
 "May 2, 2021",Melbourne,Australia,-0.09
 "May 2, 2021",Manchester,United Kingdom,-0.08
-"May 2, 2021",London,United Kingdom,-0.08
-"May 2, 2021",Antwerp,Belgium,-0.08
 "May 2, 2021",Curitiba,Brazil,-0.08
+"May 2, 2021",Antwerp,Belgium,-0.08
+"May 2, 2021",London,United Kingdom,-0.08
 "May 2, 2021",Philadelphia,United States,-0.07
-"May 2, 2021",Brno,Czechia,-0.06
 "May 2, 2021",Cincinnati,United States,-0.06
+"May 2, 2021",Brno,Czechia,-0.06
 "May 2, 2021",Rome,Italy,-0.04
 "May 2, 2021",Rotterdam,Netherlands,-0.04
-"May 2, 2021",Baltimore,United States,-0.04
 "May 2, 2021",Pittsburgh,United States,-0.04
+"May 2, 2021",Baltimore,United States,-0.04
 "May 2, 2021",Bristol,United Kingdom,-0.03
 "May 2, 2021",Raleigh,United States,-0.02
 "May 2, 2021",Fort Lauderdale,United States,-0.01
 "May 2, 2021",Puchong,Malaysia,-0.01
 "May 2, 2021",Perth,Australia,-0.01
-"May 2, 2021",Riga,Latvia,0.0
-"May 2, 2021",Guarulhos,Brazil,0.0
-"May 2, 2021",Fort Worth,United States,0.0
 "May 2, 2021",New York,United States,0.0
+"May 2, 2021",Riga,Latvia,0.0
+"May 2, 2021",Fort Worth,United States,0.0
+"May 2, 2021",Guarulhos,Brazil,0.0
 "May 2, 2021",Petah Tikva,Israel,0.01
 "May 2, 2021",Shah Alam,Malaysia,0.02
 "May 2, 2021",Doha,Qatar,0.04
@@ -124,8 +684,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "May 2, 2021",Tel Aviv-Yafo,Israel,0.08
 "May 2, 2021",Stamford,United States,0.11
 "May 2, 2021",Jerusalem,Israel,0.12
-"May 2, 2021",Porto Alegre,Brazil,0.13
 "May 2, 2021",Brisbane,Australia,0.13
+"May 2, 2021",Porto Alegre,Brazil,0.13
 "May 2, 2021",Singapore,Singapore,0.14
 "May 2, 2021",Yonkers,United States,0.18
 "May 2, 2021",Rishon Letsiyon,Israel,0.19
@@ -153,8 +713,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "May 1, 2021",Manila,Philippines,-0.49
 "May 1, 2021",Mississauga,Canada,-0.47
 "May 1, 2021",Florianopolis,Brazil,-0.46
-"May 1, 2021",Paris,France,-0.45
 "May 1, 2021",Quebec City,Canada,-0.45
+"May 1, 2021",Paris,France,-0.45
 "May 1, 2021",San Francisco,United States,-0.45
 "May 1, 2021",Jakarta,Indonesia,-0.44
 "May 1, 2021",Detroit,United States,-0.42
@@ -162,93 +722,93 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "May 1, 2021",Barcelona,Spain,-0.41
 "May 1, 2021",Bordeaux,France,-0.41
 "May 1, 2021",Bucharest,Romania,-0.4
-"May 1, 2021",Puebla City,Mexico,-0.39
 "May 1, 2021",Portland,United States,-0.39
+"May 1, 2021",Puebla City,Mexico,-0.39
 "May 1, 2021",Rome,Italy,-0.38
-"May 1, 2021",San Antonio,United States,-0.37
-"May 1, 2021",Toulouse,France,-0.37
-"May 1, 2021",Amsterdam,Netherlands,-0.37
 "May 1, 2021",San Jose,United States,-0.37
 "May 1, 2021",Austin,United States,-0.37
-"May 1, 2021",Lille,France,-0.36
+"May 1, 2021",Toulouse,France,-0.37
+"May 1, 2021",Amsterdam,Netherlands,-0.37
+"May 1, 2021",San Antonio,United States,-0.37
 "May 1, 2021",Monterrey,Mexico,-0.36
-"May 1, 2021",Mexico City,Mexico,-0.34
+"May 1, 2021",Lille,France,-0.36
 "May 1, 2021",Vitoria,Brazil,-0.34
-"May 1, 2021",Belo Horizonte,Brazil,-0.33
-"May 1, 2021",Boston,United States,-0.33
-"May 1, 2021",Washington,United States,-0.33
+"May 1, 2021",Mexico City,Mexico,-0.34
 "May 1, 2021",Toronto,Canada,-0.33
 "May 1, 2021",Marseille,France,-0.33
-"May 1, 2021",Bekasi,Indonesia,-0.32
+"May 1, 2021",Boston,United States,-0.33
+"May 1, 2021",Washington,United States,-0.33
+"May 1, 2021",Belo Horizonte,Brazil,-0.33
 "May 1, 2021",Hartford,United States,-0.32
+"May 1, 2021",Bekasi,Indonesia,-0.32
+"May 1, 2021",Hamilton,Canada,-0.31
 "May 1, 2021",San Jose,Costa Rica,-0.31
+"May 1, 2021",Guadalajara,Mexico,-0.31
 "May 1, 2021",Johor Bahru,Malaysia,-0.31
 "May 1, 2021",Recife,Brazil,-0.31
-"May 1, 2021",Guadalajara,Mexico,-0.31
-"May 1, 2021",Hamilton,Canada,-0.31
-"May 1, 2021",Sacramento,United States,-0.3
-"May 1, 2021",Houston,United States,-0.3
-"May 1, 2021",Minneapolis,United States,-0.3
 "May 1, 2021",Los Angeles,United States,-0.3
+"May 1, 2021",Sacramento,United States,-0.3
 "May 1, 2021",Tangerang,Indonesia,-0.3
 "May 1, 2021",Denver,United States,-0.3
-"May 1, 2021",Antwerp,Belgium,-0.29
-"May 1, 2021",Lisbon,Portugal,-0.29
+"May 1, 2021",Houston,United States,-0.3
+"May 1, 2021",Minneapolis,United States,-0.3
 "May 1, 2021",Irvine,United States,-0.29
+"May 1, 2021",Lisbon,Portugal,-0.29
 "May 1, 2021",Oakland,United States,-0.29
 "May 1, 2021",Tampa,United States,-0.29
+"May 1, 2021",Antwerp,Belgium,-0.29
 "May 1, 2021",Santiago De Queretaro,Mexico,-0.28
 "May 1, 2021",Ghent,Belgium,-0.28
 "May 1, 2021",Krakow,Poland,-0.26
-"May 1, 2021",Buenos Aires,Argentina,-0.26
-"May 1, 2021",Salvador,Brazil,-0.26
-"May 1, 2021",Vaughan,Canada,-0.26
 "May 1, 2021",Milan,Italy,-0.26
-"May 1, 2021",Zapopan,Mexico,-0.24
-"May 1, 2021",Madrid,Spain,-0.24
-"May 1, 2021",Lima,Peru,-0.24
+"May 1, 2021",Salvador,Brazil,-0.26
+"May 1, 2021",Buenos Aires,Argentina,-0.26
+"May 1, 2021",Vaughan,Canada,-0.26
 "May 1, 2021",Fort Lauderdale,United States,-0.24
+"May 1, 2021",Madrid,Spain,-0.24
+"May 1, 2021",Zapopan,Mexico,-0.24
 "May 1, 2021",Kuala Lumpur,Malaysia,-0.24
+"May 1, 2021",Lima,Peru,-0.24
 "May 1, 2021",Dallas,United States,-0.23
-"May 1, 2021",Fortaleza,Brazil,-0.22
-"May 1, 2021",San Diego,United States,-0.22
-"May 1, 2021",Montevideo,Uruguay,-0.22
 "May 1, 2021",Chicago,United States,-0.22
+"May 1, 2021",San Diego,United States,-0.22
+"May 1, 2021",Fortaleza,Brazil,-0.22
+"May 1, 2021",Montevideo,Uruguay,-0.22
 "May 1, 2021",Rio De Janeiro,Brazil,-0.21
 "May 1, 2021",Seattle,United States,-0.21
 "May 1, 2021",Orlando,United States,-0.2
+"May 1, 2021",Petaling Jaya,Malaysia,-0.19
+"May 1, 2021",Santiago,Chile,-0.19
+"May 1, 2021",Miami,United States,-0.19
+"May 1, 2021",Sao Paulo,Brazil,-0.19
 "May 1, 2021",Atlanta,United States,-0.19
 "May 1, 2021",Warsaw,Poland,-0.19
-"May 1, 2021",Petaling Jaya,Malaysia,-0.19
-"May 1, 2021",Miami,United States,-0.19
-"May 1, 2021",Santiago,Chile,-0.19
-"May 1, 2021",Sao Paulo,Brazil,-0.19
 "May 1, 2021",Guarulhos,Brazil,-0.18
 "May 1, 2021",Baltimore,United States,-0.17
-"May 1, 2021",Phoenix,United States,-0.16
 "May 1, 2021",Montreal,Canada,-0.16
-"May 1, 2021",Shah Alam,Malaysia,-0.16
+"May 1, 2021",Phoenix,United States,-0.16
 "May 1, 2021",Philadelphia,United States,-0.16
+"May 1, 2021",Shah Alam,Malaysia,-0.16
 "May 1, 2021",Budapest,Hungary,-0.15
 "May 1, 2021",Rotterdam,Netherlands,-0.15
 "May 1, 2021",Bratislava,Slovakia,-0.15
 "May 1, 2021",Fort Worth,United States,-0.14
-"May 1, 2021",Miami Beach,United States,-0.13
-"May 1, 2021",Las Condes,Chile,-0.13
-"May 1, 2021",Prague,Czechia,-0.13
 "May 1, 2021",South Tangerang,Indonesia,-0.13
+"May 1, 2021",Miami Beach,United States,-0.13
+"May 1, 2021",Prague,Czechia,-0.13
+"May 1, 2021",Las Condes,Chile,-0.13
 "May 1, 2021",Puchong,Malaysia,-0.11
 "May 1, 2021",Birmingham,United Kingdom,-0.11
 "May 1, 2021",Jersey City,United States,-0.1
-"May 1, 2021",Calgary,Canada,-0.09
 "May 1, 2021",Curitiba,Brazil,-0.09
+"May 1, 2021",Calgary,Canada,-0.09
 "May 1, 2021",Nashville,United States,-0.08
 "May 1, 2021",Bristol,United Kingdom,-0.08
 "May 1, 2021",Riga,Latvia,-0.07
-"May 1, 2021",Brno,Czechia,-0.05
 "May 1, 2021",New York,United States,-0.05
-"May 1, 2021",Berlin,Germany,-0.04
+"May 1, 2021",Brno,Czechia,-0.05
 "May 1, 2021",Charlotte,United States,-0.04
+"May 1, 2021",Berlin,Germany,-0.04
 "May 1, 2021",Pittsburgh,United States,-0.03
 "May 1, 2021",London,United Kingdom,0.0
 "May 1, 2021",Raleigh,United States,0.02
@@ -264,22 +824,22 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "May 1, 2021",Porto Alegre,Brazil,0.15
 "May 1, 2021",Luton,United Kingdom,0.15
 "May 1, 2021",Petah Tikva,Israel,0.16
-"May 1, 2021",Ramat Gan,Israel,0.19
-"May 1, 2021",Rishon Letsiyon,Israel,0.19
 "May 1, 2021",Doha,Qatar,0.19
-"May 1, 2021",Sydney,Australia,0.2
-"May 1, 2021",Liverpool,United Kingdom,0.2
+"May 1, 2021",Rishon Letsiyon,Israel,0.19
+"May 1, 2021",Ramat Gan,Israel,0.19
 "May 1, 2021",Melbourne,Australia,0.2
+"May 1, 2021",Liverpool,United Kingdom,0.2
+"May 1, 2021",Sydney,Australia,0.2
 "May 1, 2021",Cape Town,South Africa,0.24
 "May 1, 2021",Jerusalem,Israel,0.26
 "May 1, 2021",Maipu,Chile,0.32
 "May 1, 2021",Gold Coast,Australia,0.38
 "May 1, 2021",Brisbane,Australia,0.45
-"May 1, 2021",Perth,Australia,0.48
 "May 1, 2021",Kyiv,Ukraine,0.48
+"May 1, 2021",Perth,Australia,0.48
 "May 1, 2021",Vilnius,Lithuania,0.49
-"May 1, 2021",Kaunas,Lithuania,0.57
 "May 1, 2021",Lviv,Ukraine,0.57
+"May 1, 2021",Kaunas,Lithuania,0.57
 "Apr 30, 2021",Cali,Colombia,-0.78
 "Apr 30, 2021",Liverpool,United Kingdom,-0.77
 "Apr 30, 2021",Ottawa,Canada,-0.75
@@ -287,27 +847,27 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Apr 30, 2021",New Orleans,United States,-0.51
 "Apr 30, 2021",Quezon City,Philippines,-0.51
 "Apr 30, 2021",Brasilia,Brazil,-0.49
-"Apr 30, 2021",Manila,Philippines,-0.48
 "Apr 30, 2021",San Francisco,United States,-0.48
+"Apr 30, 2021",Manila,Philippines,-0.48
 "Apr 30, 2021",Quebec City,Canada,-0.48
 "Apr 30, 2021",Mississauga,Canada,-0.47
 "Apr 30, 2021",Amsterdam,Netherlands,-0.46
 "Apr 30, 2021",Irvine,United States,-0.42
-"Apr 30, 2021",Seattle,United States,-0.41
 "Apr 30, 2021",San Jose,United States,-0.41
+"Apr 30, 2021",Seattle,United States,-0.41
 "Apr 30, 2021",San Diego,United States,-0.4
-"Apr 30, 2021",Rotterdam,Netherlands,-0.39
-"Apr 30, 2021",Minneapolis,United States,-0.39
 "Apr 30, 2021",Tangerang,Indonesia,-0.39
 "Apr 30, 2021",Lyon,France,-0.39
+"Apr 30, 2021",Minneapolis,United States,-0.39
+"Apr 30, 2021",Rotterdam,Netherlands,-0.39
 "Apr 30, 2021",Florianopolis,Brazil,-0.38
 "Apr 30, 2021",Bogota,Colombia,-0.37
-"Apr 30, 2021",Monterrey,Mexico,-0.36
-"Apr 30, 2021",Jakarta,Indonesia,-0.36
-"Apr 30, 2021",Pittsburgh,United States,-0.36
 "Apr 30, 2021",Toronto,Canada,-0.36
-"Apr 30, 2021",Los Angeles,United States,-0.35
+"Apr 30, 2021",Pittsburgh,United States,-0.36
+"Apr 30, 2021",Jakarta,Indonesia,-0.36
+"Apr 30, 2021",Monterrey,Mexico,-0.36
 "Apr 30, 2021",Portland,United States,-0.35
+"Apr 30, 2021",Los Angeles,United States,-0.35
 "Apr 30, 2021",Medellin,Colombia,-0.34
 "Apr 30, 2021",Austin,United States,-0.33
 "Apr 30, 2021",Bucharest,Romania,-0.32
@@ -315,69 +875,69 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Apr 30, 2021",Vaughan,Canada,-0.31
 "Apr 30, 2021",Washington,United States,-0.31
 "Apr 30, 2021",Miami Beach,United States,-0.3
-"Apr 30, 2021",Mexico City,Mexico,-0.29
 "Apr 30, 2021",Denver,United States,-0.29
 "Apr 30, 2021",Ipoh,Malaysia,-0.29
+"Apr 30, 2021",Mexico City,Mexico,-0.29
 "Apr 30, 2021",Houston,United States,-0.29
 "Apr 30, 2021",Atlanta,United States,-0.29
 "Apr 30, 2021",Oakland,United States,-0.28
-"Apr 30, 2021",Dallas,United States,-0.27
 "Apr 30, 2021",Brussels,Belgium,-0.27
+"Apr 30, 2021",Dallas,United States,-0.27
+"Apr 30, 2021",Santiago De Queretaro,Mexico,-0.26
+"Apr 30, 2021",Lima,Peru,-0.26
+"Apr 30, 2021",Hamilton,Canada,-0.26
+"Apr 30, 2021",Paris,France,-0.26
+"Apr 30, 2021",Boston,United States,-0.26
 "Apr 30, 2021",Jersey City,United States,-0.26
 "Apr 30, 2021",Puebla City,Mexico,-0.26
 "Apr 30, 2021",San Antonio,United States,-0.26
-"Apr 30, 2021",Boston,United States,-0.26
-"Apr 30, 2021",Hamilton,Canada,-0.26
-"Apr 30, 2021",Santiago De Queretaro,Mexico,-0.26
-"Apr 30, 2021",Paris,France,-0.26
 "Apr 30, 2021",Chicago,United States,-0.26
-"Apr 30, 2021",Lima,Peru,-0.26
-"Apr 30, 2021",Phoenix,United States,-0.25
 "Apr 30, 2021",Quito,Ecuador,-0.25
+"Apr 30, 2021",Phoenix,United States,-0.25
 "Apr 30, 2021",Lille,France,-0.24
 "Apr 30, 2021",Miami,United States,-0.24
 "Apr 30, 2021",Barcelona,Spain,-0.23
-"Apr 30, 2021",Guadalajara,Mexico,-0.22
-"Apr 30, 2021",Detroit,United States,-0.22
 "Apr 30, 2021",Milan,Italy,-0.22
+"Apr 30, 2021",Detroit,United States,-0.22
 "Apr 30, 2021",Zapopan,Mexico,-0.22
+"Apr 30, 2021",Guadalajara,Mexico,-0.22
+"Apr 30, 2021",Belo Horizonte,Brazil,-0.21
 "Apr 30, 2021",San Jose,Costa Rica,-0.21
+"Apr 30, 2021",Johor Bahru,Malaysia,-0.21
 "Apr 30, 2021",Philadelphia,United States,-0.21
 "Apr 30, 2021",Bordeaux,France,-0.21
-"Apr 30, 2021",Belo Horizonte,Brazil,-0.21
-"Apr 30, 2021",Johor Bahru,Malaysia,-0.21
 "Apr 30, 2021",Berlin,Germany,-0.2
 "Apr 30, 2021",Lisbon,Portugal,-0.2
-"Apr 30, 2021",Marseille,France,-0.19
-"Apr 30, 2021",Montreal,Canada,-0.19
 "Apr 30, 2021",Madrid,Spain,-0.19
+"Apr 30, 2021",Montreal,Canada,-0.19
+"Apr 30, 2021",Marseille,France,-0.19
 "Apr 30, 2021",Montevideo,Uruguay,-0.18
-"Apr 30, 2021",Toulouse,France,-0.17
-"Apr 30, 2021",Tampa,United States,-0.17
 "Apr 30, 2021",Kuala Lumpur,Malaysia,-0.17
+"Apr 30, 2021",Tampa,United States,-0.17
+"Apr 30, 2021",Toulouse,France,-0.17
 "Apr 30, 2021",Petaling Jaya,Malaysia,-0.16
-"Apr 30, 2021",Recife,Brazil,-0.16
 "Apr 30, 2021",Fort Lauderdale,United States,-0.16
-"Apr 30, 2021",Sao Paulo,Brazil,-0.16
+"Apr 30, 2021",Recife,Brazil,-0.16
 "Apr 30, 2021",Baltimore,United States,-0.16
-"Apr 30, 2021",Orlando,United States,-0.15
+"Apr 30, 2021",Sao Paulo,Brazil,-0.16
 "Apr 30, 2021",Fortaleza,Brazil,-0.15
+"Apr 30, 2021",Orlando,United States,-0.15
 "Apr 30, 2021",Guarulhos,Brazil,-0.15
 "Apr 30, 2021",Cincinnati,United States,-0.14
-"Apr 30, 2021",Nashville,United States,-0.13
 "Apr 30, 2021",Buenos Aires,Argentina,-0.13
-"Apr 30, 2021",Stamford,United States,-0.12
+"Apr 30, 2021",Nashville,United States,-0.13
 "Apr 30, 2021",Rio De Janeiro,Brazil,-0.12
+"Apr 30, 2021",Stamford,United States,-0.12
 "Apr 30, 2021",Salvador,Brazil,-0.12
 "Apr 30, 2021",Vitoria,Brazil,-0.12
 "Apr 30, 2021",Cambridge,United States,-0.11
 "Apr 30, 2021",Antwerp,Belgium,-0.1
 "Apr 30, 2021",Raleigh,United States,-0.1
-"Apr 30, 2021",Cape Town,South Africa,-0.09
-"Apr 30, 2021",Yonkers,United States,-0.09
-"Apr 30, 2021",Calgary,Canada,-0.09
-"Apr 30, 2021",Charlotte,United States,-0.09
 "Apr 30, 2021",Bristol,United Kingdom,-0.09
+"Apr 30, 2021",Yonkers,United States,-0.09
+"Apr 30, 2021",Cape Town,South Africa,-0.09
+"Apr 30, 2021",Charlotte,United States,-0.09
+"Apr 30, 2021",Calgary,Canada,-0.09
 "Apr 30, 2021",Curitiba,Brazil,-0.08
 "Apr 30, 2021",Fort Worth,United States,-0.08
 "Apr 30, 2021",Rome,Italy,-0.07
@@ -387,8 +947,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Apr 30, 2021",Doha,Qatar,-0.02
 "Apr 30, 2021",Shah Alam,Malaysia,-0.02
 "Apr 30, 2021",Stockholm,Sweden,-0.01
-"Apr 30, 2021",Porto Alegre,Brazil,-0.01
 "Apr 30, 2021",Budapest,Hungary,-0.01
+"Apr 30, 2021",Porto Alegre,Brazil,-0.01
 "Apr 30, 2021",Bratislava,Slovakia,0.0
 "Apr 30, 2021",Brno,Czechia,0.01
 "Apr 30, 2021",Ghent,Belgium,0.01
@@ -399,10 +959,10 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Apr 30, 2021",London,United Kingdom,0.07
 "Apr 30, 2021",Haifa,Israel,0.08
 "Apr 30, 2021",Bekasi,Indonesia,0.09
-"Apr 30, 2021",Riga,Latvia,0.09
 "Apr 30, 2021",Singapore,Singapore,0.09
-"Apr 30, 2021",Warsaw,Poland,0.09
 "Apr 30, 2021",Tel Aviv-Yafo,Israel,0.09
+"Apr 30, 2021",Riga,Latvia,0.09
+"Apr 30, 2021",Warsaw,Poland,0.09
 "Apr 30, 2021",Santiago,Chile,0.11
 "Apr 30, 2021",Krakow,Poland,0.14
 "Apr 30, 2021",Ramat Gan,Israel,0.18
@@ -428,57 +988,57 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Apr 29, 2021",Cambridge,United States,-0.63
 "Apr 29, 2021",Ottawa,Canada,-0.56
 "Apr 29, 2021",Brasilia,Brazil,-0.53
-"Apr 29, 2021",Minneapolis,United States,-0.52
 "Apr 29, 2021",Amsterdam,Netherlands,-0.52
-"Apr 29, 2021",Manila,Philippines,-0.51
+"Apr 29, 2021",Minneapolis,United States,-0.52
 "Apr 29, 2021",Mississauga,Canada,-0.51
+"Apr 29, 2021",Manila,Philippines,-0.51
 "Apr 29, 2021",Detroit,United States,-0.49
 "Apr 29, 2021",Quezon City,Philippines,-0.48
-"Apr 29, 2021",Bekasi,Indonesia,-0.46
 "Apr 29, 2021",Oakland,United States,-0.46
+"Apr 29, 2021",Bekasi,Indonesia,-0.46
 "Apr 29, 2021",Ipoh,Malaysia,-0.44
 "Apr 29, 2021",Irvine,United States,-0.43
 "Apr 29, 2021",Jakarta,Indonesia,-0.42
-"Apr 29, 2021",Toronto,Canada,-0.41
-"Apr 29, 2021",Monterrey,Mexico,-0.41
 "Apr 29, 2021",San Francisco,United States,-0.41
 "Apr 29, 2021",Austin,United States,-0.41
+"Apr 29, 2021",Toronto,Canada,-0.41
 "Apr 29, 2021",San Diego,United States,-0.41
-"Apr 29, 2021",Denver,United States,-0.4
+"Apr 29, 2021",Monterrey,Mexico,-0.41
 "Apr 29, 2021",Seattle,United States,-0.4
+"Apr 29, 2021",Denver,United States,-0.4
 "Apr 29, 2021",San Jose,United States,-0.39
-"Apr 29, 2021",Quebec City,Canada,-0.38
 "Apr 29, 2021",Miami,United States,-0.38
-"Apr 29, 2021",Santiago De Queretaro,Mexico,-0.37
-"Apr 29, 2021",Los Angeles,United States,-0.37
+"Apr 29, 2021",Quebec City,Canada,-0.38
 "Apr 29, 2021",New Orleans,United States,-0.37
+"Apr 29, 2021",Los Angeles,United States,-0.37
+"Apr 29, 2021",Santiago De Queretaro,Mexico,-0.37
 "Apr 29, 2021",Florianopolis,Brazil,-0.37
 "Apr 29, 2021",Luton,United Kingdom,-0.36
 "Apr 29, 2021",Hartford,United States,-0.35
 "Apr 29, 2021",San Antonio,United States,-0.35
 "Apr 29, 2021",Tampa,United States,-0.32
 "Apr 29, 2021",Boston,United States,-0.31
-"Apr 29, 2021",Lisbon,Portugal,-0.3
 "Apr 29, 2021",Mexico City,Mexico,-0.3
-"Apr 29, 2021",Sacramento,United States,-0.29
-"Apr 29, 2021",Jersey City,United States,-0.29
+"Apr 29, 2021",Lisbon,Portugal,-0.3
 "Apr 29, 2021",Milan,Italy,-0.29
+"Apr 29, 2021",Jersey City,United States,-0.29
+"Apr 29, 2021",Sacramento,United States,-0.29
 "Apr 29, 2021",Houston,United States,-0.28
-"Apr 29, 2021",San Jose,Costa Rica,-0.27
-"Apr 29, 2021",Puebla City,Mexico,-0.27
-"Apr 29, 2021",Chicago,United States,-0.27
-"Apr 29, 2021",Dallas,United States,-0.27
 "Apr 29, 2021",Phoenix,United States,-0.27
 "Apr 29, 2021",Washington,United States,-0.27
+"Apr 29, 2021",Chicago,United States,-0.27
+"Apr 29, 2021",San Jose,Costa Rica,-0.27
+"Apr 29, 2021",Dallas,United States,-0.27
+"Apr 29, 2021",Puebla City,Mexico,-0.27
+"Apr 29, 2021",Lyon,France,-0.26
+"Apr 29, 2021",Portland,United States,-0.26
 "Apr 29, 2021",Ghent,Belgium,-0.26
 "Apr 29, 2021",Lima,Peru,-0.26
-"Apr 29, 2021",Portland,United States,-0.26
-"Apr 29, 2021",Lyon,France,-0.26
 "Apr 29, 2021",Kuala Lumpur,Malaysia,-0.25
-"Apr 29, 2021",Vaughan,Canada,-0.25
-"Apr 29, 2021",Paris,France,-0.25
 "Apr 29, 2021",Nashville,United States,-0.25
 "Apr 29, 2021",Vitoria,Brazil,-0.25
+"Apr 29, 2021",Paris,France,-0.25
+"Apr 29, 2021",Vaughan,Canada,-0.25
 "Apr 29, 2021",Cincinnati,United States,-0.24
 "Apr 29, 2021",Brussels,Belgium,-0.23
 "Apr 29, 2021",Orlando,United States,-0.23
@@ -486,73 +1046,73 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Apr 29, 2021",Zapopan,Mexico,-0.22
 "Apr 29, 2021",Fort Lauderdale,United States,-0.22
 "Apr 29, 2021",Atlanta,United States,-0.22
+"Apr 29, 2021",Quito,Ecuador,-0.21
+"Apr 29, 2021",Liverpool,United Kingdom,-0.21
 "Apr 29, 2021",Madrid,Spain,-0.21
 "Apr 29, 2021",Philadelphia,United States,-0.21
-"Apr 29, 2021",Liverpool,United Kingdom,-0.21
-"Apr 29, 2021",Quito,Ecuador,-0.21
-"Apr 29, 2021",Sao Paulo,Brazil,-0.2
 "Apr 29, 2021",Bogota,Colombia,-0.2
-"Apr 29, 2021",Fortaleza,Brazil,-0.19
+"Apr 29, 2021",Sao Paulo,Brazil,-0.2
+"Apr 29, 2021",Petaling Jaya,Malaysia,-0.19
 "Apr 29, 2021",Baltimore,United States,-0.19
 "Apr 29, 2021",Pittsburgh,United States,-0.19
-"Apr 29, 2021",Petaling Jaya,Malaysia,-0.19
+"Apr 29, 2021",Fortaleza,Brazil,-0.19
+"Apr 29, 2021",Charlotte,United States,-0.18
 "Apr 29, 2021",Salvador,Brazil,-0.18
 "Apr 29, 2021",Guadalajara,Mexico,-0.18
-"Apr 29, 2021",Charlotte,United States,-0.18
 "Apr 29, 2021",Toulouse,France,-0.17
 "Apr 29, 2021",Tangerang,Indonesia,-0.17
-"Apr 29, 2021",Birmingham,United Kingdom,-0.16
 "Apr 29, 2021",Bordeaux,France,-0.16
 "Apr 29, 2021",Rio De Janeiro,Brazil,-0.16
+"Apr 29, 2021",Birmingham,United Kingdom,-0.16
 "Apr 29, 2021",Bristol,United Kingdom,-0.16
 "Apr 29, 2021",Manchester,United Kingdom,-0.15
 "Apr 29, 2021",Recife,Brazil,-0.14
-"Apr 29, 2021",Montreal,Canada,-0.14
 "Apr 29, 2021",Curitiba,Brazil,-0.14
-"Apr 29, 2021",Montevideo,Uruguay,-0.14
 "Apr 29, 2021",Raleigh,United States,-0.14
+"Apr 29, 2021",Montevideo,Uruguay,-0.14
+"Apr 29, 2021",Montreal,Canada,-0.14
 "Apr 29, 2021",Antwerp,Belgium,-0.13
 "Apr 29, 2021",Porto Alegre,Brazil,-0.13
 "Apr 29, 2021",Buenos Aires,Argentina,-0.12
 "Apr 29, 2021",Johor Bahru,Malaysia,-0.11
 "Apr 29, 2021",Budapest,Hungary,-0.1
-"Apr 29, 2021",Lille,France,-0.1
 "Apr 29, 2021",Barcelona,Spain,-0.1
+"Apr 29, 2021",Lille,France,-0.1
 "Apr 29, 2021",Rome,Italy,-0.1
 "Apr 29, 2021",Guarulhos,Brazil,-0.09
 "Apr 29, 2021",Stamford,United States,-0.09
 "Apr 29, 2021",Melbourne,Australia,-0.08
-"Apr 29, 2021",Shah Alam,Malaysia,-0.06
 "Apr 29, 2021",Cape Town,South Africa,-0.06
+"Apr 29, 2021",Shah Alam,Malaysia,-0.06
 "Apr 29, 2021",Calgary,Canada,-0.05
 "Apr 29, 2021",Miami Beach,United States,-0.05
-"Apr 29, 2021",Fort Worth,United States,-0.04
 "Apr 29, 2021",Marseille,France,-0.04
+"Apr 29, 2021",Fort Worth,United States,-0.04
 "Apr 29, 2021",Warsaw,Poland,-0.03
 "Apr 29, 2021",Puchong,Malaysia,-0.02
 "Apr 29, 2021",Medellin,Colombia,-0.02
-"Apr 29, 2021",London,United Kingdom,-0.01
 "Apr 29, 2021",New York,United States,-0.01
+"Apr 29, 2021",London,United Kingdom,-0.01
 "Apr 29, 2021",South Tangerang,Indonesia,0.01
 "Apr 29, 2021",Doha,Qatar,0.02
 "Apr 29, 2021",Bratislava,Slovakia,0.02
 "Apr 29, 2021",Prague,Czechia,0.03
-"Apr 29, 2021",Tel Aviv-Yafo,Israel,0.04
 "Apr 29, 2021",Riga,Latvia,0.04
-"Apr 29, 2021",Jerusalem,Israel,0.05
+"Apr 29, 2021",Tel Aviv-Yafo,Israel,0.04
 "Apr 29, 2021",Las Condes,Chile,0.05
+"Apr 29, 2021",Jerusalem,Israel,0.05
 "Apr 29, 2021",Haifa,Israel,0.06
 "Apr 29, 2021",Singapore,Singapore,0.08
 "Apr 29, 2021",Yonkers,United States,0.08
 "Apr 29, 2021",Santiago,Chile,0.1
-"Apr 29, 2021",Petah Tikva,Israel,0.11
 "Apr 29, 2021",Bucharest,Romania,0.11
+"Apr 29, 2021",Petah Tikva,Israel,0.11
 "Apr 29, 2021",Stockholm,Sweden,0.12
 "Apr 29, 2021",Ramat Gan,Israel,0.14
 "Apr 29, 2021",Rishon Letsiyon,Israel,0.16
 "Apr 29, 2021",Perth,Australia,0.19
-"Apr 29, 2021",Rotterdam,Netherlands,0.2
 "Apr 29, 2021",Be'er Sheva,Israel,0.2
+"Apr 29, 2021",Rotterdam,Netherlands,0.2
 "Apr 29, 2021",Brno,Czechia,0.21
 "Apr 29, 2021",Sydney,Australia,0.22
 "Apr 29, 2021",Gold Coast,Australia,0.34
@@ -576,89 +1136,89 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Apr 28, 2021",Krakow,Poland,-0.45
 "Apr 28, 2021",Jakarta,Indonesia,-0.43
 "Apr 28, 2021",Seattle,United States,-0.41
-"Apr 28, 2021",South Tangerang,Indonesia,-0.4
 "Apr 28, 2021",Austin,United States,-0.4
+"Apr 28, 2021",South Tangerang,Indonesia,-0.4
 "Apr 28, 2021",Los Angeles,United States,-0.39
 "Apr 28, 2021",Toronto,Canada,-0.39
+"Apr 28, 2021",Brussels,Belgium,-0.38
 "Apr 28, 2021",Vaughan,Canada,-0.38
 "Apr 28, 2021",Manila,Philippines,-0.38
-"Apr 28, 2021",Brussels,Belgium,-0.38
-"Apr 28, 2021",Irvine,United States,-0.37
-"Apr 28, 2021",Quito,Ecuador,-0.37
 "Apr 28, 2021",Ottawa,Canada,-0.37
+"Apr 28, 2021",Irvine,United States,-0.37
 "Apr 28, 2021",Ipoh,Malaysia,-0.37
+"Apr 28, 2021",Quito,Ecuador,-0.37
 "Apr 28, 2021",Portland,United States,-0.36
+"Apr 28, 2021",Quebec City,Canada,-0.35
 "Apr 28, 2021",Pittsburgh,United States,-0.35
 "Apr 28, 2021",Tangerang,Indonesia,-0.35
-"Apr 28, 2021",Quebec City,Canada,-0.35
-"Apr 28, 2021",Milan,Italy,-0.34
-"Apr 28, 2021",Oakland,United States,-0.34
-"Apr 28, 2021",Orlando,United States,-0.34
 "Apr 28, 2021",Amsterdam,Netherlands,-0.34
+"Apr 28, 2021",Milan,Italy,-0.34
+"Apr 28, 2021",Orlando,United States,-0.34
+"Apr 28, 2021",Oakland,United States,-0.34
 "Apr 28, 2021",Miami Beach,United States,-0.33
-"Apr 28, 2021",Boston,United States,-0.32
-"Apr 28, 2021",Stamford,United States,-0.32
 "Apr 28, 2021",Jersey City,United States,-0.32
-"Apr 28, 2021",Sacramento,United States,-0.31
+"Apr 28, 2021",Stamford,United States,-0.32
+"Apr 28, 2021",Boston,United States,-0.32
 "Apr 28, 2021",Mexico City,Mexico,-0.31
+"Apr 28, 2021",Sacramento,United States,-0.31
+"Apr 28, 2021",Houston,United States,-0.31
 "Apr 28, 2021",Bogota,Colombia,-0.31
 "Apr 28, 2021",Manchester,United Kingdom,-0.31
-"Apr 28, 2021",Houston,United States,-0.31
 "Apr 28, 2021",Zapopan,Mexico,-0.3
-"Apr 28, 2021",San Antonio,United States,-0.29
 "Apr 28, 2021",Washington,United States,-0.29
-"Apr 28, 2021",Santiago De Queretaro,Mexico,-0.29
 "Apr 28, 2021",Berlin,Germany,-0.29
-"Apr 28, 2021",Lima,Peru,-0.28
-"Apr 28, 2021",Dallas,United States,-0.28
-"Apr 28, 2021",Fort Lauderdale,United States,-0.28
-"Apr 28, 2021",Rotterdam,Netherlands,-0.28
+"Apr 28, 2021",San Antonio,United States,-0.29
+"Apr 28, 2021",Santiago De Queretaro,Mexico,-0.29
 "Apr 28, 2021",Calgary,Canada,-0.28
-"Apr 28, 2021",Montevideo,Uruguay,-0.27
+"Apr 28, 2021",Lima,Peru,-0.28
+"Apr 28, 2021",Fort Lauderdale,United States,-0.28
+"Apr 28, 2021",Dallas,United States,-0.28
+"Apr 28, 2021",Rotterdam,Netherlands,-0.28
 "Apr 28, 2021",Nashville,United States,-0.27
+"Apr 28, 2021",Montevideo,Uruguay,-0.27
 "Apr 28, 2021",Phoenix,United States,-0.26
 "Apr 28, 2021",Chicago,United States,-0.26
 "Apr 28, 2021",Miami,United States,-0.26
 "Apr 28, 2021",San Jose,Costa Rica,-0.25
 "Apr 28, 2021",Detroit,United States,-0.25
-"Apr 28, 2021",Cambridge,United States,-0.24
 "Apr 28, 2021",Fortaleza,Brazil,-0.24
-"Apr 28, 2021",Ghent,Belgium,-0.24
 "Apr 28, 2021",Hamilton,Canada,-0.24
+"Apr 28, 2021",Ghent,Belgium,-0.24
 "Apr 28, 2021",Salvador,Brazil,-0.24
-"Apr 28, 2021",Antwerp,Belgium,-0.23
-"Apr 28, 2021",Lille,France,-0.23
+"Apr 28, 2021",Cambridge,United States,-0.24
 "Apr 28, 2021",Florianopolis,Brazil,-0.23
+"Apr 28, 2021",Lille,France,-0.23
+"Apr 28, 2021",Antwerp,Belgium,-0.23
 "Apr 28, 2021",Atlanta,United States,-0.23
+"Apr 28, 2021",Bristol,United Kingdom,-0.23
 "Apr 28, 2021",Puebla City,Mexico,-0.23
 "Apr 28, 2021",Hartford,United States,-0.23
 "Apr 28, 2021",Madrid,Spain,-0.23
-"Apr 28, 2021",Bristol,United Kingdom,-0.23
 "Apr 28, 2021",New Orleans,United States,-0.22
 "Apr 28, 2021",Sao Paulo,Brazil,-0.21
 "Apr 28, 2021",Belo Horizonte,Brazil,-0.21
-"Apr 28, 2021",Charlotte,United States,-0.2
-"Apr 28, 2021",Birmingham,United Kingdom,-0.2
 "Apr 28, 2021",Guadalajara,Mexico,-0.2
-"Apr 28, 2021",Barcelona,Spain,-0.2
+"Apr 28, 2021",Birmingham,United Kingdom,-0.2
 "Apr 28, 2021",Tampa,United States,-0.2
-"Apr 28, 2021",Medellin,Colombia,-0.18
-"Apr 28, 2021",Guarulhos,Brazil,-0.18
+"Apr 28, 2021",Barcelona,Spain,-0.2
+"Apr 28, 2021",Charlotte,United States,-0.2
 "Apr 28, 2021",Lyon,France,-0.18
+"Apr 28, 2021",Guarulhos,Brazil,-0.18
+"Apr 28, 2021",Medellin,Colombia,-0.18
 "Apr 28, 2021",Baltimore,United States,-0.18
 "Apr 28, 2021",Paris,France,-0.17
 "Apr 28, 2021",Rio De Janeiro,Brazil,-0.17
 "Apr 28, 2021",Montreal,Canada,-0.17
-"Apr 28, 2021",Lisbon,Portugal,-0.16
 "Apr 28, 2021",Philadelphia,United States,-0.16
+"Apr 28, 2021",Lisbon,Portugal,-0.16
 "Apr 28, 2021",Bordeaux,France,-0.16
-"Apr 28, 2021",Buenos Aires,Argentina,-0.15
 "Apr 28, 2021",Curitiba,Brazil,-0.15
-"Apr 28, 2021",Toulouse,France,-0.14
-"Apr 28, 2021",Porto Alegre,Brazil,-0.14
+"Apr 28, 2021",Buenos Aires,Argentina,-0.15
 "Apr 28, 2021",Raleigh,United States,-0.14
-"Apr 28, 2021",Bratislava,Slovakia,-0.13
+"Apr 28, 2021",Porto Alegre,Brazil,-0.14
+"Apr 28, 2021",Toulouse,France,-0.14
 "Apr 28, 2021",Johor Bahru,Malaysia,-0.13
+"Apr 28, 2021",Bratislava,Slovakia,-0.13
 "Apr 28, 2021",Recife,Brazil,-0.12
 "Apr 28, 2021",Fort Worth,United States,-0.11
 "Apr 28, 2021",Kuala Lumpur,Malaysia,-0.1
@@ -673,8 +1233,8 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Apr 28, 2021",Las Condes,Chile,-0.03
 "Apr 28, 2021",Cincinnati,United States,-0.01
 "Apr 28, 2021",Melbourne,Australia,0.0
-"Apr 28, 2021",New York,United States,0.01
 "Apr 28, 2021",Jerusalem,Israel,0.01
+"Apr 28, 2021",New York,United States,0.01
 "Apr 28, 2021",London,United Kingdom,0.01
 "Apr 28, 2021",Santiago,Chile,0.02
 "Apr 28, 2021",Perth,Australia,0.03
@@ -683,17 +1243,17 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Apr 28, 2021",Bekasi,Indonesia,0.05
 "Apr 28, 2021",Singapore,Singapore,0.07
 "Apr 28, 2021",Tel Aviv-Yafo,Israel,0.08
-"Apr 28, 2021",Riga,Latvia,0.09
 "Apr 28, 2021",Haifa,Israel,0.09
+"Apr 28, 2021",Riga,Latvia,0.09
 "Apr 28, 2021",Doha,Qatar,0.1
 "Apr 28, 2021",Petah Tikva,Israel,0.11
-"Apr 28, 2021",Puchong,Malaysia,0.12
 "Apr 28, 2021",Shah Alam,Malaysia,0.12
+"Apr 28, 2021",Puchong,Malaysia,0.12
 "Apr 28, 2021",Brno,Czechia,0.17
 "Apr 28, 2021",Rishon Letsiyon,Israel,0.19
+"Apr 28, 2021",Ramat Gan,Israel,0.2
 "Apr 28, 2021",Bucharest,Romania,0.2
 "Apr 28, 2021",Sydney,Australia,0.2
-"Apr 28, 2021",Ramat Gan,Israel,0.2
 "Apr 28, 2021",Yonkers,United States,0.25
 "Apr 28, 2021",Maipu,Chile,0.41
 "Apr 28, 2021",Vilnius,Lithuania,0.53
@@ -708,17 +1268,17 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Apr 27, 2021",Jersey City,United States,-0.57
 "Apr 27, 2021",Seattle,United States,-0.55
 "Apr 27, 2021",Mississauga,Canada,-0.55
-"Apr 27, 2021",Quezon City,Philippines,-0.54
 "Apr 27, 2021",Rotterdam,Netherlands,-0.54
+"Apr 27, 2021",Quezon City,Philippines,-0.54
 "Apr 27, 2021",Oakland,United States,-0.51
-"Apr 27, 2021",Amsterdam,Netherlands,-0.48
 "Apr 27, 2021",Bristol,United Kingdom,-0.48
 "Apr 27, 2021",San Francisco,United States,-0.48
+"Apr 27, 2021",Amsterdam,Netherlands,-0.48
 "Apr 27, 2021",Pittsburgh,United States,-0.46
 "Apr 27, 2021",Toronto,Canada,-0.45
-"Apr 27, 2021",Detroit,United States,-0.44
-"Apr 27, 2021",San Jose,United States,-0.44
 "Apr 27, 2021",San Diego,United States,-0.44
+"Apr 27, 2021",San Jose,United States,-0.44
+"Apr 27, 2021",Detroit,United States,-0.44
 "Apr 27, 2021",Irvine,United States,-0.43
 "Apr 27, 2021",Denver,United States,-0.42
 "Apr 27, 2021",Los Angeles,United States,-0.4
@@ -726,579 +1286,19 @@ Date,City,Country,% Change In Waze Driven Miles/KMs
 "Apr 27, 2021",Austin,United States,-0.38
 "Apr 27, 2021",Jakarta,Indonesia,-0.38
 "Apr 27, 2021",Bekasi,Indonesia,-0.37
-"Apr 27, 2021",Portland,United States,-0.35
 "Apr 27, 2021",Cambridge,United States,-0.35
+"Apr 27, 2021",Portland,United States,-0.35
 "Apr 27, 2021",Brasilia,Brazil,-0.34
-"Apr 27, 2021",Luton,United Kingdom,-0.33
-"Apr 27, 2021",Zapopan,Mexico,-0.33
 "Apr 27, 2021",Nashville,United States,-0.33
-"Apr 27, 2021",Tampa,United States,-0.32
-"Apr 27, 2021",Boston,United States,-0.32
-"Apr 27, 2021",Atlanta,United States,-0.32
+"Apr 27, 2021",Zapopan,Mexico,-0.33
+"Apr 27, 2021",Luton,United Kingdom,-0.33
 "Apr 27, 2021",Miami Beach,United States,-0.32
 "Apr 27, 2021",San Antonio,United States,-0.32
+"Apr 27, 2021",Atlanta,United States,-0.32
+"Apr 27, 2021",Boston,United States,-0.32
 "Apr 27, 2021",Mexico City,Mexico,-0.32
-"Apr 27, 2021",Dallas,United States,-0.31
-"Apr 27, 2021",Phoenix,United States,-0.31
-"Apr 27, 2021",Manila,Philippines,-0.31
+"Apr 27, 2021",Tampa,United States,-0.32
 "Apr 27, 2021",Brussels,Belgium,-0.31
-"Apr 27, 2021",Guadalajara,Mexico,-0.31
-"Apr 27, 2021",Houston,United States,-0.3
-"Apr 27, 2021",Miami,United States,-0.3
-"Apr 27, 2021",Ghent,Belgium,-0.29
-"Apr 27, 2021",Santiago De Queretaro,Mexico,-0.29
-"Apr 27, 2021",Sacramento,United States,-0.29
-"Apr 27, 2021",Orlando,United States,-0.28
-"Apr 27, 2021",Quebec City,Canada,-0.28
-"Apr 27, 2021",South Tangerang,Indonesia,-0.27
-"Apr 27, 2021",Monterrey,Mexico,-0.27
-"Apr 27, 2021",Calgary,Canada,-0.26
-"Apr 27, 2021",Hartford,United States,-0.26
-"Apr 27, 2021",Chicago,United States,-0.26
-"Apr 27, 2021",Raleigh,United States,-0.25
-"Apr 27, 2021",Lima,Peru,-0.25
-"Apr 27, 2021",Puebla City,Mexico,-0.25
-"Apr 27, 2021",Toulouse,France,-0.25
-"Apr 27, 2021",Charlotte,United States,-0.25
-"Apr 27, 2021",Vaughan,Canada,-0.24
-"Apr 27, 2021",Antwerp,Belgium,-0.24
-"Apr 27, 2021",New Orleans,United States,-0.24
-"Apr 27, 2021",Baltimore,United States,-0.24
-"Apr 27, 2021",Cape Town,South Africa,-0.24
-"Apr 27, 2021",Madrid,Spain,-0.23
-"Apr 27, 2021",Florianopolis,Brazil,-0.23
-"Apr 27, 2021",Lille,France,-0.23
-"Apr 27, 2021",Paris,France,-0.22
-"Apr 27, 2021",Philadelphia,United States,-0.22
-"Apr 27, 2021",Montevideo,Uruguay,-0.21
-"Apr 27, 2021",Bratislava,Slovakia,-0.21
-"Apr 27, 2021",Warsaw,Poland,-0.21
-"Apr 27, 2021",San Jose,Costa Rica,-0.21
-"Apr 27, 2021",Birmingham,United Kingdom,-0.2
-"Apr 27, 2021",Barcelona,Spain,-0.19
-"Apr 27, 2021",Montreal,Canada,-0.18
-"Apr 27, 2021",Belo Horizonte,Brazil,-0.18
-"Apr 27, 2021",Bordeaux,France,-0.17
-"Apr 27, 2021",Johor Bahru,Malaysia,-0.16
-"Apr 27, 2021",Milan,Italy,-0.16
-"Apr 27, 2021",Lisbon,Portugal,-0.15
-"Apr 27, 2021",Minneapolis,United States,-0.14
-"Apr 27, 2021",Vitoria,Brazil,-0.14
-"Apr 27, 2021",Quito,Ecuador,-0.13
-"Apr 27, 2021",Buenos Aires,Argentina,-0.13
-"Apr 27, 2021",Rome,Italy,-0.13
-"Apr 27, 2021",Lyon,France,-0.12
-"Apr 27, 2021",Guarulhos,Brazil,-0.12
-"Apr 27, 2021",Sao Paulo,Brazil,-0.12
-"Apr 27, 2021",Hamilton,Canada,-0.11
-"Apr 27, 2021",Kuala Lumpur,Malaysia,-0.11
-"Apr 27, 2021",Rio De Janeiro,Brazil,-0.1
-"Apr 27, 2021",Las Condes,Chile,-0.1
-"Apr 27, 2021",Salvador,Brazil,-0.1
-"Apr 27, 2021",Bogota,Colombia,-0.1
-"Apr 27, 2021",Ipoh,Malaysia,-0.1
-"Apr 27, 2021",Fortaleza,Brazil,-0.09
-"Apr 27, 2021",Recife,Brazil,-0.09
-"Apr 27, 2021",Fort Worth,United States,-0.08
-"Apr 27, 2021",Porto Alegre,Brazil,-0.07
-"Apr 27, 2021",Liverpool,United Kingdom,-0.06
-"Apr 27, 2021",Budapest,Hungary,-0.06
-"Apr 27, 2021",New York,United States,-0.06
-"Apr 27, 2021",Perth,Australia,-0.05
-"Apr 27, 2021",Yonkers,United States,-0.05
-"Apr 27, 2021",Petaling Jaya,Malaysia,-0.05
-"Apr 27, 2021",Manchester,United Kingdom,-0.03
-"Apr 27, 2021",Santiago,Chile,-0.02
-"Apr 27, 2021",Cincinnati,United States,-0.02
-"Apr 27, 2021",Curitiba,Brazil,0.0
-"Apr 27, 2021",Puchong,Malaysia,0.0
-"Apr 27, 2021",Doha,Qatar,0.0
-"Apr 27, 2021",Marseille,France,0.01
-"Apr 27, 2021",London,United Kingdom,0.01
-"Apr 27, 2021",Fort Lauderdale,United States,0.02
-"Apr 27, 2021",Melbourne,Australia,0.02
-"Apr 27, 2021",Petah Tikva,Israel,0.04
-"Apr 27, 2021",Medellin,Colombia,0.04
-"Apr 27, 2021",Shah Alam,Malaysia,0.05
-"Apr 27, 2021",Riga,Latvia,0.05
-"Apr 27, 2021",Berlin,Germany,0.06
-"Apr 27, 2021",Prague,Czechia,0.06
-"Apr 27, 2021",Singapore,Singapore,0.07
-"Apr 27, 2021",Tel Aviv-Yafo,Israel,0.08
-"Apr 27, 2021",Haifa,Israel,0.08
-"Apr 27, 2021",Stockholm,Sweden,0.09
-"Apr 27, 2021",Be'er Sheva,Israel,0.1
-"Apr 27, 2021",Jerusalem,Israel,0.11
-"Apr 27, 2021",Ramat Gan,Israel,0.12
-"Apr 27, 2021",Rishon Letsiyon,Israel,0.14
-"Apr 27, 2021",Bucharest,Romania,0.15
-"Apr 27, 2021",Cali,Colombia,0.15
-"Apr 27, 2021",Kaunas,Lithuania,0.22
-"Apr 27, 2021",Brno,Czechia,0.22
-"Apr 27, 2021",Sydney,Australia,0.22
-"Apr 27, 2021",Maipu,Chile,0.31
-"Apr 27, 2021",Stamford,United States,0.38
-"Apr 27, 2021",Gold Coast,Australia,0.44
-"Apr 27, 2021",Brisbane,Australia,0.53
-"Apr 27, 2021",Vilnius,Lithuania,0.54
-"Apr 26, 2021",Quebec City,Canada,-0.92
-"Apr 26, 2021",Makati,Philippines,-0.69
-"Apr 26, 2021",Rotterdam,Netherlands,-0.69
-"Apr 26, 2021",South Tangerang,Indonesia,-0.63
-"Apr 26, 2021",Quezon City,Philippines,-0.53
-"Apr 26, 2021",Florianopolis,Brazil,-0.52
-"Apr 26, 2021",Irvine,United States,-0.52
-"Apr 26, 2021",Denver,United States,-0.5
-"Apr 26, 2021",Cambridge,United States,-0.49
-"Apr 26, 2021",Liverpool,United Kingdom,-0.46
-"Apr 26, 2021",San Francisco,United States,-0.45
-"Apr 26, 2021",Ottawa,Canada,-0.43
-"Apr 26, 2021",Amsterdam,Netherlands,-0.42
-"Apr 26, 2021",Mississauga,Canada,-0.4
-"Apr 26, 2021",Manila,Philippines,-0.4
-"Apr 26, 2021",Jakarta,Indonesia,-0.38
-"Apr 26, 2021",San Diego,United States,-0.36
-"Apr 26, 2021",Oakland,United States,-0.36
-"Apr 26, 2021",Austin,United States,-0.36
-"Apr 26, 2021",Pittsburgh,United States,-0.36
-"Apr 26, 2021",Brasilia,Brazil,-0.36
-"Apr 26, 2021",San Jose,United States,-0.35
-"Apr 26, 2021",Vaughan,Canada,-0.35
-"Apr 26, 2021",Monterrey,Mexico,-0.35
-"Apr 26, 2021",Bekasi,Indonesia,-0.35
-"Apr 26, 2021",Las Condes,Chile,-0.34
-"Apr 26, 2021",Los Angeles,United States,-0.33
-"Apr 26, 2021",Detroit,United States,-0.33
-"Apr 26, 2021",Seattle,United States,-0.31
-"Apr 26, 2021",Jersey City,United States,-0.31
-"Apr 26, 2021",Portland,United States,-0.31
-"Apr 26, 2021",Lima,Peru,-0.31
-"Apr 26, 2021",Mexico City,Mexico,-0.3
-"Apr 26, 2021",Boston,United States,-0.3
-"Apr 26, 2021",Manchester,United Kingdom,-0.3
-"Apr 26, 2021",San Jose,Costa Rica,-0.3
-"Apr 26, 2021",Sacramento,United States,-0.29
-"Apr 26, 2021",Chicago,United States,-0.29
-"Apr 26, 2021",Toronto,Canada,-0.29
-"Apr 26, 2021",Phoenix,United States,-0.28
-"Apr 26, 2021",Stamford,United States,-0.28
-"Apr 26, 2021",Santiago De Queretaro,Mexico,-0.28
-"Apr 26, 2021",Washington,United States,-0.27
-"Apr 26, 2021",Houston,United States,-0.27
-"Apr 26, 2021",New Orleans,United States,-0.27
-"Apr 26, 2021",Tampa,United States,-0.27
-"Apr 26, 2021",Montreal,Canada,-0.26
-"Apr 26, 2021",Bristol,United Kingdom,-0.25
-"Apr 26, 2021",Atlanta,United States,-0.25
-"Apr 26, 2021",Luton,United Kingdom,-0.25
-"Apr 26, 2021",Zapopan,Mexico,-0.24
-"Apr 26, 2021",Raleigh,United States,-0.24
-"Apr 26, 2021",Guadalajara,Mexico,-0.24
-"Apr 26, 2021",Krakow,Poland,-0.24
-"Apr 26, 2021",Antwerp,Belgium,-0.23
-"Apr 26, 2021",Charlotte,United States,-0.23
-"Apr 26, 2021",Orlando,United States,-0.23
-"Apr 26, 2021",Madrid,Spain,-0.22
-"Apr 26, 2021",Santiago,Chile,-0.22
-"Apr 26, 2021",Fort Lauderdale,United States,-0.22
-"Apr 26, 2021",Miami,United States,-0.22
-"Apr 26, 2021",Dallas,United States,-0.22
-"Apr 26, 2021",Calgary,Canada,-0.22
-"Apr 26, 2021",Baltimore,United States,-0.22
-"Apr 26, 2021",Paris,France,-0.21
-"Apr 26, 2021",Philadelphia,United States,-0.21
-"Apr 26, 2021",Nashville,United States,-0.21
-"Apr 26, 2021",Brussels,Belgium,-0.21
-"Apr 26, 2021",San Antonio,United States,-0.2
-"Apr 26, 2021",Rome,Italy,-0.2
-"Apr 26, 2021",Bogota,Colombia,-0.2
-"Apr 26, 2021",Hartford,United States,-0.19
-"Apr 26, 2021",Bratislava,Slovakia,-0.18
-"Apr 26, 2021",Toulouse,France,-0.17
-"Apr 26, 2021",Puebla City,Mexico,-0.17
-"Apr 26, 2021",Birmingham,United Kingdom,-0.16
-"Apr 26, 2021",Lisbon,Portugal,-0.16
-"Apr 26, 2021",Cincinnati,United States,-0.15
-"Apr 26, 2021",Minneapolis,United States,-0.14
-"Apr 26, 2021",Lyon,France,-0.14
-"Apr 26, 2021",Buenos Aires,Argentina,-0.14
-"Apr 26, 2021",Ghent,Belgium,-0.14
-"Apr 26, 2021",Hamilton,Canada,-0.13
-"Apr 26, 2021",Kuala Lumpur,Malaysia,-0.13
-"Apr 26, 2021",Quito,Ecuador,-0.13
-"Apr 26, 2021",Montevideo,Uruguay,-0.13
-"Apr 26, 2021",Barcelona,Spain,-0.12
-"Apr 26, 2021",Petaling Jaya,Malaysia,-0.12
-"Apr 26, 2021",Belo Horizonte,Brazil,-0.11
-"Apr 26, 2021",Johor Bahru,Malaysia,-0.1
-"Apr 26, 2021",Tangerang,Indonesia,-0.09
-"Apr 26, 2021",Salvador,Brazil,-0.09
-"Apr 26, 2021",Cape Town,South Africa,-0.09
-"Apr 26, 2021",Budapest,Hungary,-0.08
-"Apr 26, 2021",Bordeaux,France,-0.07
-"Apr 26, 2021",Lille,France,-0.07
-"Apr 26, 2021",Stockholm,Sweden,-0.07
-"Apr 26, 2021",Warsaw,Poland,-0.05
-"Apr 26, 2021",New York,United States,-0.04
-"Apr 26, 2021",Cali,Colombia,-0.03
-"Apr 26, 2021",London,United Kingdom,-0.03
-"Apr 26, 2021",Fort Worth,United States,-0.03
-"Apr 26, 2021",Yonkers,United States,-0.02
-"Apr 26, 2021",Recife,Brazil,-0.02
-"Apr 26, 2021",Rio De Janeiro,Brazil,-0.02
-"Apr 26, 2021",Shah Alam,Malaysia,-0.01
-"Apr 26, 2021",Doha,Qatar,-0.01
-"Apr 26, 2021",Milan,Italy,-0.01
-"Apr 26, 2021",Sao Paulo,Brazil,-0.01
-"Apr 26, 2021",Maipu,Chile,0.0
-"Apr 26, 2021",Melbourne,Australia,0.01
-"Apr 26, 2021",Ipoh,Malaysia,0.01
-"Apr 26, 2021",Guarulhos,Brazil,0.01
-"Apr 26, 2021",Miami Beach,United States,0.01
-"Apr 26, 2021",Jerusalem,Israel,0.02
-"Apr 26, 2021",Medellin,Colombia,0.02
-"Apr 26, 2021",Porto Alegre,Brazil,0.02
-"Apr 26, 2021",Fortaleza,Brazil,0.02
-"Apr 26, 2021",Singapore,Singapore,0.04
-"Apr 26, 2021",Prague,Czechia,0.06
-"Apr 26, 2021",Petah Tikva,Israel,0.06
-"Apr 26, 2021",Tel Aviv-Yafo,Israel,0.06
-"Apr 26, 2021",Brno,Czechia,0.06
-"Apr 26, 2021",Marseille,France,0.07
-"Apr 26, 2021",Riga,Latvia,0.07
-"Apr 26, 2021",Ramat Gan,Israel,0.07
-"Apr 26, 2021",Curitiba,Brazil,0.08
-"Apr 26, 2021",Rishon Letsiyon,Israel,0.09
-"Apr 26, 2021",Haifa,Israel,0.1
-"Apr 26, 2021",Be'er Sheva,Israel,0.14
-"Apr 26, 2021",Bucharest,Romania,0.14
-"Apr 26, 2021",Puchong,Malaysia,0.15
-"Apr 26, 2021",Vitoria,Brazil,0.25
-"Apr 26, 2021",Perth,Australia,0.34
-"Apr 26, 2021",Berlin,Germany,0.37
-"Apr 26, 2021",Sydney,Australia,0.38
-"Apr 26, 2021",Vilnius,Lithuania,0.43
-"Apr 26, 2021",Brisbane,Australia,0.59
-"Apr 26, 2021",Kaunas,Lithuania,0.75
-"Apr 26, 2021",Gold Coast,Australia,0.87
-"Apr 25, 2021",Quito,Ecuador,-0.78
-"Apr 25, 2021",New Orleans,United States,-0.74
-"Apr 25, 2021",Makati,Philippines,-0.67
-"Apr 25, 2021",Cali,Colombia,-0.67
-"Apr 25, 2021",Ottawa,Canada,-0.67
-"Apr 25, 2021",Bogota,Colombia,-0.63
-"Apr 25, 2021",South Tangerang,Indonesia,-0.61
-"Apr 25, 2021",Cambridge,United States,-0.59
-"Apr 25, 2021",Lima,Peru,-0.57
-"Apr 25, 2021",Bekasi,Indonesia,-0.56
-"Apr 25, 2021",Hamilton,Canada,-0.54
-"Apr 25, 2021",Quezon City,Philippines,-0.53
-"Apr 25, 2021",Medellin,Colombia,-0.52
-"Apr 25, 2021",Florianopolis,Brazil,-0.51
-"Apr 25, 2021",Las Condes,Chile,-0.48
-"Apr 25, 2021",Manila,Philippines,-0.47
-"Apr 25, 2021",Mississauga,Canada,-0.46
-"Apr 25, 2021",Tangerang,Indonesia,-0.46
-"Apr 25, 2021",Barcelona,Spain,-0.45
-"Apr 25, 2021",Jakarta,Indonesia,-0.45
-"Apr 25, 2021",Santiago,Chile,-0.45
-"Apr 25, 2021",Madrid,Spain,-0.44
-"Apr 25, 2021",Calgary,Canada,-0.44
-"Apr 25, 2021",Krakow,Poland,-0.43
-"Apr 25, 2021",Brasilia,Brazil,-0.43
-"Apr 25, 2021",Amsterdam,Netherlands,-0.42
-"Apr 25, 2021",Toronto,Canada,-0.4
-"Apr 25, 2021",San Francisco,United States,-0.4
-"Apr 25, 2021",Miami Beach,United States,-0.37
-"Apr 25, 2021",Montevideo,Uruguay,-0.37
-"Apr 25, 2021",Quebec City,Canada,-0.36
-"Apr 25, 2021",Belo Horizonte,Brazil,-0.36
-"Apr 25, 2021",Vitoria,Brazil,-0.36
-"Apr 25, 2021",Sacramento,United States,-0.35
-"Apr 25, 2021",Rotterdam,Netherlands,-0.35
-"Apr 25, 2021",Milan,Italy,-0.35
-"Apr 25, 2021",Perth,Australia,-0.35
-"Apr 25, 2021",Portland,United States,-0.34
-"Apr 25, 2021",Mexico City,Mexico,-0.31
-"Apr 25, 2021",Lisbon,Portugal,-0.31
-"Apr 25, 2021",San Diego,United States,-0.3
-"Apr 25, 2021",Fort Lauderdale,United States,-0.3
-"Apr 25, 2021",Los Angeles,United States,-0.3
-"Apr 25, 2021",Buenos Aires,Argentina,-0.3
-"Apr 25, 2021",Salvador,Brazil,-0.28
-"Apr 25, 2021",Rome,Italy,-0.28
-"Apr 25, 2021",Ghent,Belgium,-0.28
-"Apr 25, 2021",Montreal,Canada,-0.28
-"Apr 25, 2021",Oakland,United States,-0.28
-"Apr 25, 2021",Lyon,France,-0.28
-"Apr 25, 2021",Washington,United States,-0.28
-"Apr 25, 2021",Monterrey,Mexico,-0.28
-"Apr 25, 2021",Toulouse,France,-0.28
-"Apr 25, 2021",San Jose,United States,-0.28
-"Apr 25, 2021",Boston,United States,-0.27
-"Apr 25, 2021",Puebla City,Mexico,-0.27
-"Apr 25, 2021",Denver,United States,-0.27
-"Apr 25, 2021",Guadalajara,Mexico,-0.27
-"Apr 25, 2021",Fortaleza,Brazil,-0.27
-"Apr 25, 2021",San Jose,Costa Rica,-0.26
-"Apr 25, 2021",Paris,France,-0.26
-"Apr 25, 2021",Seattle,United States,-0.25
-"Apr 25, 2021",Miami,United States,-0.25
-"Apr 25, 2021",Austin,United States,-0.25
-"Apr 25, 2021",Petaling Jaya,Malaysia,-0.25
-"Apr 25, 2021",Santiago De Queretaro,Mexico,-0.24
-"Apr 25, 2021",Birmingham,United Kingdom,-0.24
-"Apr 25, 2021",Bratislava,Slovakia,-0.23
-"Apr 25, 2021",Chicago,United States,-0.23
-"Apr 25, 2021",Recife,Brazil,-0.23
-"Apr 25, 2021",Lille,France,-0.22
-"Apr 25, 2021",Vaughan,Canada,-0.22
-"Apr 25, 2021",Kuala Lumpur,Malaysia,-0.2
-"Apr 25, 2021",Luton,United Kingdom,-0.2
-"Apr 25, 2021",Liverpool,United Kingdom,-0.2
-"Apr 25, 2021",Irvine,United States,-0.19
-"Apr 25, 2021",Tampa,United States,-0.19
-"Apr 25, 2021",Johor Bahru,Malaysia,-0.19
-"Apr 25, 2021",Curitiba,Brazil,-0.19
-"Apr 25, 2021",Detroit,United States,-0.19
-"Apr 25, 2021",Warsaw,Poland,-0.18
-"Apr 25, 2021",Bordeaux,France,-0.18
-"Apr 25, 2021",Zapopan,Mexico,-0.17
-"Apr 25, 2021",Ipoh,Malaysia,-0.17
-"Apr 25, 2021",Rio De Janeiro,Brazil,-0.17
-"Apr 25, 2021",Marseille,France,-0.17
-"Apr 25, 2021",Sao Paulo,Brazil,-0.16
-"Apr 25, 2021",Orlando,United States,-0.15
-"Apr 25, 2021",Atlanta,United States,-0.15
-"Apr 25, 2021",Maipu,Chile,-0.14
-"Apr 25, 2021",Antwerp,Belgium,-0.14
-"Apr 25, 2021",Jersey City,United States,-0.14
-"Apr 25, 2021",Brussels,Belgium,-0.13
-"Apr 25, 2021",Phoenix,United States,-0.13
-"Apr 25, 2021",Philadelphia,United States,-0.12
-"Apr 25, 2021",Baltimore,United States,-0.12
-"Apr 25, 2021",London,United Kingdom,-0.12
-"Apr 25, 2021",Guarulhos,Brazil,-0.09
-"Apr 25, 2021",Manchester,United Kingdom,-0.09
-"Apr 25, 2021",Puchong,Malaysia,-0.09
-"Apr 25, 2021",Shah Alam,Malaysia,-0.08
-"Apr 25, 2021",Budapest,Hungary,-0.08
-"Apr 25, 2021",Houston,United States,-0.07
-"Apr 25, 2021",Melbourne,Australia,-0.07
-"Apr 25, 2021",Hartford,United States,-0.07
-"Apr 25, 2021",Riga,Latvia,-0.06
-"Apr 25, 2021",Dallas,United States,-0.05
-"Apr 25, 2021",Raleigh,United States,-0.05
-"Apr 25, 2021",New York,United States,-0.04
-"Apr 25, 2021",Stamford,United States,-0.04
-"Apr 25, 2021",Nashville,United States,-0.03
-"Apr 25, 2021",Pittsburgh,United States,-0.02
-"Apr 25, 2021",Petah Tikva,Israel,-0.02
-"Apr 25, 2021",San Antonio,United States,0.0
-"Apr 25, 2021",Fort Worth,United States,0.0
-"Apr 25, 2021",Porto Alegre,Brazil,0.0
-"Apr 25, 2021",Doha,Qatar,0.0
-"Apr 25, 2021",Charlotte,United States,0.01
-"Apr 25, 2021",Bucharest,Romania,0.04
-"Apr 25, 2021",Yonkers,United States,0.07
-"Apr 25, 2021",Tel Aviv-Yafo,Israel,0.07
-"Apr 25, 2021",Berlin,Germany,0.07
-"Apr 25, 2021",Stockholm,Sweden,0.07
-"Apr 25, 2021",Cincinnati,United States,0.08
-"Apr 25, 2021",Brisbane,Australia,0.09
-"Apr 25, 2021",Haifa,Israel,0.1
-"Apr 25, 2021",Prague,Czechia,0.1
-"Apr 25, 2021",Jerusalem,Israel,0.1
-"Apr 25, 2021",Bristol,United Kingdom,0.11
-"Apr 25, 2021",Singapore,Singapore,0.14
-"Apr 25, 2021",Be'er Sheva,Israel,0.16
-"Apr 25, 2021",Rishon Letsiyon,Israel,0.16
-"Apr 25, 2021",Ramat Gan,Israel,0.2
-"Apr 25, 2021",Brno,Czechia,0.21
-"Apr 25, 2021",Sydney,Australia,0.24
-"Apr 25, 2021",Cape Town,South Africa,0.28
-"Apr 25, 2021",Minneapolis,United States,0.3
-"Apr 25, 2021",Gold Coast,Australia,0.37
-"Apr 25, 2021",Kaunas,Lithuania,0.6
-"Apr 25, 2021",Vilnius,Lithuania,0.66
-"Apr 25, 2021",Lviv,Ukraine,0.94
-"Apr 24, 2021",Quito,Ecuador,-0.93
-"Apr 24, 2021",Makati,Philippines,-0.65
-"Apr 24, 2021",Cali,Colombia,-0.64
-"Apr 24, 2021",Ottawa,Canada,-0.63
-"Apr 24, 2021",Medellin,Colombia,-0.61
-"Apr 24, 2021",Bogota,Colombia,-0.6
-"Apr 24, 2021",Quebec City,Canada,-0.56
-"Apr 24, 2021",Quezon City,Philippines,-0.56
-"Apr 24, 2021",Rotterdam,Netherlands,-0.54
-"Apr 24, 2021",New Orleans,United States,-0.53
-"Apr 24, 2021",Florianopolis,Brazil,-0.51
-"Apr 24, 2021",Manila,Philippines,-0.5
-"Apr 24, 2021",Barcelona,Spain,-0.49
-"Apr 24, 2021",Ipoh,Malaysia,-0.47
-"Apr 24, 2021",San Jose,United States,-0.46
-"Apr 24, 2021",Brasilia,Brazil,-0.44
-"Apr 24, 2021",Mississauga,Canada,-0.44
-"Apr 24, 2021",Detroit,United States,-0.44
-"Apr 24, 2021",Bekasi,Indonesia,-0.43
-"Apr 24, 2021",Bratislava,Slovakia,-0.42
-"Apr 24, 2021",Amsterdam,Netherlands,-0.42
-"Apr 24, 2021",Lille,France,-0.42
-"Apr 24, 2021",Jakarta,Indonesia,-0.42
-"Apr 24, 2021",San Francisco,United States,-0.41
-"Apr 24, 2021",Brussels,Belgium,-0.4
-"Apr 24, 2021",Bordeaux,France,-0.4
-"Apr 24, 2021",Lisbon,Portugal,-0.39
-"Apr 24, 2021",Belo Horizonte,Brazil,-0.38
-"Apr 24, 2021",Paris,France,-0.37
-"Apr 24, 2021",Zapopan,Mexico,-0.37
-"Apr 24, 2021",Toronto,Canada,-0.36
-"Apr 24, 2021",Monterrey,Mexico,-0.35
-"Apr 24, 2021",Lyon,France,-0.35
-"Apr 24, 2021",Milan,Italy,-0.35
-"Apr 24, 2021",Denver,United States,-0.35
-"Apr 24, 2021",Los Angeles,United States,-0.33
-"Apr 24, 2021",Washington,United States,-0.33
-"Apr 24, 2021",Recife,Brazil,-0.33
-"Apr 24, 2021",Tangerang,Indonesia,-0.33
-"Apr 24, 2021",Hamilton,Canada,-0.32
-"Apr 24, 2021",Fort Lauderdale,United States,-0.32
-"Apr 24, 2021",Mexico City,Mexico,-0.32
-"Apr 24, 2021",Vitoria,Brazil,-0.31
-"Apr 24, 2021",Antwerp,Belgium,-0.3
-"Apr 24, 2021",Austin,United States,-0.3
-"Apr 24, 2021",Portland,United States,-0.3
-"Apr 24, 2021",Puebla City,Mexico,-0.3
-"Apr 24, 2021",Vaughan,Canada,-0.28
-"Apr 24, 2021",Pittsburgh,United States,-0.28
-"Apr 24, 2021",Fortaleza,Brazil,-0.27
-"Apr 24, 2021",Johor Bahru,Malaysia,-0.27
-"Apr 24, 2021",Salvador,Brazil,-0.27
-"Apr 24, 2021",Seattle,United States,-0.27
-"Apr 24, 2021",Santiago De Queretaro,Mexico,-0.26
-"Apr 24, 2021",Cincinnati,United States,-0.26
-"Apr 24, 2021",San Diego,United States,-0.26
-"Apr 24, 2021",Boston,United States,-0.25
-"Apr 24, 2021",Minneapolis,United States,-0.25
-"Apr 24, 2021",Buenos Aires,Argentina,-0.25
-"Apr 24, 2021",Guadalajara,Mexico,-0.24
-"Apr 24, 2021",South Tangerang,Indonesia,-0.24
-"Apr 24, 2021",Rio De Janeiro,Brazil,-0.24
-"Apr 24, 2021",Tampa,United States,-0.24
-"Apr 24, 2021",Berlin,Germany,-0.23
-"Apr 24, 2021",Chicago,United States,-0.23
-"Apr 24, 2021",Sacramento,United States,-0.23
-"Apr 24, 2021",Santiago,Chile,-0.23
-"Apr 24, 2021",Irvine,United States,-0.22
-"Apr 24, 2021",Oakland,United States,-0.22
-"Apr 24, 2021",Houston,United States,-0.22
-"Apr 24, 2021",Guarulhos,Brazil,-0.22
-"Apr 24, 2021",Cambridge,United States,-0.21
-"Apr 24, 2021",Sao Paulo,Brazil,-0.21
-"Apr 24, 2021",Marseille,France,-0.21
-"Apr 24, 2021",Rome,Italy,-0.21
-"Apr 24, 2021",Atlanta,United States,-0.2
-"Apr 24, 2021",San Antonio,United States,-0.2
-"Apr 24, 2021",Hartford,United States,-0.2
-"Apr 24, 2021",Luton,United Kingdom,-0.2
-"Apr 24, 2021",Nashville,United States,-0.2
-"Apr 24, 2021",San Jose,Costa Rica,-0.19
-"Apr 24, 2021",Raleigh,United States,-0.19
-"Apr 24, 2021",Philadelphia,United States,-0.19
-"Apr 24, 2021",Manchester,United Kingdom,-0.19
-"Apr 24, 2021",Lima,Peru,-0.19
-"Apr 24, 2021",Orlando,United States,-0.18
-"Apr 24, 2021",Miami,United States,-0.18
-"Apr 24, 2021",Toulouse,France,-0.17
-"Apr 24, 2021",Madrid,Spain,-0.17
-"Apr 24, 2021",Montevideo,Uruguay,-0.17
-"Apr 24, 2021",Dallas,United States,-0.17
-"Apr 24, 2021",Kuala Lumpur,Malaysia,-0.16
-"Apr 24, 2021",Baltimore,United States,-0.16
-"Apr 24, 2021",Birmingham,United Kingdom,-0.15
-"Apr 24, 2021",Miami Beach,United States,-0.15
-"Apr 24, 2021",Calgary,Canada,-0.14
-"Apr 24, 2021",Montreal,Canada,-0.14
-"Apr 24, 2021",Charlotte,United States,-0.14
-"Apr 24, 2021",Phoenix,United States,-0.14
-"Apr 24, 2021",Petaling Jaya,Malaysia,-0.11
-"Apr 24, 2021",Warsaw,Poland,-0.11
-"Apr 24, 2021",Las Condes,Chile,-0.1
-"Apr 24, 2021",Brno,Czechia,-0.09
-"Apr 24, 2021",Prague,Czechia,-0.09
-"Apr 24, 2021",Budapest,Hungary,-0.07
-"Apr 24, 2021",Curitiba,Brazil,-0.07
-"Apr 24, 2021",Krakow,Poland,-0.05
-"Apr 24, 2021",Shah Alam,Malaysia,-0.05
-"Apr 24, 2021",New York,United States,-0.03
-"Apr 24, 2021",Yonkers,United States,-0.03
-"Apr 24, 2021",Riga,Latvia,-0.01
-"Apr 24, 2021",Stockholm,Sweden,-0.01
-"Apr 24, 2021",London,United Kingdom,-0.01
-"Apr 24, 2021",Ghent,Belgium,-0.01
-"Apr 24, 2021",Fort Worth,United States,-0.01
-"Apr 24, 2021",Jersey City,United States,0.01
-"Apr 24, 2021",Stamford,United States,0.04
-"Apr 24, 2021",Porto Alegre,Brazil,0.04
-"Apr 24, 2021",Puchong,Malaysia,0.04
-"Apr 24, 2021",Doha,Qatar,0.06
-"Apr 24, 2021",Bristol,United Kingdom,0.06
-"Apr 24, 2021",Ramat Gan,Israel,0.07
-"Apr 24, 2021",Bucharest,Romania,0.07
-"Apr 24, 2021",Rishon Letsiyon,Israel,0.13
-"Apr 24, 2021",Singapore,Singapore,0.13
-"Apr 24, 2021",Maipu,Chile,0.14
-"Apr 24, 2021",Jerusalem,Israel,0.14
-"Apr 24, 2021",Melbourne,Australia,0.15
-"Apr 24, 2021",Tel Aviv-Yafo,Israel,0.16
-"Apr 24, 2021",Haifa,Israel,0.21
-"Apr 24, 2021",Petah Tikva,Israel,0.26
-"Apr 24, 2021",Cape Town,South Africa,0.26
-"Apr 24, 2021",Liverpool,United Kingdom,0.29
-"Apr 24, 2021",Sydney,Australia,0.3
-"Apr 24, 2021",Be'er Sheva,Israel,0.43
-"Apr 24, 2021",Brisbane,Australia,0.53
-"Apr 24, 2021",Vilnius,Lithuania,0.57
-"Apr 24, 2021",Gold Coast,Australia,0.63
-"Apr 24, 2021",Kaunas,Lithuania,0.69
-"Apr 24, 2021",Lviv,Ukraine,1.0
-"Apr 23, 2021",Tangerang,Indonesia,-0.83
-"Apr 23, 2021",Vitoria,Brazil,-0.72
-"Apr 23, 2021",Calgary,Canada,-0.7
-"Apr 23, 2021",Makati,Philippines,-0.67
-"Apr 23, 2021",South Tangerang,Indonesia,-0.6
-"Apr 23, 2021",Quebec City,Canada,-0.56
-"Apr 23, 2021",Bekasi,Indonesia,-0.54
-"Apr 23, 2021",Quezon City,Philippines,-0.53
-"Apr 23, 2021",Brasilia,Brazil,-0.52
-"Apr 23, 2021",Lyon,France,-0.52
-"Apr 23, 2021",San Francisco,United States,-0.5
-"Apr 23, 2021",Ipoh,Malaysia,-0.5
-"Apr 23, 2021",Brussels,Belgium,-0.5
-"Apr 23, 2021",Manchester,United Kingdom,-0.47
-"Apr 23, 2021",Seattle,United States,-0.47
-"Apr 23, 2021",Rotterdam,Netherlands,-0.45
-"Apr 23, 2021",Mississauga,Canada,-0.43
-"Apr 23, 2021",Jakarta,Indonesia,-0.43
-"Apr 23, 2021",Austin,United States,-0.43
-"Apr 23, 2021",Medellin,Colombia,-0.42
-"Apr 23, 2021",Cali,Colombia,-0.42
-"Apr 23, 2021",Manila,Philippines,-0.42
-"Apr 23, 2021",Hamilton,Canada,-0.41
-"Apr 23, 2021",Bogota,Colombia,-0.41
-"Apr 23, 2021",Toronto,Canada,-0.41
-"Apr 23, 2021",Luton,United Kingdom,-0.4
-"Apr 23, 2021",New Orleans,United States,-0.39
-"Apr 23, 2021",Los Angeles,United States,-0.39
-"Apr 23, 2021",Ottawa,Canada,-0.38
-"Apr 23, 2021",Guadalajara,Mexico,-0.38
-"Apr 23, 2021",San Jose,United States,-0.38
-"Apr 23, 2021",Amsterdam,Netherlands,-0.38
-"Apr 23, 2021",San Diego,United States,-0.37
-"Apr 23, 2021",Monterrey,Mexico,-0.37
-"Apr 23, 2021",Irvine,United States,-0.37
-"Apr 23, 2021",Milan,Italy,-0.35
-"Apr 23, 2021",Portland,United States,-0.35
 "Apr 27, 2021",Phoenix,United States,-0.31
 "Apr 27, 2021",Guadalajara,Mexico,-0.31
 "Apr 27, 2021",Manila,Philippines,-0.31
