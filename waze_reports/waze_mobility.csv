@@ -374,8 +374,12 @@ Argentina,Buenos Aires,city,2021-03-07,-3.0
 Argentina,Buenos Aires,city,2021-03-08,21.0
 Argentina,Buenos Aires,city,2021-03-09,-2.0
 Argentina,Buenos Aires,city,2021-03-10,-3.0
+Argentina,Buenos Aires,city,2021-03-10,-3.0
+Argentina,Buenos Aires,city,2021-03-11,-4.0
 Argentina,Buenos Aires,city,2021-03-11,-4.0
 Argentina,Buenos Aires,city,2021-03-12,-3.0
+Argentina,Buenos Aires,city,2021-03-12,-3.0
+Argentina,Buenos Aires,city,2021-03-13,-1.0
 Argentina,Buenos Aires,city,2021-03-13,-1.0
 Argentina,Buenos Aires,city,2021-03-14,0.0
 Argentina,Buenos Aires,city,2021-03-15,16.0
@@ -1250,8 +1254,12 @@ Australia,Brisbane,city,2021-03-07,60.0
 Australia,Brisbane,city,2021-03-08,47.0
 Australia,Brisbane,city,2021-03-09,44.0
 Australia,Brisbane,city,2021-03-10,38.0
+Australia,Brisbane,city,2021-03-10,38.0
+Australia,Brisbane,city,2021-03-11,49.0
 Australia,Brisbane,city,2021-03-11,49.0
 Australia,Brisbane,city,2021-03-12,45.0
+Australia,Brisbane,city,2021-03-12,45.0
+Australia,Brisbane,city,2021-03-13,56.99999999999999
 Australia,Brisbane,city,2021-03-13,56.99999999999999
 Australia,Brisbane,city,2021-03-14,52.0
 Australia,Brisbane,city,2021-03-15,37.0
@@ -1687,8 +1695,12 @@ Australia,Gold Coast,city,2021-03-07,63.0
 Australia,Gold Coast,city,2021-03-08,28.000000000000004
 Australia,Gold Coast,city,2021-03-09,44.0
 Australia,Gold Coast,city,2021-03-10,81.0
+Australia,Gold Coast,city,2021-03-10,81.0
+Australia,Gold Coast,city,2021-03-11,47.0
 Australia,Gold Coast,city,2021-03-11,47.0
 Australia,Gold Coast,city,2021-03-12,55.00000000000001
+Australia,Gold Coast,city,2021-03-12,55.00000000000001
+Australia,Gold Coast,city,2021-03-13,49.0
 Australia,Gold Coast,city,2021-03-13,49.0
 Australia,Gold Coast,city,2021-03-14,75.0
 Australia,Gold Coast,city,2021-03-15,53.0
@@ -2123,8 +2135,12 @@ Australia,Melbourne,city,2021-03-07,-19.0
 Australia,Melbourne,city,2021-03-08,11.0
 Australia,Melbourne,city,2021-03-09,-2.0
 Australia,Melbourne,city,2021-03-10,-8.0
+Australia,Melbourne,city,2021-03-10,-8.0
+Australia,Melbourne,city,2021-03-11,-5.0
 Australia,Melbourne,city,2021-03-11,-5.0
 Australia,Melbourne,city,2021-03-12,-4.0
+Australia,Melbourne,city,2021-03-12,-4.0
+Australia,Melbourne,city,2021-03-13,14.000000000000002
 Australia,Melbourne,city,2021-03-13,14.000000000000002
 Australia,Melbourne,city,2021-03-14,0.0
 Australia,Melbourne,city,2021-03-15,-5.0
@@ -2561,8 +2577,12 @@ Australia,Perth,city,2021-03-07,16.0
 Australia,Perth,city,2021-03-08,18.0
 Australia,Perth,city,2021-03-09,35.0
 Australia,Perth,city,2021-03-10,16.0
+Australia,Perth,city,2021-03-10,16.0
+Australia,Perth,city,2021-03-11,17.0
 Australia,Perth,city,2021-03-11,17.0
 Australia,Perth,city,2021-03-12,17.0
+Australia,Perth,city,2021-03-12,17.0
+Australia,Perth,city,2021-03-13,24.0
 Australia,Perth,city,2021-03-13,24.0
 Australia,Perth,city,2021-03-14,28.999999999999996
 Australia,Perth,city,2021-03-15,38.0
@@ -2998,8 +3018,12 @@ Australia,Sydney,city,2021-03-07,14.000000000000002
 Australia,Sydney,city,2021-03-08,53.0
 Australia,Sydney,city,2021-03-09,6.0
 Australia,Sydney,city,2021-03-10,10.0
+Australia,Sydney,city,2021-03-10,10.0
+Australia,Sydney,city,2021-03-11,17.0
 Australia,Sydney,city,2021-03-11,17.0
 Australia,Sydney,city,2021-03-12,15.0
+Australia,Sydney,city,2021-03-12,15.0
+Australia,Sydney,city,2021-03-13,22.0
 Australia,Sydney,city,2021-03-13,22.0
 Australia,Sydney,city,2021-03-14,-13.0
 Australia,Sydney,city,2021-03-15,22.0
@@ -4312,7 +4336,10 @@ Belgium,Antwerp,city,2021-03-07,-18.0
 Belgium,Antwerp,city,2021-03-08,-30.0
 Belgium,Antwerp,city,2021-03-09,-7.000000000000001
 Belgium,Antwerp,city,2021-03-10,-26.0
+Belgium,Antwerp,city,2021-03-10,-26.0
 Belgium,Antwerp,city,2021-03-11,-36.0
+Belgium,Antwerp,city,2021-03-11,-36.0
+Belgium,Antwerp,city,2021-03-12,-19.0
 Belgium,Antwerp,city,2021-03-12,-19.0
 Belgium,Antwerp,city,2021-03-13,-36.0
 Belgium,Antwerp,city,2021-03-14,-12.0
@@ -4749,8 +4776,12 @@ Belgium,Brussels,city,2021-03-06,-17.0
 Belgium,Brussels,city,2021-03-07,7.000000000000001
 Belgium,Brussels,city,2021-03-08,-22.0
 Belgium,Brussels,city,2021-03-09,-28.000000000000004
+Belgium,Brussels,city,2021-03-09,-28.000000000000004
+Belgium,Brussels,city,2021-03-10,-38.0
 Belgium,Brussels,city,2021-03-10,-38.0
 Belgium,Brussels,city,2021-03-11,-27.0
+Belgium,Brussels,city,2021-03-11,-27.0
+Belgium,Brussels,city,2021-03-12,-42.0
 Belgium,Brussels,city,2021-03-12,-42.0
 Belgium,Brussels,city,2021-03-13,-33.0
 Belgium,Brussels,city,2021-03-14,-36.0
@@ -5187,8 +5218,12 @@ Belgium,Ghent,city,2021-03-06,-59.0
 Belgium,Ghent,city,2021-03-07,-22.0
 Belgium,Ghent,city,2021-03-08,-21.0
 Belgium,Ghent,city,2021-03-09,-33.0
+Belgium,Ghent,city,2021-03-09,-33.0
+Belgium,Ghent,city,2021-03-10,-33.0
 Belgium,Ghent,city,2021-03-10,-33.0
 Belgium,Ghent,city,2021-03-11,-28.999999999999996
+Belgium,Ghent,city,2021-03-11,-28.999999999999996
+Belgium,Ghent,city,2021-03-12,-23.0
 Belgium,Ghent,city,2021-03-12,-23.0
 Belgium,Ghent,city,2021-03-13,-28.000000000000004
 Belgium,Ghent,city,2021-03-14,-46.0
@@ -6063,8 +6098,12 @@ Brazil,Belo Horizonte,city,2021-03-06,-23.0
 Brazil,Belo Horizonte,city,2021-03-07,-28.000000000000004
 Brazil,Belo Horizonte,city,2021-03-08,-10.0
 Brazil,Belo Horizonte,city,2021-03-09,-15.0
+Brazil,Belo Horizonte,city,2021-03-09,-15.0
+Brazil,Belo Horizonte,city,2021-03-10,-20.0
 Brazil,Belo Horizonte,city,2021-03-10,-20.0
 Brazil,Belo Horizonte,city,2021-03-11,-21.0
+Brazil,Belo Horizonte,city,2021-03-11,-21.0
+Brazil,Belo Horizonte,city,2021-03-12,-22.0
 Brazil,Belo Horizonte,city,2021-03-12,-22.0
 Brazil,Belo Horizonte,city,2021-03-13,-37.0
 Brazil,Belo Horizonte,city,2021-03-14,-40.0
@@ -6501,8 +6540,12 @@ Brazil,Brasilia,city,2021-03-06,-49.0
 Brazil,Brasilia,city,2021-03-07,-77.0
 Brazil,Brasilia,city,2021-03-08,-24.0
 Brazil,Brasilia,city,2021-03-09,-49.0
+Brazil,Brasilia,city,2021-03-09,-49.0
+Brazil,Brasilia,city,2021-03-10,-61.0
 Brazil,Brasilia,city,2021-03-10,-61.0
 Brazil,Brasilia,city,2021-03-11,-56.00000000000001
+Brazil,Brasilia,city,2021-03-11,-56.00000000000001
+Brazil,Brasilia,city,2021-03-12,-56.99999999999999
 Brazil,Brasilia,city,2021-03-12,-56.99999999999999
 Brazil,Brasilia,city,2021-03-13,-45.0
 Brazil,Brasilia,city,2021-03-14,-59.0
@@ -6940,7 +6983,10 @@ Brazil,Curitiba,city,2021-03-07,-35.0
 Brazil,Curitiba,city,2021-03-08,-4.0
 Brazil,Curitiba,city,2021-03-09,-9.0
 Brazil,Curitiba,city,2021-03-10,-17.0
+Brazil,Curitiba,city,2021-03-10,-17.0
 Brazil,Curitiba,city,2021-03-11,-16.0
+Brazil,Curitiba,city,2021-03-11,-16.0
+Brazil,Curitiba,city,2021-03-12,-12.0
 Brazil,Curitiba,city,2021-03-12,-12.0
 Brazil,Curitiba,city,2021-03-13,-33.0
 Brazil,Curitiba,city,2021-03-14,-40.0
@@ -7377,8 +7423,12 @@ Brazil,Florianopolis,city,2021-03-06,-60.0
 Brazil,Florianopolis,city,2021-03-07,-62.0
 Brazil,Florianopolis,city,2021-03-08,-36.0
 Brazil,Florianopolis,city,2021-03-09,-42.0
+Brazil,Florianopolis,city,2021-03-09,-42.0
+Brazil,Florianopolis,city,2021-03-10,-24.0
 Brazil,Florianopolis,city,2021-03-10,-24.0
 Brazil,Florianopolis,city,2021-03-11,-34.0
+Brazil,Florianopolis,city,2021-03-11,-34.0
+Brazil,Florianopolis,city,2021-03-12,-33.0
 Brazil,Florianopolis,city,2021-03-12,-33.0
 Brazil,Florianopolis,city,2021-03-13,-59.0
 Brazil,Florianopolis,city,2021-03-14,-66.0
@@ -7815,8 +7865,12 @@ Brazil,Fortaleza,city,2021-03-06,-34.0
 Brazil,Fortaleza,city,2021-03-07,-38.0
 Brazil,Fortaleza,city,2021-03-08,-15.0
 Brazil,Fortaleza,city,2021-03-09,-27.0
+Brazil,Fortaleza,city,2021-03-09,-27.0
+Brazil,Fortaleza,city,2021-03-10,-36.0
 Brazil,Fortaleza,city,2021-03-10,-36.0
 Brazil,Fortaleza,city,2021-03-11,-42.0
+Brazil,Fortaleza,city,2021-03-11,-42.0
+Brazil,Fortaleza,city,2021-03-12,-34.0
 Brazil,Fortaleza,city,2021-03-12,-34.0
 Brazil,Fortaleza,city,2021-03-13,-38.0
 Brazil,Fortaleza,city,2021-03-14,-38.0
@@ -8254,7 +8308,10 @@ Brazil,Guarulhos,city,2021-03-07,-18.0
 Brazil,Guarulhos,city,2021-03-08,6.0
 Brazil,Guarulhos,city,2021-03-09,-9.0
 Brazil,Guarulhos,city,2021-03-10,-17.0
+Brazil,Guarulhos,city,2021-03-10,-17.0
 Brazil,Guarulhos,city,2021-03-11,-6.0
+Brazil,Guarulhos,city,2021-03-11,-6.0
+Brazil,Guarulhos,city,2021-03-12,-22.0
 Brazil,Guarulhos,city,2021-03-12,-22.0
 Brazil,Guarulhos,city,2021-03-13,-26.0
 Brazil,Guarulhos,city,2021-03-14,-20.0
@@ -8691,8 +8748,12 @@ Brazil,Porto Alegre,city,2021-03-06,-21.0
 Brazil,Porto Alegre,city,2021-03-07,-28.000000000000004
 Brazil,Porto Alegre,city,2021-03-08,-13.0
 Brazil,Porto Alegre,city,2021-03-09,-27.0
+Brazil,Porto Alegre,city,2021-03-09,-27.0
+Brazil,Porto Alegre,city,2021-03-10,-30.0
 Brazil,Porto Alegre,city,2021-03-10,-30.0
 Brazil,Porto Alegre,city,2021-03-11,-30.0
+Brazil,Porto Alegre,city,2021-03-11,-30.0
+Brazil,Porto Alegre,city,2021-03-12,-25.0
 Brazil,Porto Alegre,city,2021-03-12,-25.0
 Brazil,Porto Alegre,city,2021-03-13,-24.0
 Brazil,Porto Alegre,city,2021-03-14,-27.0
@@ -9130,7 +9191,10 @@ Brazil,Recife,city,2021-03-07,-27.0
 Brazil,Recife,city,2021-03-08,2.0
 Brazil,Recife,city,2021-03-09,-4.0
 Brazil,Recife,city,2021-03-10,-19.0
+Brazil,Recife,city,2021-03-10,-19.0
 Brazil,Recife,city,2021-03-11,-18.0
+Brazil,Recife,city,2021-03-11,-18.0
+Brazil,Recife,city,2021-03-12,-16.0
 Brazil,Recife,city,2021-03-12,-16.0
 Brazil,Recife,city,2021-03-13,-43.0
 Brazil,Recife,city,2021-03-14,-34.0
@@ -9568,7 +9632,10 @@ Brazil,Rio De Janeiro,city,2021-03-07,-22.0
 Brazil,Rio De Janeiro,city,2021-03-08,1.0
 Brazil,Rio De Janeiro,city,2021-03-09,-4.0
 Brazil,Rio De Janeiro,city,2021-03-10,-13.0
+Brazil,Rio De Janeiro,city,2021-03-10,-13.0
 Brazil,Rio De Janeiro,city,2021-03-11,-12.0
+Brazil,Rio De Janeiro,city,2021-03-11,-12.0
+Brazil,Rio De Janeiro,city,2021-03-12,-11.0
 Brazil,Rio De Janeiro,city,2021-03-12,-11.0
 Brazil,Rio De Janeiro,city,2021-03-13,-19.0
 Brazil,Rio De Janeiro,city,2021-03-14,-16.0
@@ -10005,8 +10072,12 @@ Brazil,Salvador,city,2021-03-06,-39.0
 Brazil,Salvador,city,2021-03-07,-40.0
 Brazil,Salvador,city,2021-03-08,-18.0
 Brazil,Salvador,city,2021-03-09,-24.0
+Brazil,Salvador,city,2021-03-09,-24.0
+Brazil,Salvador,city,2021-03-10,-34.0
 Brazil,Salvador,city,2021-03-10,-34.0
 Brazil,Salvador,city,2021-03-11,-33.0
+Brazil,Salvador,city,2021-03-11,-33.0
+Brazil,Salvador,city,2021-03-12,-34.0
 Brazil,Salvador,city,2021-03-12,-34.0
 Brazil,Salvador,city,2021-03-13,-37.0
 Brazil,Salvador,city,2021-03-14,-43.0
@@ -10443,8 +10514,12 @@ Brazil,Sao Paulo,city,2021-03-06,-22.0
 Brazil,Sao Paulo,city,2021-03-07,-26.0
 Brazil,Sao Paulo,city,2021-03-08,-6.0
 Brazil,Sao Paulo,city,2021-03-09,-16.0
+Brazil,Sao Paulo,city,2021-03-09,-16.0
+Brazil,Sao Paulo,city,2021-03-10,-25.0
 Brazil,Sao Paulo,city,2021-03-10,-25.0
 Brazil,Sao Paulo,city,2021-03-11,-26.0
+Brazil,Sao Paulo,city,2021-03-11,-26.0
+Brazil,Sao Paulo,city,2021-03-12,-23.0
 Brazil,Sao Paulo,city,2021-03-12,-23.0
 Brazil,Sao Paulo,city,2021-03-13,-31.0
 Brazil,Sao Paulo,city,2021-03-14,-28.999999999999996
@@ -11319,7 +11394,10 @@ Brazil,Vitoria,city,2021-03-07,-18.0
 Brazil,Vitoria,city,2021-03-08,96.0
 Brazil,Vitoria,city,2021-03-09,35.0
 Brazil,Vitoria,city,2021-03-10,9.0
+Brazil,Vitoria,city,2021-03-10,9.0
 Brazil,Vitoria,city,2021-03-11,-40.0
+Brazil,Vitoria,city,2021-03-11,-40.0
+Brazil,Vitoria,city,2021-03-12,-6.0
 Brazil,Vitoria,city,2021-03-12,-6.0
 Brazil,Vitoria,city,2021-03-13,-18.0
 Brazil,Vitoria,city,2021-03-14,-19.0
@@ -11753,8 +11831,12 @@ Canada,Calgary,city,2021-03-07,-38.0
 Canada,Calgary,city,2021-03-08,-9.0
 Canada,Calgary,city,2021-03-09,6.0
 Canada,Calgary,city,2021-03-10,-52.0
+Canada,Calgary,city,2021-03-10,-52.0
+Canada,Calgary,city,2021-03-11,-26.0
 Canada,Calgary,city,2021-03-11,-26.0
 Canada,Calgary,city,2021-03-12,-56.99999999999999
+Canada,Calgary,city,2021-03-12,-56.99999999999999
+Canada,Calgary,city,2021-03-13,-7.000000000000001
 Canada,Calgary,city,2021-03-13,-7.000000000000001
 Canada,Calgary,city,2021-03-14,13.0
 Canada,Calgary,city,2021-03-15,-3.0
@@ -12190,9 +12272,14 @@ Canada,Hamilton,city,2021-03-06,-30.0
 Canada,Hamilton,city,2021-03-07,-4.0
 Canada,Hamilton,city,2021-03-08,13.0
 Canada,Hamilton,city,2021-03-09,-39.0
+Canada,Hamilton,city,2021-03-09,-39.0
+Canada,Hamilton,city,2021-03-10,-3.0
 Canada,Hamilton,city,2021-03-10,-3.0
 Canada,Hamilton,city,2021-03-11,-20.0
+Canada,Hamilton,city,2021-03-11,-20.0
 Canada,Hamilton,city,2021-03-12,-17.0
+Canada,Hamilton,city,2021-03-12,-17.0
+Canada,Hamilton,city,2021-03-13,8.0
 Canada,Hamilton,city,2021-03-13,8.0
 Canada,Hamilton,city,2021-03-14,-8.0
 Canada,Hamilton,city,2021-03-15,2.0
@@ -12628,8 +12715,12 @@ Canada,Mississauga,city,2021-03-06,-39.0
 Canada,Mississauga,city,2021-03-07,-38.0
 Canada,Mississauga,city,2021-03-08,-31.0
 Canada,Mississauga,city,2021-03-09,-49.0
+Canada,Mississauga,city,2021-03-09,-49.0
+Canada,Mississauga,city,2021-03-10,-34.0
 Canada,Mississauga,city,2021-03-10,-34.0
 Canada,Mississauga,city,2021-03-11,-43.0
+Canada,Mississauga,city,2021-03-11,-43.0
+Canada,Mississauga,city,2021-03-12,-43.0
 Canada,Mississauga,city,2021-03-12,-43.0
 Canada,Mississauga,city,2021-03-13,-37.0
 Canada,Mississauga,city,2021-03-14,-39.0
@@ -13066,8 +13157,12 @@ Canada,Montreal,city,2021-03-06,-24.0
 Canada,Montreal,city,2021-03-07,-22.0
 Canada,Montreal,city,2021-03-08,-27.0
 Canada,Montreal,city,2021-03-09,-27.0
+Canada,Montreal,city,2021-03-09,-27.0
+Canada,Montreal,city,2021-03-10,-31.0
 Canada,Montreal,city,2021-03-10,-31.0
 Canada,Montreal,city,2021-03-11,-28.000000000000004
+Canada,Montreal,city,2021-03-11,-28.000000000000004
+Canada,Montreal,city,2021-03-12,-26.0
 Canada,Montreal,city,2021-03-12,-26.0
 Canada,Montreal,city,2021-03-13,-24.0
 Canada,Montreal,city,2021-03-14,-24.0
@@ -13504,8 +13599,12 @@ Canada,Ottawa,city,2021-03-06,-30.0
 Canada,Ottawa,city,2021-03-07,-27.0
 Canada,Ottawa,city,2021-03-08,-65.0
 Canada,Ottawa,city,2021-03-09,-45.0
+Canada,Ottawa,city,2021-03-09,-45.0
+Canada,Ottawa,city,2021-03-10,-43.0
 Canada,Ottawa,city,2021-03-10,-43.0
 Canada,Ottawa,city,2021-03-11,-39.0
+Canada,Ottawa,city,2021-03-11,-39.0
+Canada,Ottawa,city,2021-03-12,-40.0
 Canada,Ottawa,city,2021-03-12,-40.0
 Canada,Ottawa,city,2021-03-13,-30.0
 Canada,Ottawa,city,2021-03-14,-27.0
@@ -13940,8 +14039,12 @@ Canada,Quebec City,city,2021-03-06,-39.0
 Canada,Quebec City,city,2021-03-07,-52.0
 Canada,Quebec City,city,2021-03-08,-28.999999999999996
 Canada,Quebec City,city,2021-03-09,-35.0
+Canada,Quebec City,city,2021-03-09,-35.0
+Canada,Quebec City,city,2021-03-10,-1.0
 Canada,Quebec City,city,2021-03-10,-1.0
 Canada,Quebec City,city,2021-03-11,-5.0
+Canada,Quebec City,city,2021-03-11,-5.0
+Canada,Quebec City,city,2021-03-12,-39.0
 Canada,Quebec City,city,2021-03-12,-39.0
 Canada,Quebec City,city,2021-03-13,-39.0
 Canada,Quebec City,city,2021-03-14,-35.0
@@ -14378,8 +14481,12 @@ Canada,Toronto,city,2021-03-06,-37.0
 Canada,Toronto,city,2021-03-07,-34.0
 Canada,Toronto,city,2021-03-08,-25.0
 Canada,Toronto,city,2021-03-09,-38.0
+Canada,Toronto,city,2021-03-09,-38.0
+Canada,Toronto,city,2021-03-10,-34.0
 Canada,Toronto,city,2021-03-10,-34.0
 Canada,Toronto,city,2021-03-11,-36.0
+Canada,Toronto,city,2021-03-11,-36.0
+Canada,Toronto,city,2021-03-12,-35.0
 Canada,Toronto,city,2021-03-12,-35.0
 Canada,Toronto,city,2021-03-13,-28.000000000000004
 Canada,Toronto,city,2021-03-14,-27.0
@@ -15254,9 +15361,14 @@ Canada,Vaughan,city,2021-03-06,16.0
 Canada,Vaughan,city,2021-03-07,-7.000000000000001
 Canada,Vaughan,city,2021-03-08,-5.0
 Canada,Vaughan,city,2021-03-09,-33.0
+Canada,Vaughan,city,2021-03-09,-33.0
+Canada,Vaughan,city,2021-03-10,-9.0
 Canada,Vaughan,city,2021-03-10,-9.0
 Canada,Vaughan,city,2021-03-11,-32.0
+Canada,Vaughan,city,2021-03-11,-32.0
 Canada,Vaughan,city,2021-03-12,0.0
+Canada,Vaughan,city,2021-03-12,0.0
+Canada,Vaughan,city,2021-03-13,-9.0
 Canada,Vaughan,city,2021-03-13,-9.0
 Canada,Vaughan,city,2021-03-14,-7.000000000000001
 Canada,Vaughan,city,2021-03-15,-12.0
@@ -15693,7 +15805,10 @@ Chile,Las Condes,city,2021-03-07,-32.0
 Chile,Las Condes,city,2021-03-08,-3.0
 Chile,Las Condes,city,2021-03-09,1.0
 Chile,Las Condes,city,2021-03-10,21.0
+Chile,Las Condes,city,2021-03-10,21.0
 Chile,Las Condes,city,2021-03-11,3.0
+Chile,Las Condes,city,2021-03-11,3.0
+Chile,Las Condes,city,2021-03-12,36.0
 Chile,Las Condes,city,2021-03-12,36.0
 Chile,Las Condes,city,2021-03-13,-21.0
 Chile,Las Condes,city,2021-03-14,-46.0
@@ -16131,8 +16246,12 @@ Chile,Maipu,city,2021-03-07,-24.0
 Chile,Maipu,city,2021-03-08,9.0
 Chile,Maipu,city,2021-03-09,47.0
 Chile,Maipu,city,2021-03-10,19.0
+Chile,Maipu,city,2021-03-10,19.0
+Chile,Maipu,city,2021-03-11,-3.0
 Chile,Maipu,city,2021-03-11,-3.0
 Chile,Maipu,city,2021-03-12,4.0
+Chile,Maipu,city,2021-03-12,4.0
+Chile,Maipu,city,2021-03-13,-3.0
 Chile,Maipu,city,2021-03-13,-3.0
 Chile,Maipu,city,2021-03-14,-20.0
 Chile,Maipu,city,2021-03-15,-9.0
@@ -16569,7 +16688,10 @@ Chile,Santiago,city,2021-03-07,-33.0
 Chile,Santiago,city,2021-03-08,-12.0
 Chile,Santiago,city,2021-03-09,9.0
 Chile,Santiago,city,2021-03-10,17.0
+Chile,Santiago,city,2021-03-10,17.0
 Chile,Santiago,city,2021-03-11,10.0
+Chile,Santiago,city,2021-03-11,10.0
+Chile,Santiago,city,2021-03-12,10.0
 Chile,Santiago,city,2021-03-12,10.0
 Chile,Santiago,city,2021-03-13,-26.0
 Chile,Santiago,city,2021-03-14,-47.0
@@ -17444,9 +17566,14 @@ Colombia,Bogota,city,2021-03-06,-12.0
 Colombia,Bogota,city,2021-03-07,-8.0
 Colombia,Bogota,city,2021-03-08,-8.0
 Colombia,Bogota,city,2021-03-09,-14.000000000000002
+Colombia,Bogota,city,2021-03-09,-14.000000000000002
+Colombia,Bogota,city,2021-03-10,-13.0
 Colombia,Bogota,city,2021-03-10,-13.0
 Colombia,Bogota,city,2021-03-11,-13.0
+Colombia,Bogota,city,2021-03-11,-13.0
 Colombia,Bogota,city,2021-03-12,-11.0
+Colombia,Bogota,city,2021-03-12,-11.0
+Colombia,Bogota,city,2021-03-13,-10.0
 Colombia,Bogota,city,2021-03-13,-10.0
 Colombia,Bogota,city,2021-03-14,-6.0
 Colombia,Bogota,city,2021-03-15,-9.0
@@ -17882,8 +18009,12 @@ Colombia,Cali,city,2021-03-07,12.0
 Colombia,Cali,city,2021-03-08,-2.0
 Colombia,Cali,city,2021-03-09,-7.000000000000001
 Colombia,Cali,city,2021-03-10,-11.0
+Colombia,Cali,city,2021-03-10,-11.0
+Colombia,Cali,city,2021-03-11,-3.0
 Colombia,Cali,city,2021-03-11,-3.0
 Colombia,Cali,city,2021-03-12,-2.0
+Colombia,Cali,city,2021-03-12,-2.0
+Colombia,Cali,city,2021-03-13,-5.0
 Colombia,Cali,city,2021-03-13,-5.0
 Colombia,Cali,city,2021-03-14,-8.0
 Colombia,Cali,city,2021-03-15,-11.0
@@ -18319,8 +18450,12 @@ Colombia,Medellin,city,2021-03-07,26.0
 Colombia,Medellin,city,2021-03-08,10.0
 Colombia,Medellin,city,2021-03-09,9.0
 Colombia,Medellin,city,2021-03-10,5.0
+Colombia,Medellin,city,2021-03-10,5.0
+Colombia,Medellin,city,2021-03-11,8.0
 Colombia,Medellin,city,2021-03-11,8.0
 Colombia,Medellin,city,2021-03-12,7.000000000000001
+Colombia,Medellin,city,2021-03-12,7.000000000000001
+Colombia,Medellin,city,2021-03-13,8.0
 Colombia,Medellin,city,2021-03-13,8.0
 Colombia,Medellin,city,2021-03-14,12.0
 Colombia,Medellin,city,2021-03-15,3.0
@@ -19194,9 +19329,14 @@ Costa Rica,San Jose,city,2021-03-06,-25.0
 Costa Rica,San Jose,city,2021-03-07,-27.0
 Costa Rica,San Jose,city,2021-03-08,-12.0
 Costa Rica,San Jose,city,2021-03-09,-14.000000000000002
+Costa Rica,San Jose,city,2021-03-09,-14.000000000000002
+Costa Rica,San Jose,city,2021-03-10,-17.0
 Costa Rica,San Jose,city,2021-03-10,-17.0
 Costa Rica,San Jose,city,2021-03-11,-26.0
+Costa Rica,San Jose,city,2021-03-11,-26.0
 Costa Rica,San Jose,city,2021-03-12,-20.0
+Costa Rica,San Jose,city,2021-03-12,-20.0
+Costa Rica,San Jose,city,2021-03-13,-10.0
 Costa Rica,San Jose,city,2021-03-13,-10.0
 Costa Rica,San Jose,city,2021-03-14,-19.0
 Costa Rica,San Jose,city,2021-03-15,-21.0
@@ -20071,7 +20211,10 @@ Czechia,Brno,city,2021-03-07,-60.0
 Czechia,Brno,city,2021-03-08,-45.0
 Czechia,Brno,city,2021-03-09,-11.0
 Czechia,Brno,city,2021-03-10,-19.0
+Czechia,Brno,city,2021-03-10,-19.0
 Czechia,Brno,city,2021-03-11,-26.0
+Czechia,Brno,city,2021-03-11,-26.0
+Czechia,Brno,city,2021-03-12,-32.0
 Czechia,Brno,city,2021-03-12,-32.0
 Czechia,Brno,city,2021-03-13,-47.0
 Czechia,Brno,city,2021-03-14,-70.0
@@ -20508,8 +20651,12 @@ Czechia,Prague,city,2021-03-06,-41.0
 Czechia,Prague,city,2021-03-07,-48.0
 Czechia,Prague,city,2021-03-08,-24.0
 Czechia,Prague,city,2021-03-09,-28.000000000000004
+Czechia,Prague,city,2021-03-09,-28.000000000000004
+Czechia,Prague,city,2021-03-10,-32.0
 Czechia,Prague,city,2021-03-10,-32.0
 Czechia,Prague,city,2021-03-11,-31.0
+Czechia,Prague,city,2021-03-11,-31.0
+Czechia,Prague,city,2021-03-12,-28.000000000000004
 Czechia,Prague,city,2021-03-12,-28.000000000000004
 Czechia,Prague,city,2021-03-13,-44.0
 Czechia,Prague,city,2021-03-14,-46.0
@@ -21385,7 +21532,10 @@ Ecuador,Quito,city,2021-03-07,-6.0
 Ecuador,Quito,city,2021-03-08,6.0
 Ecuador,Quito,city,2021-03-09,-13.0
 Ecuador,Quito,city,2021-03-10,-28.000000000000004
+Ecuador,Quito,city,2021-03-10,-28.000000000000004
 Ecuador,Quito,city,2021-03-11,-27.0
+Ecuador,Quito,city,2021-03-11,-27.0
+Ecuador,Quito,city,2021-03-12,-25.0
 Ecuador,Quito,city,2021-03-12,-25.0
 Ecuador,Quito,city,2021-03-13,-26.0
 Ecuador,Quito,city,2021-03-14,-27.0
@@ -22697,8 +22847,12 @@ France,Bordeaux,city,2021-03-06,-17.0
 France,Bordeaux,city,2021-03-07,-6.0
 France,Bordeaux,city,2021-03-08,-13.0
 France,Bordeaux,city,2021-03-09,-25.0
+France,Bordeaux,city,2021-03-09,-25.0
+France,Bordeaux,city,2021-03-10,-14.000000000000002
 France,Bordeaux,city,2021-03-10,-14.000000000000002
 France,Bordeaux,city,2021-03-11,-7.000000000000001
+France,Bordeaux,city,2021-03-11,-7.000000000000001
+France,Bordeaux,city,2021-03-12,-20.0
 France,Bordeaux,city,2021-03-12,-20.0
 France,Bordeaux,city,2021-03-13,-27.0
 France,Bordeaux,city,2021-03-14,-10.0
@@ -23135,8 +23289,12 @@ France,Lille,city,2021-03-06,-17.0
 France,Lille,city,2021-03-07,-19.0
 France,Lille,city,2021-03-08,-11.0
 France,Lille,city,2021-03-09,-21.0
+France,Lille,city,2021-03-09,-21.0
+France,Lille,city,2021-03-10,-3.0
 France,Lille,city,2021-03-10,-3.0
 France,Lille,city,2021-03-11,-9.0
+France,Lille,city,2021-03-11,-9.0
+France,Lille,city,2021-03-12,-26.0
 France,Lille,city,2021-03-12,-26.0
 France,Lille,city,2021-03-13,-27.0
 France,Lille,city,2021-03-14,-26.0
@@ -23574,7 +23732,10 @@ France,Lyon,city,2021-03-07,-8.0
 France,Lyon,city,2021-03-08,-9.0
 France,Lyon,city,2021-03-09,-1.0
 France,Lyon,city,2021-03-10,-19.0
+France,Lyon,city,2021-03-10,-19.0
 France,Lyon,city,2021-03-11,-16.0
+France,Lyon,city,2021-03-11,-16.0
+France,Lyon,city,2021-03-12,-26.0
 France,Lyon,city,2021-03-12,-26.0
 France,Lyon,city,2021-03-13,-28.999999999999996
 France,Lyon,city,2021-03-14,-7.000000000000001
@@ -24012,8 +24173,12 @@ France,Marseille,city,2021-03-07,18.0
 France,Marseille,city,2021-03-08,18.0
 France,Marseille,city,2021-03-09,10.0
 France,Marseille,city,2021-03-10,6.0
+France,Marseille,city,2021-03-10,6.0
+France,Marseille,city,2021-03-11,7.000000000000001
 France,Marseille,city,2021-03-11,7.000000000000001
 France,Marseille,city,2021-03-12,-1.0
+France,Marseille,city,2021-03-12,-1.0
+France,Marseille,city,2021-03-13,-4.0
 France,Marseille,city,2021-03-13,-4.0
 France,Marseille,city,2021-03-14,3.0
 France,Marseille,city,2021-03-15,24.0
@@ -24449,8 +24614,12 @@ France,Paris,city,2021-03-06,-32.0
 France,Paris,city,2021-03-07,-28.999999999999996
 France,Paris,city,2021-03-08,-14.000000000000002
 France,Paris,city,2021-03-09,-14.000000000000002
+France,Paris,city,2021-03-09,-14.000000000000002
+France,Paris,city,2021-03-10,-13.0
 France,Paris,city,2021-03-10,-13.0
 France,Paris,city,2021-03-11,-16.0
+France,Paris,city,2021-03-11,-16.0
+France,Paris,city,2021-03-12,-23.0
 France,Paris,city,2021-03-12,-23.0
 France,Paris,city,2021-03-13,-35.0
 France,Paris,city,2021-03-14,-32.0
@@ -25326,7 +25495,10 @@ France,Toulouse,city,2021-03-07,-9.0
 France,Toulouse,city,2021-03-08,-3.0
 France,Toulouse,city,2021-03-09,-6.0
 France,Toulouse,city,2021-03-10,-10.0
+France,Toulouse,city,2021-03-10,-10.0
 France,Toulouse,city,2021-03-11,-5.0
+France,Toulouse,city,2021-03-11,-5.0
+France,Toulouse,city,2021-03-12,-6.0
 France,Toulouse,city,2021-03-12,-6.0
 France,Toulouse,city,2021-03-13,-28.999999999999996
 France,Toulouse,city,2021-03-14,-10.0
@@ -25761,7 +25933,10 @@ Germany,Berlin,city,2021-03-07,-31.0
 Germany,Berlin,city,2021-03-08,-54.0
 Germany,Berlin,city,2021-03-09,1.0
 Germany,Berlin,city,2021-03-10,-8.0
+Germany,Berlin,city,2021-03-10,-8.0
 Germany,Berlin,city,2021-03-11,-17.0
+Germany,Berlin,city,2021-03-11,-17.0
+Germany,Berlin,city,2021-03-12,-27.0
 Germany,Berlin,city,2021-03-12,-27.0
 Germany,Berlin,city,2021-03-13,-16.0
 Germany,Berlin,city,2021-03-14,-56.99999999999999
@@ -27073,8 +27248,12 @@ Hungary,Budapest,city,2021-03-06,-13.0
 Hungary,Budapest,city,2021-03-07,-17.0
 Hungary,Budapest,city,2021-03-08,-21.0
 Hungary,Budapest,city,2021-03-09,-22.0
+Hungary,Budapest,city,2021-03-09,-22.0
+Hungary,Budapest,city,2021-03-10,-22.0
 Hungary,Budapest,city,2021-03-10,-22.0
 Hungary,Budapest,city,2021-03-11,-25.0
+Hungary,Budapest,city,2021-03-11,-25.0
+Hungary,Budapest,city,2021-03-12,-26.0
 Hungary,Budapest,city,2021-03-12,-26.0
 Hungary,Budapest,city,2021-03-13,-26.0
 Hungary,Budapest,city,2021-03-14,-46.0
@@ -27946,7 +28125,10 @@ Indonesia,Bekasi,city,2021-03-07,-44.0
 Indonesia,Bekasi,city,2021-03-08,-34.0
 Indonesia,Bekasi,city,2021-03-09,-6.0
 Indonesia,Bekasi,city,2021-03-10,-7.000000000000001
+Indonesia,Bekasi,city,2021-03-10,-7.000000000000001
 Indonesia,Bekasi,city,2021-03-11,-11.0
+Indonesia,Bekasi,city,2021-03-11,-11.0
+Indonesia,Bekasi,city,2021-03-12,-39.0
 Indonesia,Bekasi,city,2021-03-12,-39.0
 Indonesia,Bekasi,city,2021-03-13,-89.0
 Indonesia,Bekasi,city,2021-03-14,-14.000000000000002
@@ -28383,8 +28565,12 @@ Indonesia,Jakarta,city,2021-03-06,-43.0
 Indonesia,Jakarta,city,2021-03-07,-40.0
 Indonesia,Jakarta,city,2021-03-08,-46.0
 Indonesia,Jakarta,city,2021-03-09,-37.0
+Indonesia,Jakarta,city,2021-03-09,-37.0
+Indonesia,Jakarta,city,2021-03-10,-32.0
 Indonesia,Jakarta,city,2021-03-10,-32.0
 Indonesia,Jakarta,city,2021-03-11,-56.00000000000001
+Indonesia,Jakarta,city,2021-03-11,-56.00000000000001
+Indonesia,Jakarta,city,2021-03-12,-50.0
 Indonesia,Jakarta,city,2021-03-12,-50.0
 Indonesia,Jakarta,city,2021-03-13,-52.0
 Indonesia,Jakarta,city,2021-03-14,-56.00000000000001
@@ -28816,8 +29002,12 @@ Indonesia,South Tangerang,city,2021-03-06,-20.0
 Indonesia,South Tangerang,city,2021-03-07,-37.0
 Indonesia,South Tangerang,city,2021-03-08,-47.0
 Indonesia,South Tangerang,city,2021-03-09,-24.0
+Indonesia,South Tangerang,city,2021-03-09,-24.0
+Indonesia,South Tangerang,city,2021-03-10,7.000000000000001
 Indonesia,South Tangerang,city,2021-03-10,7.000000000000001
 Indonesia,South Tangerang,city,2021-03-11,-18.0
+Indonesia,South Tangerang,city,2021-03-11,-18.0
+Indonesia,South Tangerang,city,2021-03-12,-59.0
 Indonesia,South Tangerang,city,2021-03-12,-59.0
 Indonesia,South Tangerang,city,2021-03-13,-21.0
 Indonesia,South Tangerang,city,2021-03-14,-26.0
@@ -29246,7 +29436,10 @@ Indonesia,Tangerang,city,2021-03-07,-78.0
 Indonesia,Tangerang,city,2021-03-08,-39.0
 Indonesia,Tangerang,city,2021-03-09,-10.0
 Indonesia,Tangerang,city,2021-03-10,-51.0
+Indonesia,Tangerang,city,2021-03-10,-51.0
 Indonesia,Tangerang,city,2021-03-11,-79.0
+Indonesia,Tangerang,city,2021-03-11,-79.0
+Indonesia,Tangerang,city,2021-03-12,-50.0
 Indonesia,Tangerang,city,2021-03-12,-50.0
 Indonesia,Tangerang,city,2021-03-13,-34.0
 Indonesia,Tangerang,city,2021-03-14,-31.0
@@ -30121,8 +30314,12 @@ Israel,Be'er Sheva,city,2021-03-07,9.0
 Israel,Be'er Sheva,city,2021-03-08,15.0
 Israel,Be'er Sheva,city,2021-03-09,3.0
 Israel,Be'er Sheva,city,2021-03-10,7.000000000000001
+Israel,Be'er Sheva,city,2021-03-10,7.000000000000001
+Israel,Be'er Sheva,city,2021-03-11,15.0
 Israel,Be'er Sheva,city,2021-03-11,15.0
 Israel,Be'er Sheva,city,2021-03-12,34.0
+Israel,Be'er Sheva,city,2021-03-12,34.0
+Israel,Be'er Sheva,city,2021-03-13,14.000000000000002
 Israel,Be'er Sheva,city,2021-03-13,14.000000000000002
 Israel,Be'er Sheva,city,2021-03-14,16.0
 Israel,Be'er Sheva,city,2021-03-15,25.0
@@ -30559,8 +30756,12 @@ Israel,Haifa,city,2021-03-07,3.0
 Israel,Haifa,city,2021-03-08,0.0
 Israel,Haifa,city,2021-03-09,0.0
 Israel,Haifa,city,2021-03-10,8.0
+Israel,Haifa,city,2021-03-10,8.0
+Israel,Haifa,city,2021-03-11,0.0
 Israel,Haifa,city,2021-03-11,0.0
 Israel,Haifa,city,2021-03-12,3.0
+Israel,Haifa,city,2021-03-12,3.0
+Israel,Haifa,city,2021-03-13,17.0
 Israel,Haifa,city,2021-03-13,17.0
 Israel,Haifa,city,2021-03-14,5.0
 Israel,Haifa,city,2021-03-15,5.0
@@ -30997,8 +31198,12 @@ Israel,Jerusalem,city,2021-03-07,0.0
 Israel,Jerusalem,city,2021-03-08,-5.0
 Israel,Jerusalem,city,2021-03-09,4.0
 Israel,Jerusalem,city,2021-03-10,9.0
+Israel,Jerusalem,city,2021-03-10,9.0
+Israel,Jerusalem,city,2021-03-11,6.0
 Israel,Jerusalem,city,2021-03-11,6.0
 Israel,Jerusalem,city,2021-03-12,13.0
+Israel,Jerusalem,city,2021-03-12,13.0
+Israel,Jerusalem,city,2021-03-13,16.0
 Israel,Jerusalem,city,2021-03-13,16.0
 Israel,Jerusalem,city,2021-03-14,9.0
 Israel,Jerusalem,city,2021-03-15,5.0
@@ -31435,8 +31640,12 @@ Israel,Petah Tikva,city,2021-03-07,-2.0
 Israel,Petah Tikva,city,2021-03-08,6.0
 Israel,Petah Tikva,city,2021-03-09,4.0
 Israel,Petah Tikva,city,2021-03-10,1.0
+Israel,Petah Tikva,city,2021-03-10,1.0
+Israel,Petah Tikva,city,2021-03-11,6.0
 Israel,Petah Tikva,city,2021-03-11,6.0
 Israel,Petah Tikva,city,2021-03-12,-4.0
+Israel,Petah Tikva,city,2021-03-12,-4.0
+Israel,Petah Tikva,city,2021-03-13,13.0
 Israel,Petah Tikva,city,2021-03-13,13.0
 Israel,Petah Tikva,city,2021-03-14,7.000000000000001
 Israel,Petah Tikva,city,2021-03-15,4.0
@@ -31873,8 +32082,12 @@ Israel,Ramat Gan,city,2021-03-07,5.0
 Israel,Ramat Gan,city,2021-03-08,2.0
 Israel,Ramat Gan,city,2021-03-09,-6.0
 Israel,Ramat Gan,city,2021-03-10,2.0
+Israel,Ramat Gan,city,2021-03-10,2.0
+Israel,Ramat Gan,city,2021-03-11,3.0
 Israel,Ramat Gan,city,2021-03-11,3.0
 Israel,Ramat Gan,city,2021-03-12,22.0
+Israel,Ramat Gan,city,2021-03-12,22.0
+Israel,Ramat Gan,city,2021-03-13,13.0
 Israel,Ramat Gan,city,2021-03-13,13.0
 Israel,Ramat Gan,city,2021-03-14,2.0
 Israel,Ramat Gan,city,2021-03-15,11.0
@@ -32311,8 +32524,12 @@ Israel,Rishon Letsiyon,city,2021-03-07,8.0
 Israel,Rishon Letsiyon,city,2021-03-08,10.0
 Israel,Rishon Letsiyon,city,2021-03-09,2.0
 Israel,Rishon Letsiyon,city,2021-03-10,10.0
+Israel,Rishon Letsiyon,city,2021-03-10,10.0
+Israel,Rishon Letsiyon,city,2021-03-11,6.0
 Israel,Rishon Letsiyon,city,2021-03-11,6.0
 Israel,Rishon Letsiyon,city,2021-03-12,6.0
+Israel,Rishon Letsiyon,city,2021-03-12,6.0
+Israel,Rishon Letsiyon,city,2021-03-13,9.0
 Israel,Rishon Letsiyon,city,2021-03-13,9.0
 Israel,Rishon Letsiyon,city,2021-03-14,16.0
 Israel,Rishon Letsiyon,city,2021-03-15,12.0
@@ -32749,8 +32966,12 @@ Israel,Tel Aviv-Yafo,city,2021-03-07,4.0
 Israel,Tel Aviv-Yafo,city,2021-03-08,3.0
 Israel,Tel Aviv-Yafo,city,2021-03-09,1.0
 Israel,Tel Aviv-Yafo,city,2021-03-10,4.0
+Israel,Tel Aviv-Yafo,city,2021-03-10,4.0
+Israel,Tel Aviv-Yafo,city,2021-03-11,1.0
 Israel,Tel Aviv-Yafo,city,2021-03-11,1.0
 Israel,Tel Aviv-Yafo,city,2021-03-12,-3.0
+Israel,Tel Aviv-Yafo,city,2021-03-12,-3.0
+Israel,Tel Aviv-Yafo,city,2021-03-13,15.0
 Israel,Tel Aviv-Yafo,city,2021-03-13,15.0
 Israel,Tel Aviv-Yafo,city,2021-03-14,6.0
 Israel,Tel Aviv-Yafo,city,2021-03-15,4.0
@@ -33623,8 +33844,12 @@ Italy,Milan,city,2021-03-06,-50.0
 Italy,Milan,city,2021-03-07,-53.0
 Italy,Milan,city,2021-03-08,-34.0
 Italy,Milan,city,2021-03-09,-28.999999999999996
+Italy,Milan,city,2021-03-09,-28.999999999999996
+Italy,Milan,city,2021-03-10,-40.0
 Italy,Milan,city,2021-03-10,-40.0
 Italy,Milan,city,2021-03-11,-41.0
+Italy,Milan,city,2021-03-11,-41.0
+Italy,Milan,city,2021-03-12,-40.0
 Italy,Milan,city,2021-03-12,-40.0
 Italy,Milan,city,2021-03-13,-61.0
 Italy,Milan,city,2021-03-14,-60.0
@@ -34062,8 +34287,12 @@ Italy,Rome,city,2021-03-07,-39.0
 Italy,Rome,city,2021-03-08,-17.0
 Italy,Rome,city,2021-03-09,-13.0
 Italy,Rome,city,2021-03-10,-18.0
+Italy,Rome,city,2021-03-10,-18.0
+Italy,Rome,city,2021-03-11,-9.0
 Italy,Rome,city,2021-03-11,-9.0
 Italy,Rome,city,2021-03-12,-20.0
+Italy,Rome,city,2021-03-12,-20.0
+Italy,Rome,city,2021-03-13,-5.0
 Italy,Rome,city,2021-03-13,-5.0
 Italy,Rome,city,2021-03-14,-19.0
 Italy,Rome,city,2021-03-15,-49.0
@@ -34936,7 +35165,10 @@ Latvia,Riga,city,2021-03-07,-11.0
 Latvia,Riga,city,2021-03-08,5.0
 Latvia,Riga,city,2021-03-09,-6.0
 Latvia,Riga,city,2021-03-10,-2.0
+Latvia,Riga,city,2021-03-10,-2.0
 Latvia,Riga,city,2021-03-11,-4.0
+Latvia,Riga,city,2021-03-11,-4.0
+Latvia,Riga,city,2021-03-12,-11.0
 Latvia,Riga,city,2021-03-12,-11.0
 Latvia,Riga,city,2021-03-13,-19.0
 Latvia,Riga,city,2021-03-14,-9.0
@@ -35807,8 +36039,12 @@ Lithuania,Kaunas,city,2021-03-06,57.99999999999999
 Lithuania,Kaunas,city,2021-03-07,19.0
 Lithuania,Kaunas,city,2021-03-09,36.0
 Lithuania,Kaunas,city,2021-03-10,62.0
+Lithuania,Kaunas,city,2021-03-10,62.0
+Lithuania,Kaunas,city,2021-03-11,-4.0
 Lithuania,Kaunas,city,2021-03-11,-4.0
 Lithuania,Kaunas,city,2021-03-12,40.0
+Lithuania,Kaunas,city,2021-03-12,40.0
+Lithuania,Kaunas,city,2021-03-13,39.0
 Lithuania,Kaunas,city,2021-03-13,39.0
 Lithuania,Kaunas,city,2021-03-14,55.00000000000001
 Lithuania,Kaunas,city,2021-03-15,73.0
@@ -36674,8 +36910,12 @@ Lithuania,Vilnius,city,2021-03-07,3.0
 Lithuania,Vilnius,city,2021-03-08,70.0
 Lithuania,Vilnius,city,2021-03-09,28.999999999999996
 Lithuania,Vilnius,city,2021-03-10,30.0
+Lithuania,Vilnius,city,2021-03-10,30.0
+Lithuania,Vilnius,city,2021-03-11,-5.0
 Lithuania,Vilnius,city,2021-03-11,-5.0
 Lithuania,Vilnius,city,2021-03-12,22.0
+Lithuania,Vilnius,city,2021-03-12,22.0
+Lithuania,Vilnius,city,2021-03-13,22.0
 Lithuania,Vilnius,city,2021-03-13,22.0
 Lithuania,Vilnius,city,2021-03-14,23.0
 Lithuania,Vilnius,city,2021-03-15,26.0
@@ -37545,7 +37785,10 @@ Malaysia,Ipoh,city,2021-03-07,-4.0
 Malaysia,Ipoh,city,2021-03-08,-33.0
 Malaysia,Ipoh,city,2021-03-09,17.0
 Malaysia,Ipoh,city,2021-03-10,17.0
+Malaysia,Ipoh,city,2021-03-10,17.0
 Malaysia,Ipoh,city,2021-03-11,-4.0
+Malaysia,Ipoh,city,2021-03-11,-4.0
+Malaysia,Ipoh,city,2021-03-12,-30.0
 Malaysia,Ipoh,city,2021-03-12,-30.0
 Malaysia,Ipoh,city,2021-03-13,-25.0
 Malaysia,Ipoh,city,2021-03-14,25.0
@@ -37983,7 +38226,10 @@ Malaysia,Johor Bahru,city,2021-03-07,-25.0
 Malaysia,Johor Bahru,city,2021-03-08,-7.000000000000001
 Malaysia,Johor Bahru,city,2021-03-09,-10.0
 Malaysia,Johor Bahru,city,2021-03-10,-6.0
+Malaysia,Johor Bahru,city,2021-03-10,-6.0
 Malaysia,Johor Bahru,city,2021-03-11,-24.0
+Malaysia,Johor Bahru,city,2021-03-11,-24.0
+Malaysia,Johor Bahru,city,2021-03-12,-19.0
 Malaysia,Johor Bahru,city,2021-03-12,-19.0
 Malaysia,Johor Bahru,city,2021-03-13,-26.0
 Malaysia,Johor Bahru,city,2021-03-14,-22.0
@@ -38421,8 +38667,12 @@ Malaysia,Kuala Lumpur,city,2021-03-07,-20.0
 Malaysia,Kuala Lumpur,city,2021-03-08,-10.0
 Malaysia,Kuala Lumpur,city,2021-03-09,-13.0
 Malaysia,Kuala Lumpur,city,2021-03-10,-13.0
+Malaysia,Kuala Lumpur,city,2021-03-10,-13.0
+Malaysia,Kuala Lumpur,city,2021-03-11,-17.0
 Malaysia,Kuala Lumpur,city,2021-03-11,-17.0
 Malaysia,Kuala Lumpur,city,2021-03-12,-17.0
+Malaysia,Kuala Lumpur,city,2021-03-12,-17.0
+Malaysia,Kuala Lumpur,city,2021-03-13,-11.0
 Malaysia,Kuala Lumpur,city,2021-03-13,-11.0
 Malaysia,Kuala Lumpur,city,2021-03-14,-15.0
 Malaysia,Kuala Lumpur,city,2021-03-15,-10.0
@@ -38859,8 +39109,12 @@ Malaysia,Petaling Jaya,city,2021-03-07,-16.0
 Malaysia,Petaling Jaya,city,2021-03-08,-9.0
 Malaysia,Petaling Jaya,city,2021-03-09,-12.0
 Malaysia,Petaling Jaya,city,2021-03-10,-11.0
+Malaysia,Petaling Jaya,city,2021-03-10,-11.0
+Malaysia,Petaling Jaya,city,2021-03-11,-10.0
 Malaysia,Petaling Jaya,city,2021-03-11,-10.0
 Malaysia,Petaling Jaya,city,2021-03-12,-9.0
+Malaysia,Petaling Jaya,city,2021-03-12,-9.0
+Malaysia,Petaling Jaya,city,2021-03-13,1.0
 Malaysia,Petaling Jaya,city,2021-03-13,1.0
 Malaysia,Petaling Jaya,city,2021-03-14,-6.0
 Malaysia,Petaling Jaya,city,2021-03-15,-9.0
@@ -39297,8 +39551,12 @@ Malaysia,Puchong,city,2021-03-07,3.0
 Malaysia,Puchong,city,2021-03-08,3.0
 Malaysia,Puchong,city,2021-03-09,16.0
 Malaysia,Puchong,city,2021-03-10,9.0
+Malaysia,Puchong,city,2021-03-10,9.0
+Malaysia,Puchong,city,2021-03-11,7.000000000000001
 Malaysia,Puchong,city,2021-03-11,7.000000000000001
 Malaysia,Puchong,city,2021-03-12,1.0
+Malaysia,Puchong,city,2021-03-12,1.0
+Malaysia,Puchong,city,2021-03-13,-2.0
 Malaysia,Puchong,city,2021-03-13,-2.0
 Malaysia,Puchong,city,2021-03-14,0.0
 Malaysia,Puchong,city,2021-03-15,16.0
@@ -39735,8 +39993,12 @@ Malaysia,Shah Alam,city,2021-03-07,-4.0
 Malaysia,Shah Alam,city,2021-03-08,0.0
 Malaysia,Shah Alam,city,2021-03-09,2.0
 Malaysia,Shah Alam,city,2021-03-10,2.0
+Malaysia,Shah Alam,city,2021-03-10,2.0
+Malaysia,Shah Alam,city,2021-03-11,1.0
 Malaysia,Shah Alam,city,2021-03-11,1.0
 Malaysia,Shah Alam,city,2021-03-12,-2.0
+Malaysia,Shah Alam,city,2021-03-12,-2.0
+Malaysia,Shah Alam,city,2021-03-13,1.0
 Malaysia,Shah Alam,city,2021-03-13,1.0
 Malaysia,Shah Alam,city,2021-03-14,-3.0
 Malaysia,Shah Alam,city,2021-03-15,8.0
@@ -40610,8 +40872,12 @@ Mexico,Guadalajara,city,2021-03-06,-27.0
 Mexico,Guadalajara,city,2021-03-07,-17.0
 Mexico,Guadalajara,city,2021-03-08,-20.0
 Mexico,Guadalajara,city,2021-03-09,-26.0
+Mexico,Guadalajara,city,2021-03-09,-26.0
+Mexico,Guadalajara,city,2021-03-10,-24.0
 Mexico,Guadalajara,city,2021-03-10,-24.0
 Mexico,Guadalajara,city,2021-03-11,-19.0
+Mexico,Guadalajara,city,2021-03-11,-19.0
+Mexico,Guadalajara,city,2021-03-12,-26.0
 Mexico,Guadalajara,city,2021-03-12,-26.0
 Mexico,Guadalajara,city,2021-03-13,-23.0
 Mexico,Guadalajara,city,2021-03-14,-28.000000000000004
@@ -41048,8 +41314,12 @@ Mexico,Mexico City,city,2021-03-06,-35.0
 Mexico,Mexico City,city,2021-03-07,-36.0
 Mexico,Mexico City,city,2021-03-08,-33.0
 Mexico,Mexico City,city,2021-03-09,-34.0
+Mexico,Mexico City,city,2021-03-09,-34.0
+Mexico,Mexico City,city,2021-03-10,-30.0
 Mexico,Mexico City,city,2021-03-10,-30.0
 Mexico,Mexico City,city,2021-03-11,-32.0
+Mexico,Mexico City,city,2021-03-11,-32.0
+Mexico,Mexico City,city,2021-03-12,-33.0
 Mexico,Mexico City,city,2021-03-12,-33.0
 Mexico,Mexico City,city,2021-03-13,-32.0
 Mexico,Mexico City,city,2021-03-14,-35.0
@@ -41486,8 +41756,12 @@ Mexico,Monterrey,city,2021-03-06,-37.0
 Mexico,Monterrey,city,2021-03-07,-43.0
 Mexico,Monterrey,city,2021-03-08,-44.0
 Mexico,Monterrey,city,2021-03-09,-44.0
+Mexico,Monterrey,city,2021-03-09,-44.0
+Mexico,Monterrey,city,2021-03-10,-51.0
 Mexico,Monterrey,city,2021-03-10,-51.0
 Mexico,Monterrey,city,2021-03-11,-37.0
+Mexico,Monterrey,city,2021-03-11,-37.0
+Mexico,Monterrey,city,2021-03-12,-40.0
 Mexico,Monterrey,city,2021-03-12,-40.0
 Mexico,Monterrey,city,2021-03-13,-32.0
 Mexico,Monterrey,city,2021-03-14,-44.0
@@ -41924,8 +42198,12 @@ Mexico,Puebla City,city,2021-03-06,-38.0
 Mexico,Puebla City,city,2021-03-07,-30.0
 Mexico,Puebla City,city,2021-03-08,-24.0
 Mexico,Puebla City,city,2021-03-09,-33.0
+Mexico,Puebla City,city,2021-03-09,-33.0
+Mexico,Puebla City,city,2021-03-10,-19.0
 Mexico,Puebla City,city,2021-03-10,-19.0
 Mexico,Puebla City,city,2021-03-11,-22.0
+Mexico,Puebla City,city,2021-03-11,-22.0
+Mexico,Puebla City,city,2021-03-12,-15.0
 Mexico,Puebla City,city,2021-03-12,-15.0
 Mexico,Puebla City,city,2021-03-13,-31.0
 Mexico,Puebla City,city,2021-03-14,-22.0
@@ -42362,8 +42640,12 @@ Mexico,Santiago De Queretaro,city,2021-03-06,-31.0
 Mexico,Santiago De Queretaro,city,2021-03-07,-30.0
 Mexico,Santiago De Queretaro,city,2021-03-08,-34.0
 Mexico,Santiago De Queretaro,city,2021-03-09,-25.0
+Mexico,Santiago De Queretaro,city,2021-03-09,-25.0
+Mexico,Santiago De Queretaro,city,2021-03-10,-30.0
 Mexico,Santiago De Queretaro,city,2021-03-10,-30.0
 Mexico,Santiago De Queretaro,city,2021-03-11,-23.0
+Mexico,Santiago De Queretaro,city,2021-03-11,-23.0
+Mexico,Santiago De Queretaro,city,2021-03-12,-43.0
 Mexico,Santiago De Queretaro,city,2021-03-12,-43.0
 Mexico,Santiago De Queretaro,city,2021-03-13,-21.0
 Mexico,Santiago De Queretaro,city,2021-03-14,-19.0
@@ -43238,8 +43520,12 @@ Mexico,Zapopan,city,2021-03-06,-28.000000000000004
 Mexico,Zapopan,city,2021-03-07,-24.0
 Mexico,Zapopan,city,2021-03-08,-20.0
 Mexico,Zapopan,city,2021-03-09,-33.0
+Mexico,Zapopan,city,2021-03-09,-33.0
+Mexico,Zapopan,city,2021-03-10,-30.0
 Mexico,Zapopan,city,2021-03-10,-30.0
 Mexico,Zapopan,city,2021-03-11,-24.0
+Mexico,Zapopan,city,2021-03-11,-24.0
+Mexico,Zapopan,city,2021-03-12,-16.0
 Mexico,Zapopan,city,2021-03-12,-16.0
 Mexico,Zapopan,city,2021-03-13,-31.0
 Mexico,Zapopan,city,2021-03-14,-21.0
@@ -44114,8 +44400,12 @@ Netherlands,Amsterdam,city,2021-03-06,-51.0
 Netherlands,Amsterdam,city,2021-03-07,-49.0
 Netherlands,Amsterdam,city,2021-03-08,-54.0
 Netherlands,Amsterdam,city,2021-03-09,-24.0
+Netherlands,Amsterdam,city,2021-03-09,-24.0
+Netherlands,Amsterdam,city,2021-03-10,-43.0
 Netherlands,Amsterdam,city,2021-03-10,-43.0
 Netherlands,Amsterdam,city,2021-03-11,-36.0
+Netherlands,Amsterdam,city,2021-03-11,-36.0
+Netherlands,Amsterdam,city,2021-03-12,-37.0
 Netherlands,Amsterdam,city,2021-03-12,-37.0
 Netherlands,Amsterdam,city,2021-03-13,-54.0
 Netherlands,Amsterdam,city,2021-03-14,-37.0
@@ -44552,8 +44842,12 @@ Netherlands,Rotterdam,city,2021-03-06,-37.0
 Netherlands,Rotterdam,city,2021-03-07,-65.0
 Netherlands,Rotterdam,city,2021-03-08,-33.0
 Netherlands,Rotterdam,city,2021-03-09,-47.0
+Netherlands,Rotterdam,city,2021-03-09,-47.0
+Netherlands,Rotterdam,city,2021-03-10,-24.0
 Netherlands,Rotterdam,city,2021-03-10,-24.0
 Netherlands,Rotterdam,city,2021-03-11,-34.0
+Netherlands,Rotterdam,city,2021-03-11,-34.0
+Netherlands,Rotterdam,city,2021-03-12,-30.0
 Netherlands,Rotterdam,city,2021-03-12,-30.0
 Netherlands,Rotterdam,city,2021-03-13,-33.0
 Netherlands,Rotterdam,city,2021-03-14,-50.0
@@ -45428,8 +45722,12 @@ Peru,Lima,city,2021-03-06,-26.0
 Peru,Lima,city,2021-03-07,-64.0
 Peru,Lima,city,2021-03-08,-31.0
 Peru,Lima,city,2021-03-09,-28.000000000000004
+Peru,Lima,city,2021-03-09,-28.000000000000004
+Peru,Lima,city,2021-03-10,-30.0
 Peru,Lima,city,2021-03-10,-30.0
 Peru,Lima,city,2021-03-11,-32.0
+Peru,Lima,city,2021-03-11,-32.0
+Peru,Lima,city,2021-03-12,-32.0
 Peru,Lima,city,2021-03-12,-32.0
 Peru,Lima,city,2021-03-13,-27.0
 Peru,Lima,city,2021-03-14,-57.99999999999999
@@ -46304,8 +46602,12 @@ Philippines,Makati,city,2021-03-06,-39.0
 Philippines,Makati,city,2021-03-07,-35.0
 Philippines,Makati,city,2021-03-08,-51.0
 Philippines,Makati,city,2021-03-09,-40.0
+Philippines,Makati,city,2021-03-09,-40.0
+Philippines,Makati,city,2021-03-10,-54.0
 Philippines,Makati,city,2021-03-10,-54.0
 Philippines,Makati,city,2021-03-11,-53.0
+Philippines,Makati,city,2021-03-11,-53.0
+Philippines,Makati,city,2021-03-12,-44.0
 Philippines,Makati,city,2021-03-12,-44.0
 Philippines,Makati,city,2021-03-13,-55.00000000000001
 Philippines,Makati,city,2021-03-14,-44.0
@@ -46742,8 +47044,12 @@ Philippines,Manila,city,2021-03-06,-39.0
 Philippines,Manila,city,2021-03-07,-33.0
 Philippines,Manila,city,2021-03-08,-47.0
 Philippines,Manila,city,2021-03-09,-33.0
+Philippines,Manila,city,2021-03-09,-33.0
+Philippines,Manila,city,2021-03-10,-50.0
 Philippines,Manila,city,2021-03-10,-50.0
 Philippines,Manila,city,2021-03-11,-37.0
+Philippines,Manila,city,2021-03-11,-37.0
+Philippines,Manila,city,2021-03-12,-30.0
 Philippines,Manila,city,2021-03-12,-30.0
 Philippines,Manila,city,2021-03-13,-38.0
 Philippines,Manila,city,2021-03-14,-46.0
@@ -47180,8 +47486,12 @@ Philippines,Quezon City,city,2021-03-06,-39.0
 Philippines,Quezon City,city,2021-03-07,-33.0
 Philippines,Quezon City,city,2021-03-08,-37.0
 Philippines,Quezon City,city,2021-03-09,-38.0
+Philippines,Quezon City,city,2021-03-09,-38.0
+Philippines,Quezon City,city,2021-03-10,-40.0
 Philippines,Quezon City,city,2021-03-10,-40.0
 Philippines,Quezon City,city,2021-03-11,-40.0
+Philippines,Quezon City,city,2021-03-11,-40.0
+Philippines,Quezon City,city,2021-03-12,-41.0
 Philippines,Quezon City,city,2021-03-12,-41.0
 Philippines,Quezon City,city,2021-03-13,-43.0
 Philippines,Quezon City,city,2021-03-14,-36.0
@@ -48050,8 +48360,12 @@ Poland,Krakow,city,2021-03-07,-26.0
 Poland,Krakow,city,2021-03-08,74.0
 Poland,Krakow,city,2021-03-09,48.0
 Poland,Krakow,city,2021-03-10,87.0
+Poland,Krakow,city,2021-03-10,87.0
+Poland,Krakow,city,2021-03-11,-44.0
 Poland,Krakow,city,2021-03-11,-44.0
 Poland,Krakow,city,2021-03-12,-6.0
+Poland,Krakow,city,2021-03-12,-6.0
+Poland,Krakow,city,2021-03-13,-4.0
 Poland,Krakow,city,2021-03-13,-4.0
 Poland,Krakow,city,2021-03-14,-14.000000000000002
 Poland,Krakow,city,2021-03-15,-67.0
@@ -48926,7 +49240,10 @@ Poland,Warsaw,city,2021-03-07,-17.0
 Poland,Warsaw,city,2021-03-08,-3.0
 Poland,Warsaw,city,2021-03-09,-11.0
 Poland,Warsaw,city,2021-03-10,-4.0
+Poland,Warsaw,city,2021-03-10,-4.0
 Poland,Warsaw,city,2021-03-11,-11.0
+Poland,Warsaw,city,2021-03-11,-11.0
+Poland,Warsaw,city,2021-03-12,-11.0
 Poland,Warsaw,city,2021-03-12,-11.0
 Poland,Warsaw,city,2021-03-13,-39.0
 Poland,Warsaw,city,2021-03-14,-20.0
@@ -49363,8 +49680,12 @@ Portugal,Lisbon,city,2021-03-06,-62.0
 Portugal,Lisbon,city,2021-03-07,-61.0
 Portugal,Lisbon,city,2021-03-08,-47.0
 Portugal,Lisbon,city,2021-03-09,-47.0
+Portugal,Lisbon,city,2021-03-09,-47.0
+Portugal,Lisbon,city,2021-03-10,-50.0
 Portugal,Lisbon,city,2021-03-10,-50.0
 Portugal,Lisbon,city,2021-03-11,-54.0
+Portugal,Lisbon,city,2021-03-11,-54.0
+Portugal,Lisbon,city,2021-03-12,-53.0
 Portugal,Lisbon,city,2021-03-12,-53.0
 Portugal,Lisbon,city,2021-03-13,-64.0
 Portugal,Lisbon,city,2021-03-14,-55.00000000000001
@@ -50678,8 +50999,12 @@ Qatar,Doha,city,2021-03-07,19.0
 Qatar,Doha,city,2021-03-08,21.0
 Qatar,Doha,city,2021-03-09,21.0
 Qatar,Doha,city,2021-03-10,14.000000000000002
+Qatar,Doha,city,2021-03-10,14.000000000000002
+Qatar,Doha,city,2021-03-11,20.0
 Qatar,Doha,city,2021-03-11,20.0
 Qatar,Doha,city,2021-03-12,11.0
+Qatar,Doha,city,2021-03-12,11.0
+Qatar,Doha,city,2021-03-13,14.000000000000002
 Qatar,Doha,city,2021-03-13,14.000000000000002
 Qatar,Doha,city,2021-03-14,26.0
 Qatar,Doha,city,2021-03-15,15.0
@@ -51554,8 +51879,12 @@ Romania,Bucharest,city,2021-03-07,3.0
 Romania,Bucharest,city,2021-03-08,8.0
 Romania,Bucharest,city,2021-03-09,8.0
 Romania,Bucharest,city,2021-03-10,-1.0
+Romania,Bucharest,city,2021-03-10,-1.0
+Romania,Bucharest,city,2021-03-11,-1.0
 Romania,Bucharest,city,2021-03-11,-1.0
 Romania,Bucharest,city,2021-03-12,-1.0
+Romania,Bucharest,city,2021-03-12,-1.0
+Romania,Bucharest,city,2021-03-13,-7.000000000000001
 Romania,Bucharest,city,2021-03-13,-7.000000000000001
 Romania,Bucharest,city,2021-03-14,-2.0
 Romania,Bucharest,city,2021-03-15,3.0
@@ -52866,8 +53195,12 @@ Singapore,Singapore,city,2021-03-07,11.0
 Singapore,Singapore,city,2021-03-08,3.0
 Singapore,Singapore,city,2021-03-09,5.0
 Singapore,Singapore,city,2021-03-10,5.0
+Singapore,Singapore,city,2021-03-10,5.0
+Singapore,Singapore,city,2021-03-11,6.0
 Singapore,Singapore,city,2021-03-11,6.0
 Singapore,Singapore,city,2021-03-12,4.0
+Singapore,Singapore,city,2021-03-12,4.0
+Singapore,Singapore,city,2021-03-13,12.0
 Singapore,Singapore,city,2021-03-13,12.0
 Singapore,Singapore,city,2021-03-14,14.000000000000002
 Singapore,Singapore,city,2021-03-15,4.0
@@ -53741,8 +54074,12 @@ Slovakia,Bratislava,city,2021-03-06,-36.0
 Slovakia,Bratislava,city,2021-03-07,-45.0
 Slovakia,Bratislava,city,2021-03-08,-42.0
 Slovakia,Bratislava,city,2021-03-09,-40.0
+Slovakia,Bratislava,city,2021-03-09,-40.0
+Slovakia,Bratislava,city,2021-03-10,-39.0
 Slovakia,Bratislava,city,2021-03-10,-39.0
 Slovakia,Bratislava,city,2021-03-11,-38.0
+Slovakia,Bratislava,city,2021-03-11,-38.0
+Slovakia,Bratislava,city,2021-03-12,-36.0
 Slovakia,Bratislava,city,2021-03-12,-36.0
 Slovakia,Bratislava,city,2021-03-13,-24.0
 Slovakia,Bratislava,city,2021-03-14,-48.0
@@ -54618,8 +54955,12 @@ South Africa,Cape Town,city,2021-03-07,2.0
 South Africa,Cape Town,city,2021-03-08,-10.0
 South Africa,Cape Town,city,2021-03-09,-13.0
 South Africa,Cape Town,city,2021-03-10,-18.0
+South Africa,Cape Town,city,2021-03-10,-18.0
+South Africa,Cape Town,city,2021-03-11,-18.0
 South Africa,Cape Town,city,2021-03-11,-18.0
 South Africa,Cape Town,city,2021-03-12,-15.0
+South Africa,Cape Town,city,2021-03-12,-15.0
+South Africa,Cape Town,city,2021-03-13,8.0
 South Africa,Cape Town,city,2021-03-13,8.0
 South Africa,Cape Town,city,2021-03-14,-2.0
 South Africa,Cape Town,city,2021-03-15,-9.0
@@ -55493,8 +55834,12 @@ Spain,Barcelona,city,2021-03-06,-59.0
 Spain,Barcelona,city,2021-03-07,-47.0
 Spain,Barcelona,city,2021-03-08,-37.0
 Spain,Barcelona,city,2021-03-09,-18.0
+Spain,Barcelona,city,2021-03-09,-18.0
+Spain,Barcelona,city,2021-03-10,-10.0
 Spain,Barcelona,city,2021-03-10,-10.0
 Spain,Barcelona,city,2021-03-11,-21.0
+Spain,Barcelona,city,2021-03-11,-21.0
+Spain,Barcelona,city,2021-03-12,-28.000000000000004
 Spain,Barcelona,city,2021-03-12,-28.000000000000004
 Spain,Barcelona,city,2021-03-13,-42.0
 Spain,Barcelona,city,2021-03-14,-48.0
@@ -55931,8 +56276,12 @@ Spain,Madrid,city,2021-03-06,-20.0
 Spain,Madrid,city,2021-03-07,-43.0
 Spain,Madrid,city,2021-03-08,-25.0
 Spain,Madrid,city,2021-03-09,-25.0
+Spain,Madrid,city,2021-03-09,-25.0
+Spain,Madrid,city,2021-03-10,-28.000000000000004
 Spain,Madrid,city,2021-03-10,-28.000000000000004
 Spain,Madrid,city,2021-03-11,-27.0
+Spain,Madrid,city,2021-03-11,-27.0
+Spain,Madrid,city,2021-03-12,-23.0
 Spain,Madrid,city,2021-03-12,-23.0
 Spain,Madrid,city,2021-03-13,-21.0
 Spain,Madrid,city,2021-03-14,-43.0
@@ -56806,9 +57155,14 @@ Sweden,Stockholm,city,2021-03-06,24.0
 Sweden,Stockholm,city,2021-03-07,40.0
 Sweden,Stockholm,city,2021-03-08,-41.0
 Sweden,Stockholm,city,2021-03-09,-16.0
+Sweden,Stockholm,city,2021-03-09,-16.0
+Sweden,Stockholm,city,2021-03-10,9.0
 Sweden,Stockholm,city,2021-03-10,9.0
 Sweden,Stockholm,city,2021-03-11,-19.0
+Sweden,Stockholm,city,2021-03-11,-19.0
 Sweden,Stockholm,city,2021-03-12,-25.0
+Sweden,Stockholm,city,2021-03-12,-25.0
+Sweden,Stockholm,city,2021-03-13,-4.0
 Sweden,Stockholm,city,2021-03-13,-4.0
 Sweden,Stockholm,city,2021-03-14,-24.0
 Sweden,Stockholm,city,2021-03-15,-17.0
@@ -58102,8 +58456,12 @@ Ukraine,Kyiv,city,2021-03-07,93.0
 Ukraine,Kyiv,city,2021-03-08,91.0
 Ukraine,Kyiv,city,2021-03-09,92.0
 Ukraine,Kyiv,city,2021-03-10,90.0
+Ukraine,Kyiv,city,2021-03-10,90.0
+Ukraine,Kyiv,city,2021-03-11,88.0
 Ukraine,Kyiv,city,2021-03-11,88.0
 Ukraine,Kyiv,city,2021-03-12,72.0
+Ukraine,Kyiv,city,2021-03-12,72.0
+Ukraine,Kyiv,city,2021-03-13,77.0
 Ukraine,Kyiv,city,2021-03-13,77.0
 Ukraine,Kyiv,city,2021-03-14,91.0
 Ukraine,Kyiv,city,2021-03-15,84.0
@@ -58460,7 +58818,10 @@ Ukraine,Lviv,city,2021-03-07,89.0
 Ukraine,Lviv,city,2021-03-08,94.0
 Ukraine,Lviv,city,2021-03-09,83.0
 Ukraine,Lviv,city,2021-03-10,91.0
+Ukraine,Lviv,city,2021-03-10,91.0
 Ukraine,Lviv,city,2021-03-11,76.0
+Ukraine,Lviv,city,2021-03-11,76.0
+Ukraine,Lviv,city,2021-03-12,80.0
 Ukraine,Lviv,city,2021-03-12,80.0
 Ukraine,Lviv,city,2021-03-14,86.0
 Ukraine,Lviv,city,2021-03-15,74.0
@@ -59454,8 +59815,12 @@ United Kingdom,Birmingham,city,2021-03-06,-46.0
 United Kingdom,Birmingham,city,2021-03-07,-50.0
 United Kingdom,Birmingham,city,2021-03-08,1.0
 United Kingdom,Birmingham,city,2021-03-09,-14.000000000000002
+United Kingdom,Birmingham,city,2021-03-09,-14.000000000000002
+United Kingdom,Birmingham,city,2021-03-10,-2.0
 United Kingdom,Birmingham,city,2021-03-10,-2.0
 United Kingdom,Birmingham,city,2021-03-11,-21.0
+United Kingdom,Birmingham,city,2021-03-11,-21.0
+United Kingdom,Birmingham,city,2021-03-12,-26.0
 United Kingdom,Birmingham,city,2021-03-12,-26.0
 United Kingdom,Birmingham,city,2021-03-13,-32.0
 United Kingdom,Birmingham,city,2021-03-14,-42.0
@@ -59892,8 +60257,12 @@ United Kingdom,Bristol,city,2021-03-06,-22.0
 United Kingdom,Bristol,city,2021-03-07,13.0
 United Kingdom,Bristol,city,2021-03-08,-68.0
 United Kingdom,Bristol,city,2021-03-09,-14.000000000000002
+United Kingdom,Bristol,city,2021-03-09,-14.000000000000002
+United Kingdom,Bristol,city,2021-03-10,-30.0
 United Kingdom,Bristol,city,2021-03-10,-30.0
 United Kingdom,Bristol,city,2021-03-11,-42.0
+United Kingdom,Bristol,city,2021-03-11,-42.0
+United Kingdom,Bristol,city,2021-03-12,-35.0
 United Kingdom,Bristol,city,2021-03-12,-35.0
 United Kingdom,Bristol,city,2021-03-13,-43.0
 United Kingdom,Bristol,city,2021-03-14,-28.000000000000004
@@ -60326,8 +60695,12 @@ United Kingdom,Liverpool,city,2021-03-06,21.0
 United Kingdom,Liverpool,city,2021-03-07,13.0
 United Kingdom,Liverpool,city,2021-03-08,-41.0
 United Kingdom,Liverpool,city,2021-03-09,-15.0
+United Kingdom,Liverpool,city,2021-03-09,-15.0
+United Kingdom,Liverpool,city,2021-03-10,-32.0
 United Kingdom,Liverpool,city,2021-03-10,-32.0
 United Kingdom,Liverpool,city,2021-03-11,-19.0
+United Kingdom,Liverpool,city,2021-03-11,-19.0
+United Kingdom,Liverpool,city,2021-03-12,-18.0
 United Kingdom,Liverpool,city,2021-03-12,-18.0
 United Kingdom,Liverpool,city,2021-03-13,-18.0
 United Kingdom,Liverpool,city,2021-03-14,-62.0
@@ -60764,8 +61137,12 @@ United Kingdom,London,city,2021-03-06,-28.000000000000004
 United Kingdom,London,city,2021-03-07,-38.0
 United Kingdom,London,city,2021-03-08,-17.0
 United Kingdom,London,city,2021-03-09,-15.0
+United Kingdom,London,city,2021-03-09,-15.0
+United Kingdom,London,city,2021-03-10,-16.0
 United Kingdom,London,city,2021-03-10,-16.0
 United Kingdom,London,city,2021-03-11,-18.0
+United Kingdom,London,city,2021-03-11,-18.0
+United Kingdom,London,city,2021-03-12,-17.0
 United Kingdom,London,city,2021-03-12,-17.0
 United Kingdom,London,city,2021-03-13,-25.0
 United Kingdom,London,city,2021-03-14,-33.0
@@ -61198,8 +61575,12 @@ United Kingdom,Luton,city,2021-03-05,-38.0
 United Kingdom,Luton,city,2021-03-06,-37.0
 United Kingdom,Luton,city,2021-03-07,-4.0
 United Kingdom,Luton,city,2021-03-09,-38.0
+United Kingdom,Luton,city,2021-03-09,-38.0
+United Kingdom,Luton,city,2021-03-10,-33.0
 United Kingdom,Luton,city,2021-03-10,-33.0
 United Kingdom,Luton,city,2021-03-11,-60.0
+United Kingdom,Luton,city,2021-03-11,-60.0
+United Kingdom,Luton,city,2021-03-12,-45.0
 United Kingdom,Luton,city,2021-03-12,-45.0
 United Kingdom,Luton,city,2021-03-13,-41.0
 United Kingdom,Luton,city,2021-03-14,-50.0
@@ -61635,9 +62016,14 @@ United Kingdom,Manchester,city,2021-03-06,-40.0
 United Kingdom,Manchester,city,2021-03-07,-39.0
 United Kingdom,Manchester,city,2021-03-08,-42.0
 United Kingdom,Manchester,city,2021-03-09,-16.0
+United Kingdom,Manchester,city,2021-03-09,-16.0
+United Kingdom,Manchester,city,2021-03-10,-32.0
 United Kingdom,Manchester,city,2021-03-10,-32.0
 United Kingdom,Manchester,city,2021-03-11,-30.0
+United Kingdom,Manchester,city,2021-03-11,-30.0
 United Kingdom,Manchester,city,2021-03-12,-39.0
+United Kingdom,Manchester,city,2021-03-12,-39.0
+United Kingdom,Manchester,city,2021-03-13,-15.0
 United Kingdom,Manchester,city,2021-03-13,-15.0
 United Kingdom,Manchester,city,2021-03-14,-41.0
 United Kingdom,Manchester,city,2021-03-15,-34.0
@@ -62511,8 +62897,12 @@ United States,Atlanta,city,2021-03-06,-6.0
 United States,Atlanta,city,2021-03-07,-1.0
 United States,Atlanta,city,2021-03-08,-25.0
 United States,Atlanta,city,2021-03-09,-38.0
+United States,Atlanta,city,2021-03-09,-38.0
+United States,Atlanta,city,2021-03-10,-30.0
 United States,Atlanta,city,2021-03-10,-30.0
 United States,Atlanta,city,2021-03-11,-28.000000000000004
+United States,Atlanta,city,2021-03-11,-28.000000000000004
+United States,Atlanta,city,2021-03-12,-28.000000000000004
 United States,Atlanta,city,2021-03-12,-28.000000000000004
 United States,Atlanta,city,2021-03-13,-17.0
 United States,Atlanta,city,2021-03-14,-8.0
@@ -62949,8 +63339,12 @@ United States,Austin,city,2021-03-06,-33.0
 United States,Austin,city,2021-03-07,-33.0
 United States,Austin,city,2021-03-08,-46.0
 United States,Austin,city,2021-03-09,-45.0
+United States,Austin,city,2021-03-09,-45.0
+United States,Austin,city,2021-03-10,-32.0
 United States,Austin,city,2021-03-10,-32.0
 United States,Austin,city,2021-03-11,-45.0
+United States,Austin,city,2021-03-11,-45.0
+United States,Austin,city,2021-03-12,-43.0
 United States,Austin,city,2021-03-12,-43.0
 United States,Austin,city,2021-03-13,-39.0
 United States,Austin,city,2021-03-14,-30.0
@@ -63387,8 +63781,12 @@ United States,Baltimore,city,2021-03-06,-26.0
 United States,Baltimore,city,2021-03-07,-25.0
 United States,Baltimore,city,2021-03-08,-31.0
 United States,Baltimore,city,2021-03-09,-26.0
+United States,Baltimore,city,2021-03-09,-26.0
+United States,Baltimore,city,2021-03-10,-18.0
 United States,Baltimore,city,2021-03-10,-18.0
 United States,Baltimore,city,2021-03-11,-28.000000000000004
+United States,Baltimore,city,2021-03-11,-28.000000000000004
+United States,Baltimore,city,2021-03-12,-32.0
 United States,Baltimore,city,2021-03-12,-32.0
 United States,Baltimore,city,2021-03-13,-20.0
 United States,Baltimore,city,2021-03-14,-10.0
@@ -63825,8 +64223,12 @@ United States,Boston,city,2021-03-06,-34.0
 United States,Boston,city,2021-03-07,-35.0
 United States,Boston,city,2021-03-08,-40.0
 United States,Boston,city,2021-03-09,-41.0
+United States,Boston,city,2021-03-09,-41.0
+United States,Boston,city,2021-03-10,-39.0
 United States,Boston,city,2021-03-10,-39.0
 United States,Boston,city,2021-03-11,-39.0
+United States,Boston,city,2021-03-11,-39.0
+United States,Boston,city,2021-03-12,-41.0
 United States,Boston,city,2021-03-12,-41.0
 United States,Boston,city,2021-03-13,-38.0
 United States,Boston,city,2021-03-14,-28.999999999999996
@@ -64260,8 +64662,12 @@ United States,Cambridge,city,2021-03-06,-52.0
 United States,Cambridge,city,2021-03-07,-33.0
 United States,Cambridge,city,2021-03-08,-49.0
 United States,Cambridge,city,2021-03-09,-63.0
+United States,Cambridge,city,2021-03-09,-63.0
+United States,Cambridge,city,2021-03-10,-54.0
 United States,Cambridge,city,2021-03-10,-54.0
 United States,Cambridge,city,2021-03-11,-1.0
+United States,Cambridge,city,2021-03-11,-1.0
+United States,Cambridge,city,2021-03-12,-9.0
 United States,Cambridge,city,2021-03-12,-9.0
 United States,Cambridge,city,2021-03-13,-20.0
 United States,Cambridge,city,2021-03-14,43.0
@@ -64698,8 +65104,12 @@ United States,Charlotte,city,2021-03-06,-19.0
 United States,Charlotte,city,2021-03-07,-11.0
 United States,Charlotte,city,2021-03-08,-31.0
 United States,Charlotte,city,2021-03-09,-34.0
+United States,Charlotte,city,2021-03-09,-34.0
+United States,Charlotte,city,2021-03-10,-31.0
 United States,Charlotte,city,2021-03-10,-31.0
 United States,Charlotte,city,2021-03-11,-21.0
+United States,Charlotte,city,2021-03-11,-21.0
+United States,Charlotte,city,2021-03-12,-20.0
 United States,Charlotte,city,2021-03-12,-20.0
 United States,Charlotte,city,2021-03-13,-16.0
 United States,Charlotte,city,2021-03-14,-6.0
@@ -65136,8 +65546,12 @@ United States,Chicago,city,2021-03-06,-33.0
 United States,Chicago,city,2021-03-07,-32.0
 United States,Chicago,city,2021-03-08,-34.0
 United States,Chicago,city,2021-03-09,-32.0
+United States,Chicago,city,2021-03-09,-32.0
+United States,Chicago,city,2021-03-10,-35.0
 United States,Chicago,city,2021-03-10,-35.0
 United States,Chicago,city,2021-03-11,-36.0
+United States,Chicago,city,2021-03-11,-36.0
+United States,Chicago,city,2021-03-12,-34.0
 United States,Chicago,city,2021-03-12,-34.0
 United States,Chicago,city,2021-03-13,-28.999999999999996
 United States,Chicago,city,2021-03-14,-26.0
@@ -65574,8 +65988,12 @@ United States,Cincinnati,city,2021-03-06,-17.0
 United States,Cincinnati,city,2021-03-07,-3.0
 United States,Cincinnati,city,2021-03-08,-21.0
 United States,Cincinnati,city,2021-03-09,-30.0
+United States,Cincinnati,city,2021-03-09,-30.0
+United States,Cincinnati,city,2021-03-10,-70.0
 United States,Cincinnati,city,2021-03-10,-70.0
 United States,Cincinnati,city,2021-03-11,-24.0
+United States,Cincinnati,city,2021-03-11,-24.0
+United States,Cincinnati,city,2021-03-12,-26.0
 United States,Cincinnati,city,2021-03-12,-26.0
 United States,Cincinnati,city,2021-03-13,-32.0
 United States,Cincinnati,city,2021-03-14,-16.0
@@ -66012,8 +66430,12 @@ United States,Dallas,city,2021-03-06,-20.0
 United States,Dallas,city,2021-03-07,-19.0
 United States,Dallas,city,2021-03-08,-27.0
 United States,Dallas,city,2021-03-09,-34.0
+United States,Dallas,city,2021-03-09,-34.0
+United States,Dallas,city,2021-03-10,-31.0
 United States,Dallas,city,2021-03-10,-31.0
 United States,Dallas,city,2021-03-11,-28.999999999999996
+United States,Dallas,city,2021-03-11,-28.999999999999996
+United States,Dallas,city,2021-03-12,-30.0
 United States,Dallas,city,2021-03-12,-30.0
 United States,Dallas,city,2021-03-13,-19.0
 United States,Dallas,city,2021-03-14,-14.000000000000002
@@ -66450,8 +66872,12 @@ United States,Denver,city,2021-03-06,-44.0
 United States,Denver,city,2021-03-07,-25.0
 United States,Denver,city,2021-03-08,-45.0
 United States,Denver,city,2021-03-09,-50.0
+United States,Denver,city,2021-03-09,-50.0
+United States,Denver,city,2021-03-10,-37.0
 United States,Denver,city,2021-03-10,-37.0
 United States,Denver,city,2021-03-11,-37.0
+United States,Denver,city,2021-03-11,-37.0
+United States,Denver,city,2021-03-12,-35.0
 United States,Denver,city,2021-03-12,-35.0
 United States,Denver,city,2021-03-13,-67.0
 United States,Denver,city,2021-03-14,-83.0
@@ -66888,8 +67314,12 @@ United States,Detroit,city,2021-03-06,-47.0
 United States,Detroit,city,2021-03-07,-41.0
 United States,Detroit,city,2021-03-08,-42.0
 United States,Detroit,city,2021-03-09,-41.0
+United States,Detroit,city,2021-03-09,-41.0
+United States,Detroit,city,2021-03-10,-34.0
 United States,Detroit,city,2021-03-10,-34.0
 United States,Detroit,city,2021-03-11,-49.0
+United States,Detroit,city,2021-03-11,-49.0
+United States,Detroit,city,2021-03-12,-41.0
 United States,Detroit,city,2021-03-12,-41.0
 United States,Detroit,city,2021-03-13,-32.0
 United States,Detroit,city,2021-03-14,-27.0
@@ -67326,9 +67756,14 @@ United States,Fort Lauderdale,city,2021-03-06,-26.0
 United States,Fort Lauderdale,city,2021-03-07,-28.999999999999996
 United States,Fort Lauderdale,city,2021-03-08,-28.999999999999996
 United States,Fort Lauderdale,city,2021-03-09,-48.0
+United States,Fort Lauderdale,city,2021-03-09,-48.0
+United States,Fort Lauderdale,city,2021-03-10,-34.0
 United States,Fort Lauderdale,city,2021-03-10,-34.0
 United States,Fort Lauderdale,city,2021-03-11,-32.0
+United States,Fort Lauderdale,city,2021-03-11,-32.0
 United States,Fort Lauderdale,city,2021-03-12,-21.0
+United States,Fort Lauderdale,city,2021-03-12,-21.0
+United States,Fort Lauderdale,city,2021-03-13,-12.0
 United States,Fort Lauderdale,city,2021-03-13,-12.0
 United States,Fort Lauderdale,city,2021-03-14,-17.0
 United States,Fort Lauderdale,city,2021-03-15,-54.0
@@ -67764,9 +68199,14 @@ United States,Fort Worth,city,2021-03-06,-9.0
 United States,Fort Worth,city,2021-03-07,-18.0
 United States,Fort Worth,city,2021-03-08,-11.0
 United States,Fort Worth,city,2021-03-09,-22.0
+United States,Fort Worth,city,2021-03-09,-22.0
+United States,Fort Worth,city,2021-03-10,-12.0
 United States,Fort Worth,city,2021-03-10,-12.0
 United States,Fort Worth,city,2021-03-11,-13.0
+United States,Fort Worth,city,2021-03-11,-13.0
 United States,Fort Worth,city,2021-03-12,-8.0
+United States,Fort Worth,city,2021-03-12,-8.0
+United States,Fort Worth,city,2021-03-13,-8.0
 United States,Fort Worth,city,2021-03-13,-8.0
 United States,Fort Worth,city,2021-03-14,-9.0
 United States,Fort Worth,city,2021-03-15,-16.0
@@ -68197,7 +68637,10 @@ United States,Hartford,city,2021-03-05,-42.0
 United States,Hartford,city,2021-03-07,-42.0
 United States,Hartford,city,2021-03-08,-33.0
 United States,Hartford,city,2021-03-10,-41.0
+United States,Hartford,city,2021-03-10,-41.0
 United States,Hartford,city,2021-03-11,-50.0
+United States,Hartford,city,2021-03-11,-50.0
+United States,Hartford,city,2021-03-12,-35.0
 United States,Hartford,city,2021-03-12,-35.0
 United States,Hartford,city,2021-03-13,-38.0
 United States,Hartford,city,2021-03-14,-39.0
@@ -68633,8 +69076,12 @@ United States,Houston,city,2021-03-06,-22.0
 United States,Houston,city,2021-03-07,-18.0
 United States,Houston,city,2021-03-08,-32.0
 United States,Houston,city,2021-03-09,-35.0
+United States,Houston,city,2021-03-09,-35.0
+United States,Houston,city,2021-03-10,-33.0
 United States,Houston,city,2021-03-10,-33.0
 United States,Houston,city,2021-03-11,-32.0
+United States,Houston,city,2021-03-11,-32.0
+United States,Houston,city,2021-03-12,-28.999999999999996
 United States,Houston,city,2021-03-12,-28.999999999999996
 United States,Houston,city,2021-03-13,-19.0
 United States,Houston,city,2021-03-14,-19.0
@@ -69071,8 +69518,12 @@ United States,Irvine,city,2021-03-06,-13.0
 United States,Irvine,city,2021-03-07,-19.0
 United States,Irvine,city,2021-03-08,-45.0
 United States,Irvine,city,2021-03-09,-52.0
+United States,Irvine,city,2021-03-09,-52.0
+United States,Irvine,city,2021-03-10,-55.00000000000001
 United States,Irvine,city,2021-03-10,-55.00000000000001
 United States,Irvine,city,2021-03-11,-59.0
+United States,Irvine,city,2021-03-11,-59.0
+United States,Irvine,city,2021-03-12,-23.0
 United States,Irvine,city,2021-03-12,-23.0
 United States,Irvine,city,2021-03-13,-26.0
 United States,Irvine,city,2021-03-14,-12.0
@@ -69508,9 +69959,14 @@ United States,Jersey City,city,2021-03-06,-23.0
 United States,Jersey City,city,2021-03-07,-7.000000000000001
 United States,Jersey City,city,2021-03-08,-21.0
 United States,Jersey City,city,2021-03-09,-21.0
+United States,Jersey City,city,2021-03-09,-21.0
+United States,Jersey City,city,2021-03-10,-37.0
 United States,Jersey City,city,2021-03-10,-37.0
 United States,Jersey City,city,2021-03-11,-27.0
+United States,Jersey City,city,2021-03-11,-27.0
 United States,Jersey City,city,2021-03-12,-19.0
+United States,Jersey City,city,2021-03-12,-19.0
+United States,Jersey City,city,2021-03-13,-13.0
 United States,Jersey City,city,2021-03-13,-13.0
 United States,Jersey City,city,2021-03-14,-10.0
 United States,Jersey City,city,2021-03-15,-30.0
@@ -69946,8 +70402,12 @@ United States,Los Angeles,city,2021-03-06,-39.0
 United States,Los Angeles,city,2021-03-07,-37.0
 United States,Los Angeles,city,2021-03-08,-38.0
 United States,Los Angeles,city,2021-03-09,-46.0
+United States,Los Angeles,city,2021-03-09,-46.0
+United States,Los Angeles,city,2021-03-10,-47.0
 United States,Los Angeles,city,2021-03-10,-47.0
 United States,Los Angeles,city,2021-03-11,-47.0
+United States,Los Angeles,city,2021-03-11,-47.0
+United States,Los Angeles,city,2021-03-12,-42.0
 United States,Los Angeles,city,2021-03-12,-42.0
 United States,Los Angeles,city,2021-03-13,-39.0
 United States,Los Angeles,city,2021-03-14,-32.0
@@ -70384,8 +70844,12 @@ United States,Miami,city,2021-03-06,-26.0
 United States,Miami,city,2021-03-07,-35.0
 United States,Miami,city,2021-03-08,-22.0
 United States,Miami,city,2021-03-09,-45.0
+United States,Miami,city,2021-03-09,-45.0
+United States,Miami,city,2021-03-10,-35.0
 United States,Miami,city,2021-03-10,-35.0
 United States,Miami,city,2021-03-11,-39.0
+United States,Miami,city,2021-03-11,-39.0
+United States,Miami,city,2021-03-12,-32.0
 United States,Miami,city,2021-03-12,-32.0
 United States,Miami,city,2021-03-13,-27.0
 United States,Miami,city,2021-03-14,-22.0
@@ -70817,9 +71281,14 @@ United States,Miami Beach,city,2021-03-06,-23.0
 United States,Miami Beach,city,2021-03-07,-55.00000000000001
 United States,Miami Beach,city,2021-03-08,-56.00000000000001
 United States,Miami Beach,city,2021-03-09,-14.000000000000002
+United States,Miami Beach,city,2021-03-09,-14.000000000000002
+United States,Miami Beach,city,2021-03-10,-18.0
 United States,Miami Beach,city,2021-03-10,-18.0
 United States,Miami Beach,city,2021-03-11,-20.0
+United States,Miami Beach,city,2021-03-11,-20.0
 United States,Miami Beach,city,2021-03-12,-28.999999999999996
+United States,Miami Beach,city,2021-03-12,-28.999999999999996
+United States,Miami Beach,city,2021-03-13,-5.0
 United States,Miami Beach,city,2021-03-13,-5.0
 United States,Miami Beach,city,2021-03-14,-30.0
 United States,Miami Beach,city,2021-03-15,14.000000000000002
@@ -71251,8 +71720,12 @@ United States,Minneapolis,city,2021-03-06,-26.0
 United States,Minneapolis,city,2021-03-07,-34.0
 United States,Minneapolis,city,2021-03-08,-43.0
 United States,Minneapolis,city,2021-03-09,-75.0
+United States,Minneapolis,city,2021-03-09,-75.0
+United States,Minneapolis,city,2021-03-10,-52.0
 United States,Minneapolis,city,2021-03-10,-52.0
 United States,Minneapolis,city,2021-03-11,-89.0
+United States,Minneapolis,city,2021-03-11,-89.0
+United States,Minneapolis,city,2021-03-12,-37.0
 United States,Minneapolis,city,2021-03-12,-37.0
 United States,Minneapolis,city,2021-03-13,-21.0
 United States,Minneapolis,city,2021-03-14,-46.0
@@ -71688,8 +72161,12 @@ United States,Nashville,city,2021-03-06,-22.0
 United States,Nashville,city,2021-03-07,-18.0
 United States,Nashville,city,2021-03-08,-31.0
 United States,Nashville,city,2021-03-09,-33.0
+United States,Nashville,city,2021-03-09,-33.0
+United States,Nashville,city,2021-03-10,-32.0
 United States,Nashville,city,2021-03-10,-32.0
 United States,Nashville,city,2021-03-11,-25.0
+United States,Nashville,city,2021-03-11,-25.0
+United States,Nashville,city,2021-03-12,-30.0
 United States,Nashville,city,2021-03-12,-30.0
 United States,Nashville,city,2021-03-13,-24.0
 United States,Nashville,city,2021-03-14,-15.0
@@ -72127,7 +72604,10 @@ United States,New Orleans,city,2021-03-07,-42.0
 United States,New Orleans,city,2021-03-08,-41.0
 United States,New Orleans,city,2021-03-09,3.0
 United States,New Orleans,city,2021-03-10,-34.0
+United States,New Orleans,city,2021-03-10,-34.0
 United States,New Orleans,city,2021-03-11,-28.999999999999996
+United States,New Orleans,city,2021-03-11,-28.999999999999996
+United States,New Orleans,city,2021-03-12,-60.0
 United States,New Orleans,city,2021-03-12,-60.0
 United States,New Orleans,city,2021-03-13,-53.0
 United States,New Orleans,city,2021-03-14,-28.000000000000004
@@ -72565,8 +73045,12 @@ United States,New York,city,2021-03-07,-15.0
 United States,New York,city,2021-03-08,-8.0
 United States,New York,city,2021-03-09,-12.0
 United States,New York,city,2021-03-10,-7.000000000000001
+United States,New York,city,2021-03-10,-7.000000000000001
+United States,New York,city,2021-03-11,-8.0
 United States,New York,city,2021-03-11,-8.0
 United States,New York,city,2021-03-12,-10.0
+United States,New York,city,2021-03-12,-10.0
+United States,New York,city,2021-03-13,-11.0
 United States,New York,city,2021-03-13,-11.0
 United States,New York,city,2021-03-14,-6.0
 United States,New York,city,2021-03-15,-7.000000000000001
@@ -73002,8 +73486,12 @@ United States,Oakland,city,2021-03-06,-41.0
 United States,Oakland,city,2021-03-07,-32.0
 United States,Oakland,city,2021-03-08,-41.0
 United States,Oakland,city,2021-03-09,-51.0
+United States,Oakland,city,2021-03-09,-51.0
+United States,Oakland,city,2021-03-10,-41.0
 United States,Oakland,city,2021-03-10,-41.0
 United States,Oakland,city,2021-03-11,-33.0
+United States,Oakland,city,2021-03-11,-33.0
+United States,Oakland,city,2021-03-12,-31.0
 United States,Oakland,city,2021-03-12,-31.0
 United States,Oakland,city,2021-03-13,-28.999999999999996
 United States,Oakland,city,2021-03-14,-34.0
@@ -73440,8 +73928,12 @@ United States,Orlando,city,2021-03-06,-28.000000000000004
 United States,Orlando,city,2021-03-07,-25.0
 United States,Orlando,city,2021-03-08,-39.0
 United States,Orlando,city,2021-03-09,-33.0
+United States,Orlando,city,2021-03-09,-33.0
+United States,Orlando,city,2021-03-10,-30.0
 United States,Orlando,city,2021-03-10,-30.0
 United States,Orlando,city,2021-03-11,-31.0
+United States,Orlando,city,2021-03-11,-31.0
+United States,Orlando,city,2021-03-12,-26.0
 United States,Orlando,city,2021-03-12,-26.0
 United States,Orlando,city,2021-03-13,-16.0
 United States,Orlando,city,2021-03-14,-14.000000000000002
@@ -73878,8 +74370,12 @@ United States,Philadelphia,city,2021-03-06,-30.0
 United States,Philadelphia,city,2021-03-07,-24.0
 United States,Philadelphia,city,2021-03-08,-27.0
 United States,Philadelphia,city,2021-03-09,-33.0
+United States,Philadelphia,city,2021-03-09,-33.0
+United States,Philadelphia,city,2021-03-10,-23.0
 United States,Philadelphia,city,2021-03-10,-23.0
 United States,Philadelphia,city,2021-03-11,-27.0
+United States,Philadelphia,city,2021-03-11,-27.0
+United States,Philadelphia,city,2021-03-12,-28.000000000000004
 United States,Philadelphia,city,2021-03-12,-28.000000000000004
 United States,Philadelphia,city,2021-03-13,-28.000000000000004
 United States,Philadelphia,city,2021-03-14,-19.0
@@ -74316,9 +74812,14 @@ United States,Phoenix,city,2021-03-06,-11.0
 United States,Phoenix,city,2021-03-07,-27.0
 United States,Phoenix,city,2021-03-08,-28.000000000000004
 United States,Phoenix,city,2021-03-09,-37.0
+United States,Phoenix,city,2021-03-09,-37.0
+United States,Phoenix,city,2021-03-10,-33.0
 United States,Phoenix,city,2021-03-10,-33.0
 United States,Phoenix,city,2021-03-11,-28.000000000000004
+United States,Phoenix,city,2021-03-11,-28.000000000000004
 United States,Phoenix,city,2021-03-12,-28.000000000000004
+United States,Phoenix,city,2021-03-12,-28.000000000000004
+United States,Phoenix,city,2021-03-13,-13.0
 United States,Phoenix,city,2021-03-13,-13.0
 United States,Phoenix,city,2021-03-14,0.0
 United States,Phoenix,city,2021-03-15,-23.0
@@ -74754,8 +75255,12 @@ United States,Pittsburgh,city,2021-03-06,-51.0
 United States,Pittsburgh,city,2021-03-07,-42.0
 United States,Pittsburgh,city,2021-03-08,-45.0
 United States,Pittsburgh,city,2021-03-09,-47.0
+United States,Pittsburgh,city,2021-03-09,-47.0
+United States,Pittsburgh,city,2021-03-10,-45.0
 United States,Pittsburgh,city,2021-03-10,-45.0
 United States,Pittsburgh,city,2021-03-11,-11.0
+United States,Pittsburgh,city,2021-03-11,-11.0
+United States,Pittsburgh,city,2021-03-12,-42.0
 United States,Pittsburgh,city,2021-03-12,-42.0
 United States,Pittsburgh,city,2021-03-13,-37.0
 United States,Pittsburgh,city,2021-03-14,-27.0
@@ -75192,8 +75697,12 @@ United States,Portland,city,2021-03-06,-48.0
 United States,Portland,city,2021-03-07,-44.0
 United States,Portland,city,2021-03-08,-65.0
 United States,Portland,city,2021-03-09,-46.0
+United States,Portland,city,2021-03-09,-46.0
+United States,Portland,city,2021-03-10,-51.0
 United States,Portland,city,2021-03-10,-51.0
 United States,Portland,city,2021-03-11,-42.0
+United States,Portland,city,2021-03-11,-42.0
+United States,Portland,city,2021-03-12,-44.0
 United States,Portland,city,2021-03-12,-44.0
 United States,Portland,city,2021-03-13,-48.0
 United States,Portland,city,2021-03-14,-43.0
@@ -75630,9 +76139,14 @@ United States,Raleigh,city,2021-03-06,0.0
 United States,Raleigh,city,2021-03-07,-12.0
 United States,Raleigh,city,2021-03-08,-27.0
 United States,Raleigh,city,2021-03-09,-30.0
+United States,Raleigh,city,2021-03-09,-30.0
+United States,Raleigh,city,2021-03-10,-24.0
 United States,Raleigh,city,2021-03-10,-24.0
 United States,Raleigh,city,2021-03-11,-14.000000000000002
+United States,Raleigh,city,2021-03-11,-14.000000000000002
 United States,Raleigh,city,2021-03-12,-10.0
+United States,Raleigh,city,2021-03-12,-10.0
+United States,Raleigh,city,2021-03-13,-9.0
 United States,Raleigh,city,2021-03-13,-9.0
 United States,Raleigh,city,2021-03-14,-15.0
 United States,Raleigh,city,2021-03-15,-23.0
@@ -76068,8 +76582,12 @@ United States,Sacramento,city,2021-03-06,-27.0
 United States,Sacramento,city,2021-03-07,-10.0
 United States,Sacramento,city,2021-03-08,-33.0
 United States,Sacramento,city,2021-03-09,-51.0
+United States,Sacramento,city,2021-03-09,-51.0
+United States,Sacramento,city,2021-03-10,-40.0
 United States,Sacramento,city,2021-03-10,-40.0
 United States,Sacramento,city,2021-03-11,-40.0
+United States,Sacramento,city,2021-03-11,-40.0
+United States,Sacramento,city,2021-03-12,-50.0
 United States,Sacramento,city,2021-03-12,-50.0
 United States,Sacramento,city,2021-03-13,-28.999999999999996
 United States,Sacramento,city,2021-03-14,-28.999999999999996
@@ -76506,8 +77024,12 @@ United States,San Antonio,city,2021-03-06,-33.0
 United States,San Antonio,city,2021-03-07,-21.0
 United States,San Antonio,city,2021-03-08,-27.0
 United States,San Antonio,city,2021-03-09,-33.0
+United States,San Antonio,city,2021-03-09,-33.0
+United States,San Antonio,city,2021-03-10,-28.000000000000004
 United States,San Antonio,city,2021-03-10,-28.000000000000004
 United States,San Antonio,city,2021-03-11,-33.0
+United States,San Antonio,city,2021-03-11,-33.0
+United States,San Antonio,city,2021-03-12,-25.0
 United States,San Antonio,city,2021-03-12,-25.0
 United States,San Antonio,city,2021-03-13,-20.0
 United States,San Antonio,city,2021-03-14,-3.0
@@ -76944,8 +77466,12 @@ United States,San Diego,city,2021-03-06,-33.0
 United States,San Diego,city,2021-03-07,-33.0
 United States,San Diego,city,2021-03-08,-40.0
 United States,San Diego,city,2021-03-09,-47.0
+United States,San Diego,city,2021-03-09,-47.0
+United States,San Diego,city,2021-03-10,-51.0
 United States,San Diego,city,2021-03-10,-51.0
 United States,San Diego,city,2021-03-11,-46.0
+United States,San Diego,city,2021-03-11,-46.0
+United States,San Diego,city,2021-03-12,-47.0
 United States,San Diego,city,2021-03-12,-47.0
 United States,San Diego,city,2021-03-13,-36.0
 United States,San Diego,city,2021-03-14,-31.0
@@ -77382,8 +77908,12 @@ United States,San Francisco,city,2021-03-06,-46.0
 United States,San Francisco,city,2021-03-07,-48.0
 United States,San Francisco,city,2021-03-08,-41.0
 United States,San Francisco,city,2021-03-09,-56.99999999999999
+United States,San Francisco,city,2021-03-09,-56.99999999999999
+United States,San Francisco,city,2021-03-10,-63.0
 United States,San Francisco,city,2021-03-10,-63.0
 United States,San Francisco,city,2021-03-11,-49.0
+United States,San Francisco,city,2021-03-11,-49.0
+United States,San Francisco,city,2021-03-12,-36.0
 United States,San Francisco,city,2021-03-12,-36.0
 United States,San Francisco,city,2021-03-13,-49.0
 United States,San Francisco,city,2021-03-14,-46.0
@@ -77820,8 +78350,12 @@ United States,San Jose,city,2021-03-06,-43.0
 United States,San Jose,city,2021-03-07,-33.0
 United States,San Jose,city,2021-03-08,-42.0
 United States,San Jose,city,2021-03-09,-53.0
+United States,San Jose,city,2021-03-09,-53.0
+United States,San Jose,city,2021-03-10,-52.0
 United States,San Jose,city,2021-03-10,-52.0
 United States,San Jose,city,2021-03-11,-46.0
+United States,San Jose,city,2021-03-11,-46.0
+United States,San Jose,city,2021-03-12,-42.0
 United States,San Jose,city,2021-03-12,-42.0
 United States,San Jose,city,2021-03-13,-39.0
 United States,San Jose,city,2021-03-14,-31.0
@@ -78258,8 +78792,12 @@ United States,Seattle,city,2021-03-06,-36.0
 United States,Seattle,city,2021-03-07,-36.0
 United States,Seattle,city,2021-03-08,-52.0
 United States,Seattle,city,2021-03-09,-44.0
+United States,Seattle,city,2021-03-09,-44.0
+United States,Seattle,city,2021-03-10,-51.0
 United States,Seattle,city,2021-03-10,-51.0
 United States,Seattle,city,2021-03-11,-53.0
+United States,Seattle,city,2021-03-11,-53.0
+United States,Seattle,city,2021-03-12,-38.0
 United States,Seattle,city,2021-03-12,-38.0
 United States,Seattle,city,2021-03-13,-39.0
 United States,Seattle,city,2021-03-14,-28.999999999999996
@@ -78696,8 +79234,12 @@ United States,Stamford,city,2021-03-06,-10.0
 United States,Stamford,city,2021-03-07,-16.0
 United States,Stamford,city,2021-03-08,-25.0
 United States,Stamford,city,2021-03-09,-33.0
+United States,Stamford,city,2021-03-09,-33.0
+United States,Stamford,city,2021-03-10,-32.0
 United States,Stamford,city,2021-03-10,-32.0
 United States,Stamford,city,2021-03-11,-9.0
+United States,Stamford,city,2021-03-11,-9.0
+United States,Stamford,city,2021-03-12,-17.0
 United States,Stamford,city,2021-03-12,-17.0
 United States,Stamford,city,2021-03-13,-24.0
 United States,Stamford,city,2021-03-14,-14.000000000000002
@@ -79134,8 +79676,12 @@ United States,Tampa,city,2021-03-06,-46.0
 United States,Tampa,city,2021-03-07,-17.0
 United States,Tampa,city,2021-03-08,-23.0
 United States,Tampa,city,2021-03-09,-30.0
+United States,Tampa,city,2021-03-09,-30.0
+United States,Tampa,city,2021-03-10,-37.0
 United States,Tampa,city,2021-03-10,-37.0
 United States,Tampa,city,2021-03-11,-28.000000000000004
+United States,Tampa,city,2021-03-11,-28.000000000000004
+United States,Tampa,city,2021-03-12,-26.0
 United States,Tampa,city,2021-03-12,-26.0
 United States,Tampa,city,2021-03-13,-25.0
 United States,Tampa,city,2021-03-14,-14.000000000000002
@@ -80010,8 +80556,12 @@ United States,Washington,city,2021-03-06,-42.0
 United States,Washington,city,2021-03-07,-41.0
 United States,Washington,city,2021-03-08,-33.0
 United States,Washington,city,2021-03-09,-39.0
+United States,Washington,city,2021-03-09,-39.0
+United States,Washington,city,2021-03-10,-32.0
 United States,Washington,city,2021-03-10,-32.0
 United States,Washington,city,2021-03-11,-37.0
+United States,Washington,city,2021-03-11,-37.0
+United States,Washington,city,2021-03-12,-37.0
 United States,Washington,city,2021-03-12,-37.0
 United States,Washington,city,2021-03-13,-38.0
 United States,Washington,city,2021-03-14,-30.0
@@ -80448,9 +80998,14 @@ United States,Yonkers,city,2021-03-06,-7.000000000000001
 United States,Yonkers,city,2021-03-07,17.0
 United States,Yonkers,city,2021-03-08,11.0
 United States,Yonkers,city,2021-03-09,-15.0
+United States,Yonkers,city,2021-03-09,-15.0
+United States,Yonkers,city,2021-03-10,-3.0
 United States,Yonkers,city,2021-03-10,-3.0
 United States,Yonkers,city,2021-03-11,2.0
+United States,Yonkers,city,2021-03-11,2.0
 United States,Yonkers,city,2021-03-12,2.0
+United States,Yonkers,city,2021-03-12,2.0
+United States,Yonkers,city,2021-03-13,-6.0
 United States,Yonkers,city,2021-03-13,-6.0
 United States,Yonkers,city,2021-03-14,2.0
 United States,Yonkers,city,2021-03-15,-1.0
@@ -80887,8 +81442,12 @@ Uruguay,Montevideo,city,2021-03-07,12.0
 Uruguay,Montevideo,city,2021-03-08,36.0
 Uruguay,Montevideo,city,2021-03-09,0.0
 Uruguay,Montevideo,city,2021-03-10,8.0
+Uruguay,Montevideo,city,2021-03-10,8.0
+Uruguay,Montevideo,city,2021-03-11,-2.0
 Uruguay,Montevideo,city,2021-03-11,-2.0
 Uruguay,Montevideo,city,2021-03-12,11.0
+Uruguay,Montevideo,city,2021-03-12,11.0
+Uruguay,Montevideo,city,2021-03-13,1.0
 Uruguay,Montevideo,city,2021-03-13,1.0
 Uruguay,Montevideo,city,2021-03-14,8.0
 Uruguay,Montevideo,city,2021-03-15,12.0
