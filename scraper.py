@@ -62,7 +62,7 @@ def process_google_data():
         write_df_to_csv_and_excel(google_US, GOOGLE_US_PATHS)
         write_df_to_csv_and_excel(google_brazil, GOOGLE_BRAZIL_PATHS)
         write_df_to_csv_and_excel(google_asia_africa, GOOGLE_ASIA_AFRICA_PATHS)
-        write_df_to_csv_and_excel(google_america_oceania, GOOGLE_AMERICA_OCEANIA_PATHS)
+        # write_df_to_csv_and_excel(google_america_oceania, GOOGLE_AMERICA_OCEANIA_PATHS) # temporary disable
         # write Europe data
         write_df_to_csv_and_excel(google_europe, GOOGLE_EUROPE_PATHS)
         # convert csv to zip
