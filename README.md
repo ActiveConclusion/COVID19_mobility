@@ -178,9 +178,9 @@ Please [open an issue](https://github.com/ActiveConclusion/COVID19_mobility/issu
 A collection of dashboards, visualizations, articles, and research that have utilized the data from this aggregator.
 
 ### Dashboards and Visualizations Based on These Data
-1.  [Dashboard for the US-1](https://public.tableau.com/profile/karl3594#!/vizhome/State-by-StateCOVID-19MobilityChanges/ChangesbyState)
-2.  [Dashboard for the US-2](https://public.tableau.com/profile/sky.quintin#!/vizhome/Mobilitydata/CommunityMobility)
-3.  [Dashboard for the world](https://public.tableau.com/profile/ryansoares#!/vizhome/COVID-19CommunityMobility/Dashboard1)
+1.  [State-by-State COVID-19 Mobility Changes by Karl E](https://public.tableau.com/profile/karl3594#!/vizhome/State-by-StateCOVID-19MobilityChanges/ChangesbyState)
+2.  [State by state mobility trends](https://public.tableau.com/profile/sky.quintin#!/vizhome/Mobilitydata/CommunityMobility)
+3.  [COVID-19 Community Mobility by Ryan Soares](https://public.tableau.com/profile/ryansoares#!/vizhome/COVID-19CommunityMobility/Dashboard1)
 4.  [Balefire COVID-19 USA Data Explorer](http://balefire.info/)
 5.  [Pandemic Traffic in Ireland](https://public.tableau.com/profile/docinsight#!/vizhome/COVIDtrafficinIrelandrepoint/MobilityDashboard) by David ó Cinnéide
 6.  [New South Wales COVID Tracking Dashboard](https://public.tableau.com/profile/damjan.vlastelica#!/vizhome/CovidNSWTracker/HomeDash?publish=yes) by Damjan Vlastelica
